@@ -1,0 +1,8 @@
+Tools:
+	- Tableau
+
+Python packages:
+	- numpy
+	- pandas
+	- json
+	- os

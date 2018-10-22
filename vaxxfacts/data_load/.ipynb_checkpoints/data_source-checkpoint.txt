@@ -1,0 +1,46 @@
+{
+    "vaccination": {
+        "2017-2018": [
+              "http://eziz.org/assets/docs/shotsforschool/2017-18CAChildCareData.xlsx"
+            , "https://cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/Immunization/2017-18CA_KindergartenDataLetter.xlsx"
+            , "http://eziz.org/assets/docs/shotsforschool/2017-18CA7thGradeData.xlsx"
+        ],
+        "2016-2017": [
+              "http://eziz.org/assets/docs/shotsforschool/2016-17CAChildCareData.xlsx"
+            , "http://eziz.org/assets/docs/shotsforschool/2016-17KindergartenData.xlsx"
+            , "http://eziz.org/assets/docs/shotsforschool/2016-17CA7thGradeData.xlsx"
+        ],
+        "2015-2016": [
+              "http://eziz.org/assets/docs/shotsforschool/2015-16CAChildCareData.xlsx"
+            , "http://eziz.org/assets/docs/shotsforschool/2015-16CAKindergartenData.xls"
+            , "http://eziz.org/assets/docs/shotsforschool/2015-16CA7thGradeData.xls"
+        ],
+        "2014-2015": [
+              "http://eziz.org/assets/docs/shotsforschool/2014-15CAChildCareData.xlsx"
+            , "http://eziz.org/assets/docs/shotsforschool/2014-15CAKindergartenData.xlsx"
+            , "http://eziz.org/assets/docs/shotsforschool/2014-15CA7thGradeData.xls"
+        ],
+        "2013-2014": [
+              "http://eziz.org/assets/docs/shotsforschool/2013-14CAChildCareData.xls"
+            , "http://eziz.org/assets/docs/shotsforschool/2013-14CAKindergartenData.xls"
+            , "http://eziz.org/assets/docs/shotsforschool/2013-14CA7thGradeData.xls"
+        ],
+        "2012-2013": [
+              "http://eziz.org/assets/docs/shotsforschool/2012-13CAChildCareData.xls"
+            , "http://eziz.org/assets/docs/shotsforschool/2012-13CAKindergartenData.xls"
+            , "http://eziz.org/assets/docs/shotsforschool/2012-13CA7thGradeData.xls"
+        ],
+        "2011-2012": [
+              "http://eziz.org/assets/docs/shotsforschool/2011-12CAChildCareData.xls"
+            , "http://eziz.org/assets/docs/shotsforschool/2011-12CAKindergartenData.xls"
+            , "http://eziz.org/assets/docs/shotsforschool/2011-12CA7thGradeData.xls"
+        ],
+        "2010-2011": [
+              "http://eziz.org/assets/docs/shotsforschool/2010-11CAKindergartenData.xls"
+        ]
+    },
+    "census": {
+        "2017-2018" : []
+    }
+    
+}

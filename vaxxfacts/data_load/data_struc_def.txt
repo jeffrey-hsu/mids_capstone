@@ -1,0 +1,150 @@
+{
+    "2017-2018": {
+        "ChildCareData": {
+              "tab_num": 1
+            , "start_row": 5
+            , "end_row": 9218
+            , "cols": [0, 1, 2, 3, 4, 5, 18, 19, 30]
+        },
+        "KindergartenData": {
+              "tab_num": 1
+            , "start_row": 5
+            , "end_row": 6735
+            , "cols": [0, 1, 2, 4, 5, 6, 19, 20, 29]
+        },
+        "7thGradeData": {
+              "tab_num": 1
+            , "start_row": 5
+            , "end_row": 3368
+            , "cols": [0, 1, 2, 4, 5, 6, 7, 8, 17]
+        }
+    },
+    "2016-2017": {
+        "ChildCareData": {
+              "tab_num": 1
+            , "start_row": 5
+            , "end_row": 9424
+            , "cols": [0, 1, 2, 3, 4, 5, 18, 19, 30]
+        },
+        "KindergartenData": {
+              "tab_num": 1
+            , "start_row": 5
+            , "end_row": 6919
+            , "cols": [0, 1, 2, 4, 5, 6, 19, 20, 29]
+        },
+        "7thGradeData": {
+              "tab_num": 1
+            , "start_row": 5
+            , "end_row": 3602
+            , "cols": [0, 1, 2, 4, 5, 6, 7, 8, 17]
+        }
+    },
+    "2015-2016": {
+        "ChildCareData": {
+              "tab_num": 0
+            , "start_row": 3
+            , "end_row": 10103
+            , "cols": [0, 1, 2, 3, 4, 5, 20, 21, 32]
+        },
+        "KindergartenData": {
+              "tab_num": 0
+            , "start_row": 6
+            , "end_row": 7427
+            , "cols": [0, 1, 2, 4, 5, 6, 21, 22, 31]
+        },
+        "7thGradeData": {
+              "tab_num": 0
+            , "start_row": 3
+            , "end_row": 4002
+            , "cols": [0, 1, 2, 4, 5, 6, 7, 8, 19]
+        }
+    },
+    "2014-2015": {
+        "ChildCareData": {
+              "tab_num": 0
+            , "start_row": 7
+            , "end_row": 10258
+            , "cols": [0, 1, 2, 3, 4, 5, 20, 21, 32]
+        },
+        "KindergartenData": {
+              "tab_num": 0
+            , "start_row": 6
+            , "end_row": 7470
+            , "cols": [0, 1, 2, 4, 5, 6, 21, 22, 31]
+        },
+        "7thGradeData": {
+              "tab_num": 2
+            , "start_row": 6
+            , "end_row": 4038
+            , "cols": [0, 1, 2, 4, 5, 6, 7, 8, 17]
+        }
+    },
+    "2013-2014": {
+        "ChildCareData": {
+              "tab_num": 0
+            , "start_row": 7
+            , "end_row": 10009
+            , "cols": [0, 1, 2, 3, 4, 5, 14, 15, 26]
+        },
+        "KindergartenData": {
+              "tab_num": 2
+            , "start_row": 6
+            , "end_row": 7386
+            , "cols": [0, 1, 2, 4, 5, 6, 15, 16, 25]
+        },
+        "7thGradeData": {
+              "tab_num": 3
+            , "start_row": 6
+            , "end_row": 3848
+            , "cols": [0, 1, 2, 4, 5, 6, 7, 8, 13]
+        }
+    },
+    "2012-2013": {
+        "ChildCareData": {
+              "tab_num": 0
+            , "start_row": 7
+            , "end_row": 9764
+            , "cols": [0, 1, 2, 3, 4, 5, 14, 15, 26]
+        },
+        "KindergartenData": {
+              "tab_num": 2
+            , "start_row": 6
+            , "end_row": 7642
+            , "cols": [0, 1, 2, 4, 5, 6, 15, 16, 25]
+        },
+        "7thGradeData": {
+              "tab_num": 3
+            , "start_row": 6
+            , "end_row": 3854
+            , "cols": [0, 1, 2, 4, 5, 6, 7, 8, 13]
+        }
+    },
+    "2011-2012": {
+        "ChildCareData": {
+              "tab_num": 0
+            , "start_row": 7
+            , "end_row": 9911
+            , "cols": [-1, 0, 1, 2, 3, 4, 13, 14, 25]
+        },
+        "KindergartenData": {
+              "tab_num": 0
+            , "start_row": 6
+            , "end_row": 7332
+            , "cols": [0, 1, 2, 4, 5, 6, 15, 16, 27]
+        },
+        "7thGradeData": {
+              "tab_num": 0
+            , "start_row": 6
+            , "end_row": 17564
+            , "cols": [0, 1, 2, 4, 5, 7, 8, 9, 14]
+        }
+    },
+    "2010-2011": {
+        "KindergartenData": {
+              "tab_num": 0
+            , "start_row": 6
+            , "end_row": 7170
+            , "cols": [0, 1, 2, -1, 4, 5, 14, 15, -1]
+        }
+    }
+}
