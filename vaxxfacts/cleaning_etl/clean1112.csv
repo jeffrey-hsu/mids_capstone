@@ -490,9 +490,9 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 491,6004758,Contra Costa,PUBLIC,El Cerrito,FAIRMONT ELEM.,95.0,92.0,96.84210526,Y,KindergartenData
 492,6004782,Contra Costa,PUBLIC,El Cerrito,HARDING ELEM.,40.0,37.0,92.5,Y,KindergartenData
 493,6004840,Contra Costa,PUBLIC,El Cerrito,MADERA ELEM.,91.0,88.0,96.70329670000001,Y,KindergartenData
-494,6004873,Contra Costa,PUBLIC,El Sobrante,MURPHY ELEM.,84.0,81.0,96.42857143,Y,KindergartenData
-495,6004899,Contra Costa,PUBLIC,El Sobrante,OLINDA ELEM.,38.0,34.0,89.47368421,Y,KindergartenData
-496,6004964,Contra Costa,PUBLIC,El Sobrante,SHELDON ELEM.,65.0,64.0,98.46153846,Y,KindergartenData
+494,6004873,Contra Costa,PUBLIC,El Sobrante (Contra Costa County),MURPHY ELEM.,84.0,81.0,96.42857143,Y,KindergartenData
+495,6004899,Contra Costa,PUBLIC,El Sobrante (Contra Costa County),OLINDA ELEM.,38.0,34.0,89.47368421,Y,KindergartenData
+496,6004964,Contra Costa,PUBLIC,El Sobrante (Contra Costa County),SHELDON ELEM.,65.0,64.0,98.46153846,Y,KindergartenData
 497,6112015,Contra Costa,PUBLIC,Hercules,HANNA RANCH ELEM.,72.0,71.0,98.61111111,Y,KindergartenData
 498,6097141,Contra Costa,PUBLIC,Hercules,LUPINE HILLS ELEM.,67.0,66.0,98.50746269,Y,KindergartenData
 499,6099717,Contra Costa,PUBLIC,Hercules,OHLONE ELEM.,75.0,75.0,100.0,Y,KindergartenData
@@ -548,8 +548,8 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 549,6967699,Contra Costa,PRIVATE,El Cerrito,SAINT JOHN THE BAPTIST,20.0,20.0,100.0,Y,KindergartenData
 550,6906713,Contra Costa,PRIVATE,El Cerrito,TEHIYAH DAY,24.0,22.0,91.66666667,Y,KindergartenData
 551,6903991,Contra Costa,PRIVATE,El Cerrito,WINDRUSH,20.0,18.0,90.0,Y,KindergartenData
-552,6918619,Contra Costa,PRIVATE,El Sobrante,EAST BAY WALDORF,22.0,6.0,27.27272727,Y,KindergartenData
-553,6972335,Contra Costa,PRIVATE,El Sobrante,EL SOBRANTE CHRTN. ELEM.,23.0,23.0,100.0,Y,KindergartenData
+552,6918619,Contra Costa,PRIVATE,El Sobrante (Contra Costa County),EAST BAY WALDORF,22.0,6.0,27.27272727,Y,KindergartenData
+553,6972335,Contra Costa,PRIVATE,El Sobrante (Contra Costa County),EL SOBRANTE CHRTN. ELEM.,23.0,23.0,100.0,Y,KindergartenData
 554,6977953,Contra Costa,PRIVATE,Lafayette,CHILD DAY SCH.,11.0,9.0,81.81818182,Y,KindergartenData
 555,6133110,Contra Costa,PRIVATE,Lafayette,CONTRA COSTA JEWISH DAY SCHOOL,19.0,19.0,100.0,Y,KindergartenData
 556,6955546,Contra Costa,PRIVATE,Lafayette,DIABLO VALLEY MONTESSORI,10.0,5.0,50.0,Y,KindergartenData
@@ -600,9 +600,9 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 601,930123,El Dorado,PUBLIC,Placerville,CHARTER COMMUNITY & EXTENDED DAY,12.0,12.0,100.0,Y,KindergartenData
 602,6005508,El Dorado,PUBLIC,Placerville,GOLD OAK ELEM.,60.0,40.0,66.66666667,Y,KindergartenData
 603,6110167,El Dorado,PUBLIC,Placerville,SUTTER'S MILL ELEM.,91.0,70.0,76.92307692,Y,KindergartenData
-604,6005540,El Dorado,PUBLIC,So. Lake Tahoe,BIJOU COMMUNITY SCHOOL,116.0,102.0,87.93103448,Y,KindergartenData
-605,6095301,El Dorado,PUBLIC,So. Lake Tahoe,SIERRA HOUSE ELEM.,109.0,90.0,82.56880734,Y,KindergartenData
-606,6005573,El Dorado,PUBLIC,So. Lake Tahoe,TAHOE VALLEY ELEM.,101.0,88.0,87.12871287,Y,KindergartenData
+604,6005540,El Dorado,PUBLIC,South Lake Tahoe,BIJOU COMMUNITY SCHOOL,116.0,102.0,87.93103448,Y,KindergartenData
+605,6095301,El Dorado,PUBLIC,South Lake Tahoe,SIERRA HOUSE ELEM.,109.0,90.0,82.56880734,Y,KindergartenData
+606,6005573,El Dorado,PUBLIC,South Lake Tahoe,TAHOE VALLEY ELEM.,101.0,88.0,87.12871287,Y,KindergartenData
 607,110155,El Dorado,PUBLIC,South Lake Tahoe,LAKE TAHOE ENVIROMENTAL SCIENCE MAGNET,61.0,58.0,95.08196721,Y,KindergartenData
 608,6005581,El Dorado,PUBLIC,Shingle Springs,LATROBE ELEM.,19.0,18.0,94.73684211,Y,KindergartenData
 609,6106678,El Dorado,PUBLIC,Placerville,INDIAN CREEK ELEM.,177.0,163.0,92.09039548,Y,KindergartenData
@@ -860,8 +860,8 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 861,6007991,Humboldt,PUBLIC,Willow Creek,TRINITY VALLEY ELEM.,24.0,22.0,91.66666667,Y,KindergartenData
 862,6008023,Humboldt,PUBLIC,Loleta,LOLETA ELEM.,14.0,10.0,71.42857143,Y,KindergartenData
 863,1230135,Humboldt,PUBLIC,Petrolia,MATTOLE VALLEY CHARTER SCHOOL,51.0,23.0,45.09803922,Y,KindergartenData
-864,6008056,Humboldt,PUBLIC,Mckinleyville,DOW'S PRAIRIE SCH.,65.0,60.0,92.30769231,Y,KindergartenData
-865,6008072,Humboldt,PUBLIC,Mckinleyville,MORRIS ELEM.,58.0,48.0,82.75862069,Y,KindergartenData
+864,6008056,Humboldt,PUBLIC,McKinleyville,DOW'S PRAIRIE SCH.,65.0,60.0,92.30769231,Y,KindergartenData
+865,6008072,Humboldt,PUBLIC,McKinleyville,MORRIS ELEM.,58.0,48.0,82.75862069,Y,KindergartenData
 866,6008098,Humboldt,PUBLIC,Arcata,PACIFIC UNION ELEM.,53.0,49.0,92.45283019,Y,KindergartenData
 867,6008114,Humboldt,PUBLIC,Rio Dell,EAGLE PRAIRIE ELEM.,45.0,41.0,91.11111111,Y,KindergartenData
 868,6008130,Humboldt,PUBLIC,Fortuna,AMBROSINI (NORMAN G.),56.0,51.0,91.07142857,Y,KindergartenData
@@ -994,8 +994,8 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 995,6009732,Kern,PUBLIC,Shafter,MAPLE ELEM.,30.0,29.0,96.66666667,Y,KindergartenData
 996,6009740,Kern,PUBLIC,Maricopa,MARICOPA ELEM.,20.0,19.0,95.0,Y,KindergartenData
 997,6121024,Kern,PUBLIC,Simi Valley,CALIFORNIA VIRTUAL ACADEMY @ KERN,25.0,17.0,68.0,Y,KindergartenData
-998,6009757,Kern,PUBLIC,Mcfarland,BROWNING ROAD ELEM.,106.0,106.0,100.0,Y,KindergartenData
-999,6009765,Kern,PUBLIC,Mcfarland,KERN AVE. ELEM.,191.0,181.0,94.76439791,Y,KindergartenData
+998,6009757,Kern,PUBLIC,McFarland,BROWNING ROAD ELEM.,106.0,106.0,100.0,Y,KindergartenData
+999,6009765,Kern,PUBLIC,McFarland,KERN AVE. ELEM.,191.0,181.0,94.76439791,Y,KindergartenData
 1000,6009823,Kern,PUBLIC,California City,ROBERT P. ULRICH ELEM.,167.0,133.0,79.64071856,Y,KindergartenData
 1001,6009807,Kern,PUBLIC,Mojave,MOJAVE ELEM.,89.0,64.0,71.91011236,Y,KindergartenData
 1002,6009906,Kern,PUBLIC,Boron,WEST BORON ELEM.,45.0,40.0,88.88888889,Y,KindergartenData
@@ -1082,7 +1082,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 1083,6010276,Kings,PUBLIC,Armona,ARMONA ELEM.,106.0,94.0,88.67924528,Y,KindergartenData
 1084,112698,Kings,PUBLIC,Simi Valley,CALIFORNIA VIRTUAL ACADEMY @ KINGS,54.0,31.0,57.40740741,Y,KindergartenData
 1085,6010300,Kings,PUBLIC,Lemoore,CENTRAL ELEM.,38.0,38.0,100.0,Y,KindergartenData
-1086,6010318,Kings,PUBLIC,Lemore Nas,NEUTRA ELEM.,126.0,124.0,98.41269841,Y,KindergartenData
+1086,6010318,Kings,PUBLIC,Lemoore,NEUTRA ELEM.,126.0,124.0,98.41269841,Y,KindergartenData
 1087,6010292,Kings,PUBLIC,Lemoore Station,AKERS ELEM.,84.0,84.0,100.0,Y,KindergartenData
 1088,6010326,Kings,PUBLIC,Stratford,STRATFORD ELEM.,38.0,38.0,100.0,Y,KindergartenData
 1089,6010334,Kings,PUBLIC,Corcoran,BRET HARTE ELEM.,283.0,263.0,92.93286219,Y,KindergartenData
@@ -1114,7 +1114,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 1115,6970768,Kings,PRIVATE,Lemoore,MARY IMMACULATE QUEEN ELEM.,28.0,28.0,100.0,Y,KindergartenData
 1116,6010607,Lake,PUBLIC,Kelseyville,KELSEYVILLE ELEMENTARY,71.0,69.0,97.18309859,Y,KindergartenData
 1117,6112759,Lake,PUBLIC,Kelseyville,RIVIERA ELEM.,47.0,44.0,93.61702128,Y,KindergartenData
-1118,6109706,Lake,PUBLIC,Clear Lake,POMO ELEM.,102.0,94.0,92.15686275,Y,KindergartenData
+1118,6109706,Lake,PUBLIC,Clearlake,POMO ELEM.,102.0,94.0,92.15686275,Y,KindergartenData
 1119,6010615,Lake,PUBLIC,Clearlake,BURNS VALLEY ELEM,72.0,64.0,88.88888889,Y,KindergartenData
 1120,6010623,Lake,PUBLIC,Clearlake Oaks,EAST LAKE ELEM.,34.0,31.0,91.17647059,Y,KindergartenData
 1121,6084990,Lake,PUBLIC,Lower Lake,LOWER LAKE ELEM.,78.0,67.0,85.8974359,Y,KindergartenData
@@ -1474,7 +1474,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 1476,6015093,Los Angeles,PUBLIC,Norwalk,STUDEBAKER ELEM.,89.0,78.0,87.64044944,Y,KindergartenData
 1477,6015036,Los Angeles,PUBLIC,Santa Fe Springs,JERSEY AVE. ELEM.,84.0,81.0,96.42857143,Y,KindergartenData
 1478,6015077,Los Angeles,PUBLIC,Santa Fe Springs,LAKEVIEW ELEM.,99.0,98.0,98.98989899,Y,KindergartenData
-1479,1930411,Los Angeles,PUBLIC,"Avalon, Catalina Isl",AVALON K-12,57.0,56.0,98.24561404,Y,KindergartenData
+1479,1930411,Los Angeles,PUBLIC,Avalon,AVALON K-12,57.0,56.0,98.24561404,Y,KindergartenData
 1480,6015259,Los Angeles,PUBLIC,Lakewood,CLEVELAND ELEM.,110.0,104.0,94.54545455,Y,KindergartenData
 1481,6015333,Los Angeles,PUBLIC,Lakewood,GOMPERS ELEM.,66.0,62.0,93.93939394,Y,KindergartenData
 1482,6015374,Los Angeles,PUBLIC,Lakewood,HOLMES ELEM.,66.0,65.0,98.48484848,Y,KindergartenData
@@ -1913,20 +1913,20 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 1918,109363,Los Angeles,PUBLIC,Maywood,MAYWOOD NEW ELEM,79.0,68.0,86.07594937,Y,KindergartenData
 1919,6019038,Los Angeles,PUBLIC,Mission Hills,SAN JOSE STREET ELEM.,109.0,106.0,97.24770642,Y,KindergartenData
 1920,6018931,Los Angeles,PUBLIC,Monterey Park,LANE (ROBERT HILL) ELEM.,75.0,35.0,46.66666667,Y,KindergartenData
-1921,6015879,Los Angeles,PUBLIC,No. Hollywood,ARMINTA STREET ELEM.,92.0,84.0,91.30434783,Y,KindergartenData
-1922,6016182,Los Angeles,PUBLIC,No. Hollywood,BURBANK BLVD. ELEM.,72.0,64.0,88.88888889,Y,KindergartenData
-1923,6016273,Los Angeles,PUBLIC,No. Hollywood,CAMELLIA AVE. ELEM.,155.0,146.0,94.19354839,Y,KindergartenData
-1924,6016554,Los Angeles,PUBLIC,No. Hollywood,COLDWATER CANYON AVE. ELEM.,126.0,125.0,99.20634921,Y,KindergartenData
-1925,6016562,Los Angeles,PUBLIC,No. Hollywood,COLFAX AVE. ELEM.,114.0,112.0,98.24561404,Y,KindergartenData
-1926,6016984,Los Angeles,PUBLIC,No. Hollywood,FAIR AVE. ELEM.,204.0,200.0,98.03921569,Y,KindergartenData
-1927,6017784,Los Angeles,PUBLIC,No. Hollywood,LANKERSHIM ELEM.,79.0,75.0,94.93670886,Y,KindergartenData
-1928,6060461,Los Angeles,PUBLIC,No. Hollywood,LOWMAN (C.L.) DEV. CTR.,23.0,20.0,86.95652174,Y,KindergartenData
-1929,6018196,Los Angeles,PUBLIC,No. Hollywood,MONLUX (JOHN B.) ELEM.,94.0,80.0,85.10638298,Y,KindergartenData
-1930,6018626,Los Angeles,PUBLIC,No. Hollywood,OXNARD STREET ELEM.,94.0,91.0,96.80851064,Y,KindergartenData
-1931,6018907,Los Angeles,PUBLIC,No. Hollywood,RIO VISTA ELEM.,78.0,64.0,82.05128205,Y,KindergartenData
-1932,6019087,Los Angeles,PUBLIC,No. Hollywood,SATICOY ELEM.,96.0,89.0,92.70833333,Y,KindergartenData
-1933,6019368,Los Angeles,PUBLIC,No. Hollywood,STRATHERN STREET ELEM.,124.0,117.0,94.35483871,Y,KindergartenData
-1934,6019517,Los Angeles,PUBLIC,No. Hollywood,TOLUCA LAKE ELEM.,87.0,85.0,97.70114943,Y,KindergartenData
+1921,6015879,Los Angeles,PUBLIC,North Hollywood,ARMINTA STREET ELEM.,92.0,84.0,91.30434783,Y,KindergartenData
+1922,6016182,Los Angeles,PUBLIC,North Hollywood,BURBANK BLVD. ELEM.,72.0,64.0,88.88888889,Y,KindergartenData
+1923,6016273,Los Angeles,PUBLIC,North Hollywood,CAMELLIA AVE. ELEM.,155.0,146.0,94.19354839,Y,KindergartenData
+1924,6016554,Los Angeles,PUBLIC,North Hollywood,COLDWATER CANYON AVE. ELEM.,126.0,125.0,99.20634921,Y,KindergartenData
+1925,6016562,Los Angeles,PUBLIC,North Hollywood,COLFAX AVE. ELEM.,114.0,112.0,98.24561404,Y,KindergartenData
+1926,6016984,Los Angeles,PUBLIC,North Hollywood,FAIR AVE. ELEM.,204.0,200.0,98.03921569,Y,KindergartenData
+1927,6017784,Los Angeles,PUBLIC,North Hollywood,LANKERSHIM ELEM.,79.0,75.0,94.93670886,Y,KindergartenData
+1928,6060461,Los Angeles,PUBLIC,North Hollywood,LOWMAN (C.L.) DEV. CTR.,23.0,20.0,86.95652174,Y,KindergartenData
+1929,6018196,Los Angeles,PUBLIC,North Hollywood,MONLUX (JOHN B.) ELEM.,94.0,80.0,85.10638298,Y,KindergartenData
+1930,6018626,Los Angeles,PUBLIC,North Hollywood,OXNARD STREET ELEM.,94.0,91.0,96.80851064,Y,KindergartenData
+1931,6018907,Los Angeles,PUBLIC,North Hollywood,RIO VISTA ELEM.,78.0,64.0,82.05128205,Y,KindergartenData
+1932,6019087,Los Angeles,PUBLIC,North Hollywood,SATICOY ELEM.,96.0,89.0,92.70833333,Y,KindergartenData
+1933,6019368,Los Angeles,PUBLIC,North Hollywood,STRATHERN STREET ELEM.,124.0,117.0,94.35483871,Y,KindergartenData
+1934,6019517,Los Angeles,PUBLIC,North Hollywood,TOLUCA LAKE ELEM.,87.0,85.0,97.70114943,Y,KindergartenData
 1935,6017289,Los Angeles,PUBLIC,Los Angeles,GLEDHILL STREET ELEM.,63.0,53.0,84.12698413,Y,KindergartenData
 1936,6017776,Los Angeles,PUBLIC,Los Angeles,LANGDON AVE. ELEM.,97.0,83.0,85.56701031,Y,KindergartenData
 1937,6017792,Los Angeles,PUBLIC,Los Angeles,LASSEN ELEM.,103.0,91.0,88.34951456,Y,KindergartenData
@@ -2059,7 +2059,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 2065,6016539,Los Angeles,PUBLIC,Los Angeles,COEUR D'ALENE AVE. ELEM.,96.0,53.0,55.20833333,Y,KindergartenData
 2066,6019913,Los Angeles,PUBLIC,Los Angeles,WESTMINSTER AVE. ELEM.,54.0,45.0,83.33333333,Y,KindergartenData
 2067,1931054,Los Angeles,PUBLIC,Los Angeles,WESTSIDE LEADERSHIP MAGNET,24.0,23.0,95.83333333,Y,KindergartenData
-2068,6019871,Los Angeles,PUBLIC,W. Hollywood,WEST HOLLYWOOD ELEM.,77.0,53.0,68.83116883,Y,KindergartenData
+2068,6019871,Los Angeles,PUBLIC,West Hollywood,WEST HOLLYWOOD ELEM.,77.0,53.0,68.83116883,Y,KindergartenData
 2069,120097,Los Angeles,PUBLIC,Walnut Park,ACADEMIA MODERNA,53.0,49.0,92.45283019,Y,KindergartenData
 2070,6016331,Los Angeles,PUBLIC,Los Angeles,CAPISTRANO AVE. ELEM.,73.0,61.0,83.56164384,Y,KindergartenData
 2071,117036,Los Angeles,PUBLIC,Los Angeles,ENADIA WAY ELEMENTARY,49.0,49.0,100.0,Y,KindergartenData
@@ -2142,7 +2142,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 2148,6020796,Los Angeles,PUBLIC,Santa Clarita,NEWHALL ELEM.,102.0,100.0,98.03921569,Y,KindergartenData
 2149,6020804,Los Angeles,PUBLIC,Santa Clarita,PEACHLAND AVE. ELEM.,79.0,72.0,91.13924051,Y,KindergartenData
 2150,6020812,Los Angeles,PUBLIC,Santa Clarita,WILEY CANYON,116.0,109.0,93.96551724,Y,KindergartenData
-2151,100636,Los Angeles,PUBLIC,Stevenson,PICO CANYON ELEMENTARY,123.0,115.0,93.49593496,Y,KindergartenData
+2151,100636,Los Angeles,PUBLIC,Stevenson Ranch,PICO CANYON ELEMENTARY,123.0,115.0,93.49593496,Y,KindergartenData
 2152,6113047,Los Angeles,PUBLIC,Stevenson Ranch,STEVENSON RANCH,89.0,83.0,93.25842697,Y,KindergartenData
 2153,6095442,Los Angeles,PUBLIC,Santa Clarita,MEADOWS ELEM.,76.0,71.0,93.42105263,Y,KindergartenData
 2154,108027,Los Angeles,PUBLIC,Santa Clarita,OAK HILLS,59.0,53.0,89.83050847,Y,KindergartenData
@@ -2192,7 +2192,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 2198,6021349,Los Angeles,PUBLIC,Rancho Palos Verdes,SILVER SPUR,84.0,80.0,95.23809524,Y,KindergartenData
 2199,6021356,Los Angeles,PUBLIC,Rancho Palos Verdes,SOLEADO ELEM.,49.0,40.0,81.63265306,Y,KindergartenData
 2200,6021372,Los Angeles,PUBLIC,Rancho Palos Verdes,VISTA GRANDE ELEM.,66.0,61.0,92.42424242,Y,KindergartenData
-2201,6021323,Los Angeles,PUBLIC,Rolling Hills Est.,RANCHO VISTA ELEM.,68.0,64.0,94.11764706,Y,KindergartenData
+2201,6021323,Los Angeles,PUBLIC,Rolling Hills Estates,RANCHO VISTA ELEM.,68.0,64.0,94.11764706,Y,KindergartenData
 2202,6116172,Los Angeles,PUBLIC,Rolling Hills Estates,DAPPLEGRAY ELEM.,87.0,86.0,98.85057471,Y,KindergartenData
 2203,6021380,Los Angeles,PUBLIC,Long Beach,COLLINS (CAPT. RAYMOND) ELEM.,105.0,99.0,94.28571429,Y,KindergartenData
 2204,6021398,Los Angeles,PUBLIC,Paramount,GAINES (WESLEY) ELEM.,122.0,121.0,99.18032787,Y,KindergartenData
@@ -2694,7 +2694,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 2738,6994792,Los Angeles,PRIVATE,Los Angeles,WILDWOOD,49.0,36.0,73.46938776,Y,KindergartenData
 2739,7102346,Los Angeles,PRIVATE,Los Angeles,WILSHIRE BOULEVARD TEMPLE ELEM,40.0,36.0,90.0,Y,KindergartenData
 2740,6964985,Los Angeles,PRIVATE,Los Angeles,YESHIVA RAV ISACSOHN / TORATH EM,77.0,72.0,93.50649351,Y,KindergartenData
-2741,6924765,Los Angeles,PRIVATE,"Los Angeles, Ca",OHR ELIYAHU ACADAMY,44.0,41.0,93.18181818,Y,KindergartenData
+2741,6924765,Los Angeles,PRIVATE,Los Angeles,OHR ELIYAHU ACADAMY,44.0,41.0,93.18181818,Y,KindergartenData
 2742,6963748,Los Angeles,PRIVATE,Lynwood,ST. EMYDIUS ELEM.,15.0,15.0,100.0,Y,KindergartenData
 2743,6964522,Los Angeles,PRIVATE,Lynwood,ST. PHILIP NERI,16.0,16.0,100.0,Y,KindergartenData
 2744,6133573,Los Angeles,PRIVATE,Malibu,SAINT AIDAN'S SCHOOL,10.0,2.0,20.0,Y,KindergartenData
@@ -2716,13 +2716,13 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 2761,7052194,Los Angeles,PRIVATE,La Crescenta-Montrose,MONTROSE CHRTN. MONTESSORI,19.0,18.0,94.73684211,Y,KindergartenData
 2762,6962948,Los Angeles,PRIVATE,Santa Clarita,OUR LADY OF PERPETUAL HELP ELEM.,28.0,28.0,100.0,Y,KindergartenData
 2763,7092117,Los Angeles,PRIVATE,Santa Clarita,"TOWN AND COUNTRY FARM SCHOOL, IN",15.0,10.0,66.66666667,Y,KindergartenData
-2764,6906895,Los Angeles,PRIVATE,No. Hollywood,ADAT ARI EL DAY ELEM.,28.0,27.0,96.42857143,Y,KindergartenData
-2765,6934392,Los Angeles,PRIVATE,No. Hollywood,CAMPBELL HALL,45.0,42.0,93.33333333,Y,KindergartenData
-2768,6968002,Los Angeles,PRIVATE,No. Hollywood,LAUREL HALL,48.0,46.0,95.83333333,Y,KindergartenData
-2772,6963615,Los Angeles,PRIVATE,No. Hollywood,SAINT CHARLES BORROMEO,31.0,30.0,96.77419355,Y,KindergartenData
-2773,6963961,Los Angeles,PRIVATE,No. Hollywood,SAINT JANE FRANCES DE CHANTAL EL,33.0,32.0,96.96969697,Y,KindergartenData
-2774,6964431,Los Angeles,PRIVATE,No. Hollywood,ST. PATRICK'S,23.0,19.0,82.60869565,Y,KindergartenData
-2775,6964472,Los Angeles,PRIVATE,No. Hollywood,ST. PAUL'S FIRST LUTHERAN,14.0,11.0,78.57142857,Y,KindergartenData
+2764,6906895,Los Angeles,PRIVATE,North Hollywood,ADAT ARI EL DAY ELEM.,28.0,27.0,96.42857143,Y,KindergartenData
+2765,6934392,Los Angeles,PRIVATE,North Hollywood,CAMPBELL HALL,45.0,42.0,93.33333333,Y,KindergartenData
+2768,6968002,Los Angeles,PRIVATE,North Hollywood,LAUREL HALL,48.0,46.0,95.83333333,Y,KindergartenData
+2772,6963615,Los Angeles,PRIVATE,North Hollywood,SAINT CHARLES BORROMEO,31.0,30.0,96.77419355,Y,KindergartenData
+2773,6963961,Los Angeles,PRIVATE,North Hollywood,SAINT JANE FRANCES DE CHANTAL EL,33.0,32.0,96.96969697,Y,KindergartenData
+2774,6964431,Los Angeles,PRIVATE,North Hollywood,ST. PATRICK'S,23.0,19.0,82.60869565,Y,KindergartenData
+2775,6964472,Los Angeles,PRIVATE,North Hollywood,ST. PAUL'S FIRST LUTHERAN,14.0,11.0,78.57142857,Y,KindergartenData
 2776,6206569,Los Angeles,PRIVATE,Los Angeles,CENTERS OF LEARNING,10.0,9.0,90.0,Y,KindergartenData
 2777,7072598,Los Angeles,PRIVATE,Los Angeles,HOLY MARTYRS ARMENIAN - PARTHENI,49.0,24.0,48.97959184,Y,KindergartenData
 2778,6962922,Los Angeles,PRIVATE,Los Angeles,OUR LADY OF PEACE,19.0,19.0,100.0,Y,KindergartenData
@@ -2796,7 +2796,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 2853,6979538,Los Angeles,PRIVATE,Los Angeles,HEART OF THE VALLEY CHRISTIAN SCHOOL,17.0,15.0,88.23529412,Y,KindergartenData
 2854,6986517,Los Angeles,PRIVATE,Los Angeles,KIRK O THE VALLEY KDGN.,19.0,19.0,100.0,Y,KindergartenData
 2858,6963599,Los Angeles,PRIVATE,Los Angeles,SAINT CATHERINE OF SIENA,27.0,27.0,100.0,Y,KindergartenData
-2859,6968119,Los Angeles,PRIVATE,Rolling Hills Est.,ROLLING HILLS COUNTRY DAY,28.0,27.0,96.42857143,Y,KindergartenData
+2859,6968119,Los Angeles,PRIVATE,Rolling Hills Estates,ROLLING HILLS COUNTRY DAY,28.0,27.0,96.42857143,Y,KindergartenData
 2860,6983316,Los Angeles,PRIVATE,Rolling Hills Estates,PENINSULA HERITAGE,18.0,17.0,94.44444444,Y,KindergartenData
 2861,7000730,Los Angeles,PRIVATE,Rosemead,ROSEMEAD EDUCATION CTR.,10.0,10.0,100.0,Y,KindergartenData
 2862,6924773,Los Angeles,PRIVATE,Rowland Heights,FAIRWAY EDUC. CTR.,22.0,22.0,100.0,Y,KindergartenData
@@ -3260,12 +3260,12 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 3345,6117758,Orange,PUBLIC,Aliso Viejo,JOURNEY,72.0,29.0,40.27777778,Y,KindergartenData
 3346,6113344,Orange,PUBLIC,Aliso Viejo,OAK GROVE,125.0,96.0,76.8,Y,KindergartenData
 3347,6111835,Orange,PUBLIC,Aliso Viejo,WOOD CANYON ELEM.,64.0,57.0,89.0625,Y,KindergartenData
-3348,106765,Orange,PUBLIC,"Aliso Viejo, Ca.",CAPISTRANO CONNECTIONS ACADEMY CHARTER,54.0,39.0,72.22222222,Y,KindergartenData
+3348,106765,Orange,PUBLIC,Aliso Viejo,CAPISTRANO CONNECTIONS ACADEMY CHARTER,54.0,39.0,72.22222222,Y,KindergartenData
 3349,6027627,Orange,PUBLIC,Dana Point,PALISADES ELEM.,74.0,66.0,89.18918919,Y,KindergartenData
 3350,6027635,Orange,PUBLIC,Dana Point,DANA (RICHARD H.) ELEM.,70.0,67.0,95.71428571,Y,KindergartenData
 3351,6118947,Orange,PUBLIC,Ladera Ranch,CHAPARRAL ELEM.,109.0,93.0,85.32110092,Y,KindergartenData
 3352,100909,Orange,PUBLIC,Ladera Ranch,LADERA RANCH ELEM,134.0,104.0,77.61194029999999,Y,KindergartenData
-3353,108704,Orange,PUBLIC,Ladrea Ranch,OSO GRANDE ELEMENTARY,195.0,165.0,84.61538462,Y,KindergartenData
+3353,108704,Orange,PUBLIC,Ladera Ranch,OSO GRANDE ELEMENTARY,195.0,165.0,84.61538462,Y,KindergartenData
 3354,6106801,Orange,PUBLIC,Laguna Niguel,BERGESON (MARIAN) ELEM.,60.0,39.0,65.0,Y,KindergartenData
 3355,6027593,Orange,PUBLIC,Laguna Niguel,CROWN VALLEY ELEM.,56.0,44.0,78.57142857,Y,KindergartenData
 3356,6111801,Orange,PUBLIC,Laguna Niguel,HIDDEN HILLS ELEM.,83.0,66.0,79.51807229,Y,KindergartenData
@@ -3605,7 +3605,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 3690,6030860,Orange,PUBLIC,Westminster,SCHMITT ELEM.,97.0,95.0,97.93814433,Y,KindergartenData
 3691,6030886,Orange,PUBLIC,Westminster,SEQUOIA ELEM.,77.0,64.0,83.11688312,Y,KindergartenData
 3692,6030837,Orange,PUBLIC,Westminster,WEBBER ELEM.,68.0,66.0,97.05882353,Y,KindergartenData
-3693,6030852,Orange,PUBLIC,Westminter,WILLMORE ELEM.,80.0,80.0,100.0,Y,KindergartenData
+3693,6030852,Orange,PUBLIC,Westminster,WILLMORE ELEM.,80.0,80.0,100.0,Y,KindergartenData
 3694,7099377,Orange,PRIVATE,Aliso Viejo,ALISO VIEJO CHSTN. SCHOOL,40.0,32.0,80.0,Y,KindergartenData
 3695,7085962,Orange,PRIVATE,Aliso Viejo,SAINT MARY'S & ALL ANGELS,54.0,50.0,92.59259259,Y,KindergartenData
 3696,6205132,Orange,PRIVATE,Aliso Viejo,TEMPLE BETH EL OF SOUTH ORANGE,13.0,8.0,61.53846154,Y,KindergartenData
@@ -3669,7 +3669,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 3754,6965198,Orange,PRIVATE,Garden Grove,ST. CALLISTUS ELEM.,20.0,19.0,95.0,Y,KindergartenData
 3755,6965230,Orange,PRIVATE,Garden Grove,ST. COLUMBAN ELEM.,30.0,30.0,100.0,Y,KindergartenData
 3756,6965370,Orange,PRIVATE,Garden Grove,ST. PAUL'S LUTHERAN SCHOOL,12.0,10.0,83.33333333,Y,KindergartenData
-3757,6937163,Orange,PRIVATE,Hunington Beach,HEBREW ACAD.,26.0,15.0,57.69230769,Y,KindergartenData
+3757,6937163,Orange,PRIVATE,Huntington Beach,HEBREW ACAD.,26.0,15.0,57.69230769,Y,KindergartenData
 3758,6995906,Orange,PRIVATE,Huntington Beach,CARDEN OF HUNTINGTON BEACH,12.0,12.0,100.0,Y,KindergartenData
 3759,6921076,Orange,PRIVATE,Huntington Beach,GRACE LUTHERAN,23.0,19.0,82.60869565,Y,KindergartenData
 3760,7084965,Orange,PRIVATE,Huntington Beach,HERITAGE SCHOOL,24.0,24.0,100.0,Y,KindergartenData
@@ -4016,7 +4016,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 4101,6110365,Riverside,PUBLIC,Menifee,KIRKPATRICK (CALLIE) ELEM.,91.0,88.0,96.70329670000001,Y,KindergartenData
 4102,6108229,Riverside,PUBLIC,Menifee,MORRISON (CHESTER W.) ELEM.,107.0,104.0,97.19626168,Y,KindergartenData
 4103,116749,Riverside,PUBLIC,Menifee,SOUTHSHORE ELEMENTARY,116.0,111.0,95.68965517,Y,KindergartenData
-4104,109843,Riverside,PUBLIC,"Menifee, Ca",SANTA ROSA ACADEMY,71.0,64.0,90.14084507,Y,KindergartenData
+4104,109843,Riverside,PUBLIC,Menifee,SANTA ROSA ACADEMY,71.0,64.0,90.14084507,Y,KindergartenData
 4105,108639,Riverside,PUBLIC,Murrieta,OAK MEADOWS ELEMENTARY,165.0,161.0,97.57575758,Y,KindergartenData
 4106,116756,Riverside,PUBLIC,Menifee,QUAIL VALLEY ELEMENTARY,103.0,102.0,99.02912621,Y,KindergartenData
 4107,6113864,Riverside,PUBLIC,Menifee,RIDGEMOOR ELEM.,120.0,120.0,100.0,Y,KindergartenData
@@ -4070,7 +4070,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 4155,6032395,Riverside,PUBLIC,Palm Springs,CAHUILLA ELEM.,101.0,96.0,95.04950495,Y,KindergartenData
 4156,6032411,Riverside,PUBLIC,Palm Springs,CIELO VISTA ELEM.,123.0,74.0,60.16260163,Y,KindergartenData
 4157,6032437,Riverside,PUBLIC,Palm Springs,KATHERINE FINCHY ELEM.,87.0,85.0,97.70114943,Y,KindergartenData
-4158,6032452,Riverside,PUBLIC,"Palm Springs, Ca",VISTA DEL MONTE ELEM.,75.0,63.0,84.0,Y,KindergartenData
+4158,6032452,Riverside,PUBLIC,Palm Springs,VISTA DEL MONTE ELEM.,75.0,63.0,84.0,Y,KindergartenData
 4159,6032445,Riverside,PUBLIC,Rancho Mirage,RANCHO MIRAGE ELEM.,73.0,72.0,98.63013699,Y,KindergartenData
 4160,6106207,Riverside,PUBLIC,Thousand Palms,DELLA S. LINDLEY ELEM.,95.0,92.0,96.84210526,Y,KindergartenData
 4161,6032460,Riverside,PUBLIC,Blythe,APPLEBY (FELIX J.) ELEM.,79.0,64.0,81.01265823,Y,KindergartenData
@@ -4380,7 +4380,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 4465,6034326,Sacramento,PUBLIC,Sacramento,WILLIAM LAND ELEM.,57.0,44.0,77.19298246,Y,KindergartenData
 4466,6034334,Sacramento,PUBLIC,Sacramento,WOODBINE ELEM.,51.0,48.0,94.11764706,Y,KindergartenData
 4467,121665,Sacramento,PUBLIC,Sacramento,YAV PEM SUAB ACADEMY - PREPARING FOR THE FUTURE CH,66.0,51.0,77.27272727,Y,KindergartenData
-4468,123901,Sacramento,PUBLIC,"Sacramento, Ca",CAPITOL COLLEGIATE ACADEMY,61.0,46.0,75.40983607,Y,KindergartenData
+4468,123901,Sacramento,PUBLIC,Sacramento,CAPITOL COLLEGIATE ACADEMY,61.0,46.0,75.40983607,Y,KindergartenData
 4469,112169,Sacramento,PUBLIC,Carmichael,CALIFORNIA MONTESSORI PROJECT-SAN JUAN CAMPUSES,187.0,158.0,84.49197861,Y,KindergartenData
 4470,6034383,Sacramento,PUBLIC,Carmichael,CAMERON RANCH ELEM.,66.0,44.0,66.66666667,Y,KindergartenData
 4471,6034391,Sacramento,PUBLIC,Carmichael,CARMICHAEL ELEM.,62.0,39.0,62.90322581,Y,KindergartenData
@@ -4592,7 +4592,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 4677,6107270,San Bernardino,PUBLIC,Chino Hills,OAKRIDGE ELEM.,95.0,95.0,100.0,Y,KindergartenData
 4678,6102974,San Bernardino,PUBLIC,Chino Hills,ROLLING RIDGE ELEM.,70.0,70.0,100.0,Y,KindergartenData
 4679,100586,San Bernardino,PUBLIC,Chino Hills,WICKMAN  ELEM.,105.0,104.0,99.04761905,Y,KindergartenData
-4680,100594,San Bernardino,PUBLIC,Onatrio,LIBERTY ELEMENTARY SCHOOL,89.0,87.0,97.75280899,Y,KindergartenData
+4680,100594,San Bernardino,PUBLIC,Ontario,LIBERTY ELEMENTARY SCHOOL,89.0,87.0,97.75280899,Y,KindergartenData
 4681,6101513,San Bernardino,PUBLIC,Ontario,DICKEY (LEVI) ELEM.,94.0,93.0,98.93617021,Y,KindergartenData
 4682,6035604,San Bernardino,PUBLIC,Bloomington,CRESTMORE ELEM.,121.0,115.0,95.04132231,Y,KindergartenData
 4683,6035653,San Bernardino,PUBLIC,Bloomington,LEWIS (MARY B.) ELEM.,99.0,97.0,97.97979798,Y,KindergartenData
@@ -4812,7 +4812,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 4897,3630977,San Bernardino,PUBLIC,Colton,EAST VALLEY REGION SP. ED.,11.0,10.0,90.90909091,Y,KindergartenData
 4898,3630985,San Bernardino,PUBLIC,Rancho Cucamonga,WEST END REGION SP. ED.,61.0,55.0,90.16393443,Y,KindergartenData
 4899,115808,San Bernardino,PUBLIC,San Bernardino,NORTON SPACE AND AERONAUTICS ACADEMY,120.0,114.0,95.0,Y,KindergartenData
-4900,6035331,San Bernardino,PUBLIC,Ft Irwin,LEWIS ELEM.,231.0,229.0,99.13419913,Y,KindergartenData
+4900,6035331,San Bernardino,PUBLIC,Fort Irwin,LEWIS ELEM.,231.0,229.0,99.13419913,Y,KindergartenData
 4901,6035406,San Bernardino,PUBLIC,Newberry Springs,NEWBERRY,24.0,23.0,95.83333333,Y,KindergartenData
 4902,6035455,San Bernardino,PUBLIC,Yermo,YERMO,24.0,21.0,87.5,Y,KindergartenData
 4903,6106710,San Bernardino,PUBLIC,Phelan,BALDY MESA ELEM.,137.0,101.0,73.72262774,Y,KindergartenData
@@ -5030,7 +5030,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 5115,107862,San Diego,PUBLIC,Escondido,REIDY CREEK,112.0,103.0,91.96428571,Y,KindergartenData
 5116,6111769,San Diego,PUBLIC,Escondido,ROCK SPRINGS ELEM.,138.0,138.0,100.0,Y,KindergartenData
 5117,6038251,San Diego,PUBLIC,Escondido,ROSE ELEM.,109.0,107.0,98.16513761,Y,KindergartenData
-5118,6038301,San Diego,PUBLIC,Camp Pendleton,MARY FAY PENDLETON ELEM.,176.0,175.0,99.43181818,Y,KindergartenData
+5118,6038301,San Diego,PUBLIC,Camp Pendleton North,MARY FAY PENDLETON ELEM.,176.0,175.0,99.43181818,Y,KindergartenData
 5119,6038285,San Diego,PUBLIC,Fallbrook,FALLBROOK ST. ELEM.,131.0,124.0,94.65648855,Y,KindergartenData
 5120,6116420,San Diego,PUBLIC,Fallbrook,FRAZIER (WILLIAM H.),124.0,115.0,92.74193548,Y,KindergartenData
 5121,6096911,San Diego,PUBLIC,Fallbrook,IOWA STREET SCH.,39.0,28.0,71.79487179,Y,KindergartenData
@@ -5049,15 +5049,15 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 5134,6038533,San Diego,PUBLIC,La Mesa,MURRAY MANOR ELEM.,115.0,108.0,93.91304348,Y,KindergartenData
 5135,6038541,San Diego,PUBLIC,La Mesa,NORTHMONT ELEM.,72.0,63.0,87.5,Y,KindergartenData
 5136,6038574,San Diego,PUBLIC,La Mesa,ROLANDO ELEM.,112.0,104.0,92.85714286,Y,KindergartenData
-5137,6038400,San Diego,PUBLIC,Spring Valley,AVONDALE ELEM.,78.0,78.0,100.0,Y,KindergartenData
-5138,6038418,San Diego,PUBLIC,Spring Valley,BANCROFT COMMUNITY,80.0,78.0,97.5,Y,KindergartenData
-5139,6038434,San Diego,PUBLIC,Spring Valley,CASA DE ORO ELEM.,52.0,51.0,98.07692308,Y,KindergartenData
-5140,6038459,San Diego,PUBLIC,Spring Valley,HIGHLANDS ELEM.,68.0,66.0,97.05882353,Y,KindergartenData
-5141,6038467,San Diego,PUBLIC,Spring Valley,KEMPTON STREET ELEM.,114.0,112.0,98.24561404,Y,KindergartenData
-5142,6038509,San Diego,PUBLIC,Spring Valley,LA PRESA ELEM.,50.0,48.0,96.0,Y,KindergartenData
-5143,6098446,San Diego,PUBLIC,Spring Valley,LOMA ELEM.,80.0,75.0,93.75,Y,KindergartenData
-5144,6038566,San Diego,PUBLIC,Spring Valley,RANCHO ELEM.,85.0,84.0,98.82352941,Y,KindergartenData
-5145,6111207,San Diego,PUBLIC,Spring Valley,SWEETWATER SPRINGS COMM.,83.0,82.0,98.79518072,Y,KindergartenData
+5137,6038400,San Diego,PUBLIC,Spring Valley (San Diego County),AVONDALE ELEM.,78.0,78.0,100.0,Y,KindergartenData
+5138,6038418,San Diego,PUBLIC,Spring Valley (San Diego County),BANCROFT COMMUNITY,80.0,78.0,97.5,Y,KindergartenData
+5139,6038434,San Diego,PUBLIC,Spring Valley (San Diego County),CASA DE ORO ELEM.,52.0,51.0,98.07692308,Y,KindergartenData
+5140,6038459,San Diego,PUBLIC,Spring Valley (San Diego County),HIGHLANDS ELEM.,68.0,66.0,97.05882353,Y,KindergartenData
+5141,6038467,San Diego,PUBLIC,Spring Valley (San Diego County),KEMPTON STREET ELEM.,114.0,112.0,98.24561404,Y,KindergartenData
+5142,6038509,San Diego,PUBLIC,Spring Valley (San Diego County),LA PRESA ELEM.,50.0,48.0,96.0,Y,KindergartenData
+5143,6098446,San Diego,PUBLIC,Spring Valley (San Diego County),LOMA ELEM.,80.0,75.0,93.75,Y,KindergartenData
+5144,6038566,San Diego,PUBLIC,Spring Valley (San Diego County),RANCHO ELEM.,85.0,84.0,98.82352941,Y,KindergartenData
+5145,6111207,San Diego,PUBLIC,Spring Valley (San Diego County),SWEETWATER SPRINGS COMM.,83.0,82.0,98.79518072,Y,KindergartenData
 5146,6120901,San Diego,PUBLIC,Lakeside,BARONA INDIAN CHARTER,12.0,6.0,50.0,Y,KindergartenData
 5147,6038343,San Diego,PUBLIC,Lakeside,LAKESIDE FARMS ELEM.,110.0,94.0,85.45454545,Y,KindergartenData
 5148,6038368,San Diego,PUBLIC,Lakeside,LAKEVIEW ELEM.,83.0,79.0,95.18072289,Y,KindergartenData
@@ -5464,9 +5464,9 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 5550,6975734,San Diego,PRIVATE,Solana Beach,SAINT JAMES ACAD.,25.0,24.0,96.0,Y,KindergartenData
 5551,6927883,San Diego,PRIVATE,Solana Beach,SANTA FE CHRTN.,40.0,36.0,90.0,Y,KindergartenData
 5552,6992507,San Diego,PRIVATE,Solana Beach,SANTA FE MONTESSORI,54.0,31.0,57.40740741,Y,KindergartenData
-5553,7082803,San Diego,PRIVATE,Spring Valley,HEARTLAND CHRTN. HOMESCH.  CTR.,16.0,12.0,75.0,Y,KindergartenData
-5554,6975908,San Diego,PRIVATE,Spring Valley,SANTA SOPHIA ACAD.,19.0,18.0,94.73684211,Y,KindergartenData
-5555,6913644,San Diego,PRIVATE,Spring Valley,TRINITY CHRTN.,12.0,11.0,91.66666667,Y,KindergartenData
+5553,7082803,San Diego,PRIVATE,Spring Valley (San Diego County),HEARTLAND CHRTN. HOMESCH.  CTR.,16.0,12.0,75.0,Y,KindergartenData
+5554,6975908,San Diego,PRIVATE,Spring Valley (San Diego County),SANTA SOPHIA ACAD.,19.0,18.0,94.73684211,Y,KindergartenData
+5555,6913644,San Diego,PRIVATE,Spring Valley (San Diego County),TRINITY CHRTN.,12.0,11.0,91.66666667,Y,KindergartenData
 5556,6206643,San Diego,PRIVATE,Vista,ALL SAINTS PRESCHOOL AND KINDERGARTEN,15.0,15.0,100.0,Y,KindergartenData
 5557,7079551,San Diego,PRIVATE,Vista,CALVARY CHRISTIAN SCHOOL,13.0,9.0,69.23076923,Y,KindergartenData
 5558,6140347,San Diego,PRIVATE,Vista,CALVARY CHRISTIAN SCHOOL PRIVATE SCHOOL SATELLITE,13.0,9.0,69.23076923,Y,KindergartenData
@@ -5778,21 +5778,21 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 5864,6043012,San Luis Obispo,PUBLIC,Arroyo Grande,BRANCH ELEM.,37.0,36.0,97.2972973,Y,KindergartenData
 5865,6043053,San Luis Obispo,PUBLIC,Arroyo Grande,HARLOE ELEM.,89.0,85.0,95.50561798,Y,KindergartenData
 5866,6043087,San Luis Obispo,PUBLIC,Arroyo Grande,OCEAN VIEW ELEM.,76.0,64.0,84.21052632,Y,KindergartenData
-5867,6043038,San Luis Obispo,PUBLIC,Grover City,GROVER BEACH ELEM.,88.0,85.0,96.59090909,Y,KindergartenData
-5868,6043046,San Luis Obispo,PUBLIC,Grover City,GROVER HEIGHTS ELEM.,51.0,42.0,82.35294118,Y,KindergartenData
+5867,6043038,San Luis Obispo,PUBLIC,Grover Beach,GROVER BEACH ELEM.,88.0,85.0,96.59090909,Y,KindergartenData
+5868,6043046,San Luis Obispo,PUBLIC,Grover Beach,GROVER HEIGHTS ELEM.,51.0,42.0,82.35294118,Y,KindergartenData
 5869,6043129,San Luis Obispo,PUBLIC,Nipomo,DANA ELEMENTARY,94.0,92.0,97.87234043,Y,KindergartenData
 5870,110486,San Luis Obispo,PUBLIC,Nipomo,LANGE (DOROTHEA) ELEMENTARY,76.0,75.0,98.68421053,Y,KindergartenData
 5871,6043061,San Luis Obispo,PUBLIC,Nipomo,NIPOMO ELEM.,58.0,51.0,87.93103448,Y,KindergartenData
 5872,6043079,San Luis Obispo,PUBLIC,Oceano,FAIRGROVE ELEMENTARY,78.0,75.0,96.15384615,Y,KindergartenData
 5873,6043095,San Luis Obispo,PUBLIC,Oceano,OCEANO ELEM.,77.0,73.0,94.80519481,Y,KindergartenData
 5874,6043111,San Luis Obispo,PUBLIC,Pismo Beach,SHELL BEACH ELEM.,50.0,49.0,98.0,Y,KindergartenData
-5875,6043145,San Luis Obispo,PUBLIC,Paso Robles,BAUER-SPECK ELEM.,103.0,75.0,72.81553398,Y,KindergartenData
-5876,6043137,San Luis Obispo,PUBLIC,Paso Robles,BROWN (GEORGIA) ELEM.,96.0,72.0,75.0,Y,KindergartenData
-5877,6109151,San Luis Obispo,PUBLIC,Paso Robles,BUTLER (PAT) ELEM.,90.0,79.0,87.77777778,Y,KindergartenData
-5878,4030243,San Luis Obispo,PUBLIC,Paso Robles,KERMIT KING ELEMENTARY,61.0,60.0,98.36065574,Y,KindergartenData
-5879,6108377,San Luis Obispo,PUBLIC,Paso Robles,PETERSON (VIRGINIA) ELEM.,92.0,82.0,89.13043478,Y,KindergartenData
-5880,6043160,San Luis Obispo,PUBLIC,Paso Robles,PIFER (WINFRED) ELEM.,90.0,61.0,67.77777778,Y,KindergartenData
-5881,6043186,San Luis Obispo,PUBLIC,San Miguel,PLEASANT VALLEY ELEM.,12.0,12.0,100.0,Y,KindergartenData
+5875,6043145,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),BAUER-SPECK ELEM.,103.0,75.0,72.81553398,Y,KindergartenData
+5876,6043137,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),BROWN (GEORGIA) ELEM.,96.0,72.0,75.0,Y,KindergartenData
+5877,6109151,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),BUTLER (PAT) ELEM.,90.0,79.0,87.77777778,Y,KindergartenData
+5878,4030243,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),KERMIT KING ELEMENTARY,61.0,60.0,98.36065574,Y,KindergartenData
+5879,6108377,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),PETERSON (VIRGINIA) ELEM.,92.0,82.0,89.13043478,Y,KindergartenData
+5880,6043160,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),PIFER (WINFRED) ELEM.,90.0,61.0,67.77777778,Y,KindergartenData
+5881,6043186,San Luis Obispo,PUBLIC,San Miguel (San Luis Obispo County),PLEASANT VALLEY ELEM.,12.0,12.0,100.0,Y,KindergartenData
 5882,6096325,San Luis Obispo,PUBLIC,Los Osos,BAYWOOD ELEM.,64.0,60.0,93.75,Y,KindergartenData
 5883,6110621,San Luis Obispo,PUBLIC,Los Osos,MONARCH GROVE,53.0,43.0,81.13207547,Y,KindergartenData
 5884,6043210,San Luis Obispo,PUBLIC,Morro Bay,DEL MAR ELEM.,68.0,59.0,86.76470588,Y,KindergartenData
@@ -5803,16 +5803,16 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 5889,6043269,San Luis Obispo,PUBLIC,San Luis Obispo,PACHECO ELEM.,88.0,79.0,89.77272727,Y,KindergartenData
 5890,6043285,San Luis Obispo,PUBLIC,San Luis Obispo,SINSHEIMER ELEM.,58.0,55.0,94.82758621,Y,KindergartenData
 5891,6043202,San Luis Obispo,PUBLIC,San Luis Obispo,SMITH (C. L.) ELEM.,53.0,52.0,98.11320755,Y,KindergartenData
-5892,108522,San Luis Obispo,PUBLIC,Paso Robles,CULVER (CAPPY) ELEMENTARY,24.0,21.0,87.5,Y,KindergartenData
-5893,6043319,San Luis Obispo,PUBLIC,San Miguel,LARSEN (LILLIAN) ELEMENTARY,48.0,45.0,93.75,Y,KindergartenData
+5892,108522,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),CULVER (CAPPY) ELEMENTARY,24.0,21.0,87.5,Y,KindergartenData
+5893,6043319,San Luis Obispo,PUBLIC,San Miguel (San Luis Obispo County),LARSEN (LILLIAN) ELEMENTARY,48.0,45.0,93.75,Y,KindergartenData
 5894,6043343,San Luis Obispo,PUBLIC,Shandon,SHANDON ELEM.,24.0,24.0,100.0,Y,KindergartenData
 5895,6043350,San Luis Obispo,PUBLIC,Templeton,TEMPLETON ELEM.,180.0,162.0,90.0,Y,KindergartenData
 5896,6978423,San Luis Obispo,PRIVATE,Arroyo Grande,COASTAL CHRISTIAN SCHOOL,22.0,16.0,72.72727273,Y,KindergartenData
 5897,6978456,San Luis Obispo,PRIVATE,Arroyo Grande,SAINT PATRICK'S CATHOLIC ELEM.,28.0,27.0,96.42857143,Y,KindergartenData
 5898,7040066,San Luis Obispo,PRIVATE,Atascadero,CHILDREN'S HOUSE MONTESSORI,14.0,12.0,85.71428571,Y,KindergartenData
 5899,6999411,San Luis Obispo,PRIVATE,Atascadero,NORTH COUNTY CHRTN. ELEM.,19.0,18.0,94.73684211,Y,KindergartenData
-5900,6978464,San Luis Obispo,PRIVATE,Paso Robles,ST. ROSE OF LIMA,21.0,20.0,95.23809524,Y,KindergartenData
-5901,6978472,San Luis Obispo,PRIVATE,Paso Robles,TRINITY LUTHERAN,29.0,28.0,96.55172414,Y,KindergartenData
+5900,6978464,San Luis Obispo,PRIVATE,El Paso de Robles (Paso Robles),ST. ROSE OF LIMA,21.0,20.0,95.23809524,Y,KindergartenData
+5901,6978472,San Luis Obispo,PRIVATE,El Paso de Robles (Paso Robles),TRINITY LUTHERAN,29.0,28.0,96.55172414,Y,KindergartenData
 5902,6999403,San Luis Obispo,PRIVATE,San Luis Obispo,MONTESSORI CHILDREN'S,18.0,15.0,83.33333333,Y,KindergartenData
 5903,6978431,San Luis Obispo,PRIVATE,San Luis Obispo,OLD MISSION,28.0,27.0,96.42857143,Y,KindergartenData
 5904,7070428,San Luis Obispo,PRIVATE,San Luis Obispo,SAN LUIS OBISPO CHRISTIAN SCHOOL,10.0,9.0,90.0,Y,KindergartenData
@@ -5866,7 +5866,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 5952,6044069,San Mateo,PUBLIC,Pacifica,SUNSET RIDGE ELEMENTARY,117.0,104.0,88.88888889,Y,KindergartenData
 5953,6044051,San Mateo,PUBLIC,Pacifica,VALLEMAR ELEM.,60.0,60.0,100.0,Y,KindergartenData
 5954,6044283,San Mateo,PUBLIC,Portola Valley,ORMONDALE ELEM.,77.0,71.0,92.20779221,Y,KindergartenData
-5955,6044341,San Mateo,PUBLIC,E. Palo Alto,GREEN OAKS ACAD.,96.0,96.0,100.0,Y,KindergartenData
+5955,6044341,San Mateo,PUBLIC,East Palo Alto,GREEN OAKS ACAD.,96.0,96.0,100.0,Y,KindergartenData
 5956,6044317,San Mateo,PUBLIC,East Palo Alto,BRENTWOOD OAKS ELEM.,96.0,95.0,98.95833333,Y,KindergartenData
 5957,6044325,San Mateo,PUBLIC,East Palo Alto,COSTANO ELEM.,72.0,72.0,100.0,Y,KindergartenData
 5958,6114953,San Mateo,PUBLIC,East Palo Alto,EAST PALO ALTO CHARTER,72.0,72.0,100.0,Y,KindergartenData
@@ -5917,12 +5917,12 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 6003,6068282,San Mateo,PUBLIC,Daly City,JUNIPERO SERRA ELEM.,48.0,48.0,100.0,Y,KindergartenData
 6004,6045132,San Mateo,PUBLIC,Daly City,SKYLINE ELEM.,68.0,67.0,98.52941176,Y,KindergartenData
 6005,6045108,San Mateo,PUBLIC,San Bruno,MONTE VERDE ELEM.,92.0,91.0,98.91304348,Y,KindergartenData
-6006,6045041,San Mateo,PUBLIC,So. San Francisco,BURI BURI ELEM.,94.0,93.0,98.93617021,Y,KindergartenData
-6007,6045082,San Mateo,PUBLIC,So. San Francisco,LOS CERRITOS ELEM.,51.0,51.0,100.0,Y,KindergartenData
-6008,6045090,San Mateo,PUBLIC,So. San Francisco,MARTIN ELEM.,74.0,74.0,100.0,Y,KindergartenData
-6009,6045116,San Mateo,PUBLIC,So. San Francisco,PONDEROSA ELEM.,74.0,71.0,95.94594595,Y,KindergartenData
-6010,6045140,San Mateo,PUBLIC,So. San Francisco,SPRUCE ELEM.,126.0,125.0,99.20634921,Y,KindergartenData
-6011,6045157,San Mateo,PUBLIC,So. San Francisco,SUNSHINE GARDENS ELEM.,72.0,71.0,98.61111111,Y,KindergartenData
+6006,6045041,San Mateo,PUBLIC,South San Francisco,BURI BURI ELEM.,94.0,93.0,98.93617021,Y,KindergartenData
+6007,6045082,San Mateo,PUBLIC,South San Francisco,LOS CERRITOS ELEM.,51.0,51.0,100.0,Y,KindergartenData
+6008,6045090,San Mateo,PUBLIC,South San Francisco,MARTIN ELEM.,74.0,74.0,100.0,Y,KindergartenData
+6009,6045116,San Mateo,PUBLIC,South San Francisco,PONDEROSA ELEM.,74.0,71.0,95.94594595,Y,KindergartenData
+6010,6045140,San Mateo,PUBLIC,South San Francisco,SPRUCE ELEM.,126.0,125.0,99.20634921,Y,KindergartenData
+6011,6045157,San Mateo,PUBLIC,South San Francisco,SUNSHINE GARDENS ELEM.,72.0,71.0,98.61111111,Y,KindergartenData
 6012,6045165,San Mateo,PUBLIC,Woodside,WOODSIDE ELEM.,40.0,40.0,100.0,Y,KindergartenData
 6013,6978860,San Mateo,PRIVATE,Atherton,SACRED HEART SCHOOLS - KINDERGARTEN,49.0,47.0,95.91836735,Y,KindergartenData
 6014,6978530,San Mateo,PRIVATE,Belmont,BELMONT OAKS ACAD.,57.0,55.0,96.49122807,Y,KindergartenData
@@ -5969,14 +5969,14 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 6055,6978878,San Mateo,PRIVATE,San Mateo,SAINT MATTHEW CATHOLIC SCH.,61.0,57.0,93.44262295,Y,KindergartenData
 6056,6978886,San Mateo,PRIVATE,San Mateo,ST. MATTHEW'S EPISCOPAL DAY,22.0,22.0,100.0,Y,KindergartenData
 6057,6978928,San Mateo,PRIVATE,San Mateo,ST. TIMOTHY'S,31.0,31.0,100.0,Y,KindergartenData
-6058,6978498,San Mateo,PRIVATE,So. San Francisco,ALL SOULS CATH,31.0,31.0,100.0,Y,KindergartenData
-6059,6978936,San Mateo,PRIVATE,So. San Francisco,ST. VERONICA'S,27.0,27.0,100.0,Y,KindergartenData
+6058,6978498,San Mateo,PRIVATE,South San Francisco,ALL SOULS CATH,31.0,31.0,100.0,Y,KindergartenData
+6059,6978936,San Mateo,PRIVATE,South San Francisco,ST. VERONICA'S,27.0,27.0,100.0,Y,KindergartenData
 6060,6202816,San Mateo,PRIVATE,South San Francisco,HILLSIDECHRISTIAN ACADEMY,24.0,24.0,100.0,Y,KindergartenData
 6061,7063662,San Mateo,PRIVATE,South San Francisco,MILLS MONTESSORI,20.0,11.0,55.0,Y,KindergartenData
 6062,6045256,Santa Barbara,PUBLIC,Solvang,BALLARD,13.0,8.0,61.53846154,Y,KindergartenData
 6063,6045264,Santa Barbara,PUBLIC,Santa Maria,BENJAMIN FOXEN ELEM.,22.0,21.0,95.45454545,Y,KindergartenData
 6064,6119804,Santa Barbara,PUBLIC,Buellton,OAK VALLEY ELEMENTARY,88.0,83.0,94.31818182,Y,KindergartenData
-6065,102129,Santa Barbara,PUBLIC,Carpenteria,CARPINTERIA FAMILY SCHOOL,13.0,7.0,53.84615385,Y,KindergartenData
+6065,102129,Santa Barbara,PUBLIC,Carpinteria,CARPINTERIA FAMILY SCHOOL,13.0,7.0,53.84615385,Y,KindergartenData
 6066,6045298,Santa Barbara,PUBLIC,Carpinteria,ALISO ELEMENTARY,100.0,98.0,98.0,Y,KindergartenData
 6067,6045306,Santa Barbara,PUBLIC,Carpinteria,CANALINO ELEM.,84.0,81.0,96.42857143,Y,KindergartenData
 6068,6045348,Santa Barbara,PUBLIC,Santa Barbara,COLD SPRING ELEM.,21.0,17.0,80.95238095,Y,KindergartenData
@@ -6565,9 +6565,9 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 6653,6100754,Solano,PUBLIC,Suisun City,SUISUN ELEM.,90.0,85.0,94.44444444,Y,KindergartenData
 6654,122267,Solano,PUBLIC,Dixon,DIXON MONTESSORI CHARTER,46.0,42.0,91.30434783,Y,KindergartenData
 6655,6069538,Solano,PUBLIC,Fairfield,SPECIAL EDUCATION,20.0,18.0,90.0,Y,KindergartenData
-6656,6051254,Solano,PUBLIC,Fairfield Ca,CTR. ELEM.,47.0,44.0,93.61702128,Y,KindergartenData
-6657,6068290,Solano,PUBLIC,Travis AFB,SCANDIA ELEM.,84.0,81.0,96.42857143,Y,KindergartenData
-6658,6051270,Solano,PUBLIC,Travis AFB,TRAVIS ELEM.,100.0,91.0,91.0,Y,KindergartenData
+6656,6051254,Solano,PUBLIC,Fairfield,CTR. ELEM.,47.0,44.0,93.61702128,Y,KindergartenData
+6657,6068290,Solano,PUBLIC,Fairfield,SCANDIA ELEM.,84.0,81.0,96.42857143,Y,KindergartenData
+6658,6051270,Solano,PUBLIC,Fairfield,TRAVIS ELEM.,100.0,91.0,91.0,Y,KindergartenData
 6659,6103154,Solano,PUBLIC,Vacaville,CAMBRIDGE,104.0,91.0,87.5,Y,KindergartenData
 6660,6111652,Solano,PUBLIC,Vacaville,FOXBORO ELEM.,103.0,99.0,96.11650485,Y,KindergartenData
 6661,6051288,Solano,PUBLIC,Vacaville,ALAMO ELEM.,66.0,64.0,96.96969697,Y,KindergartenData
@@ -6911,7 +6911,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 6999,6054183,Tulare,PUBLIC,Visalia,OUTSIDE CREEK SCH.,10.0,10.0,100.0,Y,KindergartenData
 7000,6054191,Tulare,PUBLIC,Tulare,PALO VERDE ELEM.,64.0,54.0,84.375,Y,KindergartenData
 7001,6054209,Tulare,PUBLIC,Pixley,PIXLEY ELEM.,167.0,166.0,99.40119759999999,Y,KindergartenData
-7002,6054217,Tulare,PUBLIC,Poplar,PLEASANT VIEW ELEM.,77.0,73.0,94.80519481,Y,KindergartenData
+7002,6054217,Tulare,PUBLIC,Poplar-Cotton Center,PLEASANT VIEW ELEM.,77.0,73.0,94.80519481,Y,KindergartenData
 7003,6054233,Tulare,PUBLIC,Porterville,BELLEVIEW ELEM.,82.0,80.0,97.56097561,Y,KindergartenData
 7004,6054241,Tulare,PUBLIC,Porterville,JOHN J. DOYLE ELEM.,100.0,98.0,98.0,Y,KindergartenData
 7005,6107379,Tulare,PUBLIC,Porterville,LOS ROBLES ELEM.,75.0,75.0,100.0,Y,KindergartenData
@@ -7062,7 +7062,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 7150,6055388,Ventura,PUBLIC,Oxnard,SIERRA LINDA ELEM.,82.0,82.0,100.0,Y,KindergartenData
 7151,100362,Ventura,PUBLIC,Oxnard,THURGOOD MARSHAL ELEM.,116.0,107.0,92.24137931,Y,KindergartenData
 7152,115105,Ventura,PUBLIC,Camarillo,CAMARILLO ACADEMY OF PROG. EDUC,60.0,59.0,98.33333333,Y,KindergartenData
-7153,6120620,Ventura,PUBLIC,Camarilla,UNIVERSITY PREPARATION,83.0,74.0,89.15662651,Y,KindergartenData
+7153,6120620,Ventura,PUBLIC,Camarillo,UNIVERSITY PREPARATION,83.0,74.0,89.15662651,Y,KindergartenData
 7154,6055396,Ventura,PUBLIC,Camarillo,CAMARILLO HEIGHTS ELEM.,76.0,60.0,78.94736842,Y,KindergartenData
 7155,6055404,Ventura,PUBLIC,Camarillo,DOS CAMINOS ELEM.,65.0,56.0,86.15384615,Y,KindergartenData
 7156,6055412,Ventura,PUBLIC,Camarillo,EL DESCANSO ELEM.,72.0,71.0,98.61111111,Y,KindergartenData
@@ -7156,7 +7156,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 7245,6908586,Ventura,PRIVATE,Simi Valley,GRACE BRETHREN SCH.,82.0,78.0,95.12195122,Y,KindergartenData
 7246,7071830,Ventura,PRIVATE,Simi Valley,PHOENIX RANCH SCHOOL,29.0,12.0,41.37931034,Y,KindergartenData
 7247,6904155,Ventura,PRIVATE,Simi Valley,PINECREST SCH. - SIMI VALLEY,17.0,16.0,94.11764706,Y,KindergartenData
-7248,7060536,Ventura,PRIVATE,Thousand Oak,TRINITY PACIFIC CHRTN.,32.0,17.0,53.125,Y,KindergartenData
+7248,7060536,Ventura,PRIVATE,Thousand Oaks,TRINITY PACIFIC CHRTN.,32.0,17.0,53.125,Y,KindergartenData
 7249,6984298,Ventura,PRIVATE,Thousand Oaks,ASCENSION LUTHERAN SCH.,18.0,16.0,88.88888889,Y,KindergartenData
 7250,6996466,Ventura,PRIVATE,Thousand Oaks,BETHANY CHRTN. KDGN.,19.0,13.0,68.42105263,Y,KindergartenData
 7251,6908560,Ventura,PRIVATE,Thousand Oaks,FIRST BAPTIST ACAD.,11.0,11.0,100.0,Y,KindergartenData
@@ -7171,7 +7171,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 7260,6984389,Ventura,PRIVATE,San Buenaventura (Ventura),OUR LADY OF THE ASSUMPTION,30.0,24.0,80.0,Y,KindergartenData
 7261,6912414,Ventura,PRIVATE,San Buenaventura (Ventura),SACRED HEART SCH.,26.0,26.0,100.0,Y,KindergartenData
 7262,6912422,Ventura,PRIVATE,San Buenaventura (Ventura),VENTURA MISSIONARY,43.0,40.0,93.02325581,Y,KindergartenData
-7263,6984306,Ventura,PRIVATE,Westlake,CARDEN CONEJO,32.0,32.0,100.0,Y,KindergartenData
+7263,6984306,Ventura,PRIVATE,Westlake Village,CARDEN CONEJO,32.0,32.0,100.0,Y,KindergartenData
 7264,7099765,Ventura,PRIVATE,Westlake Village,"MONTESSORI ONE, INC.",13.0,13.0,100.0,Y,KindergartenData
 7265,6056246,Yolo,PUBLIC,Davis,BIRCH LANE ELEM.,96.0,87.0,90.625,Y,KindergartenData
 7266,6056295,Yolo,PUBLIC,Davis,CESAR CHAVEZ ELEM.,102.0,98.0,96.07843137,Y,KindergartenData
@@ -7231,7 +7231,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 7320,114652,Yuba,PUBLIC,Plumas Lake,COBBLESTONE ELEM.,58.0,53.0,91.37931034,Y,KindergartenData
 7321,107375,Yuba,PUBLIC,Plumas Lake,RIO DEL ORO ELEM.,97.0,86.0,88.65979381,Y,KindergartenData
 7322,6118806,Yuba,PUBLIC,Beale AFB,WHEATLAND CHARTER ACADEMY,20.0,18.0,90.0,Y,KindergartenData
-7323,6056832,Yuba,PUBLIC,"Beale Afb, Ca",LONE TREE ELEM.,82.0,78.0,95.12195122,Y,KindergartenData
+7323,6056832,Yuba,PUBLIC,Beale AFB,LONE TREE ELEM.,82.0,78.0,95.12195122,Y,KindergartenData
 7324,6056840,Yuba,PUBLIC,Wheatland,WHEATLAND ELEM.,86.0,82.0,95.34883721,Y,KindergartenData
 7325,6069249,Yuba,PUBLIC,Marysville,SPECIAL EDUCATION,14.0,13.0,92.85714286,Y,KindergartenData
 0,122085,Alameda,PUBLIC,Alameda,ACADEMY OF ALAMEDA,142.0,140.0,98.59155,Y,7thGradeData
@@ -8434,8 +8434,8 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 1203,732941,Contra Costa,PUBLIC,El Cerrito,EL CERRITO SENIOR HIGH,342.0,338.0,98.83041,Y,7thGradeData
 1204,6057244,Contra Costa,PUBLIC,El Cerrito,PORTOLA JUNIOR HIGH,250.0,247.0,98.8,Y,7thGradeData
 1205,6057244,Contra Costa,PUBLIC,El Cerrito,PORTOLA JUNIOR HIGH,216.0,214.0,99.07406999999999,Y,7thGradeData
-1206,6061170,Contra Costa,PUBLIC,El Sobrante,CRESPI JUNIOR HIGH,294.0,289.0,98.29932,Y,7thGradeData
-1207,6061170,Contra Costa,PUBLIC,El Sobrante,CRESPI JUNIOR HIGH,287.0,284.0,98.9547,Y,7thGradeData
+1206,6061170,Contra Costa,PUBLIC,El Sobrante (Contra Costa County),CRESPI JUNIOR HIGH,294.0,289.0,98.29932,Y,7thGradeData
+1207,6061170,Contra Costa,PUBLIC,El Sobrante (Contra Costa County),CRESPI JUNIOR HIGH,287.0,284.0,98.9547,Y,7thGradeData
 1208,730598,Contra Costa,PUBLIC,Hercules,HERCULES HIGH,254.0,254.0,100.0,Y,7thGradeData
 1209,730598,Contra Costa,PUBLIC,Hercules,HERCULES HIGH,294.0,294.0,100.0,Y,7thGradeData
 1210,730598,Contra Costa,PUBLIC,Hercules,HERCULES HIGH,236.0,233.0,98.72881,Y,7thGradeData
@@ -8548,13 +8548,13 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 1317,6906713,Contra Costa,PRIVATE,El Cerrito,TEHIYAH DAY SCHOOL,15.0,14.0,93.33333,Y,7thGradeData
 1318,6903991,Contra Costa,PRIVATE,El Cerrito,WINDRUSH SCHOOL,23.0,21.0,91.30435,Y,7thGradeData
 1319,6903991,Contra Costa,PRIVATE,El Cerrito,WINDRUSH SCHOOL,28.0,28.0,100.0,Y,7thGradeData
-1320,6918619,Contra Costa,PRIVATE,El Sobrante,EAST BAY WALDORF SCHOOL,14.0,9.0,64.28571,Y,7thGradeData
-1321,6918619,Contra Costa,PRIVATE,El Sobrante,EAST BAY WALDORF SCHOOL,10.0,5.0,50.0,Y,7thGradeData
-1322,6972335,Contra Costa,PRIVATE,El Sobrante,EL SOBRANTE CHRISTIAN SCHOOL,25.0,25.0,100.0,Y,7thGradeData
-1323,6972335,Contra Costa,PRIVATE,El Sobrante,EL SOBRANTE CHRISTIAN SCHOOL,43.0,42.0,97.67442,Y,7thGradeData
-1324,6972335,Contra Costa,PRIVATE,El Sobrante,EL SOBRANTE CHRISTIAN SCHOOL,13.0,13.0,100.0,Y,7thGradeData
-1325,6972335,Contra Costa,PRIVATE,El Sobrante,EL SOBRANTE CHRISTIAN SCHOOL,15.0,15.0,100.0,Y,7thGradeData
-1326,6972335,Contra Costa,PRIVATE,El Sobrante,EL SOBRANTE CHRISTIAN SCHOOL,16.0,16.0,100.0,Y,7thGradeData
+1320,6918619,Contra Costa,PRIVATE,El Sobrante (Contra Costa County),EAST BAY WALDORF SCHOOL,14.0,9.0,64.28571,Y,7thGradeData
+1321,6918619,Contra Costa,PRIVATE,El Sobrante (Contra Costa County),EAST BAY WALDORF SCHOOL,10.0,5.0,50.0,Y,7thGradeData
+1322,6972335,Contra Costa,PRIVATE,El Sobrante (Contra Costa County),EL SOBRANTE CHRISTIAN SCHOOL,25.0,25.0,100.0,Y,7thGradeData
+1323,6972335,Contra Costa,PRIVATE,El Sobrante (Contra Costa County),EL SOBRANTE CHRISTIAN SCHOOL,43.0,42.0,97.67442,Y,7thGradeData
+1324,6972335,Contra Costa,PRIVATE,El Sobrante (Contra Costa County),EL SOBRANTE CHRISTIAN SCHOOL,13.0,13.0,100.0,Y,7thGradeData
+1325,6972335,Contra Costa,PRIVATE,El Sobrante (Contra Costa County),EL SOBRANTE CHRISTIAN SCHOOL,15.0,15.0,100.0,Y,7thGradeData
+1326,6972335,Contra Costa,PRIVATE,El Sobrante (Contra Costa County),EL SOBRANTE CHRISTIAN SCHOOL,16.0,16.0,100.0,Y,7thGradeData
 1327,7098544,Contra Costa,PRIVATE,Lafayette,BENTLEY UPPER,36.0,36.0,100.0,Y,7thGradeData
 1328,7098544,Contra Costa,PRIVATE,Lafayette,BENTLEY UPPER,42.0,42.0,100.0,Y,7thGradeData
 1329,7098544,Contra Costa,PRIVATE,Lafayette,BENTLEY UPPER,77.0,76.0,98.7013,Y,7thGradeData
@@ -9016,7 +9016,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 1785,6006647,Fresno,PUBLIC,Helm,HELM ELEM.,14.0,14.0,100.0,Y,7thGradeData
 1786,6007223,Fresno,PUBLIC,San Joaquin,SAN JOAQUIN ELEM.,73.0,73.0,100.0,Y,7thGradeData
 1787,6007223,Fresno,PUBLIC,San Joaquin,SAN JOAQUIN ELEM.,75.0,75.0,100.0,Y,7thGradeData
-1788,1030352,Fresno,PUBLIC,Tranquility,RIO DEL REY HIGH (CONTINUATION),13.0,7.0,53.84615,Y,7thGradeData
+1788,1030352,Fresno,PUBLIC,Tranquillity,RIO DEL REY HIGH (CONTINUATION),13.0,7.0,53.84615,Y,7thGradeData
 1789,6007397,Fresno,PUBLIC,Tranquillity,TRANQUILITY ELEM.,22.0,22.0,100.0,Y,7thGradeData
 1790,6007397,Fresno,PUBLIC,Tranquillity,TRANQUILITY ELEM.,27.0,27.0,100.0,Y,7thGradeData
 1791,1037456,Fresno,PUBLIC,Tranquillity,TRANQUILLITY HIGH,129.0,129.0,100.0,Y,7thGradeData
@@ -9306,7 +9306,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 2075,1232909,Humboldt,PUBLIC,Ferndale,FERNDALE HIGH,36.0,34.0,94.44444,Y,7thGradeData
 2076,1232909,Humboldt,PUBLIC,Ferndale,FERNDALE HIGH,36.0,31.0,86.11111,Y,7thGradeData
 2077,1232909,Humboldt,PUBLIC,Ferndale,FERNDALE HIGH,35.0,29.0,82.85714,Y,7thGradeData
-2078,6007850,Humboldt,PUBLIC,Mckinleyville,FIELDBROOK ELEMENTARY,16.0,13.0,81.25,Y,7thGradeData
+2078,6007850,Humboldt,PUBLIC,McKinleyville,FIELDBROOK ELEMENTARY,16.0,13.0,81.25,Y,7thGradeData
 2079,6007868,Humboldt,PUBLIC,Fortuna,FORTUNA MIDDLE,78.0,75.0,96.15385,Y,7thGradeData
 2080,6007868,Humboldt,PUBLIC,Fortuna,FORTUNA MIDDLE,78.0,76.0,97.4359,Y,7thGradeData
 2081,108688,Humboldt,PUBLIC,Eureka,ACADEMY OF THE REDWOODS,58.0,51.0,87.93103,Y,7thGradeData
@@ -9357,8 +9357,8 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 2126,1230135,Humboldt,PUBLIC,Petrolia,MATTOLE VALLEY CHARTER (#159),48.0,12.0,25.0,Y,7thGradeData
 2127,1230135,Humboldt,PUBLIC,Petrolia,MATTOLE VALLEY CHARTER (#159),69.0,18.0,26.08696,Y,7thGradeData
 2128,1230135,Humboldt,PUBLIC,Petrolia,MATTOLE VALLEY CHARTER (#159),79.0,18.0,22.78481,Y,7thGradeData
-2129,6008064,Humboldt,PUBLIC,Mckinleyville,MCKINLEYVILLE MIDDLE,114.0,108.0,94.73684,Y,7thGradeData
-2130,6008064,Humboldt,PUBLIC,Mckinleyville,MCKINLEYVILLE MIDDLE,136.0,129.0,94.85294,Y,7thGradeData
+2129,6008064,Humboldt,PUBLIC,McKinleyville,MCKINLEYVILLE MIDDLE,114.0,108.0,94.73684,Y,7thGradeData
+2130,6008064,Humboldt,PUBLIC,McKinleyville,MCKINLEYVILLE MIDDLE,136.0,129.0,94.85294,Y,7thGradeData
 2131,1230705,Humboldt,PUBLIC,Arcata,ARCATA HIGH,239.0,233.0,97.48954,Y,7thGradeData
 2132,1230705,Humboldt,PUBLIC,Arcata,ARCATA HIGH,183.0,176.0,96.17486,Y,7thGradeData
 2133,1230705,Humboldt,PUBLIC,Arcata,ARCATA HIGH,188.0,177.0,94.14894,Y,7thGradeData
@@ -9369,12 +9369,12 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 2138,107110,Humboldt,PUBLIC,Arcata,SIX RIVERS CHARTER HIGH,26.0,19.0,73.07692,Y,7thGradeData
 2139,107110,Humboldt,PUBLIC,Arcata,SIX RIVERS CHARTER HIGH,24.0,19.0,79.16667,Y,7thGradeData
 2140,107110,Humboldt,PUBLIC,Arcata,SIX RIVERS CHARTER HIGH,18.0,16.0,88.88889,Y,7thGradeData
-2141,1235209,Humboldt,PUBLIC,Mckinleyville,MCKINLEYVILLE HIGH,143.0,134.0,93.70629,Y,7thGradeData
-2142,1235209,Humboldt,PUBLIC,Mckinleyville,MCKINLEYVILLE HIGH,155.0,144.0,92.90323000000001,Y,7thGradeData
-2143,1235209,Humboldt,PUBLIC,Mckinleyville,MCKINLEYVILLE HIGH,152.0,144.0,94.73684,Y,7thGradeData
-2144,1235209,Humboldt,PUBLIC,Mckinleyville,MCKINLEYVILLE HIGH,147.0,138.0,93.87755,Y,7thGradeData
-2145,1230051,Humboldt,PUBLIC,Mckinleyville,TSURAI HIGH (CONTINUATION),10.0,10.0,100.0,Y,7thGradeData
-2146,1230051,Humboldt,PUBLIC,Mckinleyville,TSURAI HIGH (CONTINUATION),21.0,19.0,90.47619,Y,7thGradeData
+2141,1235209,Humboldt,PUBLIC,McKinleyville,MCKINLEYVILLE HIGH,143.0,134.0,93.70629,Y,7thGradeData
+2142,1235209,Humboldt,PUBLIC,McKinleyville,MCKINLEYVILLE HIGH,155.0,144.0,92.90323000000001,Y,7thGradeData
+2143,1235209,Humboldt,PUBLIC,McKinleyville,MCKINLEYVILLE HIGH,152.0,144.0,94.73684,Y,7thGradeData
+2144,1235209,Humboldt,PUBLIC,McKinleyville,MCKINLEYVILLE HIGH,147.0,138.0,93.87755,Y,7thGradeData
+2145,1230051,Humboldt,PUBLIC,McKinleyville,TSURAI HIGH (CONTINUATION),10.0,10.0,100.0,Y,7thGradeData
+2146,1230051,Humboldt,PUBLIC,McKinleyville,TSURAI HIGH (CONTINUATION),21.0,19.0,90.47619,Y,7thGradeData
 2147,6008098,Humboldt,PUBLIC,Arcata,PACIFIC UNION ELEMENTARY,76.0,71.0,93.42105,Y,7thGradeData
 2148,6008098,Humboldt,PUBLIC,Arcata,PACIFIC UNION ELEMENTARY,58.0,57.0,98.27586,Y,7thGradeData
 2149,6008122,Humboldt,PUBLIC,Rio Dell,MONUMENT MIDDLE,34.0,32.0,94.11765,Y,7thGradeData
@@ -9751,17 +9751,17 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 2520,6121024,Kern,PUBLIC,Simi Valley,CALIFORNIA VIRTUAL ACADEMY @ KERN,50.0,37.0,74.0,Y,7thGradeData
 2521,6121024,Kern,PUBLIC,Simi Valley,CALIFORNIA VIRTUAL ACADEMY @ KERN,47.0,34.0,72.34043,Y,7thGradeData
 2522,6121024,Kern,PUBLIC,Simi Valley,CALIFORNIA VIRTUAL ACADEMY @ KERN,33.0,24.0,72.72726999999999,Y,7thGradeData
-2523,1534155,Kern,PUBLIC,Mcfarland,MCFARLAND HIGH,224.0,224.0,100.0,Y,7thGradeData
-2524,1534155,Kern,PUBLIC,Mcfarland,MCFARLAND HIGH,203.0,203.0,100.0,Y,7thGradeData
-2525,1534155,Kern,PUBLIC,Mcfarland,MCFARLAND HIGH,167.0,167.0,100.0,Y,7thGradeData
-2526,1534155,Kern,PUBLIC,Mcfarland,MCFARLAND HIGH,184.0,184.0,100.0,Y,7thGradeData
-2527,1530229,Kern,PUBLIC,Mcfarland,MCFARLAND INDEPENDENT,13.0,13.0,100.0,Y,7thGradeData
-2528,6106306,Kern,PUBLIC,Mcfarland,MCFARLAND MIDDLE,234.0,234.0,100.0,Y,7thGradeData
-2529,6106306,Kern,PUBLIC,Mcfarland,MCFARLAND MIDDLE,209.0,209.0,100.0,Y,7thGradeData
-2530,1530146,Kern,PUBLIC,Mcfarland,SAN JOAQUIN HIGH (CONTINUATION),13.0,13.0,100.0,Y,7thGradeData
-2531,1530146,Kern,PUBLIC,Mcfarland,SAN JOAQUIN HIGH (CONTINUATION),22.0,22.0,100.0,Y,7thGradeData
-2532,1530146,Kern,PUBLIC,Mcfarland,SAN JOAQUIN HIGH (CONTINUATION),18.0,18.0,100.0,Y,7thGradeData
-2533,6009773,Kern,PUBLIC,Mckittrick,MCKITTRICK ELEMENTARY,10.0,9.0,90.0,Y,7thGradeData
+2523,1534155,Kern,PUBLIC,McFarland,MCFARLAND HIGH,224.0,224.0,100.0,Y,7thGradeData
+2524,1534155,Kern,PUBLIC,McFarland,MCFARLAND HIGH,203.0,203.0,100.0,Y,7thGradeData
+2525,1534155,Kern,PUBLIC,McFarland,MCFARLAND HIGH,167.0,167.0,100.0,Y,7thGradeData
+2526,1534155,Kern,PUBLIC,McFarland,MCFARLAND HIGH,184.0,184.0,100.0,Y,7thGradeData
+2527,1530229,Kern,PUBLIC,McFarland,MCFARLAND INDEPENDENT,13.0,13.0,100.0,Y,7thGradeData
+2528,6106306,Kern,PUBLIC,McFarland,MCFARLAND MIDDLE,234.0,234.0,100.0,Y,7thGradeData
+2529,6106306,Kern,PUBLIC,McFarland,MCFARLAND MIDDLE,209.0,209.0,100.0,Y,7thGradeData
+2530,1530146,Kern,PUBLIC,McFarland,SAN JOAQUIN HIGH (CONTINUATION),13.0,13.0,100.0,Y,7thGradeData
+2531,1530146,Kern,PUBLIC,McFarland,SAN JOAQUIN HIGH (CONTINUATION),22.0,22.0,100.0,Y,7thGradeData
+2532,1530146,Kern,PUBLIC,McFarland,SAN JOAQUIN HIGH (CONTINUATION),18.0,18.0,100.0,Y,7thGradeData
+2533,6009773,Kern,PUBLIC,McKittrick,MCKITTRICK ELEMENTARY,10.0,9.0,90.0,Y,7thGradeData
 2534,6009781,Kern,PUBLIC,Fellows,MIDWAY ELEMENTARY,11.0,11.0,100.0,Y,7thGradeData
 2535,114512,Kern,PUBLIC,California City,CALIFORNIA CITY HIGH,139.0,136.0,97.84173,Y,7thGradeData
 2536,114512,Kern,PUBLIC,California City,CALIFORNIA CITY HIGH,116.0,115.0,99.13793000000001,Y,7thGradeData
@@ -10408,8 +10408,8 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 3189,1996099,Los Angeles,PUBLIC,Burbank,OPTIONS FOR YOUTH-BURBANK CHARTER,357.0,340.0,95.2381,Y,7thGradeData
 3190,1996099,Los Angeles,PUBLIC,Burbank,OPTIONS FOR YOUTH-BURBANK CHARTER,333.0,315.0,94.59459,Y,7thGradeData
 3191,1996099,Los Angeles,PUBLIC,Burbank,OPTIONS FOR YOUTH-BURBANK CHARTER,231.0,213.0,92.20779,Y,7thGradeData
-3192,6106215,Los Angeles,PUBLIC,Castic,CASTAIC MIDDLE,371.0,367.0,98.92183,Y,7thGradeData
-3193,6106215,Los Angeles,PUBLIC,Castic,CASTAIC MIDDLE,349.0,346.0,99.1404,Y,7thGradeData
+3192,6106215,Los Angeles,PUBLIC,Castaic,CASTAIC MIDDLE,371.0,367.0,98.92183,Y,7thGradeData
+3193,6106215,Los Angeles,PUBLIC,Castaic,CASTAIC MIDDLE,349.0,346.0,99.1404,Y,7thGradeData
 3200,1933951,Los Angeles,PUBLIC,Hawthorne,HAWTHORNE HIGH,541.0,540.0,99.81515999999999,Y,7thGradeData
 3201,1933951,Los Angeles,PUBLIC,Hawthorne,HAWTHORNE HIGH,557.0,557.0,100.0,Y,7thGradeData
 3202,1933951,Los Angeles,PUBLIC,Hawthorne,HAWTHORNE HIGH,427.0,427.0,100.0,Y,7thGradeData
@@ -11885,8 +11885,8 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 4816,117630,Los Angeles,PUBLIC,Los Angeles,MAGNOLIA SCIENCE ACADEMY 5,56.0,55.0,98.21429,Y,7thGradeData
 4817,117630,Los Angeles,PUBLIC,Los Angeles,MAGNOLIA SCIENCE ACADEMY 5,30.0,28.0,93.33333,Y,7thGradeData
 4818,117630,Los Angeles,PUBLIC,Los Angeles,MAGNOLIA SCIENCE ACADEMY 5,12.0,12.0,100.0,Y,7thGradeData
-4819,1931054,Los Angeles,PUBLIC,Marina Del Rey,WESTSIDE LEADERSHIP MAGNET,91.0,91.0,100.0,Y,7thGradeData
-4820,1931054,Los Angeles,PUBLIC,Marina Del Rey,WESTSIDE LEADERSHIP MAGNET,87.0,87.0,100.0,Y,7thGradeData
+4819,1931054,Los Angeles,PUBLIC,Marina del Rey,WESTSIDE LEADERSHIP MAGNET,91.0,91.0,100.0,Y,7thGradeData
+4820,1931054,Los Angeles,PUBLIC,Marina del Rey,WESTSIDE LEADERSHIP MAGNET,87.0,87.0,100.0,Y,7thGradeData
 4821,109462,Los Angeles,PUBLIC,Maywood,MAYWOOD ACADEMY HIGH,501.0,501.0,100.0,Y,7thGradeData
 4822,109462,Los Angeles,PUBLIC,Maywood,MAYWOOD ACADEMY HIGH,251.0,250.0,99.60159,Y,7thGradeData
 4823,109462,Los Angeles,PUBLIC,Maywood,MAYWOOD ACADEMY HIGH,291.0,290.0,99.65635999999999,Y,7thGradeData
@@ -12561,8 +12561,8 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 5534,115725,Los Angeles,PUBLIC,Compton,LIFELINE EDUCATION CHARTER,65.0,65.0,100.0,Y,7thGradeData
 5535,115725,Los Angeles,PUBLIC,Compton,LIFELINE EDUCATION CHARTER,52.0,52.0,100.0,Y,7thGradeData
 5536,115725,Los Angeles,PUBLIC,Compton,LIFELINE EDUCATION CHARTER,38.0,38.0,100.0,Y,7thGradeData
-5537,6120158,Los Angeles,PUBLIC,West Los Angeles,NEW WEST CHARTER MIDDLE,115.0,112.0,97.3913,Y,7thGradeData
-5538,6120158,Los Angeles,PUBLIC,West Los Angeles,NEW WEST CHARTER MIDDLE,108.0,99.0,91.66667,Y,7thGradeData
+5537,6120158,Los Angeles,PUBLIC,Los Angeles,NEW WEST CHARTER MIDDLE,115.0,112.0,97.3913,Y,7thGradeData
+5538,6120158,Los Angeles,PUBLIC,Los Angeles,NEW WEST CHARTER MIDDLE,108.0,99.0,91.66667,Y,7thGradeData
 5539,1996693,Los Angeles,PUBLIC,Pomona,SCHOOL OF ARTS AND ENTERPRISE,91.0,85.0,93.40659000000001,Y,7thGradeData
 5540,1996693,Los Angeles,PUBLIC,Pomona,SCHOOL OF ARTS AND ENTERPRISE,94.0,93.0,98.93616999999999,Y,7thGradeData
 5541,1996693,Los Angeles,PUBLIC,Pomona,SCHOOL OF ARTS AND ENTERPRISE,112.0,105.0,93.75,Y,7thGradeData
@@ -13163,7 +13163,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 6316,7068869,Los Angeles,PRIVATE,Lancaster,PINECREST SCHOOLS - LANCASTER,27.0,26.0,96.2963,Y,7thGradeData
 6317,6963219,Los Angeles,PRIVATE,Lancaster,SACRED HEART ELEMENTARY,33.0,33.0,100.0,Y,7thGradeData
 6318,6963219,Los Angeles,PRIVATE,Lancaster,SACRED HEART ELEMENTARY,36.0,35.0,97.22222,Y,7thGradeData
-6325,6942411,Los Angeles,PRIVATE,"Lancaster, Ca",VINEYARD CHRISTIAN,19.0,17.0,89.47368,Y,7thGradeData
+6325,6942411,Los Angeles,PRIVATE,Lancaster,VINEYARD CHRISTIAN,19.0,17.0,89.47368,Y,7thGradeData
 6338,7067689,Los Angeles,PRIVATE,Lomita,COASTAL ACADEMY,11.0,10.0,90.90909,Y,7thGradeData
 6339,7067689,Los Angeles,PRIVATE,Lomita,COASTAL ACADEMY,13.0,11.0,84.61538,Y,7thGradeData
 6340,7067689,Los Angeles,PRIVATE,Lomita,COASTAL ACADEMY,10.0,8.0,80.0,Y,7thGradeData
@@ -13663,13 +13663,13 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 7002,6964308,Los Angeles,PRIVATE,Palmdale,ST. MARY ELEMENTARY CATHOLIC,30.0,30.0,100.0,Y,7thGradeData
 7003,7024649,Los Angeles,PRIVATE,Palmdale,WESTSIDE CHRISTIAN,28.0,27.0,96.42857,Y,7thGradeData
 7004,7024649,Los Angeles,PRIVATE,Palmdale,WESTSIDE CHRISTIAN,13.0,13.0,100.0,Y,7thGradeData
-7005,7103260,Los Angeles,PRIVATE,"Palmdale,",COVENANT CHRISTIAN,10.0,4.0,40.0,Y,7thGradeData
-7006,6934467,Los Angeles,PRIVATE,Palos Verdes Peninsu,CHADWICK,84.0,84.0,100.0,Y,7thGradeData
-7007,6934467,Los Angeles,PRIVATE,Palos Verdes Peninsu,CHADWICK,80.0,80.0,100.0,Y,7thGradeData
-7008,6934467,Los Angeles,PRIVATE,Palos Verdes Peninsu,CHADWICK,94.0,94.0,100.0,Y,7thGradeData
-7009,6934467,Los Angeles,PRIVATE,Palos Verdes Peninsu,CHADWICK,84.0,84.0,100.0,Y,7thGradeData
-7010,6934467,Los Angeles,PRIVATE,Palos Verdes Peninsu,CHADWICK,93.0,93.0,100.0,Y,7thGradeData
-7011,6934467,Los Angeles,PRIVATE,Palos Verdes Peninsu,CHADWICK,95.0,95.0,100.0,Y,7thGradeData
+7005,7103260,Los Angeles,PRIVATE,Palmdale,COVENANT CHRISTIAN,10.0,4.0,40.0,Y,7thGradeData
+7006,6934467,Los Angeles,PRIVATE,Palos Verdes Estates,CHADWICK,84.0,84.0,100.0,Y,7thGradeData
+7007,6934467,Los Angeles,PRIVATE,Palos Verdes Estates,CHADWICK,80.0,80.0,100.0,Y,7thGradeData
+7008,6934467,Los Angeles,PRIVATE,Palos Verdes Estates,CHADWICK,94.0,94.0,100.0,Y,7thGradeData
+7009,6934467,Los Angeles,PRIVATE,Palos Verdes Estates,CHADWICK,84.0,84.0,100.0,Y,7thGradeData
+7010,6934467,Los Angeles,PRIVATE,Palos Verdes Estates,CHADWICK,93.0,93.0,100.0,Y,7thGradeData
+7011,6934467,Los Angeles,PRIVATE,Palos Verdes Estates,CHADWICK,95.0,95.0,100.0,Y,7thGradeData
 7012,6963862,Los Angeles,PRIVATE,Los Angeles,ST. GENEVIEVE ELEMENTARY SCHOOL,70.0,65.0,92.85714,Y,7thGradeData
 7013,6963862,Los Angeles,PRIVATE,Los Angeles,ST. GENEVIEVE ELEMENTARY SCHOOL,82.0,79.0,96.34146,Y,7thGradeData
 7014,6935902,Los Angeles,PRIVATE,Los Angeles,ST. GENEVIEVE HIGH SCHOOL,168.0,167.0,99.40476,Y,7thGradeData
@@ -15133,12 +15133,12 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 8670,100917,Orange,PUBLIC,Ladera Ranch,LADERA RANCH MIDDLE,373.0,351.0,94.10188000000001,Y,7thGradeData
 8671,6095095,Orange,PUBLIC,Laguna Niguel,NIGUEL HILLS MIDDLE,438.0,408.0,93.15068000000001,Y,7thGradeData
 8672,6095095,Orange,PUBLIC,Laguna Niguel,NIGUEL HILLS MIDDLE,429.0,398.0,92.77389000000001,Y,7thGradeData
-8673,3030756,Orange,PUBLIC,Las Flores,TESORO HIGH,606.0,580.0,95.70957,Y,7thGradeData
-8674,3030756,Orange,PUBLIC,Las Flores,TESORO HIGH,624.0,584.0,93.58974,Y,7thGradeData
-8675,3030756,Orange,PUBLIC,Las Flores,TESORO HIGH,618.0,583.0,94.33657,Y,7thGradeData
-8676,3030756,Orange,PUBLIC,Las Flores,TESORO HIGH,576.0,545.0,94.61806,Y,7thGradeData
-8677,6117725,Orange,PUBLIC,Los Flores,LAS FLORES MIDDLE,392.0,369.0,94.13265,Y,7thGradeData
-8678,6117725,Orange,PUBLIC,Los Flores,LAS FLORES MIDDLE,379.0,350.0,92.34828,Y,7thGradeData
+8673,3030756,Orange,PUBLIC,Las Flores (Orange County),TESORO HIGH,606.0,580.0,95.70957,Y,7thGradeData
+8674,3030756,Orange,PUBLIC,Las Flores (Orange County),TESORO HIGH,624.0,584.0,93.58974,Y,7thGradeData
+8675,3030756,Orange,PUBLIC,Las Flores (Orange County),TESORO HIGH,618.0,583.0,94.33657,Y,7thGradeData
+8676,3030756,Orange,PUBLIC,Las Flores (Orange County),TESORO HIGH,576.0,545.0,94.61806,Y,7thGradeData
+8677,6117725,Orange,PUBLIC,Las Flores (Orange County),LAS FLORES MIDDLE,392.0,369.0,94.13265,Y,7thGradeData
+8678,6117725,Orange,PUBLIC,Las Flores (Orange County),LAS FLORES MIDDLE,379.0,350.0,92.34828,Y,7thGradeData
 8679,3030210,Orange,PUBLIC,Mission Viejo,CAPISTRANO VALLEY HIGH,693.0,679.0,97.9798,Y,7thGradeData
 8680,3030210,Orange,PUBLIC,Mission Viejo,CAPISTRANO VALLEY HIGH,657.0,631.0,96.04262,Y,7thGradeData
 8681,3030210,Orange,PUBLIC,Mission Viejo,CAPISTRANO VALLEY HIGH,702.0,666.0,94.87179,Y,7thGradeData
@@ -18580,18 +18580,18 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 12129,3730702,San Diego,PUBLIC,Santee,WEST HILLS HIGH,498.0,481.0,96.58635,Y,7thGradeData
 12130,3730702,San Diego,PUBLIC,Santee,WEST HILLS HIGH,509.0,499.0,98.03536,Y,7thGradeData
 12131,3730702,San Diego,PUBLIC,Santee,WEST HILLS HIGH,459.0,438.0,95.42484,Y,7thGradeData
-12132,3734548,San Diego,PUBLIC,Spring Valley,MONTE VISTA HIGH,387.0,386.0,99.7416,Y,7thGradeData
-12133,3734548,San Diego,PUBLIC,Spring Valley,MONTE VISTA HIGH,438.0,434.0,99.08676,Y,7thGradeData
-12134,3734548,San Diego,PUBLIC,Spring Valley,MONTE VISTA HIGH,453.0,450.0,99.33775,Y,7thGradeData
-12135,3734548,San Diego,PUBLIC,Spring Valley,MONTE VISTA HIGH,538.0,529.0,98.32714,Y,7thGradeData
-12136,3734761,San Diego,PUBLIC,Spring Valley,MOUNT MIGUEL HIGH,354.0,351.0,99.15254,Y,7thGradeData
-12137,3734761,San Diego,PUBLIC,Spring Valley,MOUNT MIGUEL HIGH,383.0,377.0,98.43342,Y,7thGradeData
-12138,3734761,San Diego,PUBLIC,Spring Valley,MOUNT MIGUEL HIGH,370.0,364.0,98.37838,Y,7thGradeData
-12139,3734761,San Diego,PUBLIC,Spring Valley,MOUNT MIGUEL HIGH,468.0,455.0,97.22222,Y,7thGradeData
-12140,3731262,San Diego,PUBLIC,Spring Valley,STEELE CANYON HIGH,580.0,567.0,97.75862,Y,7thGradeData
-12141,3731262,San Diego,PUBLIC,Spring Valley,STEELE CANYON HIGH,552.0,538.0,97.46377,Y,7thGradeData
-12142,3731262,San Diego,PUBLIC,Spring Valley,STEELE CANYON HIGH,531.0,518.0,97.55179,Y,7thGradeData
-12143,3731262,San Diego,PUBLIC,Spring Valley,STEELE CANYON HIGH,501.0,491.0,98.00399,Y,7thGradeData
+12132,3734548,San Diego,PUBLIC,Spring Valley (San Diego County),MONTE VISTA HIGH,387.0,386.0,99.7416,Y,7thGradeData
+12133,3734548,San Diego,PUBLIC,Spring Valley (San Diego County),MONTE VISTA HIGH,438.0,434.0,99.08676,Y,7thGradeData
+12134,3734548,San Diego,PUBLIC,Spring Valley (San Diego County),MONTE VISTA HIGH,453.0,450.0,99.33775,Y,7thGradeData
+12135,3734548,San Diego,PUBLIC,Spring Valley (San Diego County),MONTE VISTA HIGH,538.0,529.0,98.32714,Y,7thGradeData
+12136,3734761,San Diego,PUBLIC,Spring Valley (San Diego County),MOUNT MIGUEL HIGH,354.0,351.0,99.15254,Y,7thGradeData
+12137,3734761,San Diego,PUBLIC,Spring Valley (San Diego County),MOUNT MIGUEL HIGH,383.0,377.0,98.43342,Y,7thGradeData
+12138,3734761,San Diego,PUBLIC,Spring Valley (San Diego County),MOUNT MIGUEL HIGH,370.0,364.0,98.37838,Y,7thGradeData
+12139,3734761,San Diego,PUBLIC,Spring Valley (San Diego County),MOUNT MIGUEL HIGH,468.0,455.0,97.22222,Y,7thGradeData
+12140,3731262,San Diego,PUBLIC,Spring Valley (San Diego County),STEELE CANYON HIGH,580.0,567.0,97.75862,Y,7thGradeData
+12141,3731262,San Diego,PUBLIC,Spring Valley (San Diego County),STEELE CANYON HIGH,552.0,538.0,97.46377,Y,7thGradeData
+12142,3731262,San Diego,PUBLIC,Spring Valley (San Diego County),STEELE CANYON HIGH,531.0,518.0,97.55179,Y,7thGradeData
+12143,3731262,San Diego,PUBLIC,Spring Valley (San Diego County),STEELE CANYON HIGH,501.0,491.0,98.00399,Y,7thGradeData
 12144,6117303,San Diego,PUBLIC,Jamul,GREATER SAN DIEGO ACADEMY,40.0,31.0,77.5,Y,7thGradeData
 12145,6117303,San Diego,PUBLIC,Jamul,GREATER SAN DIEGO ACADEMY,36.0,30.0,83.33333,Y,7thGradeData
 12146,6117303,San Diego,PUBLIC,Jamul,GREATER SAN DIEGO ACADEMY,33.0,26.0,78.78788,Y,7thGradeData
@@ -18618,10 +18618,10 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 12167,6038491,San Diego,PUBLIC,La Mesa,LA MESA MIDDLE,340.0,335.0,98.52941,Y,7thGradeData
 12168,6038558,San Diego,PUBLIC,La Mesa,PARKWAY MIDDLE,409.0,401.0,98.04401,Y,7thGradeData
 12169,6038558,San Diego,PUBLIC,La Mesa,PARKWAY MIDDLE,403.0,394.0,97.76675,Y,7thGradeData
-12170,6067003,San Diego,PUBLIC,Spring Valley,LA PRESA MIDDLE,263.0,262.0,99.61976999999999,Y,7thGradeData
-12171,6067003,San Diego,PUBLIC,Spring Valley,LA PRESA MIDDLE,259.0,257.0,99.2278,Y,7thGradeData
-12172,6038590,San Diego,PUBLIC,Spring Valley,SPRING VALLEY MIDDLE,302.0,300.0,99.33775,Y,7thGradeData
-12173,6038590,San Diego,PUBLIC,Spring Valley,SPRING VALLEY MIDDLE,312.0,309.0,99.03846,Y,7thGradeData
+12170,6067003,San Diego,PUBLIC,Spring Valley (San Diego County),LA PRESA MIDDLE,263.0,262.0,99.61976999999999,Y,7thGradeData
+12171,6067003,San Diego,PUBLIC,Spring Valley (San Diego County),LA PRESA MIDDLE,259.0,257.0,99.2278,Y,7thGradeData
+12172,6038590,San Diego,PUBLIC,Spring Valley (San Diego County),SPRING VALLEY MIDDLE,302.0,300.0,99.33775,Y,7thGradeData
+12173,6038590,San Diego,PUBLIC,Spring Valley (San Diego County),SPRING VALLEY MIDDLE,312.0,309.0,99.03846,Y,7thGradeData
 12174,6120901,San Diego,PUBLIC,Lakeside,BARONA INDIAN CHARTER,11.0,8.0,72.72726999999999,Y,7thGradeData
 12175,6120901,San Diego,PUBLIC,Lakeside,BARONA INDIAN CHARTER,11.0,9.0,81.81818,Y,7thGradeData
 12176,102228,San Diego,PUBLIC,Lakeside,EAST COUNTY ACADEMY OF LEARNING,10.0,10.0,100.0,Y,7thGradeData
@@ -19686,11 +19686,11 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 13235,6927883,San Diego,PRIVATE,Solana Beach,SANTA FE CHRISTIAN SCHOOLS,86.0,86.0,100.0,Y,7thGradeData
 13236,6975734,San Diego,PRIVATE,Solana Beach,ST. JAMES ACADEMY,30.0,28.0,93.33333,Y,7thGradeData
 13237,6975734,San Diego,PRIVATE,Solana Beach,ST. JAMES ACADEMY,29.0,29.0,100.0,Y,7thGradeData
-13238,7082803,San Diego,PRIVATE,Spring Valley,"HEARTLAND CHRISTIAN HOMESCHOOL CENTER, INC.",12.0,12.0,100.0,Y,7thGradeData
-13239,7082803,San Diego,PRIVATE,Spring Valley,"HEARTLAND CHRISTIAN HOMESCHOOL CENTER, INC.",13.0,13.0,100.0,Y,7thGradeData
-13240,6975908,San Diego,PRIVATE,Spring Valley,SANTA SOPHIA ACADEMY,24.0,24.0,100.0,Y,7thGradeData
-13241,6975908,San Diego,PRIVATE,Spring Valley,SANTA SOPHIA ACADEMY,21.0,21.0,100.0,Y,7thGradeData
-13242,6913644,San Diego,PRIVATE,Spring Valley,TRINITY CHRISTIAN,12.0,10.0,83.33333,Y,7thGradeData
+13238,7082803,San Diego,PRIVATE,Spring Valley (San Diego County),"HEARTLAND CHRISTIAN HOMESCHOOL CENTER, INC.",12.0,12.0,100.0,Y,7thGradeData
+13239,7082803,San Diego,PRIVATE,Spring Valley (San Diego County),"HEARTLAND CHRISTIAN HOMESCHOOL CENTER, INC.",13.0,13.0,100.0,Y,7thGradeData
+13240,6975908,San Diego,PRIVATE,Spring Valley (San Diego County),SANTA SOPHIA ACADEMY,24.0,24.0,100.0,Y,7thGradeData
+13241,6975908,San Diego,PRIVATE,Spring Valley (San Diego County),SANTA SOPHIA ACADEMY,21.0,21.0,100.0,Y,7thGradeData
+13242,6913644,San Diego,PRIVATE,Spring Valley (San Diego County),TRINITY CHRISTIAN,12.0,10.0,83.33333,Y,7thGradeData
 13243,6939441,San Diego,PRIVATE,Tecate,TECATE CHRISTIAN,10.0,10.0,100.0,Y,7thGradeData
 13244,7079551,San Diego,PRIVATE,Vista,CALVARY CHRISTIAN SCHOOL,16.0,16.0,100.0,Y,7thGradeData
 13245,7079551,San Diego,PRIVATE,Vista,CALVARY CHRISTIAN SCHOOL,24.0,23.0,95.83333,Y,7thGradeData
@@ -20566,20 +20566,20 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 14115,4030268,San Luis Obispo,PUBLIC,Nipomo,NIPOMO HIGH,276.0,247.0,89.49275,Y,7thGradeData
 14116,6043020,San Luis Obispo,PUBLIC,Pismo Beach,JUDKINS MIDDLE,268.0,259.0,96.64179,Y,7thGradeData
 14117,6043020,San Luis Obispo,PUBLIC,Pismo Beach,JUDKINS MIDDLE,266.0,251.0,94.3609,Y,7thGradeData
-14118,6113096,San Luis Obispo,PUBLIC,Paso Robles,DANIEL LEWIS MIDDLE,225.0,216.0,96.0,Y,7thGradeData
-14119,6113096,San Luis Obispo,PUBLIC,Paso Robles,DANIEL LEWIS MIDDLE,272.0,259.0,95.22059,Y,7thGradeData
-14120,6101570,San Luis Obispo,PUBLIC,Paso Robles,GEORGE H. FLAMSON MIDDLE,216.0,198.0,91.66667,Y,7thGradeData
-14121,6101570,San Luis Obispo,PUBLIC,Paso Robles,GEORGE H. FLAMSON MIDDLE,237.0,215.0,90.7173,Y,7thGradeData
-14122,119354,San Luis Obispo,PUBLIC,Paso Robles,INDEPENDENCE HIGH,33.0,26.0,78.78788,Y,7thGradeData
-14123,119354,San Luis Obispo,PUBLIC,Paso Robles,INDEPENDENCE HIGH,69.0,54.0,78.26087,Y,7thGradeData
-14124,119354,San Luis Obispo,PUBLIC,Paso Robles,INDEPENDENCE HIGH,66.0,49.0,74.24242,Y,7thGradeData
-14125,4035762,San Luis Obispo,PUBLIC,Paso Robles,LIBERTY HIGH (CONTINUATION),48.0,44.0,91.66667,Y,7thGradeData
-14126,4035762,San Luis Obispo,PUBLIC,Paso Robles,LIBERTY HIGH (CONTINUATION),67.0,58.0,86.56716,Y,7thGradeData
-14127,4035754,San Luis Obispo,PUBLIC,Paso Robles,PASO ROBLES HIGH,560.0,544.0,97.14286,Y,7thGradeData
-14128,4035754,San Luis Obispo,PUBLIC,Paso Robles,PASO ROBLES HIGH,531.0,514.0,96.79849,Y,7thGradeData
-14129,4035754,San Luis Obispo,PUBLIC,Paso Robles,PASO ROBLES HIGH,465.0,429.0,92.25806,Y,7thGradeData
-14130,4035754,San Luis Obispo,PUBLIC,Paso Robles,PASO ROBLES HIGH,425.0,401.0,94.35294,Y,7thGradeData
-14131,6043186,San Luis Obispo,PUBLIC,San Miguel,PLEASANT VALLEY ELEMENTARY,15.0,15.0,100.0,Y,7thGradeData
+14118,6113096,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),DANIEL LEWIS MIDDLE,225.0,216.0,96.0,Y,7thGradeData
+14119,6113096,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),DANIEL LEWIS MIDDLE,272.0,259.0,95.22059,Y,7thGradeData
+14120,6101570,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),GEORGE H. FLAMSON MIDDLE,216.0,198.0,91.66667,Y,7thGradeData
+14121,6101570,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),GEORGE H. FLAMSON MIDDLE,237.0,215.0,90.7173,Y,7thGradeData
+14122,119354,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),INDEPENDENCE HIGH,33.0,26.0,78.78788,Y,7thGradeData
+14123,119354,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),INDEPENDENCE HIGH,69.0,54.0,78.26087,Y,7thGradeData
+14124,119354,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),INDEPENDENCE HIGH,66.0,49.0,74.24242,Y,7thGradeData
+14125,4035762,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),LIBERTY HIGH (CONTINUATION),48.0,44.0,91.66667,Y,7thGradeData
+14126,4035762,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),LIBERTY HIGH (CONTINUATION),67.0,58.0,86.56716,Y,7thGradeData
+14127,4035754,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),PASO ROBLES HIGH,560.0,544.0,97.14286,Y,7thGradeData
+14128,4035754,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),PASO ROBLES HIGH,531.0,514.0,96.79849,Y,7thGradeData
+14129,4035754,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),PASO ROBLES HIGH,465.0,429.0,92.25806,Y,7thGradeData
+14130,4035754,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),PASO ROBLES HIGH,425.0,401.0,94.35294,Y,7thGradeData
+14131,6043186,San Luis Obispo,PUBLIC,San Miguel (San Luis Obispo County),PLEASANT VALLEY ELEMENTARY,15.0,15.0,100.0,Y,7thGradeData
 14132,6097349,San Luis Obispo,PUBLIC,Los Osos,LOS OSOS MIDDLE,182.0,166.0,91.20879000000001,Y,7thGradeData
 14133,6097349,San Luis Obispo,PUBLIC,Los Osos,LOS OSOS MIDDLE,187.0,170.0,90.90909,Y,7thGradeData
 14134,4034807,San Luis Obispo,PUBLIC,Morro Bay,MORRO BAY HIGH,217.0,205.0,94.47005,Y,7thGradeData
@@ -20603,9 +20603,9 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 14152,4030250,San Luis Obispo,PUBLIC,San Luis Obispo,SAN LUIS OBISPO COUNTY COMMUNITY,77.0,73.0,94.80519,Y,7thGradeData
 14153,4030250,San Luis Obispo,PUBLIC,San Luis Obispo,SAN LUIS OBISPO COUNTY COMMUNITY,96.0,96.0,100.0,Y,7thGradeData
 14154,4030250,San Luis Obispo,PUBLIC,San Luis Obispo,SAN LUIS OBISPO COUNTY COMMUNITY,92.0,85.0,92.3913,Y,7thGradeData
-14155,108522,San Luis Obispo,PUBLIC,Paso Robles,CULVER (CAPPY) ELEMENTARY,26.0,23.0,88.46154,Y,7thGradeData
-14156,6043319,San Luis Obispo,PUBLIC,San Miguel,LILLIAN LARSEN,34.0,31.0,91.17647,Y,7thGradeData
-14157,6043319,San Luis Obispo,PUBLIC,San Miguel,LILLIAN LARSEN,37.0,37.0,100.0,Y,7thGradeData
+14155,108522,San Luis Obispo,PUBLIC,El Paso de Robles (Paso Robles),CULVER (CAPPY) ELEMENTARY,26.0,23.0,88.46154,Y,7thGradeData
+14156,6043319,San Luis Obispo,PUBLIC,San Miguel (San Luis Obispo County),LILLIAN LARSEN,34.0,31.0,91.17647,Y,7thGradeData
+14157,6043319,San Luis Obispo,PUBLIC,San Miguel (San Luis Obispo County),LILLIAN LARSEN,37.0,37.0,100.0,Y,7thGradeData
 14158,6043343,San Luis Obispo,PUBLIC,Shandon,SHANDON ELEMENTARY,19.0,19.0,100.0,Y,7thGradeData
 14159,6043343,San Luis Obispo,PUBLIC,Shandon,SHANDON ELEMENTARY,26.0,26.0,100.0,Y,7thGradeData
 14160,4037008,San Luis Obispo,PUBLIC,Shandon,SHANDON HIGH,12.0,12.0,100.0,Y,7thGradeData
@@ -20634,13 +20634,13 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 14183,6999411,San Luis Obispo,PRIVATE,Atascadero,NORTH COUNTY CHRISTIAN,23.0,20.0,86.95652,Y,7thGradeData
 14184,6999411,San Luis Obispo,PRIVATE,Atascadero,NORTH COUNTY CHRISTIAN,12.0,12.0,100.0,Y,7thGradeData
 14185,6999411,San Luis Obispo,PRIVATE,Atascadero,NORTH COUNTY CHRISTIAN,17.0,17.0,100.0,Y,7thGradeData
-14186,6930671,San Luis Obispo,PRIVATE,Paso Robles,ADVANCED CHRISTIAN TRAINING SCHOOLS,12.0,5.0,41.66667,Y,7thGradeData
-14187,6930671,San Luis Obispo,PRIVATE,Paso Robles,ADVANCED CHRISTIAN TRAINING SCHOOLS,11.0,6.0,54.54545,Y,7thGradeData
-14188,6930671,San Luis Obispo,PRIVATE,Paso Robles,ADVANCED CHRISTIAN TRAINING SCHOOLS,11.0,3.0,27.27273,Y,7thGradeData
-14189,6930671,San Luis Obispo,PRIVATE,Paso Robles,ADVANCED CHRISTIAN TRAINING SCHOOLS,15.0,9.0,60.0,Y,7thGradeData
-14190,6978464,San Luis Obispo,PRIVATE,Paso Robles,ST. ROSE OF LIMA,12.0,12.0,100.0,Y,7thGradeData
-14191,6978464,San Luis Obispo,PRIVATE,Paso Robles,ST. ROSE OF LIMA,16.0,14.0,87.5,Y,7thGradeData
-14192,6978472,San Luis Obispo,PRIVATE,Paso Robles,TRINITY LUTHERAN,12.0,12.0,100.0,Y,7thGradeData
+14186,6930671,San Luis Obispo,PRIVATE,El Paso de Robles (Paso Robles),ADVANCED CHRISTIAN TRAINING SCHOOLS,12.0,5.0,41.66667,Y,7thGradeData
+14187,6930671,San Luis Obispo,PRIVATE,El Paso de Robles (Paso Robles),ADVANCED CHRISTIAN TRAINING SCHOOLS,11.0,6.0,54.54545,Y,7thGradeData
+14188,6930671,San Luis Obispo,PRIVATE,El Paso de Robles (Paso Robles),ADVANCED CHRISTIAN TRAINING SCHOOLS,11.0,3.0,27.27273,Y,7thGradeData
+14189,6930671,San Luis Obispo,PRIVATE,El Paso de Robles (Paso Robles),ADVANCED CHRISTIAN TRAINING SCHOOLS,15.0,9.0,60.0,Y,7thGradeData
+14190,6978464,San Luis Obispo,PRIVATE,El Paso de Robles (Paso Robles),ST. ROSE OF LIMA,12.0,12.0,100.0,Y,7thGradeData
+14191,6978464,San Luis Obispo,PRIVATE,El Paso de Robles (Paso Robles),ST. ROSE OF LIMA,16.0,14.0,87.5,Y,7thGradeData
+14192,6978472,San Luis Obispo,PRIVATE,El Paso de Robles (Paso Robles),TRINITY LUTHERAN,12.0,12.0,100.0,Y,7thGradeData
 14193,6930739,San Luis Obispo,PRIVATE,San Luis Obispo,MISSION COLLEGE PREPARATORY,74.0,73.0,98.64865,Y,7thGradeData
 14194,6930739,San Luis Obispo,PRIVATE,San Luis Obispo,MISSION COLLEGE PREPARATORY,64.0,64.0,100.0,Y,7thGradeData
 14195,6930739,San Luis Obispo,PRIVATE,San Luis Obispo,MISSION COLLEGE PREPARATORY,83.0,83.0,100.0,Y,7thGradeData
@@ -22046,12 +22046,12 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 15607,4531000,Shasta,PUBLIC,Burney,BURNEY JUNIOR-SENIOR HIGH,46.0,44.0,95.65217,Y,7thGradeData
 15608,4531000,Shasta,PUBLIC,Burney,BURNEY JUNIOR-SENIOR HIGH,36.0,34.0,94.44444,Y,7thGradeData
 15609,4531000,Shasta,PUBLIC,Burney,BURNEY JUNIOR-SENIOR HIGH,25.0,25.0,100.0,Y,7thGradeData
-15610,4533600,Shasta,PUBLIC,Mcarthur,FALL RIVER JUNIOR-SENIOR HIGH,38.0,38.0,100.0,Y,7thGradeData
-15611,4533600,Shasta,PUBLIC,Mcarthur,FALL RIVER JUNIOR-SENIOR HIGH,40.0,39.0,97.5,Y,7thGradeData
-15612,4533600,Shasta,PUBLIC,Mcarthur,FALL RIVER JUNIOR-SENIOR HIGH,43.0,40.0,93.02326,Y,7thGradeData
-15613,4533600,Shasta,PUBLIC,Mcarthur,FALL RIVER JUNIOR-SENIOR HIGH,40.0,39.0,97.5,Y,7thGradeData
-15614,4533600,Shasta,PUBLIC,Mcarthur,FALL RIVER JUNIOR-SENIOR HIGH,43.0,41.0,95.34884,Y,7thGradeData
-15615,4533600,Shasta,PUBLIC,Mcarthur,FALL RIVER JUNIOR-SENIOR HIGH,29.0,27.0,93.10345,Y,7thGradeData
+15610,4533600,Shasta,PUBLIC,McArthur,FALL RIVER JUNIOR-SENIOR HIGH,38.0,38.0,100.0,Y,7thGradeData
+15611,4533600,Shasta,PUBLIC,McArthur,FALL RIVER JUNIOR-SENIOR HIGH,40.0,39.0,97.5,Y,7thGradeData
+15612,4533600,Shasta,PUBLIC,McArthur,FALL RIVER JUNIOR-SENIOR HIGH,43.0,40.0,93.02326,Y,7thGradeData
+15613,4533600,Shasta,PUBLIC,McArthur,FALL RIVER JUNIOR-SENIOR HIGH,40.0,39.0,97.5,Y,7thGradeData
+15614,4533600,Shasta,PUBLIC,McArthur,FALL RIVER JUNIOR-SENIOR HIGH,43.0,41.0,95.34884,Y,7thGradeData
+15615,4533600,Shasta,PUBLIC,McArthur,FALL RIVER JUNIOR-SENIOR HIGH,29.0,27.0,93.10345,Y,7thGradeData
 15616,120170,Shasta,PUBLIC,Redding,ACADEMY OF PERSONALIZED LEARNING,23.0,12.0,52.17391,Y,7thGradeData
 15617,120170,Shasta,PUBLIC,Redding,ACADEMY OF PERSONALIZED LEARNING,16.0,7.0,43.75,Y,7thGradeData
 15618,120170,Shasta,PUBLIC,Redding,ACADEMY OF PERSONALIZED LEARNING,17.0,6.0,35.29412,Y,7thGradeData
@@ -22197,7 +22197,7 @@ Unnamed: 0,facility_num,county,is_public,city,facility_name,enrollment,n,pct,rep
 15758,6050777,Siskiyou,PUBLIC,Grenada,GRENADA ELEMENTARY,27.0,23.0,85.18519,Y,7thGradeData
 15759,6050785,Siskiyou,PUBLIC,Happy Camp,HAPPY CAMP ELEMENTARY,14.0,13.0,92.85714,Y,7thGradeData
 15760,6050785,Siskiyou,PUBLIC,Happy Camp,HAPPY CAMP ELEMENTARY,11.0,11.0,100.0,Y,7thGradeData
-15761,6050850,Siskiyou,PUBLIC,Mccloud,MCCLOUD ELEMENTARY,13.0,12.0,92.30769000000001,Y,7thGradeData
+15761,6050850,Siskiyou,PUBLIC,McCloud,MCCLOUD ELEMENTARY,13.0,12.0,92.30769000000001,Y,7thGradeData
 15762,6050876,Siskiyou,PUBLIC,Montague,MONTAGUE ELEMENTARY,18.0,18.0,100.0,Y,7thGradeData
 15763,6050876,Siskiyou,PUBLIC,Montague,MONTAGUE ELEMENTARY,11.0,11.0,100.0,Y,7thGradeData
 15764,6050892,Siskiyou,PUBLIC,Mount Shasta,SISSON,74.0,71.0,95.94595,Y,7thGradeData
