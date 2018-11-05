@@ -102,8 +102,8 @@ def take_cols(sh, col_index, ftype):
         for j in missing_index:
             line = line[:j] + [""] + line[j:]
         line = line + [ftype]
-        if str_int_check(line[0]):
-            subset_sh.append(line)
+        #if str_int_check(line[0]):
+        subset_sh.append(line)
     return subset_sh
 
 
@@ -116,15 +116,14 @@ def xlsx2csv(input_file_path, output_file_path, col_dict):
     sh = wb.sheet_by_name(shs[tab_num])
     m = sh.ncols
     print(m, " columns and ", end_row, "rows")
+    ## get all the value cells in defined range
     sh_list = get_cell_range(sh, 0, start_row, m-1, end_row)
+    ## subset only the wanted columns
     subset_sh = take_cols(sh = sh_list, col_index = col_index, ftype = ftype)
-    #sh_subset, col_def = cols2take(fname, sh_list, col_dict)
-    #print("columns: ", col_def)
+    ## write to csv file
     with open(output_file_path, "w") as csv_file:
         wr = csv.writer(csv_file, quoting=csv.QUOTE_ALL)
-        #wr.writerow(col_def)
         for row in subset_sh:
-            #if len(col_index) + 1 == len(row):
             wr.writerow(row)
     return subset_sh
 
