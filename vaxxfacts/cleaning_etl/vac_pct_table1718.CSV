@@ -81,9 +81,9 @@
 79,Butte,Paradise,7th grade,93.5
 80,Butte,Paradise,childcare,93.6
 81,Butte,Paradise,kindergarten,96.25
-82,Calaveras,Angels City,7th grade,98.0
-83,Calaveras,Angels City,childcare,95.0
-84,Calaveras,Angels City,kindergarten,92.0
+82,Calaveras,Angels,7th grade,98.0
+83,Calaveras,Angels,childcare,95.0
+84,Calaveras,Angels,kindergarten,92.0
 85,Calaveras,Arnold,kindergarten,93.0
 86,Calaveras,Avery,7th grade,98.0
 87,Calaveras,Copperopolis,kindergarten,83.0
@@ -133,9 +133,9 @@
 131,Contra Costa,El Cerrito,7th grade,98.33333333333333
 132,Contra Costa,El Cerrito,childcare,95.83333333333333
 133,Contra Costa,El Cerrito,kindergarten,96.5
-134,Contra Costa,El Sobrante,7th grade,97.0
-135,Contra Costa,El Sobrante,childcare,95.0
-136,Contra Costa,El Sobrante,kindergarten,95.75
+134,Contra Costa,El Sobrante (Contra Costa County),7th grade,97.0
+135,Contra Costa,El Sobrante (Contra Costa County),childcare,95.0
+136,Contra Costa,El Sobrante (Contra Costa County),kindergarten,95.75
 137,Contra Costa,Hercules,7th grade,99.0
 138,Contra Costa,Hercules,childcare,95.0
 139,Contra Costa,Hercules,kindergarten,98.0
@@ -322,9 +322,9 @@
 320,Humboldt,Hoopa,7th grade,98.0
 321,Humboldt,Hoopa,kindergarten,95.0
 322,Humboldt,Hydesville,7th grade,95.0
-323,Humboldt,Mckinleyville,7th grade,98.0
-324,Humboldt,Mckinleyville,childcare,92.66666666666667
-325,Humboldt,Mckinleyville,kindergarten,99.0
+323,Humboldt,McKinleyville,7th grade,98.0
+324,Humboldt,McKinleyville,childcare,92.66666666666667
+325,Humboldt,McKinleyville,kindergarten,99.0
 326,Humboldt,Miranda,7th grade,76.0
 327,Humboldt,Petrolia,7th grade,55.0
 328,Humboldt,Petrolia,kindergarten,67.0
@@ -406,9 +406,9 @@
 404,Kern,Lost Hills,kindergarten,92.5
 405,Kern,Maricopa,7th grade,56.0
 406,Kern,Maricopa,kindergarten,62.0
-407,Kern,Mcfarland,7th grade,99.0
-408,Kern,Mcfarland,childcare,96.0
-409,Kern,Mcfarland,kindergarten,97.66666666666667
+407,Kern,McFarland,7th grade,99.0
+408,Kern,McFarland,childcare,96.0
+409,Kern,McFarland,kindergarten,97.66666666666667
 410,Kern,Mojave,7th grade,98.0
 411,Kern,Mojave,childcare,95.0
 412,Kern,Mojave,kindergarten,98.0
@@ -646,1530 +646,1527 @@
 644,Los Angeles,Long Beach,7th grade,97.38709677419355
 645,Los Angeles,Long Beach,childcare,96.32673267326733
 646,Los Angeles,Long Beach,kindergarten,95.77777777777777
-647,Los Angeles,Los Angeles,7th grade,95.68512110726644
-648,Los Angeles,Los Angeles,childcare,94.37679269882659
-649,Los Angeles,Los Angeles,kindergarten,95.47512038523274
-650,Los Angeles,Los Nietos,7th grade,99.0
-651,Los Angeles,Lynwood,7th grade,97.2
-652,Los Angeles,Lynwood,childcare,95.25
-653,Los Angeles,Lynwood,kindergarten,93.92857142857143
-654,Los Angeles,Malibu,7th grade,93.0
-655,Los Angeles,Malibu,childcare,87.25
-656,Los Angeles,Malibu,kindergarten,92.33333333333333
-657,Los Angeles,Manhattan Beach,7th grade,97.5
-658,Los Angeles,Manhattan Beach,childcare,95.26666666666667
-659,Los Angeles,Manhattan Beach,kindergarten,95.875
-660,Los Angeles,Marina Del Rey,7th grade,98.0
-661,Los Angeles,Marina Del Rey,childcare,98.0
-662,Los Angeles,Maywood,7th grade,99.0
-663,Los Angeles,Maywood,childcare,95.57142857142857
-664,Los Angeles,Maywood,kindergarten,95.4
-665,Los Angeles,Mission Hills,childcare,89.0
-666,Los Angeles,Mission Hills,kindergarten,99.0
-667,Los Angeles,Monrovia,7th grade,96.5
-668,Los Angeles,Monrovia,childcare,96.125
-669,Los Angeles,Monrovia,kindergarten,97.8
-670,Los Angeles,Montebello,7th grade,95.6
-671,Los Angeles,Montebello,childcare,95.63636363636364
-672,Los Angeles,Montebello,kindergarten,93.71428571428571
-673,Los Angeles,Monterey Park,7th grade,98.8
-674,Los Angeles,Monterey Park,childcare,95.83333333333333
-675,Los Angeles,Monterey Park,kindergarten,97.875
-676,Los Angeles,Norwalk,7th grade,98.2
-677,Los Angeles,Norwalk,childcare,95.44444444444444
-678,Los Angeles,Norwalk,kindergarten,97.88235294117646
-679,Los Angeles,Palmdale,7th grade,98.26666666666667
-680,Los Angeles,Palmdale,childcare,95.94117647058823
-681,Los Angeles,Palmdale,kindergarten,97.66666666666667
-682,Los Angeles,Palos Verdes Estates,7th grade,98.5
-683,Los Angeles,Palos Verdes Estates,childcare,97.33333333333333
-684,Los Angeles,Palos Verdes Estates,kindergarten,97.0
-685,Los Angeles,Paramount,7th grade,98.2
-686,Los Angeles,Paramount,childcare,95.7
-687,Los Angeles,Paramount,kindergarten,91.8
-688,Los Angeles,Pasadena,7th grade,96.94444444444444
-689,Los Angeles,Pasadena,childcare,95.24489795918367
-690,Los Angeles,Pasadena,kindergarten,94.68
-691,Los Angeles,Pearblossom,7th grade,95.0
-692,Los Angeles,Pearblossom,kindergarten,96.0
-693,Los Angeles,Pico Rivera,7th grade,91.8
-694,Los Angeles,Pico Rivera,childcare,95.5625
-695,Los Angeles,Pico Rivera,kindergarten,97.5
-696,Los Angeles,Pomona,7th grade,97.91666666666667
-697,Los Angeles,Pomona,childcare,96.53846153846153
-698,Los Angeles,Pomona,kindergarten,96.41666666666667
-699,Los Angeles,Quartz Hill,childcare,98.0
-700,Los Angeles,Quartz Hill,kindergarten,96.0
-701,Los Angeles,Rancho Dominguez,7th grade,95.0
-702,Los Angeles,Rancho Dominguez,kindergarten,95.0
-703,Los Angeles,Rancho Palos Verdes,7th grade,97.4
-704,Los Angeles,Rancho Palos Verdes,childcare,94.27272727272727
-705,Los Angeles,Rancho Palos Verdes,kindergarten,97.57142857142857
-706,Los Angeles,Redlands,7th grade,44.0
-707,Los Angeles,Redlands,kindergarten,43.0
-708,Los Angeles,Redondo Beach,7th grade,84.33333333333333
-709,Los Angeles,Redondo Beach,childcare,96.55555555555556
-710,Los Angeles,Redondo Beach,kindergarten,97.5
-711,Los Angeles,Rolling Hills Estates,7th grade,95.0
-712,Los Angeles,Rolling Hills Estates,childcare,93.83333333333333
-713,Los Angeles,Rolling Hills Estates,kindergarten,97.0
-714,Los Angeles,Rosemead,7th grade,99.0
-715,Los Angeles,Rosemead,childcare,95.38888888888889
-716,Los Angeles,Rosemead,kindergarten,98.0
-717,Los Angeles,Rowland Heights,7th grade,97.0
-718,Los Angeles,Rowland Heights,childcare,96.0
-719,Los Angeles,Rowland Heights,kindergarten,97.4
-720,Los Angeles,San Dimas,7th grade,97.66666666666667
-721,Los Angeles,San Dimas,childcare,96.25
-722,Los Angeles,San Dimas,kindergarten,97.6
-723,Los Angeles,San Fernando,7th grade,97.14285714285714
-724,Los Angeles,San Fernando,childcare,89.0
-725,Los Angeles,San Fernando,kindergarten,97.0
-726,Los Angeles,San Gabriel,7th grade,95.66666666666667
-727,Los Angeles,San Gabriel,childcare,96.66666666666667
-728,Los Angeles,San Gabriel,kindergarten,95.88888888888889
-729,Los Angeles,San Marcos,kindergarten,65.0
-730,Los Angeles,San Marino,7th grade,97.0
-731,Los Angeles,San Marino,childcare,97.0
-732,Los Angeles,San Marino,kindergarten,97.33333333333333
-733,Los Angeles,Santa Clarita,7th grade,96.88888888888889
-734,Los Angeles,Santa Clarita,childcare,94.69090909090909
-735,Los Angeles,Santa Clarita,kindergarten,97.11111111111111
-736,Los Angeles,Santa Fe Springs,7th grade,95.5
-737,Los Angeles,Santa Fe Springs,childcare,96.5
-738,Los Angeles,Santa Fe Springs,kindergarten,95.0
-739,Los Angeles,Santa Monica,7th grade,93.28571428571429
-740,Los Angeles,Santa Monica,childcare,93.69767441860465
-741,Los Angeles,Santa Monica,kindergarten,95.73333333333333
-742,Los Angeles,Sierra Madre,7th grade,80.66666666666667
-743,Los Angeles,Sierra Madre,childcare,97.33333333333333
-744,Los Angeles,Sierra Madre,kindergarten,95.5
-745,Los Angeles,Signal Hill,7th grade,99.0
-746,Los Angeles,Signal Hill,childcare,98.0
-747,Los Angeles,Signal Hill,kindergarten,98.5
-748,Los Angeles,Simi Valley,7th grade,97.0
-749,Los Angeles,Simi Valley,kindergarten,93.0
-750,Los Angeles,South El Monte,7th grade,99.0
-751,Los Angeles,South El Monte,childcare,95.0
-752,Los Angeles,South El Monte,kindergarten,98.0
-753,Los Angeles,South Gate,7th grade,98.0
-754,Los Angeles,South Gate,childcare,96.0
-755,Los Angeles,South Gate,kindergarten,97.05882352941177
-756,Los Angeles,South Pasadena,7th grade,97.0
-757,Los Angeles,South Pasadena,childcare,95.5
-758,Los Angeles,South Pasadena,kindergarten,95.75
-759,Los Angeles,South San Gabriel,kindergarten,98.0
-760,Los Angeles,South Whittier,childcare,96.0
-761,Los Angeles,Stevenson Ranch,7th grade,98.0
-762,Los Angeles,Stevenson Ranch,childcare,95.5
-763,Los Angeles,Stevenson Ranch,kindergarten,98.0
-764,Los Angeles,Sunland-Tujunga,7th grade,97.0
-765,Los Angeles,Sunland-Tujunga,childcare,96.42857142857143
-766,Los Angeles,Sunland-Tujunga,kindergarten,93.8
-767,Los Angeles,Temple City,7th grade,83.5
-768,Los Angeles,Temple City,childcare,96.85714285714286
-769,Los Angeles,Temple City,kindergarten,98.66666666666667
-770,Los Angeles,Thousand Oaks,7th grade,8.0
-771,Los Angeles,Thousand Oaks,kindergarten,21.0
-772,Los Angeles,Topanga,childcare,95.0
-773,Los Angeles,Topanga,kindergarten,93.0
-774,Los Angeles,Torrance,7th grade,97.66666666666667
-775,Los Angeles,Torrance,childcare,93.0
-776,Los Angeles,Torrance,kindergarten,97.04
-777,Los Angeles,Valinda,7th grade,98.5
-778,Los Angeles,Valinda,childcare,95.0
-779,Los Angeles,Valinda,kindergarten,94.25
-780,Los Angeles,Walnut,7th grade,98.75
-781,Los Angeles,Walnut,childcare,95.66666666666667
-782,Los Angeles,Walnut,kindergarten,98.42857142857143
-783,Los Angeles,Walnut Park,7th grade,99.0
-784,Los Angeles,Walnut Park,childcare,98.0
-785,Los Angeles,Walnut Park,kindergarten,98.0
-786,Los Angeles,West Covina,7th grade,95.63636363636364
-787,Los Angeles,West Covina,childcare,95.92857142857143
-788,Los Angeles,West Covina,kindergarten,94.05263157894737
-789,Los Angeles,West Hollywood,childcare,91.5
-790,Los Angeles,West Hollywood,kindergarten,92.0
-791,Los Angeles,Westlake Village,7th grade,95.5
-792,Los Angeles,Westlake Village,childcare,95.5
-793,Los Angeles,Westlake Village,kindergarten,96.5
-794,Los Angeles,Whittier,7th grade,97.3076923076923
-795,Los Angeles,Whittier,childcare,96.25714285714285
-796,Los Angeles,Whittier,kindergarten,96.9090909090909
-797,Madera,Ahwahnee,7th grade,82.0
-798,Madera,Ahwahnee,kindergarten,89.0
-799,Madera,Chowchilla,7th grade,97.0
-800,Madera,Chowchilla,childcare,96.5
-801,Madera,Chowchilla,kindergarten,98.0
-802,Madera,Coarsegold,7th grade,98.0
-803,Madera,Coarsegold,kindergarten,93.0
-804,Madera,Madera,7th grade,90.76923076923077
-805,Madera,Madera,childcare,95.66666666666667
-806,Madera,Madera,kindergarten,95.30434782608695
-807,Madera,North Fork,7th grade,95.0
-808,Madera,North Fork,kindergarten,95.0
-809,Madera,O'Neals,7th grade,95.0
-810,Madera,O'Neals,kindergarten,91.0
-811,Madera,Oakhurst,7th grade,93.5
-812,Madera,Oakhurst,childcare,98.0
-813,Madera,Oakhurst,kindergarten,93.0
-814,Marin,Belvedere,childcare,95.0
-815,Marin,Bolinas,kindergarten,95.0
-816,Marin,Corte Madera,7th grade,95.0
-817,Marin,Corte Madera,childcare,95.0909090909091
-818,Marin,Corte Madera,kindergarten,96.0
-819,Marin,Fairfax,7th grade,98.0
-820,Marin,Fairfax,childcare,93.66666666666667
-821,Marin,Fairfax,kindergarten,88.5
-822,Marin,Kentfield,7th grade,99.0
-823,Marin,Kentfield,childcare,96.5
-824,Marin,Kentfield,kindergarten,99.0
-825,Marin,Larkspur,7th grade,96.33333333333333
-826,Marin,Larkspur,childcare,96.0
-827,Marin,Larkspur,kindergarten,90.5
-828,Marin,Marin City,childcare,95.0
-829,Marin,Mill Valley,7th grade,95.66666666666667
-830,Marin,Mill Valley,childcare,94.0
-831,Marin,Mill Valley,kindergarten,95.16666666666667
-832,Marin,Novato,7th grade,97.2
-833,Marin,Novato,childcare,95.93333333333334
-834,Marin,Novato,kindergarten,96.5
-835,Marin,Point Reyes Station,7th grade,89.0
-836,Marin,Point Reyes Station,childcare,95.0
-837,Marin,Ross,7th grade,94.0
-838,Marin,Ross,childcare,95.0
-839,Marin,Ross,kindergarten,95.0
-840,Marin,San Anselmo,7th grade,96.5
-841,Marin,San Anselmo,childcare,92.44444444444444
-842,Marin,San Anselmo,kindergarten,96.5
-843,Marin,San Geronimo,7th grade,95.0
-844,Marin,San Geronimo,childcare,95.0
-845,Marin,San Rafael,7th grade,96.28571428571429
-846,Marin,San Rafael,childcare,95.70370370370371
-847,Marin,San Rafael,kindergarten,93.5625
-848,Marin,Sausalito,7th grade,95.0
-849,Marin,Sausalito,childcare,95.0
-850,Marin,Sausalito,kindergarten,82.5
-851,Marin,Tiburon,7th grade,96.5
-852,Marin,Tiburon,childcare,96.0
-853,Marin,Tiburon,kindergarten,96.5
-854,Marin,Tomales,7th grade,82.0
-855,Mariposa,Catheys Valley,kindergarten,86.0
-856,Mariposa,La Grange,7th grade,95.0
-857,Mariposa,Mariposa,7th grade,95.0
-858,Mariposa,Mariposa,kindergarten,91.5
-859,Mendocino,Boonville,7th grade,95.0
-860,Mendocino,Boonville,childcare,95.0
-861,Mendocino,Boonville,kindergarten,95.0
-862,Mendocino,Calpella,kindergarten,52.0
-863,Mendocino,Covelo,7th grade,95.0
-864,Mendocino,Covelo,childcare,82.0
-865,Mendocino,Covelo,kindergarten,93.0
-866,Mendocino,Fort Bragg,7th grade,99.0
-867,Mendocino,Fort Bragg,childcare,92.5
-868,Mendocino,Fort Bragg,kindergarten,75.0
-869,Mendocino,Laytonville,7th grade,93.0
-870,Mendocino,Laytonville,childcare,92.0
-871,Mendocino,Laytonville,kindergarten,86.0
-872,Mendocino,Mendocino,7th grade,93.0
-873,Mendocino,Mendocino,childcare,74.0
-874,Mendocino,Mendocino,kindergarten,93.0
-875,Mendocino,Point Arena,7th grade,95.0
-876,Mendocino,Point Arena,childcare,94.0
-877,Mendocino,Point Arena,kindergarten,95.0
-878,Mendocino,Potter Valley,childcare,95.0
-879,Mendocino,Potter Valley,kindergarten,95.0
-880,Mendocino,Redwood Valley,7th grade,97.0
-881,Mendocino,Ukiah,7th grade,95.5
-882,Mendocino,Ukiah,childcare,95.0
-883,Mendocino,Ukiah,kindergarten,92.8
-884,Mendocino,Willits,7th grade,91.5
-885,Mendocino,Willits,childcare,92.0
-886,Mendocino,Willits,kindergarten,86.5
-887,Merced,Atwater,7th grade,99.0
-888,Merced,Atwater,childcare,96.0
-889,Merced,Atwater,kindergarten,98.14285714285714
-890,Merced,Ballico,7th grade,95.0
-891,Merced,Cressey,kindergarten,81.0
-892,Merced,Delhi,7th grade,99.0
-893,Merced,Delhi,childcare,95.0
-894,Merced,Delhi,kindergarten,96.66666666666667
-895,Merced,Dos Palos,7th grade,99.0
-896,Merced,Dos Palos,childcare,97.0
-897,Merced,Dos Palos,kindergarten,98.0
-898,Merced,Gustine,7th grade,99.0
-899,Merced,Gustine,childcare,94.5
-900,Merced,Gustine,kindergarten,98.0
-901,Merced,Hilmar,7th grade,99.0
-902,Merced,Hilmar,childcare,96.5
-903,Merced,Hilmar,kindergarten,99.0
-904,Merced,Le Grand,7th grade,85.0
-905,Merced,Le Grand,kindergarten,90.0
-906,Merced,Livingston,7th grade,99.0
-907,Merced,Livingston,childcare,90.6
-908,Merced,Livingston,kindergarten,97.66666666666667
-909,Merced,Los Banos,7th grade,99.0
-910,Merced,Los Banos,childcare,96.1
-911,Merced,Los Banos,kindergarten,98.5
-912,Merced,Merced,7th grade,95.75
-913,Merced,Merced,childcare,95.03333333333333
-914,Merced,Merced,kindergarten,95.6842105263158
-915,Merced,Planada,7th grade,98.0
-916,Merced,Planada,childcare,96.0
-917,Merced,Planada,kindergarten,99.0
-918,Merced,Santa Nella,kindergarten,94.0
-919,Merced,Stevinson,kindergarten,95.0
-920,Merced,Winton,7th grade,99.0
-921,Merced,Winton,childcare,95.0
-922,Merced,Winton,kindergarten,95.0
-923,Modoc,Alturas,7th grade,98.0
-924,Modoc,Alturas,childcare,95.0
-925,Modoc,Alturas,kindergarten,98.0
-926,Modoc,Tulelake,7th grade,95.0
-927,Modoc,Tulelake,childcare,95.0
-928,Modoc,Tulelake,kindergarten,95.0
-929,Mono,Coleville,kindergarten,91.0
-930,Mono,Mammoth Lakes,7th grade,97.0
-931,Mono,Mammoth Lakes,childcare,95.0
-932,Mono,Mammoth Lakes,kindergarten,94.0
-933,Monterey,Carmel Valley Village,7th grade,97.0
-934,Monterey,Carmel Valley Village,childcare,95.0
-935,Monterey,Carmel Valley Village,kindergarten,95.33333333333333
-936,Monterey,Castroville,7th grade,99.0
-937,Monterey,Castroville,childcare,94.2
-938,Monterey,Castroville,kindergarten,99.0
-939,Monterey,Chualar,7th grade,95.0
-940,Monterey,Chualar,childcare,95.0
-941,Monterey,Chualar,kindergarten,95.0
-942,Monterey,Del Rey Oaks,childcare,95.0
-943,Monterey,Gonzales,7th grade,99.0
-944,Monterey,Gonzales,childcare,75.5
-945,Monterey,Gonzales,kindergarten,93.0
-946,Monterey,Greenfield,7th grade,99.0
-947,Monterey,Greenfield,childcare,95.5
-948,Monterey,Greenfield,kindergarten,99.0
-949,Monterey,Interlaken,childcare,95.0
-950,Monterey,King City,7th grade,99.0
-951,Monterey,King City,childcare,95.66666666666667
-952,Monterey,King City,kindergarten,98.33333333333333
-953,Monterey,Lockwood,7th grade,92.0
-954,Monterey,Marina,7th grade,99.0
-955,Monterey,Marina,childcare,96.33333333333333
-956,Monterey,Marina,kindergarten,98.0
-957,Monterey,Monterey,7th grade,96.0
-958,Monterey,Monterey,childcare,96.5
-959,Monterey,Monterey,kindergarten,94.83333333333333
-960,Monterey,Pacific Grove,7th grade,88.0
-961,Monterey,Pacific Grove,childcare,94.0
-962,Monterey,Pacific Grove,kindergarten,93.33333333333333
-963,Monterey,Prunedale,childcare,95.0
-964,Monterey,Salinas,7th grade,97.58333333333333
-965,Monterey,Salinas,childcare,95.73913043478261
-966,Monterey,Salinas,kindergarten,97.86486486486487
-967,Monterey,Seaside,7th grade,97.33333333333333
-968,Monterey,Seaside,childcare,95.42857142857143
-969,Monterey,Seaside,kindergarten,97.42857142857143
-970,Monterey,Soledad,7th grade,99.0
-971,Monterey,Soledad,childcare,95.0
-972,Monterey,Soledad,kindergarten,98.2
-973,Monterey,Spreckels,childcare,95.0
-974,Monterey,Spreckels,kindergarten,98.0
-975,Napa,American Canyon,7th grade,99.0
-976,Napa,American Canyon,childcare,96.0
-977,Napa,American Canyon,kindergarten,98.33333333333333
-978,Napa,Calistoga,7th grade,98.0
-979,Napa,Calistoga,childcare,95.0
-980,Napa,Calistoga,kindergarten,97.0
-981,Napa,Napa,7th grade,88.125
-982,Napa,Napa,childcare,95.1
-983,Napa,Napa,kindergarten,94.70588235294117
-984,Napa,Rutherford,childcare,95.0
-985,Napa,St. Helena,7th grade,96.5
-986,Napa,St. Helena,childcare,95.0
-987,Napa,St. Helena,kindergarten,95.0
-988,Napa,Yountville,kindergarten,95.0
-989,Nevada,Auburn,7th grade,94.0
-990,Nevada,Grass Valley,7th grade,96.75
-991,Nevada,Grass Valley,childcare,92.36363636363636
-992,Nevada,Grass Valley,kindergarten,95.5
-993,Nevada,Nevada City,7th grade,74.25
-994,Nevada,Nevada City,childcare,86.57142857142857
-995,Nevada,Nevada City,kindergarten,54.0
-996,Nevada,Penn Valley,7th grade,98.0
-997,Nevada,Penn Valley,kindergarten,95.0
-998,Nevada,Truckee,childcare,92.6
-999,Orange,Aliso Viejo,7th grade,93.0
-1000,Orange,Aliso Viejo,childcare,97.28571428571429
-1001,Orange,Aliso Viejo,kindergarten,89.75
-1002,Orange,Anaheim,7th grade,91.84615384615384
-1003,Orange,Anaheim,childcare,94.82666666666667
-1004,Orange,Anaheim,kindergarten,95.87037037037037
-1005,Orange,Brea,7th grade,96.33333333333333
-1006,Orange,Brea,childcare,95.875
-1007,Orange,Brea,kindergarten,97.11111111111111
-1008,Orange,Buena Park,7th grade,96.33333333333333
-1009,Orange,Buena Park,childcare,96.8
-1010,Orange,Buena Park,kindergarten,97.58333333333333
-1011,Orange,Costa Mesa,7th grade,91.55555555555556
-1012,Orange,Costa Mesa,childcare,94.3225806451613
-1013,Orange,Costa Mesa,kindergarten,92.6
-1014,Orange,Coto De Caza,kindergarten,98.0
-1015,Orange,Cypress,7th grade,97.0
-1016,Orange,Cypress,childcare,95.875
-1017,Orange,Cypress,kindergarten,97.42857142857143
-1018,Orange,Dana Point,7th grade,98.0
-1019,Orange,Dana Point,childcare,94.27272727272727
-1020,Orange,Dana Point,kindergarten,95.2
-1021,Orange,Fountain Valley,7th grade,99.0
-1022,Orange,Fountain Valley,childcare,95.58823529411765
-1023,Orange,Fountain Valley,kindergarten,97.625
-1024,Orange,Fullerton,7th grade,98.0
-1025,Orange,Fullerton,childcare,95.8108108108108
-1026,Orange,Fullerton,kindergarten,96.04761904761905
-1027,Orange,Garden Grove,7th grade,98.2
-1028,Orange,Garden Grove,childcare,93.94285714285714
-1029,Orange,Garden Grove,kindergarten,96.95
-1030,Orange,Huntington Beach,7th grade,97.53846153846153
-1031,Orange,Huntington Beach,childcare,94.74358974358974
-1032,Orange,Huntington Beach,kindergarten,96.3076923076923
-1033,Orange,Irvine,7th grade,96.9090909090909
-1034,Orange,Irvine,childcare,96.65217391304348
-1035,Orange,Irvine,kindergarten,96.33333333333333
-1036,Orange,La Habra,7th grade,97.33333333333333
-1037,Orange,La Habra,childcare,94.36363636363636
-1038,Orange,La Habra,kindergarten,98.75
-1039,Orange,La Palma,7th grade,99.0
-1040,Orange,La Palma,childcare,96.75
-1041,Orange,La Palma,kindergarten,96.66666666666667
-1042,Orange,Ladera Ranch,7th grade,98.0
-1043,Orange,Ladera Ranch,childcare,97.0
-1044,Orange,Ladera Ranch,kindergarten,95.0
-1045,Orange,Laguna Beach,7th grade,98.0
-1046,Orange,Laguna Beach,childcare,92.8
-1047,Orange,Laguna Beach,kindergarten,86.75
-1048,Orange,Laguna Hills,childcare,96.75
-1049,Orange,Laguna Hills,kindergarten,94.0
-1050,Orange,Laguna Niguel,7th grade,93.5
-1051,Orange,Laguna Niguel,childcare,92.8125
-1052,Orange,Laguna Niguel,kindergarten,94.9
-1053,Orange,Laguna Woods,childcare,96.0
-1054,Orange,Lake Forest,7th grade,96.66666666666667
-1055,Orange,Lake Forest,childcare,95.29411764705883
-1056,Orange,Lake Forest,kindergarten,95.0
+647,Los Angeles,Los Angeles,7th grade,95.69415807560138
+648,Los Angeles,Los Angeles,childcare,94.3953488372093
+649,Los Angeles,Los Angeles,kindergarten,95.46178343949045
+650,Los Angeles,Lynwood,7th grade,97.2
+651,Los Angeles,Lynwood,childcare,95.25
+652,Los Angeles,Lynwood,kindergarten,93.92857142857143
+653,Los Angeles,Malibu,7th grade,93.0
+654,Los Angeles,Malibu,childcare,87.25
+655,Los Angeles,Malibu,kindergarten,92.33333333333333
+656,Los Angeles,Manhattan Beach,7th grade,97.5
+657,Los Angeles,Manhattan Beach,childcare,95.26666666666667
+658,Los Angeles,Manhattan Beach,kindergarten,95.875
+659,Los Angeles,Marina del Rey,7th grade,98.0
+660,Los Angeles,Marina del Rey,childcare,98.0
+661,Los Angeles,Maywood,7th grade,99.0
+662,Los Angeles,Maywood,childcare,95.57142857142857
+663,Los Angeles,Maywood,kindergarten,95.4
+664,Los Angeles,Mission Hills,childcare,89.0
+665,Los Angeles,Mission Hills,kindergarten,99.0
+666,Los Angeles,Monrovia,7th grade,96.5
+667,Los Angeles,Monrovia,childcare,96.125
+668,Los Angeles,Monrovia,kindergarten,97.8
+669,Los Angeles,Montebello,7th grade,95.6
+670,Los Angeles,Montebello,childcare,95.63636363636364
+671,Los Angeles,Montebello,kindergarten,93.71428571428571
+672,Los Angeles,Monterey Park,7th grade,98.8
+673,Los Angeles,Monterey Park,childcare,95.83333333333333
+674,Los Angeles,Monterey Park,kindergarten,97.875
+675,Los Angeles,Norwalk,7th grade,98.2
+676,Los Angeles,Norwalk,childcare,95.44444444444444
+677,Los Angeles,Norwalk,kindergarten,97.88235294117646
+678,Los Angeles,Palmdale,7th grade,98.26666666666667
+679,Los Angeles,Palmdale,childcare,95.94117647058823
+680,Los Angeles,Palmdale,kindergarten,97.66666666666667
+681,Los Angeles,Palos Verdes Estates,7th grade,98.5
+682,Los Angeles,Palos Verdes Estates,childcare,97.33333333333333
+683,Los Angeles,Palos Verdes Estates,kindergarten,97.0
+684,Los Angeles,Paramount,7th grade,98.2
+685,Los Angeles,Paramount,childcare,95.7
+686,Los Angeles,Paramount,kindergarten,91.8
+687,Los Angeles,Pasadena,7th grade,96.94444444444444
+688,Los Angeles,Pasadena,childcare,95.24489795918367
+689,Los Angeles,Pasadena,kindergarten,94.68
+690,Los Angeles,Pearblossom,7th grade,95.0
+691,Los Angeles,Pearblossom,kindergarten,96.0
+692,Los Angeles,Pico Rivera,7th grade,91.8
+693,Los Angeles,Pico Rivera,childcare,95.5625
+694,Los Angeles,Pico Rivera,kindergarten,97.5
+695,Los Angeles,Pomona,7th grade,97.91666666666667
+696,Los Angeles,Pomona,childcare,96.53846153846153
+697,Los Angeles,Pomona,kindergarten,96.41666666666667
+698,Los Angeles,Quartz Hill,childcare,98.0
+699,Los Angeles,Quartz Hill,kindergarten,96.0
+700,Los Angeles,Rancho Dominguez,7th grade,95.0
+701,Los Angeles,Rancho Dominguez,kindergarten,95.0
+702,Los Angeles,Rancho Palos Verdes,7th grade,97.4
+703,Los Angeles,Rancho Palos Verdes,childcare,94.27272727272727
+704,Los Angeles,Rancho Palos Verdes,kindergarten,97.57142857142857
+705,Los Angeles,Redlands,7th grade,44.0
+706,Los Angeles,Redlands,kindergarten,43.0
+707,Los Angeles,Redondo Beach,7th grade,84.33333333333333
+708,Los Angeles,Redondo Beach,childcare,96.55555555555556
+709,Los Angeles,Redondo Beach,kindergarten,97.5
+710,Los Angeles,Rolling Hills Estates,7th grade,95.0
+711,Los Angeles,Rolling Hills Estates,childcare,93.83333333333333
+712,Los Angeles,Rolling Hills Estates,kindergarten,97.0
+713,Los Angeles,Rosemead,7th grade,99.0
+714,Los Angeles,Rosemead,childcare,95.38888888888889
+715,Los Angeles,Rosemead,kindergarten,98.0
+716,Los Angeles,Rowland Heights,7th grade,97.0
+717,Los Angeles,Rowland Heights,childcare,96.0
+718,Los Angeles,Rowland Heights,kindergarten,97.4
+719,Los Angeles,San Dimas,7th grade,97.66666666666667
+720,Los Angeles,San Dimas,childcare,96.25
+721,Los Angeles,San Dimas,kindergarten,97.6
+722,Los Angeles,San Fernando,7th grade,97.14285714285714
+723,Los Angeles,San Fernando,childcare,89.0
+724,Los Angeles,San Fernando,kindergarten,97.0
+725,Los Angeles,San Gabriel,7th grade,95.66666666666667
+726,Los Angeles,San Gabriel,childcare,96.66666666666667
+727,Los Angeles,San Gabriel,kindergarten,95.88888888888889
+728,Los Angeles,San Marcos,kindergarten,65.0
+729,Los Angeles,San Marino,7th grade,97.0
+730,Los Angeles,San Marino,childcare,97.0
+731,Los Angeles,San Marino,kindergarten,97.33333333333333
+732,Los Angeles,Santa Clarita,7th grade,96.88888888888889
+733,Los Angeles,Santa Clarita,childcare,94.69090909090909
+734,Los Angeles,Santa Clarita,kindergarten,97.11111111111111
+735,Los Angeles,Santa Fe Springs,7th grade,95.5
+736,Los Angeles,Santa Fe Springs,childcare,96.5
+737,Los Angeles,Santa Fe Springs,kindergarten,95.0
+738,Los Angeles,Santa Monica,7th grade,93.28571428571429
+739,Los Angeles,Santa Monica,childcare,93.69767441860465
+740,Los Angeles,Santa Monica,kindergarten,95.73333333333333
+741,Los Angeles,Sierra Madre,7th grade,80.66666666666667
+742,Los Angeles,Sierra Madre,childcare,97.33333333333333
+743,Los Angeles,Sierra Madre,kindergarten,95.5
+744,Los Angeles,Signal Hill,7th grade,99.0
+745,Los Angeles,Signal Hill,childcare,98.0
+746,Los Angeles,Signal Hill,kindergarten,98.5
+747,Los Angeles,Simi Valley,7th grade,97.0
+748,Los Angeles,Simi Valley,kindergarten,93.0
+749,Los Angeles,South El Monte,7th grade,99.0
+750,Los Angeles,South El Monte,childcare,95.0
+751,Los Angeles,South El Monte,kindergarten,98.0
+752,Los Angeles,South Gate,7th grade,98.0
+753,Los Angeles,South Gate,childcare,96.0
+754,Los Angeles,South Gate,kindergarten,97.05882352941177
+755,Los Angeles,South Pasadena,7th grade,97.0
+756,Los Angeles,South Pasadena,childcare,95.5
+757,Los Angeles,South Pasadena,kindergarten,95.75
+758,Los Angeles,South San Gabriel,kindergarten,98.0
+759,Los Angeles,South Whittier,childcare,96.0
+760,Los Angeles,Stevenson Ranch,7th grade,98.0
+761,Los Angeles,Stevenson Ranch,childcare,95.5
+762,Los Angeles,Stevenson Ranch,kindergarten,98.0
+763,Los Angeles,Temple City,7th grade,83.5
+764,Los Angeles,Temple City,childcare,96.85714285714286
+765,Los Angeles,Temple City,kindergarten,98.66666666666667
+766,Los Angeles,Thousand Oaks,7th grade,8.0
+767,Los Angeles,Thousand Oaks,kindergarten,21.0
+768,Los Angeles,Topanga,childcare,95.0
+769,Los Angeles,Topanga,kindergarten,93.0
+770,Los Angeles,Torrance,7th grade,97.66666666666667
+771,Los Angeles,Torrance,childcare,93.0
+772,Los Angeles,Torrance,kindergarten,97.04
+773,Los Angeles,Valinda,7th grade,98.5
+774,Los Angeles,Valinda,childcare,95.0
+775,Los Angeles,Valinda,kindergarten,94.25
+776,Los Angeles,Walnut,7th grade,98.75
+777,Los Angeles,Walnut,childcare,95.66666666666667
+778,Los Angeles,Walnut,kindergarten,98.42857142857143
+779,Los Angeles,Walnut Park,7th grade,99.0
+780,Los Angeles,Walnut Park,childcare,98.0
+781,Los Angeles,Walnut Park,kindergarten,98.0
+782,Los Angeles,West Covina,7th grade,95.63636363636364
+783,Los Angeles,West Covina,childcare,95.92857142857143
+784,Los Angeles,West Covina,kindergarten,94.05263157894737
+785,Los Angeles,West Hollywood,childcare,91.5
+786,Los Angeles,West Hollywood,kindergarten,92.0
+787,Los Angeles,West Whittier-Los Nietos,7th grade,99.0
+788,Los Angeles,Westlake Village,7th grade,95.5
+789,Los Angeles,Westlake Village,childcare,95.5
+790,Los Angeles,Westlake Village,kindergarten,96.5
+791,Los Angeles,Whittier,7th grade,97.3076923076923
+792,Los Angeles,Whittier,childcare,96.25714285714285
+793,Los Angeles,Whittier,kindergarten,96.9090909090909
+794,Madera,Ahwahnee,7th grade,82.0
+795,Madera,Ahwahnee,kindergarten,89.0
+796,Madera,Chowchilla,7th grade,97.0
+797,Madera,Chowchilla,childcare,96.5
+798,Madera,Chowchilla,kindergarten,98.0
+799,Madera,Coarsegold,7th grade,98.0
+800,Madera,Coarsegold,kindergarten,93.0
+801,Madera,Madera,7th grade,90.76923076923077
+802,Madera,Madera,childcare,95.66666666666667
+803,Madera,Madera,kindergarten,95.30434782608695
+804,Madera,North Fork,7th grade,95.0
+805,Madera,North Fork,kindergarten,95.0
+806,Madera,O'Neals,7th grade,95.0
+807,Madera,O'Neals,kindergarten,91.0
+808,Madera,Oakhurst,7th grade,93.5
+809,Madera,Oakhurst,childcare,98.0
+810,Madera,Oakhurst,kindergarten,93.0
+811,Marin,Belvedere,childcare,95.0
+812,Marin,Bolinas,kindergarten,95.0
+813,Marin,Corte Madera,7th grade,95.0
+814,Marin,Corte Madera,childcare,95.0909090909091
+815,Marin,Corte Madera,kindergarten,96.0
+816,Marin,Fairfax,7th grade,98.0
+817,Marin,Fairfax,childcare,93.66666666666667
+818,Marin,Fairfax,kindergarten,88.5
+819,Marin,Kentfield,7th grade,99.0
+820,Marin,Kentfield,childcare,96.5
+821,Marin,Kentfield,kindergarten,99.0
+822,Marin,Larkspur,7th grade,96.33333333333333
+823,Marin,Larkspur,childcare,96.0
+824,Marin,Larkspur,kindergarten,90.5
+825,Marin,Marin City,childcare,95.0
+826,Marin,Mill Valley,7th grade,95.66666666666667
+827,Marin,Mill Valley,childcare,94.0
+828,Marin,Mill Valley,kindergarten,95.16666666666667
+829,Marin,Novato,7th grade,97.2
+830,Marin,Novato,childcare,95.93333333333334
+831,Marin,Novato,kindergarten,96.5
+832,Marin,Point Reyes Station,7th grade,89.0
+833,Marin,Point Reyes Station,childcare,95.0
+834,Marin,Ross,7th grade,94.0
+835,Marin,Ross,childcare,95.0
+836,Marin,Ross,kindergarten,95.0
+837,Marin,San Anselmo,7th grade,96.5
+838,Marin,San Anselmo,childcare,92.44444444444444
+839,Marin,San Anselmo,kindergarten,96.5
+840,Marin,San Geronimo,7th grade,95.0
+841,Marin,San Geronimo,childcare,95.0
+842,Marin,San Rafael,7th grade,96.28571428571429
+843,Marin,San Rafael,childcare,95.70370370370371
+844,Marin,San Rafael,kindergarten,93.5625
+845,Marin,Sausalito,7th grade,95.0
+846,Marin,Sausalito,childcare,95.0
+847,Marin,Sausalito,kindergarten,82.5
+848,Marin,Tiburon,7th grade,96.5
+849,Marin,Tiburon,childcare,96.0
+850,Marin,Tiburon,kindergarten,96.5
+851,Marin,Tomales,7th grade,82.0
+852,Mariposa,Catheys Valley,kindergarten,86.0
+853,Mariposa,La Grange,7th grade,95.0
+854,Mariposa,Mariposa,7th grade,95.0
+855,Mariposa,Mariposa,kindergarten,91.5
+856,Mendocino,Boonville,7th grade,95.0
+857,Mendocino,Boonville,childcare,95.0
+858,Mendocino,Boonville,kindergarten,95.0
+859,Mendocino,Calpella,kindergarten,52.0
+860,Mendocino,Covelo,7th grade,95.0
+861,Mendocino,Covelo,childcare,82.0
+862,Mendocino,Covelo,kindergarten,93.0
+863,Mendocino,Fort Bragg,7th grade,99.0
+864,Mendocino,Fort Bragg,childcare,92.5
+865,Mendocino,Fort Bragg,kindergarten,75.0
+866,Mendocino,Laytonville,7th grade,93.0
+867,Mendocino,Laytonville,childcare,92.0
+868,Mendocino,Laytonville,kindergarten,86.0
+869,Mendocino,Mendocino,7th grade,93.0
+870,Mendocino,Mendocino,childcare,74.0
+871,Mendocino,Mendocino,kindergarten,93.0
+872,Mendocino,Point Arena,7th grade,95.0
+873,Mendocino,Point Arena,childcare,94.0
+874,Mendocino,Point Arena,kindergarten,95.0
+875,Mendocino,Potter Valley,childcare,95.0
+876,Mendocino,Potter Valley,kindergarten,95.0
+877,Mendocino,Redwood Valley,7th grade,97.0
+878,Mendocino,Ukiah,7th grade,95.5
+879,Mendocino,Ukiah,childcare,95.0
+880,Mendocino,Ukiah,kindergarten,92.8
+881,Mendocino,Willits,7th grade,91.5
+882,Mendocino,Willits,childcare,92.0
+883,Mendocino,Willits,kindergarten,86.5
+884,Merced,Atwater,7th grade,99.0
+885,Merced,Atwater,childcare,96.0
+886,Merced,Atwater,kindergarten,98.14285714285714
+887,Merced,Ballico,7th grade,95.0
+888,Merced,Cressey,kindergarten,81.0
+889,Merced,Delhi,7th grade,99.0
+890,Merced,Delhi,childcare,95.0
+891,Merced,Delhi,kindergarten,96.66666666666667
+892,Merced,Dos Palos,7th grade,99.0
+893,Merced,Dos Palos,childcare,97.0
+894,Merced,Dos Palos,kindergarten,98.0
+895,Merced,Gustine,7th grade,99.0
+896,Merced,Gustine,childcare,94.5
+897,Merced,Gustine,kindergarten,98.0
+898,Merced,Hilmar,7th grade,99.0
+899,Merced,Hilmar,childcare,96.5
+900,Merced,Hilmar,kindergarten,99.0
+901,Merced,Le Grand,7th grade,85.0
+902,Merced,Le Grand,kindergarten,90.0
+903,Merced,Livingston,7th grade,99.0
+904,Merced,Livingston,childcare,90.6
+905,Merced,Livingston,kindergarten,97.66666666666667
+906,Merced,Los Banos,7th grade,99.0
+907,Merced,Los Banos,childcare,96.1
+908,Merced,Los Banos,kindergarten,98.5
+909,Merced,Merced,7th grade,95.75
+910,Merced,Merced,childcare,95.03333333333333
+911,Merced,Merced,kindergarten,95.6842105263158
+912,Merced,Planada,7th grade,98.0
+913,Merced,Planada,childcare,96.0
+914,Merced,Planada,kindergarten,99.0
+915,Merced,Santa Nella,kindergarten,94.0
+916,Merced,Stevinson,kindergarten,95.0
+917,Merced,Winton,7th grade,99.0
+918,Merced,Winton,childcare,95.0
+919,Merced,Winton,kindergarten,95.0
+920,Modoc,Alturas,7th grade,98.0
+921,Modoc,Alturas,childcare,95.0
+922,Modoc,Alturas,kindergarten,98.0
+923,Modoc,Tulelake,7th grade,95.0
+924,Modoc,Tulelake,childcare,95.0
+925,Modoc,Tulelake,kindergarten,95.0
+926,Mono,Coleville,kindergarten,91.0
+927,Mono,Mammoth Lakes,7th grade,97.0
+928,Mono,Mammoth Lakes,childcare,95.0
+929,Mono,Mammoth Lakes,kindergarten,94.0
+930,Monterey,Carmel Valley Village,7th grade,97.0
+931,Monterey,Carmel Valley Village,childcare,95.0
+932,Monterey,Carmel Valley Village,kindergarten,95.33333333333333
+933,Monterey,Castroville,7th grade,99.0
+934,Monterey,Castroville,childcare,94.2
+935,Monterey,Castroville,kindergarten,99.0
+936,Monterey,Chualar,7th grade,95.0
+937,Monterey,Chualar,childcare,95.0
+938,Monterey,Chualar,kindergarten,95.0
+939,Monterey,Del Rey Oaks,childcare,95.0
+940,Monterey,Gonzales,7th grade,99.0
+941,Monterey,Gonzales,childcare,75.5
+942,Monterey,Gonzales,kindergarten,93.0
+943,Monterey,Greenfield,7th grade,99.0
+944,Monterey,Greenfield,childcare,95.5
+945,Monterey,Greenfield,kindergarten,99.0
+946,Monterey,Interlaken,childcare,95.0
+947,Monterey,King City,7th grade,99.0
+948,Monterey,King City,childcare,95.66666666666667
+949,Monterey,King City,kindergarten,98.33333333333333
+950,Monterey,Lockwood,7th grade,92.0
+951,Monterey,Marina,7th grade,99.0
+952,Monterey,Marina,childcare,96.33333333333333
+953,Monterey,Marina,kindergarten,98.0
+954,Monterey,Monterey,7th grade,96.0
+955,Monterey,Monterey,childcare,96.5
+956,Monterey,Monterey,kindergarten,94.83333333333333
+957,Monterey,Pacific Grove,7th grade,88.0
+958,Monterey,Pacific Grove,childcare,94.0
+959,Monterey,Pacific Grove,kindergarten,93.33333333333333
+960,Monterey,Prunedale,childcare,95.0
+961,Monterey,Salinas,7th grade,97.58333333333333
+962,Monterey,Salinas,childcare,95.73913043478261
+963,Monterey,Salinas,kindergarten,97.86486486486487
+964,Monterey,Seaside,7th grade,97.33333333333333
+965,Monterey,Seaside,childcare,95.42857142857143
+966,Monterey,Seaside,kindergarten,97.42857142857143
+967,Monterey,Soledad,7th grade,99.0
+968,Monterey,Soledad,childcare,95.0
+969,Monterey,Soledad,kindergarten,98.2
+970,Monterey,Spreckels,childcare,95.0
+971,Monterey,Spreckels,kindergarten,98.0
+972,Napa,American Canyon,7th grade,99.0
+973,Napa,American Canyon,childcare,96.0
+974,Napa,American Canyon,kindergarten,98.33333333333333
+975,Napa,Calistoga,7th grade,98.0
+976,Napa,Calistoga,childcare,95.0
+977,Napa,Calistoga,kindergarten,97.0
+978,Napa,Napa,7th grade,88.125
+979,Napa,Napa,childcare,95.1
+980,Napa,Napa,kindergarten,94.70588235294117
+981,Napa,Rutherford,childcare,95.0
+982,Napa,St. Helena,7th grade,96.5
+983,Napa,St. Helena,childcare,95.0
+984,Napa,St. Helena,kindergarten,95.0
+985,Napa,Yountville,kindergarten,95.0
+986,Nevada,Auburn,7th grade,94.0
+987,Nevada,Grass Valley,7th grade,96.75
+988,Nevada,Grass Valley,childcare,92.36363636363636
+989,Nevada,Grass Valley,kindergarten,95.5
+990,Nevada,Nevada City,7th grade,74.25
+991,Nevada,Nevada City,childcare,86.57142857142857
+992,Nevada,Nevada City,kindergarten,54.0
+993,Nevada,Penn Valley,7th grade,98.0
+994,Nevada,Penn Valley,kindergarten,95.0
+995,Nevada,Truckee,childcare,92.6
+996,Orange,Aliso Viejo,7th grade,93.0
+997,Orange,Aliso Viejo,childcare,97.28571428571429
+998,Orange,Aliso Viejo,kindergarten,89.75
+999,Orange,Anaheim,7th grade,91.84615384615384
+1000,Orange,Anaheim,childcare,94.82432432432432
+1001,Orange,Anaheim,kindergarten,95.87037037037037
+1002,Orange,Ananheim,childcare,95.0
+1003,Orange,Brea,7th grade,96.33333333333333
+1004,Orange,Brea,childcare,95.875
+1005,Orange,Brea,kindergarten,97.11111111111111
+1006,Orange,Buena Park,7th grade,96.33333333333333
+1007,Orange,Buena Park,childcare,96.8
+1008,Orange,Buena Park,kindergarten,97.58333333333333
+1009,Orange,Costa Mesa,7th grade,91.55555555555556
+1010,Orange,Costa Mesa,childcare,94.43333333333334
+1011,Orange,Costa Mesa,kindergarten,92.6
+1012,Orange,"Costa Mesa,",childcare,91.0
+1013,Orange,Coto de Caza,kindergarten,98.0
+1014,Orange,Cypress,7th grade,97.0
+1015,Orange,Cypress,childcare,95.875
+1016,Orange,Cypress,kindergarten,97.42857142857143
+1017,Orange,Dana Point,7th grade,98.0
+1018,Orange,Dana Point,childcare,94.27272727272727
+1019,Orange,Dana Point,kindergarten,95.2
+1020,Orange,Fountain Valley,7th grade,99.0
+1021,Orange,Fountain Valley,childcare,95.58823529411765
+1022,Orange,Fountain Valley,kindergarten,97.625
+1023,Orange,Fullerton,7th grade,98.0
+1024,Orange,Fullerton,childcare,95.8108108108108
+1025,Orange,Fullerton,kindergarten,96.04761904761905
+1026,Orange,Garden Grove,7th grade,98.2
+1027,Orange,Garden Grove,childcare,93.94285714285714
+1028,Orange,Garden Grove,kindergarten,96.95
+1029,Orange,Huntington Beach,7th grade,97.53846153846153
+1030,Orange,Huntington Beach,childcare,94.74358974358974
+1031,Orange,Huntington Beach,kindergarten,96.3076923076923
+1032,Orange,Irvine,7th grade,96.9090909090909
+1033,Orange,Irvine,childcare,96.65217391304348
+1034,Orange,Irvine,kindergarten,96.33333333333333
+1035,Orange,La Habra,7th grade,97.33333333333333
+1036,Orange,La Habra,childcare,94.36363636363636
+1037,Orange,La Habra,kindergarten,98.75
+1038,Orange,La Palma,7th grade,99.0
+1039,Orange,La Palma,childcare,96.75
+1040,Orange,La Palma,kindergarten,96.66666666666667
+1041,Orange,Ladera Ranch,7th grade,98.0
+1042,Orange,Ladera Ranch,childcare,97.0
+1043,Orange,Ladera Ranch,kindergarten,95.0
+1044,Orange,Laguna Beach,7th grade,98.0
+1045,Orange,Laguna Beach,childcare,92.8
+1046,Orange,Laguna Beach,kindergarten,86.75
+1047,Orange,Laguna Hills,childcare,96.75
+1048,Orange,Laguna Hills,kindergarten,94.0
+1049,Orange,Laguna Niguel,7th grade,93.5
+1050,Orange,Laguna Niguel,childcare,92.8125
+1051,Orange,Laguna Niguel,kindergarten,94.9
+1052,Orange,Laguna Woods,childcare,96.0
+1053,Orange,Lake Forest,7th grade,96.66666666666667
+1054,Orange,Lake Forest,childcare,95.29411764705883
+1055,Orange,Lake Forest,kindergarten,95.0
+1056,Orange,Las Flores (Orange County),7th grade,98.0
 1057,Orange,Los Alamitos,7th grade,98.66666666666667
 1058,Orange,Los Alamitos,childcare,96.1
 1059,Orange,Los Alamitos,kindergarten,97.66666666666667
-1060,Orange,Los Flores,7th grade,98.0
-1061,Orange,Midway City,childcare,95.0
-1062,Orange,Midway City,kindergarten,98.33333333333333
-1063,Orange,Mission Viejo,7th grade,97.5
-1064,Orange,Mission Viejo,childcare,95.48
-1065,Orange,Mission Viejo,kindergarten,96.71428571428571
-1066,Orange,Newport Beach,7th grade,94.0
-1067,Orange,Newport Beach,childcare,95.11764705882354
-1068,Orange,Newport Beach,kindergarten,93.66666666666667
-1069,Orange,North Tustin,7th grade,95.0
-1070,Orange,North Tustin,kindergarten,97.0
-1071,Orange,Orange,7th grade,88.9
-1072,Orange,Orange,childcare,96.02564102564102
-1073,Orange,Orange,kindergarten,94.32
-1074,Orange,Placentia,7th grade,99.0
-1075,Orange,Placentia,childcare,96.5
-1076,Orange,Placentia,kindergarten,97.7
-1077,Orange,Rancho Santa Margarita,7th grade,96.4
-1078,Orange,Rancho Santa Margarita,childcare,95.14285714285714
-1079,Orange,Rancho Santa Margarita,kindergarten,94.66666666666667
-1080,Orange,Rossmoor,childcare,95.0
-1081,Orange,San Clemente,7th grade,98.0
-1082,Orange,San Clemente,childcare,94.58333333333333
-1083,Orange,San Clemente,kindergarten,95.42857142857143
-1084,Orange,San Juan Capistrano,7th grade,87.875
-1085,Orange,San Juan Capistrano,childcare,94.75
-1086,Orange,San Juan Capistrano,kindergarten,88.66666666666667
-1087,Orange,Santa Ana,7th grade,97.29629629629629
-1088,Orange,Santa Ana,childcare,96.21333333333334
-1089,Orange,Santa Ana,kindergarten,96.86666666666666
-1090,Orange,Seal Beach,childcare,95.5
-1091,Orange,Seal Beach,kindergarten,99.0
-1092,Orange,Silverado,childcare,95.0
-1093,Orange,Stanton,childcare,96.16666666666667
-1094,Orange,Stanton,kindergarten,97.0
-1095,Orange,Trabuco Canyon,kindergarten,96.5
-1096,Orange,Tustin,7th grade,97.0
-1097,Orange,Tustin,childcare,96.38461538461539
-1098,Orange,Tustin,kindergarten,97.15384615384616
-1099,Orange,Villa Park,7th grade,99.0
-1100,Orange,Villa Park,kindergarten,98.0
-1101,Orange,Westminster,7th grade,98.0
-1102,Orange,Westminster,childcare,95.57894736842105
-1103,Orange,Westminster,kindergarten,96.46153846153847
-1104,Orange,Yorba Linda,7th grade,96.66666666666667
-1105,Orange,Yorba Linda,childcare,96.89473684210526
-1106,Orange,Yorba Linda,kindergarten,96.0
-1107,Placer,Antelope,7th grade,99.0
-1108,Placer,Antelope,kindergarten,84.0
-1109,Placer,Auburn,7th grade,96.5
-1110,Placer,Auburn,childcare,89.72727272727273
-1111,Placer,Auburn,kindergarten,95.0
-1112,Placer,Colfax,7th grade,76.5
-1113,Placer,Colfax,kindergarten,73.0
-1114,Placer,Foresthill,7th grade,95.0
-1115,Placer,Foresthill,kindergarten,95.0
-1116,Placer,Granite Bay,7th grade,97.0
-1117,Placer,Granite Bay,childcare,96.5
-1118,Placer,Granite Bay,kindergarten,97.0
-1119,Placer,Kings Beach,childcare,95.0
-1120,Placer,Kings Beach,kindergarten,99.0
-1121,Placer,Lincoln,7th grade,67.75
-1122,Placer,Lincoln,childcare,95.33333333333333
-1123,Placer,Lincoln,kindergarten,87.88888888888889
-1124,Placer,Loomis,7th grade,97.4
-1125,Placer,Loomis,childcare,96.0
-1126,Placer,Loomis,kindergarten,94.2
-1127,Placer,Meadow Vista,childcare,73.5
-1128,Placer,Meadow Vista,kindergarten,73.0
-1129,Placer,Newcastle,7th grade,89.0
-1130,Placer,Newcastle,kindergarten,87.25
-1131,Placer,Penryn,7th grade,95.0
-1132,Placer,Penryn,kindergarten,95.0
-1133,Placer,Rocklin,7th grade,97.0
-1134,Placer,Rocklin,childcare,93.58823529411765
-1135,Placer,Rocklin,kindergarten,93.66666666666667
-1136,Placer,Roseville,7th grade,97.36363636363636
-1137,Placer,Roseville,childcare,94.57142857142857
-1138,Placer,Roseville,kindergarten,96.76
-1139,Placer,Squaw Valley,kindergarten,86.0
-1140,Placer,Sunnyside–Tahoe City,7th grade,98.0
-1141,Placer,Sunnyside–Tahoe City,childcare,90.5
-1142,Placer,Sunnyside–Tahoe City,kindergarten,95.0
-1143,Placer,Truckee,7th grade,93.5
-1144,Placer,Truckee,kindergarten,91.0
-1145,Placer,Weimar,7th grade,98.0
-1146,Plumas,Chester,7th grade,95.0
-1147,Plumas,Chester,kindergarten,95.0
-1148,Plumas,Portola,7th grade,95.0
-1149,Plumas,Portola,childcare,90.0
-1150,Plumas,Portola,kindergarten,92.0
-1151,Plumas,Quincy,7th grade,86.33333333333333
-1152,Plumas,Quincy,kindergarten,91.5
-1153,Riverside,Aguanga,7th grade,95.0
-1154,Riverside,Aguanga,kindergarten,92.0
-1155,Riverside,Anza,7th grade,95.0
-1156,Riverside,Anza,kindergarten,95.0
-1157,Riverside,Banning,7th grade,97.0
-1158,Riverside,Banning,childcare,95.28571428571429
-1159,Riverside,Banning,kindergarten,95.8
-1160,Riverside,Beaumont,7th grade,98.66666666666667
-1161,Riverside,Beaumont,childcare,78.6
-1162,Riverside,Beaumont,kindergarten,97.5
-1163,Riverside,Bermuda Dunes,7th grade,95.0
-1164,Riverside,Bermuda Dunes,childcare,96.5
-1165,Riverside,Bermuda Dunes,kindergarten,95.5
-1166,Riverside,Blythe,7th grade,97.33333333333333
-1167,Riverside,Blythe,childcare,86.25
-1168,Riverside,Blythe,kindergarten,95.33333333333333
-1169,Riverside,Cabazon,childcare,98.0
-1170,Riverside,Cabazon,kindergarten,95.0
-1171,Riverside,Calimesa,childcare,96.5
-1172,Riverside,Canyon Lake,childcare,94.0
-1173,Riverside,Cathedral City,7th grade,99.0
-1174,Riverside,Cathedral City,childcare,95.6
-1175,Riverside,Cathedral City,kindergarten,97.8
-1176,Riverside,Cherry Valley,childcare,99.0
-1177,Riverside,Coachella,7th grade,99.0
-1178,Riverside,Coachella,childcare,94.5
-1179,Riverside,Coachella,kindergarten,98.57142857142857
-1180,Riverside,Corona,7th grade,98.27272727272727
-1181,Riverside,Corona,childcare,93.06896551724138
-1182,Riverside,Corona,kindergarten,97.46153846153847
-1183,Riverside,Desert Hot Springs,7th grade,99.0
-1184,Riverside,Desert Hot Springs,childcare,96.0
-1185,Riverside,Desert Hot Springs,kindergarten,97.6
-1186,Riverside,Eastvale,7th grade,99.0
-1187,Riverside,Eastvale,childcare,89.0
-1188,Riverside,Eastvale,kindergarten,97.5
-1189,Riverside,Hemet,7th grade,97.57142857142857
-1190,Riverside,Hemet,childcare,96.17647058823529
-1191,Riverside,Hemet,kindergarten,96.92307692307692
-1192,Riverside,Idyllwild-Pine Cove,7th grade,95.0
-1193,Riverside,Idyllwild-Pine Cove,kindergarten,88.0
-1194,Riverside,Indian Wells,kindergarten,99.0
-1195,Riverside,Indio,7th grade,99.0
-1196,Riverside,Indio,childcare,96.0
-1197,Riverside,Indio,kindergarten,97.0
-1198,Riverside,Jurupa Valley,7th grade,99.0
-1199,Riverside,Jurupa Valley,childcare,95.71428571428571
-1200,Riverside,Jurupa Valley,kindergarten,96.70588235294117
-1201,Riverside,La Quinta,7th grade,98.0
-1202,Riverside,La Quinta,childcare,96.25
-1203,Riverside,La Quinta,kindergarten,99.0
-1204,Riverside,Lake Elsinore,7th grade,99.0
-1205,Riverside,Lake Elsinore,childcare,96.0
-1206,Riverside,Lake Elsinore,kindergarten,97.8
-1207,Riverside,Mecca,childcare,96.0
-1208,Riverside,Mecca,kindergarten,99.0
-1209,Riverside,Menifee,7th grade,99.0
-1210,Riverside,Menifee,childcare,96.25
-1211,Riverside,Menifee,kindergarten,96.77777777777777
-1212,Riverside,Moreno Valley,7th grade,98.55555555555556
-1213,Riverside,Moreno Valley,childcare,96.47826086956522
-1214,Riverside,Moreno Valley,kindergarten,97.82758620689656
-1215,Riverside,Murrieta,7th grade,98.16666666666667
-1216,Riverside,Murrieta,childcare,94.76190476190476
-1217,Riverside,Murrieta,kindergarten,96.92857142857143
-1218,Riverside,Norco,7th grade,99.0
-1219,Riverside,Norco,childcare,97.33333333333333
-1220,Riverside,Norco,kindergarten,94.83333333333333
-1221,Riverside,North Shore,childcare,95.0
-1222,Riverside,Nuevo,7th grade,99.0
-1223,Riverside,Nuevo,childcare,98.0
-1224,Riverside,Nuevo,kindergarten,98.0
-1225,Riverside,Palm Desert,7th grade,98.5
-1226,Riverside,Palm Desert,childcare,94.9090909090909
-1227,Riverside,Palm Desert,kindergarten,98.2
-1228,Riverside,Palm Springs,7th grade,95.0
-1229,Riverside,Palm Springs,childcare,95.0
-1230,Riverside,Palm Springs,kindergarten,95.0
-1231,Riverside,Perris,7th grade,97.2
-1232,Riverside,Perris,childcare,96.25
-1233,Riverside,Perris,kindergarten,98.1875
-1234,Riverside,Rancho Mirage,7th grade,95.0
-1235,Riverside,Rancho Mirage,childcare,98.0
-1236,Riverside,Rancho Mirage,kindergarten,96.5
-1237,Riverside,Riverside,7th grade,96.04761904761905
-1238,Riverside,Riverside,childcare,95.97142857142858
-1239,Riverside,Riverside,kindergarten,96.88888888888889
-1240,Riverside,Romoland,childcare,98.0
-1241,Riverside,Romoland,kindergarten,98.33333333333333
-1242,Riverside,Salton City,7th grade,98.0
-1243,Riverside,Salton City,kindergarten,97.0
-1244,Riverside,San Jacinto,7th grade,97.0
-1245,Riverside,San Jacinto,childcare,97.4
-1246,Riverside,San Jacinto,kindergarten,97.0
-1247,Riverside,Temecula,7th grade,95.2
-1248,Riverside,Temecula,childcare,95.33333333333333
-1249,Riverside,Temecula,kindergarten,95.42105263157895
-1250,Riverside,Thermal,7th grade,99.0
-1251,Riverside,Thermal,childcare,95.6
-1252,Riverside,Thermal,kindergarten,98.0
-1253,Riverside,Thousand Palms,childcare,95.0
-1254,Riverside,Thousand Palms,kindergarten,98.0
-1255,Riverside,Wildomar,7th grade,96.5
-1256,Riverside,Wildomar,childcare,94.66666666666667
-1257,Riverside,Wildomar,kindergarten,98.0
-1258,Riverside,Winchester,7th grade,97.0
-1259,Riverside,Winchester,childcare,96.0
-1260,Riverside,Winchester,kindergarten,97.5
-1261,Sacramento,Antelope,childcare,95.6
-1262,Sacramento,Antelope,kindergarten,95.25
-1263,Sacramento,Carmichael,7th grade,90.3
-1264,Sacramento,Carmichael,childcare,94.5909090909091
-1265,Sacramento,Carmichael,kindergarten,89.82352941176471
-1266,Sacramento,Citrus Heights,7th grade,97.75
-1267,Sacramento,Citrus Heights,childcare,93.84210526315789
-1268,Sacramento,Citrus Heights,kindergarten,92.33333333333333
-1269,Sacramento,Clarksburg,7th grade,99.0
-1270,Sacramento,Clarksburg,kindergarten,98.0
-1271,Sacramento,Courtland,childcare,95.0
-1272,Sacramento,Elk Grove,7th grade,98.28571428571429
-1273,Sacramento,Elk Grove,childcare,96.10714285714286
-1274,Sacramento,Elk Grove,kindergarten,96.625
-1275,Sacramento,Elverta,7th grade,95.0
-1276,Sacramento,Elverta,kindergarten,95.0
-1277,Sacramento,Fair Oaks,7th grade,91.0
-1278,Sacramento,Fair Oaks,childcare,94.0
-1279,Sacramento,Fair Oaks,kindergarten,91.83333333333333
-1280,Sacramento,Folsom,7th grade,97.66666666666667
-1281,Sacramento,Folsom,childcare,90.63157894736842
-1282,Sacramento,Folsom,kindergarten,96.46153846153847
-1283,Sacramento,Galt,7th grade,99.0
-1284,Sacramento,Galt,childcare,96.5
-1285,Sacramento,Galt,kindergarten,97.0
-1286,Sacramento,Gold River,7th grade,98.0
-1287,Sacramento,Gold River,childcare,93.0
-1288,Sacramento,Gold River,kindergarten,97.0
-1289,Sacramento,Herald,7th grade,98.0
-1290,Sacramento,Herald,kindergarten,98.0
-1291,Sacramento,Isleton,childcare,95.0
-1292,Sacramento,Isleton,kindergarten,91.0
-1293,Sacramento,Mather,7th grade,72.0
-1294,Sacramento,Mather,childcare,98.0
-1295,Sacramento,Mather,kindergarten,98.0
-1296,Sacramento,North Highlands,7th grade,96.33333333333333
-1297,Sacramento,North Highlands,childcare,95.625
-1298,Sacramento,North Highlands,kindergarten,89.2
-1299,Sacramento,Orangevale,7th grade,86.75
-1300,Sacramento,Orangevale,childcare,95.75
-1301,Sacramento,Orangevale,kindergarten,93.5
-1302,Sacramento,Rancho Cordova,7th grade,96.33333333333333
-1303,Sacramento,Rancho Cordova,childcare,94.57142857142857
-1304,Sacramento,Rancho Cordova,kindergarten,94.66666666666667
-1305,Sacramento,Rancho Murieta,childcare,95.0
-1306,Sacramento,Rio Linda,7th grade,87.25
-1307,Sacramento,Rio Linda,childcare,94.0
-1308,Sacramento,Rio Linda,kindergarten,88.5
-1309,Sacramento,Rio Vista,7th grade,98.0
-1310,Sacramento,Rio Vista,kindergarten,98.0
-1311,Sacramento,Roseville,7th grade,98.0
-1312,Sacramento,Sacramento,7th grade,96.0
-1313,Sacramento,Sacramento,childcare,93.76767676767676
-1314,Sacramento,Sacramento,kindergarten,95.41007194244604
-1315,Sacramento,Sloughhouse,kindergarten,95.0
-1316,Sacramento,Walnut Grove,childcare,95.0
-1317,Sacramento,Walnut Grove,kindergarten,95.0
-1318,Sacramento,Wilton,kindergarten,98.0
-1319,San Benito,Aromas,7th grade,98.0
-1320,San Benito,Aromas,childcare,93.0
-1321,San Benito,Aromas,kindergarten,95.0
-1322,San Benito,Hollister,7th grade,96.57142857142857
-1323,San Benito,Hollister,childcare,89.0
-1324,San Benito,Hollister,kindergarten,97.7
-1325,San Benito,San Juan Bautista,7th grade,95.0
-1326,San Benito,San Juan Bautista,childcare,90.0
-1327,San Benito,San Juan Bautista,kindergarten,95.0
-1328,San Bernardino,Adelanto,7th grade,97.0
-1329,San Bernardino,Adelanto,childcare,95.0
-1330,San Bernardino,Adelanto,kindergarten,93.25
-1331,San Bernardino,Apple Valley,7th grade,98.5
-1332,San Bernardino,Apple Valley,childcare,94.23529411764706
-1333,San Bernardino,Apple Valley,kindergarten,96.81818181818181
-1334,San Bernardino,Barstow,7th grade,99.0
-1335,San Bernardino,Barstow,childcare,94.0
-1336,San Bernardino,Barstow,kindergarten,94.6
-1337,San Bernardino,Big Bear City,childcare,91.33333333333333
-1338,San Bernardino,Big Bear City,kindergarten,95.0
-1339,San Bernardino,Big Bear Lake,7th grade,95.0
-1340,San Bernardino,Big Bear Lake,childcare,95.0
-1341,San Bernardino,Big Bear Lake,kindergarten,96.5
-1342,San Bernardino,Bloomington,7th grade,97.66666666666667
-1343,San Bernardino,Bloomington,childcare,93.83333333333333
-1344,San Bernardino,Bloomington,kindergarten,98.2
-1345,San Bernardino,Calimesa,7th grade,95.0
-1346,San Bernardino,Calimesa,kindergarten,95.0
-1347,San Bernardino,Chino,7th grade,98.2
-1348,San Bernardino,Chino,childcare,95.05555555555556
-1349,San Bernardino,Chino,kindergarten,97.45454545454545
-1350,San Bernardino,Chino Hills,7th grade,97.66666666666667
-1351,San Bernardino,Chino Hills,childcare,96.0909090909091
-1352,San Bernardino,Chino Hills,kindergarten,97.23076923076923
-1353,San Bernardino,Colton,7th grade,99.0
-1354,San Bernardino,Colton,childcare,95.33333333333333
-1355,San Bernardino,Colton,kindergarten,98.2
-1356,San Bernardino,Crest Park,childcare,95.0
-1357,San Bernardino,Crestline,childcare,94.0
-1358,San Bernardino,Crestline,kindergarten,98.0
-1359,San Bernardino,Fontana,7th grade,98.55555555555556
-1360,San Bernardino,Fontana,childcare,96.5
-1361,San Bernardino,Fontana,kindergarten,98.0
-1362,San Bernardino,Fort Irwin,7th grade,98.0
-1363,San Bernardino,Fort Irwin,childcare,99.0
-1364,San Bernardino,Fort Irwin,kindergarten,99.0
-1365,San Bernardino,Grand Terrace,7th grade,99.0
-1366,San Bernardino,Grand Terrace,childcare,96.5
-1367,San Bernardino,Grand Terrace,kindergarten,98.0
-1368,San Bernardino,Helendale,7th grade,77.0
-1369,San Bernardino,Helendale,childcare,95.0
-1370,San Bernardino,Helendale,kindergarten,85.5
-1371,San Bernardino,Hesperia,7th grade,97.66666666666667
-1372,San Bernardino,Hesperia,childcare,95.41176470588235
-1373,San Bernardino,Hesperia,kindergarten,97.6470588235294
-1374,San Bernardino,Highland,7th grade,99.0
-1375,San Bernardino,Highland,childcare,95.5
-1376,San Bernardino,Highland,kindergarten,97.45454545454545
-1377,San Bernardino,Joshua Tree,childcare,95.0
-1378,San Bernardino,Joshua Tree,kindergarten,88.5
-1379,San Bernardino,Lake Arrowhead,7th grade,99.0
-1380,San Bernardino,Lake Arrowhead,kindergarten,94.0
-1381,San Bernardino,Lenwood,kindergarten,96.0
-1382,San Bernardino,Loma Linda,7th grade,99.0
-1383,San Bernardino,Loma Linda,childcare,97.0
-1384,San Bernardino,Loma Linda,kindergarten,98.0
-1385,San Bernardino,Lucerne Valley,7th grade,97.0
-1386,San Bernardino,Lucerne Valley,childcare,88.0
-1387,San Bernardino,Lucerne Valley,kindergarten,95.0
-1388,San Bernardino,Mentone,childcare,95.0
-1389,San Bernardino,Mentone,kindergarten,98.0
-1390,San Bernardino,Montclair,7th grade,97.66666666666667
-1391,San Bernardino,Montclair,childcare,96.0
-1392,San Bernardino,Montclair,kindergarten,97.33333333333333
-1393,San Bernardino,Morongo Valley,kindergarten,90.0
-1394,San Bernardino,Needles,7th grade,98.0
-1395,San Bernardino,Needles,childcare,98.0
-1396,San Bernardino,Needles,kindergarten,98.0
-1397,San Bernardino,Newberry Springs,kindergarten,95.0
-1398,San Bernardino,Oak Hills,childcare,95.0
-1399,San Bernardino,Ontario,7th grade,98.0
-1400,San Bernardino,Ontario,childcare,96.25925925925925
-1401,San Bernardino,Ontario,kindergarten,97.73076923076923
-1402,San Bernardino,Oro Grande,7th grade,99.0
-1403,San Bernardino,Oro Grande,kindergarten,98.0
-1404,San Bernardino,Phelan,7th grade,98.0
-1405,San Bernardino,Phelan,childcare,95.5
-1406,San Bernardino,Phelan,kindergarten,95.0
-1407,San Bernardino,Pinon Hills,childcare,88.0
-1408,San Bernardino,Pinon Hills,kindergarten,85.0
-1409,San Bernardino,Placerville,7th grade,22.0
-1410,San Bernardino,Placerville,kindergarten,43.0
-1411,San Bernardino,Rancho Cucamonga,7th grade,98.2
-1412,San Bernardino,Rancho Cucamonga,childcare,96.8076923076923
-1413,San Bernardino,Rancho Cucamonga,kindergarten,97.53846153846153
-1414,San Bernardino,Redlands,7th grade,96.0
-1415,San Bernardino,Redlands,childcare,96.0909090909091
-1416,San Bernardino,Redlands,kindergarten,96.35714285714286
-1417,San Bernardino,Rialto,7th grade,99.0
-1418,San Bernardino,Rialto,childcare,95.69565217391305
-1419,San Bernardino,Rialto,kindergarten,98.0625
-1420,San Bernardino,Rim Forest,childcare,95.0
-1421,San Bernardino,Running Springs,childcare,91.0
-1422,San Bernardino,Running Springs,kindergarten,97.0
-1423,San Bernardino,San Bernardino,7th grade,96.5625
-1424,San Bernardino,San Bernardino,childcare,95.125
-1425,San Bernardino,San Bernardino,kindergarten,97.03703703703704
-1426,San Bernardino,San Marcos,7th grade,43.0
-1427,San Bernardino,San Marcos,kindergarten,43.0
-1428,San Bernardino,Trona,7th grade,48.5
-1429,San Bernardino,Trona,childcare,95.0
-1430,San Bernardino,Trona,kindergarten,48.5
-1431,San Bernardino,Twentynine Palms,7th grade,98.0
-1432,San Bernardino,Twentynine Palms,childcare,93.4
-1433,San Bernardino,Twentynine Palms,kindergarten,96.75
-1434,San Bernardino,Twin Peaks,7th grade,95.0
-1435,San Bernardino,Twin Peaks,childcare,95.0
-1436,San Bernardino,Twin Peaks,kindergarten,90.0
-1437,San Bernardino,Upland,7th grade,97.2
-1438,San Bernardino,Upland,childcare,96.76923076923077
-1439,San Bernardino,Upland,kindergarten,96.5
-1440,San Bernardino,Victorville,7th grade,97.1
-1441,San Bernardino,Victorville,childcare,96.0
-1442,San Bernardino,Victorville,kindergarten,96.6086956521739
-1443,San Bernardino,Wrightwood,childcare,4.0
-1444,San Bernardino,Wrightwood,kindergarten,95.0
-1445,San Bernardino,Yermo,7th grade,95.0
-1446,San Bernardino,Yermo,kindergarten,91.0
-1447,San Bernardino,Yucaipa,7th grade,98.66666666666667
-1448,San Bernardino,Yucaipa,childcare,96.25
-1449,San Bernardino,Yucaipa,kindergarten,97.5
-1450,San Bernardino,Yucca Valley,7th grade,93.0
-1451,San Bernardino,Yucca Valley,childcare,93.75
-1452,San Bernardino,Yucca Valley,kindergarten,94.0
-1453,San Diego,Alpine,7th grade,94.5
-1454,San Diego,Alpine,childcare,96.5
-1455,San Diego,Alpine,kindergarten,97.0
-1456,San Diego,Bonita,childcare,97.5
-1457,San Diego,Bonita,kindergarten,95.33333333333333
-1458,San Diego,Bonsall,7th grade,99.0
-1459,San Diego,Bonsall,kindergarten,60.5
-1460,San Diego,Borrego Springs,7th grade,95.0
-1461,San Diego,Borrego Springs,childcare,95.0
-1462,San Diego,Borrego Springs,kindergarten,95.0
-1463,San Diego,Boulevard,childcare,95.0
-1464,San Diego,Boulevard,kindergarten,92.0
-1465,San Diego,Campo,7th grade,98.0
-1466,San Diego,Campo,childcare,95.0
-1467,San Diego,Campo,kindergarten,93.0
-1468,San Diego,Carlsbad,7th grade,98.2
-1469,San Diego,Carlsbad,childcare,93.9047619047619
-1470,San Diego,Carlsbad,kindergarten,96.29411764705883
-1471,San Diego,Chula Vista,7th grade,97.5
-1472,San Diego,Chula Vista,childcare,96.05555555555556
-1473,San Diego,Chula Vista,kindergarten,97.47916666666667
-1474,San Diego,Coronado,7th grade,95.5
-1475,San Diego,Coronado,childcare,95.8
-1476,San Diego,Coronado,kindergarten,94.0
-1477,San Diego,Del Mar,childcare,97.0
-1478,San Diego,Del Mar,kindergarten,96.0
-1479,San Diego,Descanso,childcare,96.0
-1480,San Diego,Descanso,kindergarten,93.0
-1481,San Diego,El Cajon,7th grade,79.86666666666666
-1482,San Diego,El Cajon,childcare,95.38095238095238
-1483,San Diego,El Cajon,kindergarten,88.0
-1484,San Diego,Encinitas,7th grade,92.25
-1485,San Diego,Encinitas,childcare,94.26923076923077
-1486,San Diego,Encinitas,kindergarten,92.875
-1487,San Diego,Escondido,7th grade,94.15384615384616
-1488,San Diego,Escondido,childcare,95.34285714285714
-1489,San Diego,Escondido,kindergarten,95.11538461538461
-1490,San Diego,Fallbrook,7th grade,99.0
-1491,San Diego,Fallbrook,childcare,93.15384615384616
-1492,San Diego,Fallbrook,kindergarten,97.4
-1493,San Diego,Imperial Beach,7th grade,99.0
-1494,San Diego,Imperial Beach,childcare,96.8
-1495,San Diego,Imperial Beach,kindergarten,95.5
-1496,San Diego,Jamul,7th grade,88.5
-1497,San Diego,Jamul,childcare,95.0
-1498,San Diego,Jamul,kindergarten,75.5
-1499,San Diego,Julian,7th grade,83.33333333333333
-1500,San Diego,Julian,kindergarten,79.0
-1501,San Diego,La Mesa,7th grade,92.75
-1502,San Diego,La Mesa,childcare,95.125
-1503,San Diego,La Mesa,kindergarten,92.46153846153847
-1504,San Diego,Lakeside,7th grade,97.66666666666667
-1505,San Diego,Lakeside,childcare,89.0
-1506,San Diego,Lakeside,kindergarten,94.28571428571429
-1507,San Diego,Lemon Grove,7th grade,96.33333333333333
-1508,San Diego,Lemon Grove,childcare,95.63636363636364
-1509,San Diego,Lemon Grove,kindergarten,97.6
-1510,San Diego,National City,7th grade,97.0
-1511,San Diego,National City,childcare,96.4
-1512,San Diego,National City,kindergarten,96.58333333333333
-1513,San Diego,Oceanside,7th grade,96.07142857142857
-1514,San Diego,Oceanside,childcare,94.70270270270271
-1515,San Diego,Oceanside,kindergarten,96.25925925925925
-1516,San Diego,Pauma Valley,childcare,95.0
-1517,San Diego,Pauma Valley,kindergarten,98.0
-1518,San Diego,Pine Valley,7th grade,95.0
-1519,San Diego,Potrero,kindergarten,93.0
-1520,San Diego,Poway,7th grade,98.0
-1521,San Diego,Poway,childcare,96.0
-1522,San Diego,Poway,kindergarten,97.625
-1523,San Diego,Rainbow,7th grade,95.0
-1524,San Diego,Rainbow,childcare,88.0
-1525,San Diego,Rainbow,kindergarten,94.0
-1526,San Diego,Ramona,7th grade,99.0
-1527,San Diego,Ramona,childcare,94.125
-1528,San Diego,Ramona,kindergarten,95.33333333333333
-1529,San Diego,Rancho Santa Fe,7th grade,96.0
-1530,San Diego,Rancho Santa Fe,childcare,92.5
-1531,San Diego,Rancho Santa Fe,kindergarten,93.25
-1532,San Diego,San Clemente,kindergarten,97.0
-1533,San Diego,San Diego,7th grade,95.32692307692308
-1534,San Diego,San Diego,childcare,94.87290969899665
-1535,San Diego,San Diego,kindergarten,96.10377358490567
-1536,San Diego,San Marcos,7th grade,95.57142857142857
-1537,San Diego,San Marcos,childcare,95.8
-1538,San Diego,San Marcos,kindergarten,97.25
-1539,San Diego,Santee,7th grade,97.0
-1540,San Diego,Santee,childcare,88.78571428571429
-1541,San Diego,Santee,kindergarten,97.875
-1542,San Diego,Simi Valley,7th grade,98.0
-1543,San Diego,Simi Valley,kindergarten,94.0
-1544,San Diego,Solana Beach,7th grade,95.0
-1545,San Diego,Solana Beach,childcare,93.42857142857143
-1546,San Diego,Solana Beach,kindergarten,95.75
-1547,San Diego,Spring Valley,7th grade,97.66666666666667
-1548,San Diego,Spring Valley,childcare,95.6
-1549,San Diego,Spring Valley,kindergarten,96.6
-1550,San Diego,Thousand Oaks,7th grade,21.0
-1551,San Diego,Thousand Oaks,kindergarten,31.0
-1552,San Diego,Valley Center,7th grade,99.0
-1553,San Diego,Valley Center,childcare,96.5
-1554,San Diego,Valley Center,kindergarten,97.5
-1555,San Diego,Vista,7th grade,91.25
-1556,San Diego,Vista,childcare,94.61290322580645
-1557,San Diego,Vista,kindergarten,95.16666666666667
-1558,San Diego,Warner Springs,7th grade,45.0
-1559,San Diego,Warner Springs,kindergarten,46.0
-1560,San Francisco,San Francisco,7th grade,93.38356164383562
-1561,San Francisco,San Francisco,childcare,95.02074688796681
-1562,San Francisco,San Francisco,kindergarten,94.32478632478633
-1563,San Joaquin,Acampo,7th grade,95.0
-1564,San Joaquin,Acampo,kindergarten,95.0
-1565,San Joaquin,Banta,childcare,95.0
-1566,San Joaquin,Escalon,7th grade,99.0
-1567,San Joaquin,Escalon,childcare,97.5
-1568,San Joaquin,Escalon,kindergarten,91.33333333333333
-1569,San Joaquin,French Camp,7th grade,98.0
-1570,San Joaquin,French Camp,childcare,95.0
-1571,San Joaquin,French Camp,kindergarten,98.0
-1572,San Joaquin,Lathrop,7th grade,98.0
-1573,San Joaquin,Lathrop,childcare,95.6
-1574,San Joaquin,Lathrop,kindergarten,98.2
-1575,San Joaquin,Linden,kindergarten,98.0
-1576,San Joaquin,Lockeford,7th grade,98.0
-1577,San Joaquin,Lockeford,kindergarten,95.0
-1578,San Joaquin,Lodi,7th grade,94.77777777777777
-1579,San Joaquin,Lodi,childcare,95.84615384615384
-1580,San Joaquin,Lodi,kindergarten,94.38888888888889
-1581,San Joaquin,Manteca,7th grade,98.14285714285714
-1582,San Joaquin,Manteca,childcare,94.3
-1583,San Joaquin,Manteca,kindergarten,97.5
-1584,San Joaquin,Mountain House,7th grade,97.5
-1585,San Joaquin,Mountain House,childcare,97.0
-1586,San Joaquin,Mountain House,kindergarten,98.75
-1587,San Joaquin,Ripon,7th grade,93.85714285714286
-1588,San Joaquin,Ripon,childcare,98.5
-1589,San Joaquin,Ripon,kindergarten,90.28571428571429
-1590,San Joaquin,Simi Valley,7th grade,99.0
-1591,San Joaquin,Simi Valley,kindergarten,96.0
-1592,San Joaquin,Stockton,7th grade,95.85507246376811
-1593,San Joaquin,Stockton,childcare,94.8804347826087
-1594,San Joaquin,Stockton,kindergarten,95.55681818181819
-1595,San Joaquin,Thornton,7th grade,95.0
-1596,San Joaquin,Thornton,kindergarten,95.0
-1597,San Joaquin,Tracy,7th grade,97.13333333333334
-1598,San Joaquin,Tracy,childcare,93.33333333333333
-1599,San Joaquin,Tracy,kindergarten,95.95454545454545
-1600,San Joaquin,Victor,kindergarten,92.0
-1601,San Luis Obispo,Arroyo Grande,7th grade,96.33333333333333
-1602,San Luis Obispo,Arroyo Grande,childcare,96.16666666666667
-1603,San Luis Obispo,Arroyo Grande,kindergarten,94.0
-1604,San Luis Obispo,Atascadero,7th grade,97.0
-1605,San Luis Obispo,Atascadero,childcare,94.625
-1606,San Luis Obispo,Atascadero,kindergarten,97.75
-1607,San Luis Obispo,Cambria,7th grade,95.0
-1608,San Luis Obispo,Cambria,childcare,92.5
-1609,San Luis Obispo,Cambria,kindergarten,95.0
-1610,San Luis Obispo,Cayucos,kindergarten,95.0
-1611,San Luis Obispo,Grover Beach,childcare,95.0
-1612,San Luis Obispo,Grover Beach,kindergarten,97.0
-1613,San Luis Obispo,Los Osos,7th grade,98.0
-1614,San Luis Obispo,Los Osos,childcare,93.33333333333333
-1615,San Luis Obispo,Los Osos,kindergarten,91.0
-1616,San Luis Obispo,Morro Bay,childcare,97.0
-1617,San Luis Obispo,Morro Bay,kindergarten,95.0
-1618,San Luis Obispo,Nipomo,childcare,95.0
-1619,San Luis Obispo,Nipomo,kindergarten,97.0
-1620,San Luis Obispo,Oceano,childcare,95.0
-1621,San Luis Obispo,Oceano,kindergarten,98.0
-1622,San Luis Obispo,Paso Robles,7th grade,97.0
-1623,San Luis Obispo,Paso Robles,childcare,95.0
-1624,San Luis Obispo,Paso Robles,kindergarten,96.25
-1625,San Luis Obispo,Pismo Beach,7th grade,92.5
-1626,San Luis Obispo,Pismo Beach,childcare,95.0
-1627,San Luis Obispo,Pismo Beach,kindergarten,95.5
-1628,San Luis Obispo,San Luis Obispo,7th grade,91.66666666666667
-1629,San Luis Obispo,San Luis Obispo,childcare,95.45
-1630,San Luis Obispo,San Luis Obispo,kindergarten,93.77777777777777
-1631,San Luis Obispo,San Miguel,7th grade,92.5
-1632,San Luis Obispo,San Miguel,childcare,95.0
-1633,San Luis Obispo,San Miguel,kindergarten,89.66666666666667
-1634,San Luis Obispo,Santa Margarita,kindergarten,98.0
-1635,San Luis Obispo,Shandon,7th grade,95.0
-1636,San Luis Obispo,Shandon,kindergarten,90.0
-1637,San Luis Obispo,Templeton,7th grade,97.0
-1638,San Luis Obispo,Templeton,childcare,95.0
-1639,San Luis Obispo,Templeton,kindergarten,95.0
-1640,San Mateo,Atherton,7th grade,90.33333333333333
-1641,San Mateo,Atherton,childcare,97.5
-1642,San Mateo,Atherton,kindergarten,95.4
-1643,San Mateo,Belmont,7th grade,96.75
-1644,San Mateo,Belmont,childcare,96.25
-1645,San Mateo,Belmont,kindergarten,97.4
-1646,San Mateo,Brisbane,7th grade,95.0
-1647,San Mateo,Brisbane,childcare,95.0
-1648,San Mateo,Brisbane,kindergarten,95.0
-1649,San Mateo,Burlingame,7th grade,96.33333333333333
-1650,San Mateo,Burlingame,childcare,97.25
-1651,San Mateo,Burlingame,kindergarten,97.0
-1652,San Mateo,Colma,7th grade,97.0
-1653,San Mateo,Colma,childcare,87.5
-1654,San Mateo,Colma,kindergarten,97.0
-1655,San Mateo,Daly City,7th grade,96.33333333333333
-1656,San Mateo,Daly City,childcare,95.77777777777777
-1657,San Mateo,Daly City,kindergarten,96.4
-1658,San Mateo,East Palo Alto,7th grade,97.4
-1659,San Mateo,East Palo Alto,childcare,96.85714285714286
-1660,San Mateo,East Palo Alto,kindergarten,97.0
-1661,San Mateo,El Granada,childcare,95.0
-1662,San Mateo,Foster City,7th grade,97.0
-1663,San Mateo,Foster City,childcare,97.9
-1664,San Mateo,Foster City,kindergarten,97.4
-1665,San Mateo,Half Moon Bay,7th grade,97.0
-1666,San Mateo,Half Moon Bay,childcare,95.0
-1667,San Mateo,Half Moon Bay,kindergarten,97.0
-1668,San Mateo,Hillsborough,7th grade,97.66666666666667
-1669,San Mateo,Hillsborough,childcare,95.0
-1670,San Mateo,Hillsborough,kindergarten,95.75
-1671,San Mateo,Menlo Park,7th grade,95.11111111111111
-1672,San Mateo,Menlo Park,childcare,95.88
-1673,San Mateo,Menlo Park,kindergarten,94.8
-1674,San Mateo,Millbrae,7th grade,97.0
-1675,San Mateo,Millbrae,childcare,96.0
-1676,San Mateo,Millbrae,kindergarten,97.0
-1677,San Mateo,Montara,kindergarten,97.0
-1678,San Mateo,Pacifica,7th grade,97.75
-1679,San Mateo,Pacifica,childcare,94.88888888888889
-1680,San Mateo,Pacifica,kindergarten,95.0
-1681,San Mateo,Pescadero,7th grade,95.0
-1682,San Mateo,Portola Valley,7th grade,96.0
-1683,San Mateo,Portola Valley,childcare,95.75
-1684,San Mateo,Portola Valley,kindergarten,96.5
-1685,San Mateo,Redwood City,7th grade,93.63636363636364
-1686,San Mateo,Redwood City,childcare,96.03448275862068
-1687,San Mateo,Redwood City,kindergarten,94.0
-1688,San Mateo,San Bruno,7th grade,96.33333333333333
-1689,San Mateo,San Bruno,childcare,96.72727272727273
-1690,San Mateo,San Bruno,kindergarten,95.18181818181819
-1691,San Mateo,San Carlos,7th grade,96.75
-1692,San Mateo,San Carlos,childcare,96.23076923076923
-1693,San Mateo,San Carlos,kindergarten,97.0
-1694,San Mateo,San Diego,childcare,97.0
-1695,San Mateo,San Mateo,7th grade,97.0
-1696,San Mateo,San Mateo,childcare,95.64583333333333
-1697,San Mateo,San Mateo,kindergarten,96.77777777777777
-1698,San Mateo,Simi Valley,7th grade,95.0
-1699,San Mateo,Simi Valley,kindergarten,94.0
-1700,San Mateo,South San Francisco,7th grade,97.4
-1701,San Mateo,South San Francisco,childcare,96.34782608695652
-1702,San Mateo,South San Francisco,kindergarten,96.75
-1703,San Mateo,Woodside,7th grade,98.0
-1704,San Mateo,Woodside,childcare,97.0
-1705,San Mateo,Woodside,kindergarten,98.0
-1706,Santa Barbara,Buellton,childcare,95.5
-1707,Santa Barbara,Buellton,kindergarten,98.0
-1708,Santa Barbara,Carpinteria,7th grade,99.0
-1709,Santa Barbara,Carpinteria,childcare,94.66666666666667
-1710,Santa Barbara,Carpinteria,kindergarten,91.5
-1711,Santa Barbara,Goleta,7th grade,99.0
-1712,Santa Barbara,Goleta,childcare,95.28571428571429
-1713,Santa Barbara,Goleta,kindergarten,94.83333333333333
-1714,Santa Barbara,Guadalupe,7th grade,99.0
-1715,Santa Barbara,Guadalupe,childcare,95.0
-1716,Santa Barbara,Guadalupe,kindergarten,99.0
-1717,Santa Barbara,Lompoc,7th grade,99.0
-1718,Santa Barbara,Lompoc,childcare,95.76923076923077
-1719,Santa Barbara,Lompoc,kindergarten,98.5
-1720,Santa Barbara,Los Alamos,7th grade,95.0
-1721,Santa Barbara,Los Alamos,childcare,95.0
-1722,Santa Barbara,Los Alamos,kindergarten,95.0
-1723,Santa Barbara,Los Olivos,7th grade,95.0
-1724,Santa Barbara,Los Olivos,childcare,95.0
-1725,Santa Barbara,New Cuyama,7th grade,80.0
-1726,Santa Barbara,Orcutt,7th grade,95.0
-1727,Santa Barbara,Orcutt,childcare,96.5
-1728,Santa Barbara,Orcutt,kindergarten,95.0
-1729,Santa Barbara,Santa Barbara,7th grade,95.7
-1730,Santa Barbara,Santa Barbara,childcare,94.625
-1731,Santa Barbara,Santa Barbara,kindergarten,95.3913043478261
-1732,Santa Barbara,Santa Maria,7th grade,93.25
-1733,Santa Barbara,Santa Maria,childcare,96.1
-1734,Santa Barbara,Santa Maria,kindergarten,96.22222222222223
-1735,Santa Barbara,Santa Ynez,7th grade,95.0
-1736,Santa Barbara,Santa Ynez,childcare,95.0
-1737,Santa Barbara,Santa Ynez,kindergarten,93.0
-1738,Santa Barbara,Solvang,7th grade,98.0
-1739,Santa Barbara,Solvang,childcare,97.0
-1740,Santa Barbara,Solvang,kindergarten,98.0
-1741,Santa Barbara,Vandenberg Afb,7th grade,99.0
-1742,Santa Barbara,Vandenberg Afb,childcare,95.0
-1743,Santa Barbara,Vandenberg Afb,kindergarten,98.0
-1744,Santa Clara,Campbell,7th grade,96.33333333333333
-1745,Santa Clara,Campbell,childcare,96.13636363636364
-1746,Santa Clara,Campbell,kindergarten,95.33333333333333
-1747,Santa Clara,Cupertino,7th grade,98.0
-1748,Santa Clara,Cupertino,childcare,94.25
-1749,Santa Clara,Cupertino,kindergarten,97.6
-1750,Santa Clara,Gilroy,7th grade,93.5
-1751,Santa Clara,Gilroy,childcare,94.78571428571429
-1752,Santa Clara,Gilroy,kindergarten,97.45454545454545
-1753,Santa Clara,Los Altos,7th grade,98.0
-1754,Santa Clara,Los Altos,childcare,94.93333333333334
-1755,Santa Clara,Los Altos,kindergarten,95.4
-1756,Santa Clara,Los Altos Hills,7th grade,95.0
-1757,Santa Clara,Los Altos Hills,childcare,95.0
-1758,Santa Clara,Los Altos Hills,kindergarten,95.0
-1759,Santa Clara,Los Gatos,7th grade,96.66666666666667
-1760,Santa Clara,Los Gatos,childcare,94.5
-1761,Santa Clara,Los Gatos,kindergarten,95.33333333333333
-1762,Santa Clara,Milpitas,7th grade,96.6
-1763,Santa Clara,Milpitas,childcare,94.2
-1764,Santa Clara,Milpitas,kindergarten,96.27272727272727
-1765,Santa Clara,Moffett Field,childcare,98.0
-1766,Santa Clara,Morgan Hill,7th grade,96.6
-1767,Santa Clara,Morgan Hill,childcare,95.3125
-1768,Santa Clara,Morgan Hill,kindergarten,95.3
-1769,Santa Clara,Mountain View,7th grade,97.75
-1770,Santa Clara,Mountain View,childcare,96.54166666666667
-1771,Santa Clara,Mountain View,kindergarten,96.66666666666667
-1772,Santa Clara,Palo Alto,7th grade,96.75
-1773,Santa Clara,Palo Alto,childcare,96.07317073170732
-1774,Santa Clara,Palo Alto,kindergarten,96.33333333333333
-1775,Santa Clara,San Jose,7th grade,97.0340909090909
-1776,Santa Clara,San Jose,childcare,95.79512195121951
-1777,Santa Clara,San Jose,kindergarten,96.40462427745665
-1778,Santa Clara,San Martin,7th grade,98.0
-1779,Santa Clara,San Martin,kindergarten,97.0
-1780,Santa Clara,Santa Clara,7th grade,96.5
-1781,Santa Clara,Santa Clara,childcare,96.14285714285714
-1782,Santa Clara,Santa Clara,kindergarten,96.91304347826087
-1783,Santa Clara,Saratoga,7th grade,95.25
-1784,Santa Clara,Saratoga,childcare,96.83333333333333
-1785,Santa Clara,Saratoga,kindergarten,96.11111111111111
-1786,Santa Clara,Stanford,childcare,90.75
-1787,Santa Clara,Stanford,kindergarten,98.0
-1788,Santa Clara,Sunnyvale,7th grade,97.11111111111111
-1789,Santa Clara,Sunnyvale,childcare,96.25581395348837
-1790,Santa Clara,Sunnyvale,kindergarten,97.42857142857143
-1791,Santa Cruz,Aptos,7th grade,96.5
-1792,Santa Cruz,Aptos,childcare,93.66666666666667
-1793,Santa Cruz,Aptos,kindergarten,93.0
-1794,Santa Cruz,Boulder Creek,7th grade,20.0
-1795,Santa Cruz,Boulder Creek,childcare,89.0
-1796,Santa Cruz,Boulder Creek,kindergarten,72.0
-1797,Santa Cruz,Capitola,7th grade,98.0
-1798,Santa Cruz,Capitola,childcare,95.0
-1799,Santa Cruz,Capitola,kindergarten,95.0
-1800,Santa Cruz,Davenport,kindergarten,74.0
-1801,Santa Cruz,Felton,7th grade,86.5
-1802,Santa Cruz,Felton,childcare,90.0
-1803,Santa Cruz,Felton,kindergarten,93.0
-1804,Santa Cruz,Freedom,childcare,95.0
-1805,Santa Cruz,Freedom,kindergarten,99.0
-1806,Santa Cruz,La Selva Beach,childcare,95.0
-1807,Santa Cruz,Mount Hermon,childcare,95.0
-1808,Santa Cruz,Santa Cruz,7th grade,96.0
-1809,Santa Cruz,Santa Cruz,childcare,93.32142857142857
-1810,Santa Cruz,Santa Cruz,kindergarten,92.46153846153847
-1811,Santa Cruz,Scotts Valley,7th grade,96.5
-1812,Santa Cruz,Scotts Valley,childcare,93.71428571428571
-1813,Santa Cruz,Scotts Valley,kindergarten,93.0
-1814,Santa Cruz,Soquel,childcare,83.0
-1815,Santa Cruz,Soquel,kindergarten,89.0
-1816,Santa Cruz,Watsonville,7th grade,96.84615384615384
-1817,Santa Cruz,Watsonville,childcare,95.54545454545455
-1818,Santa Cruz,Watsonville,kindergarten,97.41176470588235
-1819,Shasta,Anderson,7th grade,97.5
-1820,Shasta,Anderson,childcare,96.0
-1821,Shasta,Anderson,kindergarten,95.0
-1822,Shasta,Bella Vista,7th grade,95.0
-1823,Shasta,Bella Vista,childcare,92.0
-1824,Shasta,Bella Vista,kindergarten,95.0
-1825,Shasta,Burney,7th grade,98.0
-1826,Shasta,Burney,childcare,95.0
-1827,Shasta,Burney,kindergarten,95.0
-1828,Shasta,Cottonwood,7th grade,94.0
-1829,Shasta,Cottonwood,childcare,95.0
-1830,Shasta,Cottonwood,kindergarten,88.0
-1831,Shasta,Fall River Mills,kindergarten,95.0
-1832,Shasta,Mcarthur,7th grade,95.0
-1833,Shasta,Millville,7th grade,91.0
-1834,Shasta,Millville,childcare,90.0
-1835,Shasta,Millville,kindergarten,87.0
-1836,Shasta,Palo Cedro,7th grade,90.25
-1837,Shasta,Palo Cedro,childcare,93.5
-1838,Shasta,Palo Cedro,kindergarten,89.5
-1839,Shasta,Redding,7th grade,92.85714285714286
-1840,Shasta,Redding,childcare,94.38235294117646
-1841,Shasta,Redding,kindergarten,91.63157894736842
-1842,Shasta,Shasta,kindergarten,92.0
-1843,Shasta,Shasta Lake,7th grade,96.0
-1844,Shasta,Shasta Lake,childcare,95.0
-1845,Shasta,Shasta Lake,kindergarten,97.5
-1846,Shasta,Shingletown,7th grade,95.0
-1847,Shasta,Shingletown,childcare,95.0
-1848,Shasta,Shingletown,kindergarten,93.0
-1849,Shasta,Whitmore,7th grade,63.0
-1850,Shasta,Whitmore,kindergarten,29.0
-1851,Sierra,Loyalton,7th grade,95.0
-1852,Sierra,Loyalton,childcare,84.0
-1853,Sierra,Loyalton,kindergarten,95.0
-1854,Siskiyou,Dorris,childcare,95.0
-1855,Siskiyou,Dorris,kindergarten,95.0
-1856,Siskiyou,Etna,childcare,95.0
-1857,Siskiyou,Etna,kindergarten,95.0
-1858,Siskiyou,Fort Jones,7th grade,98.0
-1859,Siskiyou,Fort Jones,kindergarten,86.0
-1860,Siskiyou,Grenada,7th grade,95.0
-1861,Siskiyou,Grenada,kindergarten,95.0
-1862,Siskiyou,Happy Camp,kindergarten,95.0
-1863,Siskiyou,Montague,7th grade,90.5
-1864,Siskiyou,Montague,childcare,95.0
-1865,Siskiyou,Montague,kindergarten,95.0
-1866,Siskiyou,Mount Shasta,7th grade,71.0
-1867,Siskiyou,Mount Shasta,childcare,86.0
-1868,Siskiyou,Mount Shasta,kindergarten,72.5
-1869,Siskiyou,Weed,7th grade,95.0
-1870,Siskiyou,Weed,kindergarten,93.5
-1871,Siskiyou,Yreka,7th grade,97.0
-1872,Siskiyou,Yreka,childcare,95.0
-1873,Siskiyou,Yreka,kindergarten,99.0
-1874,Solano,Benicia,7th grade,97.0
-1875,Solano,Benicia,childcare,92.58333333333333
-1876,Solano,Benicia,kindergarten,96.6
-1877,Solano,Dixon,7th grade,99.0
-1878,Solano,Dixon,childcare,96.2
-1879,Solano,Dixon,kindergarten,98.0
-1880,Solano,Fairfield,7th grade,98.36363636363636
-1881,Solano,Fairfield,childcare,92.66666666666667
-1882,Solano,Fairfield,kindergarten,96.83333333333333
-1883,Solano,Suisun City,7th grade,99.0
-1884,Solano,Suisun City,childcare,95.0
-1885,Solano,Suisun City,kindergarten,97.0
-1886,Solano,Travis Afb,childcare,95.0
-1887,Solano,Travis Afb,kindergarten,98.0
-1888,Solano,Vacaville,7th grade,95.83333333333333
-1889,Solano,Vacaville,childcare,92.61538461538461
-1890,Solano,Vacaville,kindergarten,96.75
-1891,Solano,Vallejo,7th grade,96.38461538461539
-1892,Solano,Vallejo,childcare,96.44444444444444
-1893,Solano,Vallejo,kindergarten,96.42105263157895
-1894,Sonoma,Boyes Hot Springs,childcare,95.0
-1895,Sonoma,Cloverdale,7th grade,99.0
-1896,Sonoma,Cloverdale,childcare,95.0
-1897,Sonoma,Cloverdale,kindergarten,99.0
-1898,Sonoma,Cotati,7th grade,96.0
-1899,Sonoma,Cotati,childcare,94.75
-1900,Sonoma,Cotati,kindergarten,93.0
-1901,Sonoma,Forestville,7th grade,87.0
-1902,Sonoma,Forestville,kindergarten,95.0
-1903,Sonoma,Geyserville,7th grade,95.0
-1904,Sonoma,Geyserville,kindergarten,91.0
-1905,Sonoma,Glen Ellen,kindergarten,95.0
-1906,Sonoma,Guerneville,7th grade,95.0
-1907,Sonoma,Guerneville,childcare,82.5
-1908,Sonoma,Guerneville,kindergarten,95.0
-1909,Sonoma,Healdsburg,7th grade,95.66666666666667
-1910,Sonoma,Healdsburg,childcare,95.5
-1911,Sonoma,Healdsburg,kindergarten,94.4
-1912,Sonoma,Kenwood,kindergarten,95.0
-1913,Sonoma,Occidental,7th grade,85.0
-1914,Sonoma,Occidental,kindergarten,95.0
-1915,Sonoma,Penngrove,childcare,46.5
-1916,Sonoma,Penngrove,kindergarten,98.0
-1917,Sonoma,Petaluma,7th grade,80.0
-1918,Sonoma,Petaluma,childcare,91.0
-1919,Sonoma,Petaluma,kindergarten,88.77272727272727
-1920,Sonoma,Rohnert Park,7th grade,89.33333333333333
-1921,Sonoma,Rohnert Park,childcare,92.71428571428571
-1922,Sonoma,Rohnert Park,kindergarten,97.33333333333333
-1923,Sonoma,Santa Rosa,7th grade,93.47368421052632
-1924,Sonoma,Santa Rosa,childcare,94.08474576271186
-1925,Sonoma,Santa Rosa,kindergarten,93.90697674418605
-1926,Sonoma,Sebastopol,7th grade,85.4
-1927,Sonoma,Sebastopol,childcare,84.6
-1928,Sonoma,Sebastopol,kindergarten,80.42857142857143
-1929,Sonoma,Simi Valley,7th grade,95.0
-1930,Sonoma,Simi Valley,kindergarten,90.0
-1931,Sonoma,Sonoma,7th grade,97.0
-1932,Sonoma,Sonoma,childcare,95.0
-1933,Sonoma,Sonoma,kindergarten,94.66666666666667
-1934,Sonoma,Windsor,7th grade,98.5
-1935,Sonoma,Windsor,childcare,96.0
-1936,Sonoma,Windsor,kindergarten,99.0
-1937,Stanislaus,Ceres,7th grade,98.0
-1938,Stanislaus,Ceres,childcare,93.35714285714286
-1939,Stanislaus,Ceres,kindergarten,97.63636363636364
-1940,Stanislaus,Denair,7th grade,98.0
-1941,Stanislaus,Denair,kindergarten,99.0
-1942,Stanislaus,Empire,7th grade,98.0
-1943,Stanislaus,Empire,childcare,95.0
-1944,Stanislaus,Empire,kindergarten,95.0
-1945,Stanislaus,Hickman,7th grade,90.5
-1946,Stanislaus,Hickman,kindergarten,81.5
-1947,Stanislaus,Hughson,7th grade,98.5
-1948,Stanislaus,Hughson,childcare,99.0
-1949,Stanislaus,Keyes,7th grade,95.0
-1950,Stanislaus,Keyes,childcare,95.0
-1951,Stanislaus,Keyes,kindergarten,96.5
-1952,Stanislaus,Knights Ferry,kindergarten,95.0
-1953,Stanislaus,Modesto,7th grade,95.52941176470588
-1954,Stanislaus,Modesto,childcare,95.6
-1955,Stanislaus,Modesto,kindergarten,95.61538461538461
-1956,Stanislaus,Newman,7th grade,99.0
-1957,Stanislaus,Newman,childcare,96.0
-1958,Stanislaus,Newman,kindergarten,98.0
-1959,Stanislaus,Oakdale,7th grade,98.0
-1960,Stanislaus,Oakdale,childcare,93.2
-1961,Stanislaus,Oakdale,kindergarten,96.2
-1962,Stanislaus,Patterson,7th grade,96.66666666666667
-1963,Stanislaus,Patterson,childcare,96.33333333333333
-1964,Stanislaus,Patterson,kindergarten,96.2
-1965,Stanislaus,Riverbank,7th grade,98.5
-1966,Stanislaus,Riverbank,childcare,95.0
-1967,Stanislaus,Riverbank,kindergarten,98.66666666666667
-1968,Stanislaus,Salida,7th grade,99.0
-1969,Stanislaus,Salida,childcare,93.33333333333333
-1970,Stanislaus,Salida,kindergarten,96.0
-1971,Stanislaus,Turlock,7th grade,97.75
-1972,Stanislaus,Turlock,childcare,95.88888888888889
-1973,Stanislaus,Turlock,kindergarten,97.77777777777777
-1974,Stanislaus,Waterford,7th grade,75.0
-1975,Stanislaus,Waterford,childcare,98.0
-1976,Stanislaus,Waterford,kindergarten,88.0
-1977,Stanislaus,Westley,childcare,95.0
-1978,Stanislaus,Westley,kindergarten,98.0
-1979,Sutter,East Nicolaus,7th grade,58.5
-1980,Sutter,East Nicolaus,childcare,95.0
-1981,Sutter,East Nicolaus,kindergarten,68.5
-1982,Sutter,Live Oak,7th grade,60.0
-1983,Sutter,Live Oak,childcare,96.5
-1984,Sutter,Live Oak,kindergarten,76.33333333333333
-1985,Sutter,Meridian,7th grade,10.0
-1986,Sutter,Meridian,kindergarten,37.0
-1987,Sutter,Pleasant Grove,7th grade,95.0
-1988,Sutter,Simi Valley,7th grade,98.0
-1989,Sutter,Simi Valley,kindergarten,91.0
-1990,Sutter,Sutter,7th grade,98.0
-1991,Sutter,Sutter,childcare,95.0
-1992,Sutter,Sutter,kindergarten,98.0
-1993,Sutter,Yuba City,7th grade,94.76923076923077
-1994,Sutter,Yuba City,childcare,95.67857142857143
-1995,Sutter,Yuba City,kindergarten,96.6875
-1996,Tehama,Corning,7th grade,97.33333333333333
-1997,Tehama,Corning,childcare,95.0
-1998,Tehama,Corning,kindergarten,97.25
-1999,Tehama,Cottonwood,7th grade,98.0
-2000,Tehama,Cottonwood,childcare,95.0
-2001,Tehama,Cottonwood,kindergarten,97.0
-2002,Tehama,Gerber,7th grade,95.0
-2003,Tehama,Gerber,kindergarten,94.0
-2004,Tehama,Los Molinos,7th grade,95.0
-2005,Tehama,Los Molinos,kindergarten,96.5
-2006,Tehama,Orland,childcare,95.0
-2007,Tehama,Red Bluff,7th grade,97.33333333333333
-2008,Tehama,Red Bluff,childcare,94.44444444444444
-2009,Tehama,Red Bluff,kindergarten,93.83333333333333
-2010,Tehama,Tehama,childcare,95.0
-2011,Trinity,Douglas City,7th grade,92.0
-2012,Trinity,Douglas City,kindergarten,95.0
-2013,Trinity,Weaverville,7th grade,98.0
-2014,Trinity,Weaverville,childcare,92.0
-2015,Tulare,Alpaugh,7th grade,83.0
-2016,Tulare,Alpaugh,childcare,95.0
-2017,Tulare,Alpaugh,kindergarten,83.0
-2018,Tulare,Cutler,childcare,98.0
-2019,Tulare,Cutler,kindergarten,99.0
-2020,Tulare,Delano,kindergarten,95.0
-2021,Tulare,Dinuba,7th grade,98.5
-2022,Tulare,Dinuba,childcare,98.0
-2023,Tulare,Dinuba,kindergarten,98.0
-2024,Tulare,Ducor,7th grade,95.0
-2025,Tulare,Ducor,kindergarten,95.0
-2026,Tulare,Earlimart,7th grade,99.0
-2027,Tulare,Earlimart,childcare,96.5
-2028,Tulare,Earlimart,kindergarten,98.5
-2029,Tulare,Exeter,7th grade,99.0
-2030,Tulare,Exeter,childcare,95.0
-2031,Tulare,Exeter,kindergarten,97.5
-2032,Tulare,Farmersville,7th grade,99.0
-2033,Tulare,Farmersville,childcare,95.0
-2034,Tulare,Farmersville,kindergarten,99.0
-2035,Tulare,Ivanhoe,7th grade,95.0
-2036,Tulare,Ivanhoe,childcare,96.5
-2037,Tulare,Ivanhoe,kindergarten,97.0
-2038,Tulare,Kingsburg,7th grade,95.0
-2039,Tulare,Kingsburg,kindergarten,98.0
-2040,Tulare,Lemon Cove,7th grade,95.0
-2041,Tulare,Lemon Cove,kindergarten,95.0
-2042,Tulare,Lindsay,7th grade,96.5
-2043,Tulare,Lindsay,childcare,96.75
-2044,Tulare,Lindsay,kindergarten,97.16666666666667
-2045,Tulare,Orosi,7th grade,99.0
-2046,Tulare,Orosi,childcare,97.0
-2047,Tulare,Orosi,kindergarten,99.0
-2048,Tulare,Pixley,7th grade,99.0
-2049,Tulare,Pixley,childcare,95.0
-2050,Tulare,Pixley,kindergarten,99.0
-2051,Tulare,Porterville,7th grade,97.6
-2052,Tulare,Porterville,childcare,95.64285714285714
-2053,Tulare,Porterville,kindergarten,97.19047619047619
-2054,Tulare,Richgrove,7th grade,98.0
-2055,Tulare,Richgrove,childcare,98.0
-2056,Tulare,Richgrove,kindergarten,98.0
-2057,Tulare,Springville,7th grade,95.0
-2058,Tulare,Springville,kindergarten,95.0
-2059,Tulare,Strathmore,7th grade,96.5
-2060,Tulare,Strathmore,childcare,95.0
-2061,Tulare,Strathmore,kindergarten,97.0
-2062,Tulare,Terra Bella,7th grade,98.0
-2063,Tulare,Terra Bella,kindergarten,99.0
-2064,Tulare,Three Rivers,kindergarten,95.0
-2065,Tulare,Tipton,7th grade,98.0
-2066,Tulare,Tipton,kindergarten,98.0
-2067,Tulare,Traver,7th grade,95.0
-2068,Tulare,Traver,kindergarten,95.0
-2069,Tulare,Tulare,7th grade,97.41666666666667
-2070,Tulare,Tulare,childcare,96.9090909090909
-2071,Tulare,Tulare,kindergarten,97.72222222222223
-2072,Tulare,Visalia,7th grade,89.41176470588235
-2073,Tulare,Visalia,childcare,95.875
-2074,Tulare,Visalia,kindergarten,95.87878787878788
-2075,Tulare,Woodlake,7th grade,99.0
-2076,Tulare,Woodlake,childcare,95.66666666666667
-2077,Tulare,Woodlake,kindergarten,99.0
-2078,Tuolumne,Columbia,7th grade,98.0
-2079,Tuolumne,Columbia,kindergarten,97.0
-2080,Tuolumne,Groveland,7th grade,95.0
-2081,Tuolumne,Groveland,kindergarten,86.0
-2082,Tuolumne,Jamestown,7th grade,95.0
-2083,Tuolumne,Jamestown,childcare,76.5
-2084,Tuolumne,Jamestown,kindergarten,61.0
-2085,Tuolumne,Sonora,7th grade,81.66666666666667
-2086,Tuolumne,Sonora,childcare,94.66666666666667
-2087,Tuolumne,Sonora,kindergarten,92.0
-2088,Tuolumne,Soulsbyville,7th grade,94.0
-2089,Tuolumne,Soulsbyville,childcare,95.0
-2090,Tuolumne,Soulsbyville,kindergarten,93.0
-2091,Tuolumne,Tuolumne City,7th grade,95.0
-2092,Tuolumne,Tuolumne City,childcare,86.0
-2093,Tuolumne,Tuolumne City,kindergarten,98.0
-2094,Tuolumne,Twain Harte,7th grade,95.0
-2095,Tuolumne,Twain Harte,kindergarten,93.0
-2096,Ventura,Camarillo,7th grade,92.45454545454545
-2097,Ventura,Camarillo,childcare,95.22222222222223
-2098,Ventura,Camarillo,kindergarten,90.33333333333333
-2099,Ventura,Fillmore,7th grade,99.0
-2100,Ventura,Fillmore,childcare,95.5
-2101,Ventura,Fillmore,kindergarten,97.33333333333333
-2102,Ventura,Moorpark,7th grade,97.0
-2103,Ventura,Moorpark,childcare,96.66666666666667
-2104,Ventura,Moorpark,kindergarten,97.16666666666667
-2105,Ventura,Oak Park,7th grade,99.0
-2106,Ventura,Oak Park,childcare,94.0
-2107,Ventura,Oak Park,kindergarten,96.33333333333333
-2108,Ventura,Oak View,7th grade,95.0
-2109,Ventura,Oak View,childcare,95.0
-2110,Ventura,Oak View,kindergarten,95.0
-2111,Ventura,Ojai,7th grade,62.666666666666664
-2112,Ventura,Ojai,childcare,88.375
-2113,Ventura,Ojai,kindergarten,73.0
-2114,Ventura,Oxnard,7th grade,97.84210526315789
-2115,Ventura,Oxnard,childcare,95.56862745098039
-2116,Ventura,Oxnard,kindergarten,97.82857142857142
-2117,Ventura,Piru,childcare,95.0
-2118,Ventura,Piru,kindergarten,98.0
-2119,Ventura,Port Hueneme,childcare,94.5
-2120,Ventura,Port Hueneme,kindergarten,98.25
-2121,Ventura,San Buenaventura (Ventura),7th grade,91.0
-2122,Ventura,San Buenaventura (Ventura),childcare,96.09375
-2123,Ventura,San Buenaventura (Ventura),kindergarten,94.47619047619048
-2124,Ventura,Santa Paula,7th grade,96.0
-2125,Ventura,Santa Paula,childcare,94.57142857142857
-2126,Ventura,Santa Paula,kindergarten,96.77777777777777
-2127,Ventura,Simi Valley,7th grade,90.25
-2128,Ventura,Simi Valley,childcare,95.85714285714286
-2129,Ventura,Simi Valley,kindergarten,96.9
-2130,Ventura,Somis,7th grade,98.0
-2131,Ventura,Somis,childcare,98.0
-2132,Ventura,Somis,kindergarten,96.5
-2133,Ventura,Thousand Oaks,7th grade,94.0
-2134,Ventura,Thousand Oaks,childcare,95.44444444444444
-2135,Ventura,Thousand Oaks,kindergarten,94.73684210526316
-2136,Ventura,Westlake Village,7th grade,67.0
-2137,Ventura,Westlake Village,childcare,95.71428571428571
-2138,Ventura,Westlake Village,kindergarten,98.0
-2139,Yolo,Davis,7th grade,97.6
-2140,Yolo,Davis,childcare,96.33333333333333
-2141,Yolo,Davis,kindergarten,95.77777777777777
-2142,Yolo,Dixon,childcare,95.0
-2143,Yolo,Esparto,7th grade,70.0
-2144,Yolo,Esparto,childcare,95.0
-2145,Yolo,Esparto,kindergarten,97.0
-2146,Yolo,Knights Landing,kindergarten,97.0
-2147,Yolo,Madison,childcare,95.0
-2148,Yolo,West Sacramento,7th grade,96.44444444444444
-2149,Yolo,West Sacramento,childcare,96.14285714285714
-2150,Yolo,West Sacramento,kindergarten,87.66666666666667
-2151,Yolo,Winters,7th grade,99.0
-2152,Yolo,Winters,childcare,95.75
-2153,Yolo,Winters,kindergarten,99.0
-2154,Yolo,Woodland,7th grade,97.66666666666667
-2155,Yolo,Woodland,childcare,95.9047619047619
-2156,Yolo,Woodland,kindergarten,97.45454545454545
-2157,Yuba,Arboga,childcare,97.0
-2158,Yuba,Beale Afb,childcare,98.0
-2159,Yuba,Beale Afb,kindergarten,97.0
-2160,Yuba,Browns Valley,kindergarten,95.0
-2161,Yuba,Challenge,kindergarten,92.0
-2162,Yuba,Marysville,7th grade,92.0
-2163,Yuba,Marysville,childcare,94.57142857142857
-2164,Yuba,Marysville,kindergarten,86.2
-2165,Yuba,Olivehurst,7th grade,97.0
-2166,Yuba,Olivehurst,childcare,94.0
-2167,Yuba,Olivehurst,kindergarten,92.6
-2168,Yuba,Plumas Lake,7th grade,99.0
-2169,Yuba,Plumas Lake,childcare,95.0
-2170,Yuba,Plumas Lake,kindergarten,98.0
-2171,Yuba,Wheatland,7th grade,99.0
-2172,Yuba,Wheatland,childcare,96.5
-2173,Yuba,Wheatland,kindergarten,98.0
+1060,Orange,Midway City,childcare,95.0
+1061,Orange,Midway City,kindergarten,98.33333333333333
+1062,Orange,Mission Viejo,7th grade,97.5
+1063,Orange,Mission Viejo,childcare,95.48
+1064,Orange,Mission Viejo,kindergarten,96.71428571428571
+1065,Orange,Newport Beach,7th grade,94.0
+1066,Orange,Newport Beach,childcare,95.11764705882354
+1067,Orange,Newport Beach,kindergarten,93.66666666666667
+1068,Orange,North Tustin,7th grade,95.0
+1069,Orange,North Tustin,kindergarten,97.0
+1070,Orange,Orange,7th grade,88.9
+1071,Orange,Orange,childcare,96.02564102564102
+1072,Orange,Orange,kindergarten,94.32
+1073,Orange,Placentia,7th grade,99.0
+1074,Orange,Placentia,childcare,96.5
+1075,Orange,Placentia,kindergarten,97.7
+1076,Orange,Rancho Santa Margarita,7th grade,96.4
+1077,Orange,Rancho Santa Margarita,childcare,95.14285714285714
+1078,Orange,Rancho Santa Margarita,kindergarten,94.66666666666667
+1079,Orange,Rossmoor,childcare,95.0
+1080,Orange,San Clemente,7th grade,98.0
+1081,Orange,San Clemente,childcare,94.58333333333333
+1082,Orange,San Clemente,kindergarten,95.42857142857143
+1083,Orange,San Juan Capistrano,7th grade,87.875
+1084,Orange,San Juan Capistrano,childcare,94.75
+1085,Orange,San Juan Capistrano,kindergarten,88.66666666666667
+1086,Orange,Santa Ana,7th grade,97.29629629629629
+1087,Orange,Santa Ana,childcare,96.21333333333334
+1088,Orange,Santa Ana,kindergarten,96.86666666666666
+1089,Orange,Seal Beach,childcare,95.5
+1090,Orange,Seal Beach,kindergarten,99.0
+1091,Orange,Silverado,childcare,95.0
+1092,Orange,Stanton,childcare,96.16666666666667
+1093,Orange,Stanton,kindergarten,97.0
+1094,Orange,Trabuco Canyon,kindergarten,96.5
+1095,Orange,Tustin,7th grade,97.0
+1096,Orange,Tustin,childcare,96.38461538461539
+1097,Orange,Tustin,kindergarten,97.15384615384616
+1098,Orange,Villa Park,7th grade,99.0
+1099,Orange,Villa Park,kindergarten,98.0
+1100,Orange,Westminster,7th grade,98.0
+1101,Orange,Westminster,childcare,95.57894736842105
+1102,Orange,Westminster,kindergarten,96.46153846153847
+1103,Orange,Yorba Linda,7th grade,96.66666666666667
+1104,Orange,Yorba Linda,childcare,96.89473684210526
+1105,Orange,Yorba Linda,kindergarten,96.0
+1106,Placer,Antelope,7th grade,99.0
+1107,Placer,Antelope,kindergarten,84.0
+1108,Placer,Auburn,7th grade,96.5
+1109,Placer,Auburn,childcare,89.72727272727273
+1110,Placer,Auburn,kindergarten,95.0
+1111,Placer,Colfax,7th grade,76.5
+1112,Placer,Colfax,kindergarten,73.0
+1113,Placer,Foresthill,7th grade,95.0
+1114,Placer,Foresthill,kindergarten,95.0
+1115,Placer,Granite Bay,7th grade,97.0
+1116,Placer,Granite Bay,childcare,96.5
+1117,Placer,Granite Bay,kindergarten,97.0
+1118,Placer,Kings Beach,childcare,95.0
+1119,Placer,Kings Beach,kindergarten,99.0
+1120,Placer,Lincoln,7th grade,67.75
+1121,Placer,Lincoln,childcare,95.33333333333333
+1122,Placer,Lincoln,kindergarten,87.88888888888889
+1123,Placer,Loomis,7th grade,97.4
+1124,Placer,Loomis,childcare,96.0
+1125,Placer,Loomis,kindergarten,94.2
+1126,Placer,Meadow Vista,childcare,73.5
+1127,Placer,Meadow Vista,kindergarten,73.0
+1128,Placer,Newcastle,7th grade,89.0
+1129,Placer,Newcastle,kindergarten,87.25
+1130,Placer,Penryn,7th grade,95.0
+1131,Placer,Penryn,kindergarten,95.0
+1132,Placer,Rocklin,7th grade,97.0
+1133,Placer,Rocklin,childcare,93.58823529411765
+1134,Placer,Rocklin,kindergarten,93.66666666666667
+1135,Placer,Roseville,7th grade,97.36363636363636
+1136,Placer,Roseville,childcare,94.57142857142857
+1137,Placer,Roseville,kindergarten,96.76
+1138,Placer,Squaw Valley,kindergarten,86.0
+1139,Placer,Sunnyside-Tahoe City,7th grade,98.0
+1140,Placer,Sunnyside-Tahoe City,childcare,90.5
+1141,Placer,Sunnyside-Tahoe City,kindergarten,95.0
+1142,Placer,Truckee,7th grade,93.5
+1143,Placer,Truckee,kindergarten,91.0
+1144,Placer,Weimar,7th grade,98.0
+1145,Plumas,Chester,7th grade,95.0
+1146,Plumas,Chester,kindergarten,95.0
+1147,Plumas,Portola,7th grade,95.0
+1148,Plumas,Portola,childcare,90.0
+1149,Plumas,Portola,kindergarten,92.0
+1150,Plumas,Quincy,7th grade,86.33333333333333
+1151,Plumas,Quincy,kindergarten,91.5
+1152,Riverside,Aguanga,7th grade,95.0
+1153,Riverside,Aguanga,kindergarten,92.0
+1154,Riverside,Anza,7th grade,95.0
+1155,Riverside,Anza,kindergarten,95.0
+1156,Riverside,Banning,7th grade,97.0
+1157,Riverside,Banning,childcare,95.28571428571429
+1158,Riverside,Banning,kindergarten,95.8
+1159,Riverside,Beaumont,7th grade,98.66666666666667
+1160,Riverside,Beaumont,childcare,78.6
+1161,Riverside,Beaumont,kindergarten,97.5
+1162,Riverside,Bermuda Dunes,7th grade,95.0
+1163,Riverside,Bermuda Dunes,childcare,96.5
+1164,Riverside,Bermuda Dunes,kindergarten,95.5
+1165,Riverside,Blythe,7th grade,97.33333333333333
+1166,Riverside,Blythe,childcare,86.25
+1167,Riverside,Blythe,kindergarten,95.33333333333333
+1168,Riverside,Cabazon,childcare,98.0
+1169,Riverside,Cabazon,kindergarten,95.0
+1170,Riverside,Calimesa,childcare,96.5
+1171,Riverside,Canyon Lake,childcare,94.0
+1172,Riverside,Cathedral City,7th grade,99.0
+1173,Riverside,Cathedral City,childcare,95.6
+1174,Riverside,Cathedral City,kindergarten,97.8
+1175,Riverside,Cherry Valley,childcare,99.0
+1176,Riverside,Coachella,7th grade,99.0
+1177,Riverside,Coachella,childcare,94.5
+1178,Riverside,Coachella,kindergarten,98.57142857142857
+1179,Riverside,Corona,7th grade,98.27272727272727
+1180,Riverside,Corona,childcare,93.06896551724138
+1181,Riverside,Corona,kindergarten,97.46153846153847
+1182,Riverside,Desert Hot Springs,7th grade,99.0
+1183,Riverside,Desert Hot Springs,childcare,96.0
+1184,Riverside,Desert Hot Springs,kindergarten,97.6
+1185,Riverside,Eastvale,7th grade,99.0
+1186,Riverside,Eastvale,childcare,89.0
+1187,Riverside,Eastvale,kindergarten,97.5
+1188,Riverside,Hemet,7th grade,97.57142857142857
+1189,Riverside,Hemet,childcare,96.17647058823529
+1190,Riverside,Hemet,kindergarten,96.92307692307692
+1191,Riverside,Idyllwild-Pine Cove,7th grade,95.0
+1192,Riverside,Idyllwild-Pine Cove,kindergarten,88.0
+1193,Riverside,Indian Wells,kindergarten,99.0
+1194,Riverside,Indio,7th grade,99.0
+1195,Riverside,Indio,childcare,96.0
+1196,Riverside,Indio,kindergarten,97.0
+1197,Riverside,Jurupa Valley,7th grade,99.0
+1198,Riverside,Jurupa Valley,childcare,95.71428571428571
+1199,Riverside,Jurupa Valley,kindergarten,96.70588235294117
+1200,Riverside,La Quinta,7th grade,98.0
+1201,Riverside,La Quinta,childcare,96.25
+1202,Riverside,La Quinta,kindergarten,99.0
+1203,Riverside,Lake Elsinore,7th grade,99.0
+1204,Riverside,Lake Elsinore,childcare,96.0
+1205,Riverside,Lake Elsinore,kindergarten,97.8
+1206,Riverside,Mecca,childcare,96.0
+1207,Riverside,Mecca,kindergarten,99.0
+1208,Riverside,Menifee,7th grade,99.0
+1209,Riverside,Menifee,childcare,96.25
+1210,Riverside,Menifee,kindergarten,96.77777777777777
+1211,Riverside,Moreno Valley,7th grade,98.55555555555556
+1212,Riverside,Moreno Valley,childcare,96.47826086956522
+1213,Riverside,Moreno Valley,kindergarten,97.82758620689656
+1214,Riverside,Murrieta,7th grade,98.16666666666667
+1215,Riverside,Murrieta,childcare,94.76190476190476
+1216,Riverside,Murrieta,kindergarten,96.92857142857143
+1217,Riverside,Norco,7th grade,99.0
+1218,Riverside,Norco,childcare,97.33333333333333
+1219,Riverside,Norco,kindergarten,94.83333333333333
+1220,Riverside,North Shore,childcare,95.0
+1221,Riverside,Nuevo,7th grade,99.0
+1222,Riverside,Nuevo,childcare,98.0
+1223,Riverside,Nuevo,kindergarten,98.0
+1224,Riverside,Palm Desert,7th grade,98.5
+1225,Riverside,Palm Desert,childcare,94.9090909090909
+1226,Riverside,Palm Desert,kindergarten,98.2
+1227,Riverside,Palm Springs,7th grade,95.0
+1228,Riverside,Palm Springs,childcare,95.0
+1229,Riverside,Palm Springs,kindergarten,95.0
+1230,Riverside,Perris,7th grade,97.2
+1231,Riverside,Perris,childcare,96.25
+1232,Riverside,Perris,kindergarten,98.1875
+1233,Riverside,Rancho Mirage,7th grade,95.0
+1234,Riverside,Rancho Mirage,childcare,98.0
+1235,Riverside,Rancho Mirage,kindergarten,96.5
+1236,Riverside,Riverside,7th grade,96.04761904761905
+1237,Riverside,Riverside,childcare,95.97142857142858
+1238,Riverside,Riverside,kindergarten,96.88888888888889
+1239,Riverside,Romoland,childcare,98.0
+1240,Riverside,Romoland,kindergarten,98.33333333333333
+1241,Riverside,Salton City,7th grade,98.0
+1242,Riverside,Salton City,kindergarten,97.0
+1243,Riverside,San Jacinto,7th grade,97.0
+1244,Riverside,San Jacinto,childcare,97.4
+1245,Riverside,San Jacinto,kindergarten,97.0
+1246,Riverside,Temecula,7th grade,95.2
+1247,Riverside,Temecula,childcare,95.33333333333333
+1248,Riverside,Temecula,kindergarten,95.42105263157895
+1249,Riverside,Thermal,7th grade,99.0
+1250,Riverside,Thermal,childcare,95.6
+1251,Riverside,Thermal,kindergarten,98.0
+1252,Riverside,Thousand Palms,childcare,95.0
+1253,Riverside,Thousand Palms,kindergarten,98.0
+1254,Riverside,Wildomar,7th grade,96.5
+1255,Riverside,Wildomar,childcare,94.66666666666667
+1256,Riverside,Wildomar,kindergarten,98.0
+1257,Riverside,Winchester,7th grade,97.0
+1258,Riverside,Winchester,childcare,96.0
+1259,Riverside,Winchester,kindergarten,97.5
+1260,Sacramento,Antelope,childcare,95.6
+1261,Sacramento,Antelope,kindergarten,95.25
+1262,Sacramento,Carmichael,7th grade,90.3
+1263,Sacramento,Carmichael,childcare,94.5909090909091
+1264,Sacramento,Carmichael,kindergarten,89.82352941176471
+1265,Sacramento,Citrus Heights,7th grade,97.75
+1266,Sacramento,Citrus Heights,childcare,93.84210526315789
+1267,Sacramento,Citrus Heights,kindergarten,92.33333333333333
+1268,Sacramento,Clarksburg,7th grade,99.0
+1269,Sacramento,Clarksburg,kindergarten,98.0
+1270,Sacramento,Courtland,childcare,95.0
+1271,Sacramento,Elk Grove,7th grade,98.28571428571429
+1272,Sacramento,Elk Grove,childcare,96.10714285714286
+1273,Sacramento,Elk Grove,kindergarten,96.625
+1274,Sacramento,Elverta,7th grade,95.0
+1275,Sacramento,Elverta,kindergarten,95.0
+1276,Sacramento,Fair Oaks,7th grade,91.0
+1277,Sacramento,Fair Oaks,childcare,94.0
+1278,Sacramento,Fair Oaks,kindergarten,91.83333333333333
+1279,Sacramento,Folsom,7th grade,97.66666666666667
+1280,Sacramento,Folsom,childcare,90.63157894736842
+1281,Sacramento,Folsom,kindergarten,96.46153846153847
+1282,Sacramento,Galt,7th grade,99.0
+1283,Sacramento,Galt,childcare,96.5
+1284,Sacramento,Galt,kindergarten,97.0
+1285,Sacramento,Gold River,7th grade,98.0
+1286,Sacramento,Gold River,childcare,93.0
+1287,Sacramento,Gold River,kindergarten,97.0
+1288,Sacramento,Herald,7th grade,98.0
+1289,Sacramento,Herald,kindergarten,98.0
+1290,Sacramento,Isleton,childcare,95.0
+1291,Sacramento,Isleton,kindergarten,91.0
+1292,Sacramento,Mather,7th grade,72.0
+1293,Sacramento,Mather,childcare,98.0
+1294,Sacramento,Mather,kindergarten,98.0
+1295,Sacramento,North Highlands,7th grade,96.33333333333333
+1296,Sacramento,North Highlands,childcare,95.625
+1297,Sacramento,North Highlands,kindergarten,89.2
+1298,Sacramento,Orangevale,7th grade,86.75
+1299,Sacramento,Orangevale,childcare,95.75
+1300,Sacramento,Orangevale,kindergarten,93.5
+1301,Sacramento,Rancho Cordova,7th grade,96.33333333333333
+1302,Sacramento,Rancho Cordova,childcare,94.57142857142857
+1303,Sacramento,Rancho Cordova,kindergarten,94.66666666666667
+1304,Sacramento,Rancho Murieta,childcare,95.0
+1305,Sacramento,Rio Linda,7th grade,87.25
+1306,Sacramento,Rio Linda,childcare,94.0
+1307,Sacramento,Rio Linda,kindergarten,88.5
+1308,Sacramento,Rio Vista,7th grade,98.0
+1309,Sacramento,Rio Vista,kindergarten,98.0
+1310,Sacramento,Roseville,7th grade,98.0
+1311,Sacramento,Sacramento,7th grade,96.0
+1312,Sacramento,Sacramento,childcare,93.76767676767676
+1313,Sacramento,Sacramento,kindergarten,95.41007194244604
+1314,Sacramento,Sloughhouse,kindergarten,95.0
+1315,Sacramento,Walnut Grove,childcare,95.0
+1316,Sacramento,Walnut Grove,kindergarten,95.0
+1317,Sacramento,Wilton,kindergarten,98.0
+1318,San Benito,Aromas,7th grade,98.0
+1319,San Benito,Aromas,childcare,93.0
+1320,San Benito,Aromas,kindergarten,95.0
+1321,San Benito,Hollister,7th grade,96.57142857142857
+1322,San Benito,Hollister,childcare,89.0
+1323,San Benito,Hollister,kindergarten,97.7
+1324,San Benito,San Juan Bautista,7th grade,95.0
+1325,San Benito,San Juan Bautista,childcare,90.0
+1326,San Benito,San Juan Bautista,kindergarten,95.0
+1327,San Bernardino,Adelanto,7th grade,97.0
+1328,San Bernardino,Adelanto,childcare,95.0
+1329,San Bernardino,Adelanto,kindergarten,93.25
+1330,San Bernardino,Apple Valley,7th grade,98.5
+1331,San Bernardino,Apple Valley,childcare,94.23529411764706
+1332,San Bernardino,Apple Valley,kindergarten,96.81818181818181
+1333,San Bernardino,Barstow,7th grade,99.0
+1334,San Bernardino,Barstow,childcare,94.0
+1335,San Bernardino,Barstow,kindergarten,94.6
+1336,San Bernardino,Big Bear City,childcare,91.33333333333333
+1337,San Bernardino,Big Bear City,kindergarten,95.0
+1338,San Bernardino,Big Bear Lake,7th grade,95.0
+1339,San Bernardino,Big Bear Lake,childcare,95.0
+1340,San Bernardino,Big Bear Lake,kindergarten,96.5
+1341,San Bernardino,Bloomington,7th grade,97.66666666666667
+1342,San Bernardino,Bloomington,childcare,93.83333333333333
+1343,San Bernardino,Bloomington,kindergarten,98.2
+1344,San Bernardino,Calimesa,7th grade,95.0
+1345,San Bernardino,Calimesa,kindergarten,95.0
+1346,San Bernardino,Chino,7th grade,98.2
+1347,San Bernardino,Chino,childcare,95.05555555555556
+1348,San Bernardino,Chino,kindergarten,97.45454545454545
+1349,San Bernardino,Chino Hills,7th grade,97.66666666666667
+1350,San Bernardino,Chino Hills,childcare,96.0909090909091
+1351,San Bernardino,Chino Hills,kindergarten,97.23076923076923
+1352,San Bernardino,Colton,7th grade,99.0
+1353,San Bernardino,Colton,childcare,95.33333333333333
+1354,San Bernardino,Colton,kindergarten,98.2
+1355,San Bernardino,Crest Park,childcare,95.0
+1356,San Bernardino,Crestline,childcare,94.0
+1357,San Bernardino,Crestline,kindergarten,98.0
+1358,San Bernardino,Fontana,7th grade,98.55555555555556
+1359,San Bernardino,Fontana,childcare,96.5
+1360,San Bernardino,Fontana,kindergarten,98.0
+1361,San Bernardino,Fort Irwin,7th grade,98.0
+1362,San Bernardino,Fort Irwin,childcare,99.0
+1363,San Bernardino,Fort Irwin,kindergarten,99.0
+1364,San Bernardino,Grand Terrace,7th grade,99.0
+1365,San Bernardino,Grand Terrace,childcare,96.5
+1366,San Bernardino,Grand Terrace,kindergarten,98.0
+1367,San Bernardino,Helendale,7th grade,77.0
+1368,San Bernardino,Helendale,childcare,95.0
+1369,San Bernardino,Helendale,kindergarten,85.5
+1370,San Bernardino,Hesperia,7th grade,97.66666666666667
+1371,San Bernardino,Hesperia,childcare,95.41176470588235
+1372,San Bernardino,Hesperia,kindergarten,97.6470588235294
+1373,San Bernardino,Highland,7th grade,99.0
+1374,San Bernardino,Highland,childcare,95.5
+1375,San Bernardino,Highland,kindergarten,97.45454545454545
+1376,San Bernardino,Joshua Tree,childcare,95.0
+1377,San Bernardino,Joshua Tree,kindergarten,88.5
+1378,San Bernardino,Lake Arrowhead,7th grade,99.0
+1379,San Bernardino,Lake Arrowhead,kindergarten,94.0
+1380,San Bernardino,Lenwood,kindergarten,96.0
+1381,San Bernardino,Loma Linda,7th grade,99.0
+1382,San Bernardino,Loma Linda,childcare,97.0
+1383,San Bernardino,Loma Linda,kindergarten,98.0
+1384,San Bernardino,Lucerne Valley,7th grade,97.0
+1385,San Bernardino,Lucerne Valley,childcare,88.0
+1386,San Bernardino,Lucerne Valley,kindergarten,95.0
+1387,San Bernardino,Mentone,childcare,95.0
+1388,San Bernardino,Mentone,kindergarten,98.0
+1389,San Bernardino,Montclair,7th grade,97.66666666666667
+1390,San Bernardino,Montclair,childcare,96.0
+1391,San Bernardino,Montclair,kindergarten,97.33333333333333
+1392,San Bernardino,Morongo Valley,kindergarten,90.0
+1393,San Bernardino,Needles,7th grade,98.0
+1394,San Bernardino,Needles,childcare,98.0
+1395,San Bernardino,Needles,kindergarten,98.0
+1396,San Bernardino,Newberry Springs,kindergarten,95.0
+1397,San Bernardino,Oak Hills,childcare,95.0
+1398,San Bernardino,Ontario,7th grade,98.0
+1399,San Bernardino,Ontario,childcare,96.25925925925925
+1400,San Bernardino,Ontario,kindergarten,97.73076923076923
+1401,San Bernardino,Oro Grande,7th grade,99.0
+1402,San Bernardino,Oro Grande,kindergarten,98.0
+1403,San Bernardino,Phelan,7th grade,98.0
+1404,San Bernardino,Phelan,childcare,95.5
+1405,San Bernardino,Phelan,kindergarten,95.0
+1406,San Bernardino,Pinon Hills,childcare,88.0
+1407,San Bernardino,Pinon Hills,kindergarten,85.0
+1408,San Bernardino,Placerville,7th grade,22.0
+1409,San Bernardino,Placerville,kindergarten,43.0
+1410,San Bernardino,Rancho Cucamonga,7th grade,98.2
+1411,San Bernardino,Rancho Cucamonga,childcare,96.8076923076923
+1412,San Bernardino,Rancho Cucamonga,kindergarten,97.53846153846153
+1413,San Bernardino,Redlands,7th grade,96.0
+1414,San Bernardino,Redlands,childcare,96.0909090909091
+1415,San Bernardino,Redlands,kindergarten,96.35714285714286
+1416,San Bernardino,Rialto,7th grade,99.0
+1417,San Bernardino,Rialto,childcare,95.69565217391305
+1418,San Bernardino,Rialto,kindergarten,98.0625
+1419,San Bernardino,Rim Forest,childcare,95.0
+1420,San Bernardino,Running Springs,childcare,91.0
+1421,San Bernardino,Running Springs,kindergarten,97.0
+1422,San Bernardino,San Bernardino,7th grade,96.5625
+1423,San Bernardino,San Bernardino,childcare,95.125
+1424,San Bernardino,San Bernardino,kindergarten,97.03703703703704
+1425,San Bernardino,San Marcos,7th grade,43.0
+1426,San Bernardino,San Marcos,kindergarten,43.0
+1427,San Bernardino,Trona,7th grade,48.5
+1428,San Bernardino,Trona,childcare,95.0
+1429,San Bernardino,Trona,kindergarten,48.5
+1430,San Bernardino,Twentynine Palms,7th grade,98.0
+1431,San Bernardino,Twentynine Palms,childcare,93.4
+1432,San Bernardino,Twentynine Palms,kindergarten,96.75
+1433,San Bernardino,Twin Peaks,7th grade,95.0
+1434,San Bernardino,Twin Peaks,childcare,95.0
+1435,San Bernardino,Twin Peaks,kindergarten,90.0
+1436,San Bernardino,Upland,7th grade,97.2
+1437,San Bernardino,Upland,childcare,96.76923076923077
+1438,San Bernardino,Upland,kindergarten,96.5
+1439,San Bernardino,Victorville,7th grade,97.1
+1440,San Bernardino,Victorville,childcare,96.0
+1441,San Bernardino,Victorville,kindergarten,96.6086956521739
+1442,San Bernardino,Wrightwood,childcare,4.0
+1443,San Bernardino,Wrightwood,kindergarten,95.0
+1444,San Bernardino,Yermo,7th grade,95.0
+1445,San Bernardino,Yermo,kindergarten,91.0
+1446,San Bernardino,Yucaipa,7th grade,98.66666666666667
+1447,San Bernardino,Yucaipa,childcare,96.25
+1448,San Bernardino,Yucaipa,kindergarten,97.5
+1449,San Bernardino,Yucca Valley,7th grade,93.0
+1450,San Bernardino,Yucca Valley,childcare,93.75
+1451,San Bernardino,Yucca Valley,kindergarten,94.0
+1452,San Diego,Alpine,7th grade,94.5
+1453,San Diego,Alpine,childcare,96.5
+1454,San Diego,Alpine,kindergarten,97.0
+1455,San Diego,Bonita,childcare,97.5
+1456,San Diego,Bonita,kindergarten,95.33333333333333
+1457,San Diego,Bonsall,7th grade,99.0
+1458,San Diego,Bonsall,kindergarten,60.5
+1459,San Diego,Borrego Springs,7th grade,95.0
+1460,San Diego,Borrego Springs,childcare,95.0
+1461,San Diego,Borrego Springs,kindergarten,95.0
+1462,San Diego,Boulevard,childcare,95.0
+1463,San Diego,Boulevard,kindergarten,92.0
+1464,San Diego,Campo,7th grade,98.0
+1465,San Diego,Campo,childcare,95.0
+1466,San Diego,Campo,kindergarten,93.0
+1467,San Diego,Carlsbad,7th grade,98.2
+1468,San Diego,Carlsbad,childcare,93.9047619047619
+1469,San Diego,Carlsbad,kindergarten,96.29411764705883
+1470,San Diego,Chula Vista,7th grade,97.5
+1471,San Diego,Chula Vista,childcare,96.05555555555556
+1472,San Diego,Chula Vista,kindergarten,97.47916666666667
+1473,San Diego,Coronado,7th grade,95.5
+1474,San Diego,Coronado,childcare,95.8
+1475,San Diego,Coronado,kindergarten,94.0
+1476,San Diego,Del Mar,childcare,97.0
+1477,San Diego,Del Mar,kindergarten,96.0
+1478,San Diego,Descanso,childcare,96.0
+1479,San Diego,Descanso,kindergarten,93.0
+1480,San Diego,El Cajon,7th grade,79.86666666666666
+1481,San Diego,El Cajon,childcare,95.38095238095238
+1482,San Diego,El Cajon,kindergarten,88.0
+1483,San Diego,Encinitas,7th grade,92.25
+1484,San Diego,Encinitas,childcare,94.26923076923077
+1485,San Diego,Encinitas,kindergarten,92.875
+1486,San Diego,Escondido,7th grade,94.15384615384616
+1487,San Diego,Escondido,childcare,95.34285714285714
+1488,San Diego,Escondido,kindergarten,95.11538461538461
+1489,San Diego,Fallbrook,7th grade,99.0
+1490,San Diego,Fallbrook,childcare,93.15384615384616
+1491,San Diego,Fallbrook,kindergarten,97.4
+1492,San Diego,Imperial Beach,7th grade,99.0
+1493,San Diego,Imperial Beach,childcare,96.8
+1494,San Diego,Imperial Beach,kindergarten,95.5
+1495,San Diego,Jamul,7th grade,88.5
+1496,San Diego,Jamul,childcare,95.0
+1497,San Diego,Jamul,kindergarten,75.5
+1498,San Diego,Julian,7th grade,83.33333333333333
+1499,San Diego,Julian,kindergarten,79.0
+1500,San Diego,La Mesa,7th grade,92.75
+1501,San Diego,La Mesa,childcare,95.125
+1502,San Diego,La Mesa,kindergarten,92.46153846153847
+1503,San Diego,Lakeside,7th grade,97.66666666666667
+1504,San Diego,Lakeside,childcare,89.0
+1505,San Diego,Lakeside,kindergarten,94.28571428571429
+1506,San Diego,Lemon Grove,7th grade,96.33333333333333
+1507,San Diego,Lemon Grove,childcare,95.63636363636364
+1508,San Diego,Lemon Grove,kindergarten,97.6
+1509,San Diego,National City,7th grade,97.0
+1510,San Diego,National City,childcare,96.4
+1511,San Diego,National City,kindergarten,96.58333333333333
+1512,San Diego,Oceanside,7th grade,96.07142857142857
+1513,San Diego,Oceanside,childcare,94.70270270270271
+1514,San Diego,Oceanside,kindergarten,96.25925925925925
+1515,San Diego,Pauma Valley,childcare,95.0
+1516,San Diego,Pauma Valley,kindergarten,98.0
+1517,San Diego,Pine Valley,7th grade,95.0
+1518,San Diego,Potrero,kindergarten,93.0
+1519,San Diego,Poway,7th grade,98.0
+1520,San Diego,Poway,childcare,96.0
+1521,San Diego,Poway,kindergarten,97.625
+1522,San Diego,Rainbow,7th grade,95.0
+1523,San Diego,Rainbow,childcare,88.0
+1524,San Diego,Rainbow,kindergarten,94.0
+1525,San Diego,Ramona,7th grade,99.0
+1526,San Diego,Ramona,childcare,94.125
+1527,San Diego,Ramona,kindergarten,95.33333333333333
+1528,San Diego,Rancho Santa Fe,7th grade,96.0
+1529,San Diego,Rancho Santa Fe,childcare,92.5
+1530,San Diego,Rancho Santa Fe,kindergarten,93.25
+1531,San Diego,San Clemente,kindergarten,97.0
+1532,San Diego,San Diego,7th grade,95.32692307692308
+1533,San Diego,San Diego,childcare,94.87290969899665
+1534,San Diego,San Diego,kindergarten,96.10377358490567
+1535,San Diego,San Marcos,7th grade,95.57142857142857
+1536,San Diego,San Marcos,childcare,95.8
+1537,San Diego,San Marcos,kindergarten,97.25
+1538,San Diego,Santee,7th grade,97.0
+1539,San Diego,Santee,childcare,88.78571428571429
+1540,San Diego,Santee,kindergarten,97.875
+1541,San Diego,Simi Valley,7th grade,98.0
+1542,San Diego,Simi Valley,kindergarten,94.0
+1543,San Diego,Solana Beach,7th grade,95.0
+1544,San Diego,Solana Beach,childcare,93.42857142857143
+1545,San Diego,Solana Beach,kindergarten,95.75
+1546,San Diego,Spring Valley (San Diego County),7th grade,97.66666666666667
+1547,San Diego,Spring Valley (San Diego County),childcare,95.6
+1548,San Diego,Spring Valley (San Diego County),kindergarten,96.6
+1549,San Diego,Thousand Oaks,7th grade,21.0
+1550,San Diego,Thousand Oaks,kindergarten,31.0
+1551,San Diego,Valley Center,7th grade,99.0
+1552,San Diego,Valley Center,childcare,96.5
+1553,San Diego,Valley Center,kindergarten,97.5
+1554,San Diego,Vista,7th grade,91.25
+1555,San Diego,Vista,childcare,94.61290322580645
+1556,San Diego,Vista,kindergarten,95.16666666666667
+1557,San Diego,Warner Springs,7th grade,45.0
+1558,San Diego,Warner Springs,kindergarten,46.0
+1559,San Francisco,San Francisco,7th grade,93.38356164383562
+1560,San Francisco,San Francisco,childcare,95.02074688796681
+1561,San Francisco,San Francisco,kindergarten,94.32478632478633
+1562,San Joaquin,Acampo,7th grade,95.0
+1563,San Joaquin,Acampo,kindergarten,95.0
+1564,San Joaquin,Banta,childcare,95.0
+1565,San Joaquin,Escalon,7th grade,99.0
+1566,San Joaquin,Escalon,childcare,97.5
+1567,San Joaquin,Escalon,kindergarten,91.33333333333333
+1568,San Joaquin,French Camp,7th grade,98.0
+1569,San Joaquin,French Camp,childcare,95.0
+1570,San Joaquin,French Camp,kindergarten,98.0
+1571,San Joaquin,Lathrop,7th grade,98.0
+1572,San Joaquin,Lathrop,childcare,95.6
+1573,San Joaquin,Lathrop,kindergarten,98.2
+1574,San Joaquin,Linden,kindergarten,98.0
+1575,San Joaquin,Lockeford,7th grade,98.0
+1576,San Joaquin,Lockeford,kindergarten,95.0
+1577,San Joaquin,Lodi,7th grade,94.77777777777777
+1578,San Joaquin,Lodi,childcare,95.84615384615384
+1579,San Joaquin,Lodi,kindergarten,94.38888888888889
+1580,San Joaquin,Manteca,7th grade,98.14285714285714
+1581,San Joaquin,Manteca,childcare,94.3
+1582,San Joaquin,Manteca,kindergarten,97.5
+1583,San Joaquin,Mountain House,7th grade,97.5
+1584,San Joaquin,Mountain House,childcare,97.0
+1585,San Joaquin,Mountain House,kindergarten,98.75
+1586,San Joaquin,Ripon,7th grade,93.85714285714286
+1587,San Joaquin,Ripon,childcare,98.5
+1588,San Joaquin,Ripon,kindergarten,90.28571428571429
+1589,San Joaquin,Simi Valley,7th grade,99.0
+1590,San Joaquin,Simi Valley,kindergarten,96.0
+1591,San Joaquin,Stockton,7th grade,95.85507246376811
+1592,San Joaquin,Stockton,childcare,94.8804347826087
+1593,San Joaquin,Stockton,kindergarten,95.55681818181819
+1594,San Joaquin,Thornton,7th grade,95.0
+1595,San Joaquin,Thornton,kindergarten,95.0
+1596,San Joaquin,Tracy,7th grade,97.13333333333334
+1597,San Joaquin,Tracy,childcare,93.33333333333333
+1598,San Joaquin,Tracy,kindergarten,95.95454545454545
+1599,San Joaquin,Victor,kindergarten,92.0
+1600,San Luis Obispo,Arroyo Grande,7th grade,96.33333333333333
+1601,San Luis Obispo,Arroyo Grande,childcare,96.16666666666667
+1602,San Luis Obispo,Arroyo Grande,kindergarten,94.0
+1603,San Luis Obispo,Atascadero,7th grade,97.0
+1604,San Luis Obispo,Atascadero,childcare,94.625
+1605,San Luis Obispo,Atascadero,kindergarten,97.75
+1606,San Luis Obispo,Cambria,7th grade,95.0
+1607,San Luis Obispo,Cambria,childcare,92.5
+1608,San Luis Obispo,Cambria,kindergarten,95.0
+1609,San Luis Obispo,Cayucos,kindergarten,95.0
+1610,San Luis Obispo,El Paso de Robles (Paso Robles),7th grade,97.0
+1611,San Luis Obispo,El Paso de Robles (Paso Robles),childcare,95.0
+1612,San Luis Obispo,El Paso de Robles (Paso Robles),kindergarten,96.25
+1613,San Luis Obispo,Grover Beach,childcare,95.0
+1614,San Luis Obispo,Grover Beach,kindergarten,97.0
+1615,San Luis Obispo,Los Osos,7th grade,98.0
+1616,San Luis Obispo,Los Osos,childcare,93.33333333333333
+1617,San Luis Obispo,Los Osos,kindergarten,91.0
+1618,San Luis Obispo,Morro Bay,childcare,97.0
+1619,San Luis Obispo,Morro Bay,kindergarten,95.0
+1620,San Luis Obispo,Nipomo,childcare,95.0
+1621,San Luis Obispo,Nipomo,kindergarten,97.0
+1622,San Luis Obispo,Oceano,childcare,95.0
+1623,San Luis Obispo,Oceano,kindergarten,98.0
+1624,San Luis Obispo,Pismo Beach,7th grade,92.5
+1625,San Luis Obispo,Pismo Beach,childcare,95.0
+1626,San Luis Obispo,Pismo Beach,kindergarten,95.5
+1627,San Luis Obispo,San Luis Obispo,7th grade,91.66666666666667
+1628,San Luis Obispo,San Luis Obispo,childcare,95.45
+1629,San Luis Obispo,San Luis Obispo,kindergarten,93.77777777777777
+1630,San Luis Obispo,San Miguel (San Luis Obispo County),7th grade,92.5
+1631,San Luis Obispo,San Miguel (San Luis Obispo County),childcare,95.0
+1632,San Luis Obispo,San Miguel (San Luis Obispo County),kindergarten,89.66666666666667
+1633,San Luis Obispo,Santa Margarita,kindergarten,98.0
+1634,San Luis Obispo,Shandon,7th grade,95.0
+1635,San Luis Obispo,Shandon,kindergarten,90.0
+1636,San Luis Obispo,Templeton,7th grade,97.0
+1637,San Luis Obispo,Templeton,childcare,95.0
+1638,San Luis Obispo,Templeton,kindergarten,95.0
+1639,San Mateo,Atherton,7th grade,90.33333333333333
+1640,San Mateo,Atherton,childcare,97.5
+1641,San Mateo,Atherton,kindergarten,95.4
+1642,San Mateo,Belmont,7th grade,96.75
+1643,San Mateo,Belmont,childcare,96.25
+1644,San Mateo,Belmont,kindergarten,97.4
+1645,San Mateo,Brisbane,7th grade,95.0
+1646,San Mateo,Brisbane,childcare,95.0
+1647,San Mateo,Brisbane,kindergarten,95.0
+1648,San Mateo,Burlingame,7th grade,96.33333333333333
+1649,San Mateo,Burlingame,childcare,97.25
+1650,San Mateo,Burlingame,kindergarten,97.0
+1651,San Mateo,Colma,7th grade,97.0
+1652,San Mateo,Colma,childcare,87.5
+1653,San Mateo,Colma,kindergarten,97.0
+1654,San Mateo,Daly City,7th grade,96.33333333333333
+1655,San Mateo,Daly City,childcare,95.77777777777777
+1656,San Mateo,Daly City,kindergarten,96.4
+1657,San Mateo,East Palo Alto,7th grade,97.4
+1658,San Mateo,East Palo Alto,childcare,96.85714285714286
+1659,San Mateo,East Palo Alto,kindergarten,97.0
+1660,San Mateo,El Granada,childcare,95.0
+1661,San Mateo,Foster City,7th grade,97.0
+1662,San Mateo,Foster City,childcare,97.9
+1663,San Mateo,Foster City,kindergarten,97.4
+1664,San Mateo,Half Moon Bay,7th grade,97.0
+1665,San Mateo,Half Moon Bay,childcare,95.0
+1666,San Mateo,Half Moon Bay,kindergarten,97.0
+1667,San Mateo,Hillsborough,7th grade,97.66666666666667
+1668,San Mateo,Hillsborough,childcare,95.0
+1669,San Mateo,Hillsborough,kindergarten,95.75
+1670,San Mateo,Menlo Park,7th grade,95.11111111111111
+1671,San Mateo,Menlo Park,childcare,95.88
+1672,San Mateo,Menlo Park,kindergarten,94.8
+1673,San Mateo,Millbrae,7th grade,97.0
+1674,San Mateo,Millbrae,childcare,96.0
+1675,San Mateo,Millbrae,kindergarten,97.0
+1676,San Mateo,Montara,kindergarten,97.0
+1677,San Mateo,Pacifica,7th grade,97.75
+1678,San Mateo,Pacifica,childcare,94.88888888888889
+1679,San Mateo,Pacifica,kindergarten,95.0
+1680,San Mateo,Pescadero,7th grade,95.0
+1681,San Mateo,Portola Valley,7th grade,96.0
+1682,San Mateo,Portola Valley,childcare,95.75
+1683,San Mateo,Portola Valley,kindergarten,96.5
+1684,San Mateo,Redwood City,7th grade,93.63636363636364
+1685,San Mateo,Redwood City,childcare,96.03448275862068
+1686,San Mateo,Redwood City,kindergarten,94.0
+1687,San Mateo,San Bruno,7th grade,96.33333333333333
+1688,San Mateo,San Bruno,childcare,96.72727272727273
+1689,San Mateo,San Bruno,kindergarten,95.18181818181819
+1690,San Mateo,San Carlos,7th grade,96.75
+1691,San Mateo,San Carlos,childcare,96.23076923076923
+1692,San Mateo,San Carlos,kindergarten,97.0
+1693,San Mateo,San Diego,childcare,97.0
+1694,San Mateo,San Mateo,7th grade,97.0
+1695,San Mateo,San Mateo,childcare,95.64583333333333
+1696,San Mateo,San Mateo,kindergarten,96.77777777777777
+1697,San Mateo,Simi Valley,7th grade,95.0
+1698,San Mateo,Simi Valley,kindergarten,94.0
+1699,San Mateo,South San Francisco,7th grade,97.4
+1700,San Mateo,South San Francisco,childcare,96.34782608695652
+1701,San Mateo,South San Francisco,kindergarten,96.75
+1702,San Mateo,Woodside,7th grade,98.0
+1703,San Mateo,Woodside,childcare,97.0
+1704,San Mateo,Woodside,kindergarten,98.0
+1705,Santa Barbara,Buellton,childcare,95.5
+1706,Santa Barbara,Buellton,kindergarten,98.0
+1707,Santa Barbara,Carpinteria,7th grade,99.0
+1708,Santa Barbara,Carpinteria,childcare,94.66666666666667
+1709,Santa Barbara,Carpinteria,kindergarten,91.5
+1710,Santa Barbara,Goleta,7th grade,99.0
+1711,Santa Barbara,Goleta,childcare,95.28571428571429
+1712,Santa Barbara,Goleta,kindergarten,94.83333333333333
+1713,Santa Barbara,Guadalupe,7th grade,99.0
+1714,Santa Barbara,Guadalupe,childcare,95.0
+1715,Santa Barbara,Guadalupe,kindergarten,99.0
+1716,Santa Barbara,Lompoc,7th grade,99.0
+1717,Santa Barbara,Lompoc,childcare,95.76923076923077
+1718,Santa Barbara,Lompoc,kindergarten,98.5
+1719,Santa Barbara,Los Alamos,7th grade,95.0
+1720,Santa Barbara,Los Alamos,childcare,95.0
+1721,Santa Barbara,Los Alamos,kindergarten,95.0
+1722,Santa Barbara,Los Olivos,7th grade,95.0
+1723,Santa Barbara,Los Olivos,childcare,95.0
+1724,Santa Barbara,New Cuyama,7th grade,80.0
+1725,Santa Barbara,Orcutt,7th grade,95.0
+1726,Santa Barbara,Orcutt,childcare,96.5
+1727,Santa Barbara,Orcutt,kindergarten,95.0
+1728,Santa Barbara,Santa Barbara,7th grade,95.7
+1729,Santa Barbara,Santa Barbara,childcare,94.625
+1730,Santa Barbara,Santa Barbara,kindergarten,95.3913043478261
+1731,Santa Barbara,Santa Maria,7th grade,93.25
+1732,Santa Barbara,Santa Maria,childcare,96.1
+1733,Santa Barbara,Santa Maria,kindergarten,96.22222222222223
+1734,Santa Barbara,Santa Ynez,7th grade,95.0
+1735,Santa Barbara,Santa Ynez,childcare,95.0
+1736,Santa Barbara,Santa Ynez,kindergarten,93.0
+1737,Santa Barbara,Solvang,7th grade,98.0
+1738,Santa Barbara,Solvang,childcare,97.0
+1739,Santa Barbara,Solvang,kindergarten,98.0
+1740,Santa Barbara,Vandenberg AFB,7th grade,99.0
+1741,Santa Barbara,Vandenberg AFB,childcare,95.0
+1742,Santa Barbara,Vandenberg AFB,kindergarten,98.0
+1743,Santa Clara,Campbell,7th grade,96.33333333333333
+1744,Santa Clara,Campbell,childcare,96.13636363636364
+1745,Santa Clara,Campbell,kindergarten,95.33333333333333
+1746,Santa Clara,Cupertino,7th grade,98.0
+1747,Santa Clara,Cupertino,childcare,94.25
+1748,Santa Clara,Cupertino,kindergarten,97.6
+1749,Santa Clara,Gilroy,7th grade,93.5
+1750,Santa Clara,Gilroy,childcare,94.78571428571429
+1751,Santa Clara,Gilroy,kindergarten,97.45454545454545
+1752,Santa Clara,Los Altos,7th grade,98.0
+1753,Santa Clara,Los Altos,childcare,94.93333333333334
+1754,Santa Clara,Los Altos,kindergarten,95.4
+1755,Santa Clara,Los Altos Hills,7th grade,95.0
+1756,Santa Clara,Los Altos Hills,childcare,95.0
+1757,Santa Clara,Los Altos Hills,kindergarten,95.0
+1758,Santa Clara,Los Gatos,7th grade,96.66666666666667
+1759,Santa Clara,Los Gatos,childcare,94.5
+1760,Santa Clara,Los Gatos,kindergarten,95.33333333333333
+1761,Santa Clara,Milpitas,7th grade,96.6
+1762,Santa Clara,Milpitas,childcare,94.2
+1763,Santa Clara,Milpitas,kindergarten,96.27272727272727
+1764,Santa Clara,Moffett Field,childcare,98.0
+1765,Santa Clara,Morgan Hill,7th grade,96.6
+1766,Santa Clara,Morgan Hill,childcare,95.3125
+1767,Santa Clara,Morgan Hill,kindergarten,95.3
+1768,Santa Clara,Mountain View,7th grade,97.75
+1769,Santa Clara,Mountain View,childcare,96.54166666666667
+1770,Santa Clara,Mountain View,kindergarten,96.66666666666667
+1771,Santa Clara,Palo Alto,7th grade,96.75
+1772,Santa Clara,Palo Alto,childcare,96.07317073170732
+1773,Santa Clara,Palo Alto,kindergarten,96.33333333333333
+1774,Santa Clara,San Jose,7th grade,97.0340909090909
+1775,Santa Clara,San Jose,childcare,95.79512195121951
+1776,Santa Clara,San Jose,kindergarten,96.40462427745665
+1777,Santa Clara,San Martin,7th grade,98.0
+1778,Santa Clara,San Martin,kindergarten,97.0
+1779,Santa Clara,Santa Clara,7th grade,96.5
+1780,Santa Clara,Santa Clara,childcare,96.14285714285714
+1781,Santa Clara,Santa Clara,kindergarten,96.91304347826087
+1782,Santa Clara,Saratoga,7th grade,95.25
+1783,Santa Clara,Saratoga,childcare,96.83333333333333
+1784,Santa Clara,Saratoga,kindergarten,96.11111111111111
+1785,Santa Clara,Stanford,childcare,90.75
+1786,Santa Clara,Stanford,kindergarten,98.0
+1787,Santa Clara,Sunnyvale,7th grade,97.11111111111111
+1788,Santa Clara,Sunnyvale,childcare,96.25581395348837
+1789,Santa Clara,Sunnyvale,kindergarten,97.42857142857143
+1790,Santa Cruz,Aptos,7th grade,96.5
+1791,Santa Cruz,Aptos,childcare,93.66666666666667
+1792,Santa Cruz,Aptos,kindergarten,93.0
+1793,Santa Cruz,Boulder Creek,7th grade,20.0
+1794,Santa Cruz,Boulder Creek,childcare,89.0
+1795,Santa Cruz,Boulder Creek,kindergarten,72.0
+1796,Santa Cruz,Capitola,7th grade,98.0
+1797,Santa Cruz,Capitola,childcare,95.0
+1798,Santa Cruz,Capitola,kindergarten,95.0
+1799,Santa Cruz,Davenport,kindergarten,74.0
+1800,Santa Cruz,Felton,7th grade,86.5
+1801,Santa Cruz,Felton,childcare,90.0
+1802,Santa Cruz,Felton,kindergarten,93.0
+1803,Santa Cruz,Freedom,childcare,95.0
+1804,Santa Cruz,Freedom,kindergarten,99.0
+1805,Santa Cruz,La Selva Beach,childcare,95.0
+1806,Santa Cruz,Mount Hermon,childcare,95.0
+1807,Santa Cruz,Santa Cruz,7th grade,96.0
+1808,Santa Cruz,Santa Cruz,childcare,93.32142857142857
+1809,Santa Cruz,Santa Cruz,kindergarten,92.46153846153847
+1810,Santa Cruz,Scotts Valley,7th grade,96.5
+1811,Santa Cruz,Scotts Valley,childcare,93.71428571428571
+1812,Santa Cruz,Scotts Valley,kindergarten,93.0
+1813,Santa Cruz,Soquel,childcare,83.0
+1814,Santa Cruz,Soquel,kindergarten,89.0
+1815,Santa Cruz,Watsonville,7th grade,96.84615384615384
+1816,Santa Cruz,Watsonville,childcare,95.54545454545455
+1817,Santa Cruz,Watsonville,kindergarten,97.41176470588235
+1818,Shasta,Anderson,7th grade,97.5
+1819,Shasta,Anderson,childcare,96.0
+1820,Shasta,Anderson,kindergarten,95.0
+1821,Shasta,Bella Vista,7th grade,95.0
+1822,Shasta,Bella Vista,childcare,92.0
+1823,Shasta,Bella Vista,kindergarten,95.0
+1824,Shasta,Burney,7th grade,98.0
+1825,Shasta,Burney,childcare,95.0
+1826,Shasta,Burney,kindergarten,95.0
+1827,Shasta,Cottonwood,7th grade,94.0
+1828,Shasta,Cottonwood,childcare,95.0
+1829,Shasta,Cottonwood,kindergarten,88.0
+1830,Shasta,Fall River Mills,kindergarten,95.0
+1831,Shasta,McArthur,7th grade,95.0
+1832,Shasta,Millville,7th grade,91.0
+1833,Shasta,Millville,childcare,90.0
+1834,Shasta,Millville,kindergarten,87.0
+1835,Shasta,Palo Cedro,7th grade,90.25
+1836,Shasta,Palo Cedro,childcare,93.5
+1837,Shasta,Palo Cedro,kindergarten,89.5
+1838,Shasta,Redding,7th grade,92.85714285714286
+1839,Shasta,Redding,childcare,94.38235294117646
+1840,Shasta,Redding,kindergarten,91.63157894736842
+1841,Shasta,Shasta,kindergarten,92.0
+1842,Shasta,Shasta Lake,7th grade,96.0
+1843,Shasta,Shasta Lake,childcare,95.0
+1844,Shasta,Shasta Lake,kindergarten,97.5
+1845,Shasta,Shingletown,7th grade,95.0
+1846,Shasta,Shingletown,childcare,95.0
+1847,Shasta,Shingletown,kindergarten,93.0
+1848,Shasta,Whitmore,7th grade,63.0
+1849,Shasta,Whitmore,kindergarten,29.0
+1850,Sierra,Loyalton,7th grade,95.0
+1851,Sierra,Loyalton,childcare,84.0
+1852,Sierra,Loyalton,kindergarten,95.0
+1853,Siskiyou,Dorris,childcare,95.0
+1854,Siskiyou,Dorris,kindergarten,95.0
+1855,Siskiyou,Etna,childcare,95.0
+1856,Siskiyou,Etna,kindergarten,95.0
+1857,Siskiyou,Fort Jones,7th grade,98.0
+1858,Siskiyou,Fort Jones,kindergarten,86.0
+1859,Siskiyou,Grenada,7th grade,95.0
+1860,Siskiyou,Grenada,kindergarten,95.0
+1861,Siskiyou,Happy Camp,kindergarten,95.0
+1862,Siskiyou,Montague,7th grade,90.5
+1863,Siskiyou,Montague,childcare,95.0
+1864,Siskiyou,Montague,kindergarten,95.0
+1865,Siskiyou,Mount Shasta,7th grade,71.0
+1866,Siskiyou,Mount Shasta,childcare,86.0
+1867,Siskiyou,Mount Shasta,kindergarten,72.5
+1868,Siskiyou,Weed,7th grade,95.0
+1869,Siskiyou,Weed,kindergarten,93.5
+1870,Siskiyou,Yreka,7th grade,97.0
+1871,Siskiyou,Yreka,childcare,95.0
+1872,Siskiyou,Yreka,kindergarten,99.0
+1873,Solano,Benicia,7th grade,97.0
+1874,Solano,Benicia,childcare,92.58333333333333
+1875,Solano,Benicia,kindergarten,96.6
+1876,Solano,Dixon,7th grade,99.0
+1877,Solano,Dixon,childcare,96.2
+1878,Solano,Dixon,kindergarten,98.0
+1879,Solano,Fairfield,7th grade,98.36363636363636
+1880,Solano,Fairfield,childcare,92.78947368421052
+1881,Solano,Fairfield,kindergarten,96.95
+1882,Solano,Suisun City,7th grade,99.0
+1883,Solano,Suisun City,childcare,95.0
+1884,Solano,Suisun City,kindergarten,97.0
+1885,Solano,Vacaville,7th grade,95.83333333333333
+1886,Solano,Vacaville,childcare,92.61538461538461
+1887,Solano,Vacaville,kindergarten,96.75
+1888,Solano,Vallejo,7th grade,96.38461538461539
+1889,Solano,Vallejo,childcare,96.44444444444444
+1890,Solano,Vallejo,kindergarten,96.42105263157895
+1891,Sonoma,Boyes Hot Springs,childcare,95.0
+1892,Sonoma,Cloverdale,7th grade,99.0
+1893,Sonoma,Cloverdale,childcare,95.0
+1894,Sonoma,Cloverdale,kindergarten,99.0
+1895,Sonoma,Cotati,7th grade,96.0
+1896,Sonoma,Cotati,childcare,94.75
+1897,Sonoma,Cotati,kindergarten,93.0
+1898,Sonoma,Forestville,7th grade,87.0
+1899,Sonoma,Forestville,kindergarten,95.0
+1900,Sonoma,Geyserville,7th grade,95.0
+1901,Sonoma,Geyserville,kindergarten,91.0
+1902,Sonoma,Glen Ellen,kindergarten,95.0
+1903,Sonoma,Guerneville,7th grade,95.0
+1904,Sonoma,Guerneville,childcare,82.5
+1905,Sonoma,Guerneville,kindergarten,95.0
+1906,Sonoma,Healdsburg,7th grade,95.66666666666667
+1907,Sonoma,Healdsburg,childcare,95.5
+1908,Sonoma,Healdsburg,kindergarten,94.4
+1909,Sonoma,Kenwood,kindergarten,95.0
+1910,Sonoma,Occidental,7th grade,85.0
+1911,Sonoma,Occidental,kindergarten,95.0
+1912,Sonoma,Penngrove,childcare,46.5
+1913,Sonoma,Penngrove,kindergarten,98.0
+1914,Sonoma,Petaluma,7th grade,80.0
+1915,Sonoma,Petaluma,childcare,91.0
+1916,Sonoma,Petaluma,kindergarten,88.77272727272727
+1917,Sonoma,Rohnert Park,7th grade,89.33333333333333
+1918,Sonoma,Rohnert Park,childcare,92.71428571428571
+1919,Sonoma,Rohnert Park,kindergarten,97.33333333333333
+1920,Sonoma,Santa Rosa,7th grade,93.47368421052632
+1921,Sonoma,Santa Rosa,childcare,94.08474576271186
+1922,Sonoma,Santa Rosa,kindergarten,93.90697674418605
+1923,Sonoma,Sebastopol,7th grade,85.4
+1924,Sonoma,Sebastopol,childcare,84.6
+1925,Sonoma,Sebastopol,kindergarten,80.42857142857143
+1926,Sonoma,Simi Valley,7th grade,95.0
+1927,Sonoma,Simi Valley,kindergarten,90.0
+1928,Sonoma,Sonoma,7th grade,97.0
+1929,Sonoma,Sonoma,childcare,95.0
+1930,Sonoma,Sonoma,kindergarten,94.66666666666667
+1931,Sonoma,Windsor,7th grade,98.5
+1932,Sonoma,Windsor,childcare,96.0
+1933,Sonoma,Windsor,kindergarten,99.0
+1934,Stanislaus,Ceres,7th grade,98.0
+1935,Stanislaus,Ceres,childcare,93.35714285714286
+1936,Stanislaus,Ceres,kindergarten,97.63636363636364
+1937,Stanislaus,Denair,7th grade,98.0
+1938,Stanislaus,Denair,kindergarten,99.0
+1939,Stanislaus,Empire,7th grade,98.0
+1940,Stanislaus,Empire,childcare,95.0
+1941,Stanislaus,Empire,kindergarten,95.0
+1942,Stanislaus,Hickman,7th grade,90.5
+1943,Stanislaus,Hickman,kindergarten,81.5
+1944,Stanislaus,Hughson,7th grade,98.5
+1945,Stanislaus,Hughson,childcare,99.0
+1946,Stanislaus,Keyes,7th grade,95.0
+1947,Stanislaus,Keyes,childcare,95.0
+1948,Stanislaus,Keyes,kindergarten,96.5
+1949,Stanislaus,Knights Ferry,kindergarten,95.0
+1950,Stanislaus,Modesto,7th grade,95.52941176470588
+1951,Stanislaus,Modesto,childcare,95.6
+1952,Stanislaus,Modesto,kindergarten,95.61538461538461
+1953,Stanislaus,Newman,7th grade,99.0
+1954,Stanislaus,Newman,childcare,96.0
+1955,Stanislaus,Newman,kindergarten,98.0
+1956,Stanislaus,Oakdale,7th grade,98.0
+1957,Stanislaus,Oakdale,childcare,93.2
+1958,Stanislaus,Oakdale,kindergarten,96.2
+1959,Stanislaus,Patterson,7th grade,96.66666666666667
+1960,Stanislaus,Patterson,childcare,96.33333333333333
+1961,Stanislaus,Patterson,kindergarten,96.2
+1962,Stanislaus,Riverbank,7th grade,98.5
+1963,Stanislaus,Riverbank,childcare,95.0
+1964,Stanislaus,Riverbank,kindergarten,98.66666666666667
+1965,Stanislaus,Salida,7th grade,99.0
+1966,Stanislaus,Salida,childcare,93.33333333333333
+1967,Stanislaus,Salida,kindergarten,96.0
+1968,Stanislaus,Turlock,7th grade,97.75
+1969,Stanislaus,Turlock,childcare,95.88888888888889
+1970,Stanislaus,Turlock,kindergarten,97.77777777777777
+1971,Stanislaus,Waterford,7th grade,75.0
+1972,Stanislaus,Waterford,childcare,98.0
+1973,Stanislaus,Waterford,kindergarten,88.0
+1974,Stanislaus,Westley,childcare,95.0
+1975,Stanislaus,Westley,kindergarten,98.0
+1976,Sutter,East Nicolaus,7th grade,58.5
+1977,Sutter,East Nicolaus,childcare,95.0
+1978,Sutter,East Nicolaus,kindergarten,68.5
+1979,Sutter,Live Oak,7th grade,60.0
+1980,Sutter,Live Oak,childcare,96.5
+1981,Sutter,Live Oak,kindergarten,76.33333333333333
+1982,Sutter,Meridian,7th grade,10.0
+1983,Sutter,Meridian,kindergarten,37.0
+1984,Sutter,Pleasant Grove,7th grade,95.0
+1985,Sutter,Simi Valley,7th grade,98.0
+1986,Sutter,Simi Valley,kindergarten,91.0
+1987,Sutter,Sutter,7th grade,98.0
+1988,Sutter,Sutter,childcare,95.0
+1989,Sutter,Sutter,kindergarten,98.0
+1990,Sutter,Yuba City,7th grade,94.76923076923077
+1991,Sutter,Yuba City,childcare,95.67857142857143
+1992,Sutter,Yuba City,kindergarten,96.6875
+1993,Tehama,Corning,7th grade,97.33333333333333
+1994,Tehama,Corning,childcare,95.0
+1995,Tehama,Corning,kindergarten,97.25
+1996,Tehama,Cottonwood,7th grade,98.0
+1997,Tehama,Cottonwood,childcare,95.0
+1998,Tehama,Cottonwood,kindergarten,97.0
+1999,Tehama,Gerber,7th grade,95.0
+2000,Tehama,Gerber,kindergarten,94.0
+2001,Tehama,Los Molinos,7th grade,95.0
+2002,Tehama,Los Molinos,kindergarten,96.5
+2003,Tehama,Orland,childcare,95.0
+2004,Tehama,Red Bluff,7th grade,97.33333333333333
+2005,Tehama,Red Bluff,childcare,94.44444444444444
+2006,Tehama,Red Bluff,kindergarten,93.83333333333333
+2007,Tehama,Tehama,childcare,95.0
+2008,Trinity,Douglas City,7th grade,92.0
+2009,Trinity,Douglas City,kindergarten,95.0
+2010,Trinity,Weaverville,7th grade,98.0
+2011,Trinity,Weaverville,childcare,92.0
+2012,Tulare,Alpaugh,7th grade,83.0
+2013,Tulare,Alpaugh,childcare,95.0
+2014,Tulare,Alpaugh,kindergarten,83.0
+2015,Tulare,Cutler,childcare,98.0
+2016,Tulare,Cutler,kindergarten,99.0
+2017,Tulare,Delano,kindergarten,95.0
+2018,Tulare,Dinuba,7th grade,98.5
+2019,Tulare,Dinuba,childcare,98.0
+2020,Tulare,Dinuba,kindergarten,98.0
+2021,Tulare,Ducor,7th grade,95.0
+2022,Tulare,Ducor,kindergarten,95.0
+2023,Tulare,Earlimart,7th grade,99.0
+2024,Tulare,Earlimart,childcare,96.5
+2025,Tulare,Earlimart,kindergarten,98.5
+2026,Tulare,Exeter,7th grade,99.0
+2027,Tulare,Exeter,childcare,95.0
+2028,Tulare,Exeter,kindergarten,97.5
+2029,Tulare,Farmersville,7th grade,99.0
+2030,Tulare,Farmersville,childcare,95.0
+2031,Tulare,Farmersville,kindergarten,99.0
+2032,Tulare,Ivanhoe,7th grade,95.0
+2033,Tulare,Ivanhoe,childcare,96.5
+2034,Tulare,Ivanhoe,kindergarten,97.0
+2035,Tulare,Kingsburg,7th grade,95.0
+2036,Tulare,Kingsburg,kindergarten,98.0
+2037,Tulare,Lemon Cove,7th grade,95.0
+2038,Tulare,Lemon Cove,kindergarten,95.0
+2039,Tulare,Lindsay,7th grade,96.5
+2040,Tulare,Lindsay,childcare,96.75
+2041,Tulare,Lindsay,kindergarten,97.16666666666667
+2042,Tulare,Orosi,7th grade,99.0
+2043,Tulare,Orosi,childcare,97.0
+2044,Tulare,Orosi,kindergarten,99.0
+2045,Tulare,Pixley,7th grade,99.0
+2046,Tulare,Pixley,childcare,95.0
+2047,Tulare,Pixley,kindergarten,99.0
+2048,Tulare,Porterville,7th grade,97.6
+2049,Tulare,Porterville,childcare,95.64285714285714
+2050,Tulare,Porterville,kindergarten,97.19047619047619
+2051,Tulare,Richgrove,7th grade,98.0
+2052,Tulare,Richgrove,childcare,98.0
+2053,Tulare,Richgrove,kindergarten,98.0
+2054,Tulare,Springville,7th grade,95.0
+2055,Tulare,Springville,kindergarten,95.0
+2056,Tulare,Strathmore,7th grade,96.5
+2057,Tulare,Strathmore,childcare,95.0
+2058,Tulare,Strathmore,kindergarten,97.0
+2059,Tulare,Terra Bella,7th grade,98.0
+2060,Tulare,Terra Bella,kindergarten,99.0
+2061,Tulare,Three Rivers,kindergarten,95.0
+2062,Tulare,Tipton,7th grade,98.0
+2063,Tulare,Tipton,kindergarten,98.0
+2064,Tulare,Traver,7th grade,95.0
+2065,Tulare,Traver,kindergarten,95.0
+2066,Tulare,Tulare,7th grade,97.41666666666667
+2067,Tulare,Tulare,childcare,96.9090909090909
+2068,Tulare,Tulare,kindergarten,97.72222222222223
+2069,Tulare,Visalia,7th grade,89.41176470588235
+2070,Tulare,Visalia,childcare,95.875
+2071,Tulare,Visalia,kindergarten,95.87878787878788
+2072,Tulare,Woodlake,7th grade,99.0
+2073,Tulare,Woodlake,childcare,95.66666666666667
+2074,Tulare,Woodlake,kindergarten,99.0
+2075,Tuolumne,Columbia,7th grade,98.0
+2076,Tuolumne,Columbia,kindergarten,97.0
+2077,Tuolumne,Groveland,7th grade,95.0
+2078,Tuolumne,Groveland,kindergarten,86.0
+2079,Tuolumne,Jamestown,7th grade,95.0
+2080,Tuolumne,Jamestown,childcare,76.5
+2081,Tuolumne,Jamestown,kindergarten,61.0
+2082,Tuolumne,Sonora,7th grade,81.66666666666667
+2083,Tuolumne,Sonora,childcare,94.66666666666667
+2084,Tuolumne,Sonora,kindergarten,92.0
+2085,Tuolumne,Soulsbyville,7th grade,94.0
+2086,Tuolumne,Soulsbyville,childcare,95.0
+2087,Tuolumne,Soulsbyville,kindergarten,93.0
+2088,Tuolumne,Tuolumne City,7th grade,95.0
+2089,Tuolumne,Tuolumne City,childcare,86.0
+2090,Tuolumne,Tuolumne City,kindergarten,98.0
+2091,Tuolumne,Twain Harte,7th grade,95.0
+2092,Tuolumne,Twain Harte,kindergarten,93.0
+2093,Ventura,Camarillo,7th grade,92.45454545454545
+2094,Ventura,Camarillo,childcare,95.22222222222223
+2095,Ventura,Camarillo,kindergarten,90.33333333333333
+2096,Ventura,Fillmore,7th grade,99.0
+2097,Ventura,Fillmore,childcare,95.5
+2098,Ventura,Fillmore,kindergarten,97.33333333333333
+2099,Ventura,Moorpark,7th grade,97.0
+2100,Ventura,Moorpark,childcare,96.66666666666667
+2101,Ventura,Moorpark,kindergarten,97.16666666666667
+2102,Ventura,Oak Park,7th grade,99.0
+2103,Ventura,Oak Park,childcare,94.0
+2104,Ventura,Oak Park,kindergarten,96.33333333333333
+2105,Ventura,Oak View,7th grade,95.0
+2106,Ventura,Oak View,childcare,95.0
+2107,Ventura,Oak View,kindergarten,95.0
+2108,Ventura,Ojai,7th grade,62.666666666666664
+2109,Ventura,Ojai,childcare,88.375
+2110,Ventura,Ojai,kindergarten,73.0
+2111,Ventura,Oxnard,7th grade,97.84210526315789
+2112,Ventura,Oxnard,childcare,95.56862745098039
+2113,Ventura,Oxnard,kindergarten,97.82857142857142
+2114,Ventura,Piru,childcare,95.0
+2115,Ventura,Piru,kindergarten,98.0
+2116,Ventura,Port Hueneme,childcare,94.5
+2117,Ventura,Port Hueneme,kindergarten,98.25
+2118,Ventura,San Buenaventura (Ventura),7th grade,91.0
+2119,Ventura,San Buenaventura (Ventura),childcare,96.09375
+2120,Ventura,San Buenaventura (Ventura),kindergarten,94.47619047619048
+2121,Ventura,Santa Paula,7th grade,96.0
+2122,Ventura,Santa Paula,childcare,94.57142857142857
+2123,Ventura,Santa Paula,kindergarten,96.77777777777777
+2124,Ventura,Simi Valley,7th grade,90.25
+2125,Ventura,Simi Valley,childcare,95.85714285714286
+2126,Ventura,Simi Valley,kindergarten,96.9
+2127,Ventura,Somis,7th grade,98.0
+2128,Ventura,Somis,childcare,98.0
+2129,Ventura,Somis,kindergarten,96.5
+2130,Ventura,Thousand Oaks,7th grade,94.0
+2131,Ventura,Thousand Oaks,childcare,95.44444444444444
+2132,Ventura,Thousand Oaks,kindergarten,94.73684210526316
+2133,Ventura,Westlake Village,7th grade,67.0
+2134,Ventura,Westlake Village,childcare,95.71428571428571
+2135,Ventura,Westlake Village,kindergarten,98.0
+2136,Yolo,Davis,7th grade,97.6
+2137,Yolo,Davis,childcare,96.33333333333333
+2138,Yolo,Davis,kindergarten,95.77777777777777
+2139,Yolo,Dixon,childcare,95.0
+2140,Yolo,Esparto,7th grade,70.0
+2141,Yolo,Esparto,childcare,95.0
+2142,Yolo,Esparto,kindergarten,97.0
+2143,Yolo,Knights Landing,kindergarten,97.0
+2144,Yolo,Madison,childcare,95.0
+2145,Yolo,West Sacramento,7th grade,96.44444444444444
+2146,Yolo,West Sacramento,childcare,96.14285714285714
+2147,Yolo,West Sacramento,kindergarten,87.66666666666667
+2148,Yolo,Winters,7th grade,99.0
+2149,Yolo,Winters,childcare,95.75
+2150,Yolo,Winters,kindergarten,99.0
+2151,Yolo,Woodland,7th grade,97.66666666666667
+2152,Yolo,Woodland,childcare,95.9047619047619
+2153,Yolo,Woodland,kindergarten,97.45454545454545
+2154,Yuba,Arboga,childcare,97.0
+2155,Yuba,Beale AFB,childcare,98.0
+2156,Yuba,Beale AFB,kindergarten,97.0
+2157,Yuba,Browns Valley,kindergarten,95.0
+2158,Yuba,Challenge,kindergarten,92.0
+2159,Yuba,Marysville,7th grade,92.0
+2160,Yuba,Marysville,childcare,94.57142857142857
+2161,Yuba,Marysville,kindergarten,86.2
+2162,Yuba,Olivehurst,7th grade,97.0
+2163,Yuba,Olivehurst,childcare,94.0
+2164,Yuba,Olivehurst,kindergarten,92.6
+2165,Yuba,Plumas Lake,7th grade,99.0
+2166,Yuba,Plumas Lake,childcare,95.0
+2167,Yuba,Plumas Lake,kindergarten,98.0
+2168,Yuba,Wheatland,7th grade,99.0
+2169,Yuba,Wheatland,childcare,96.5
+2170,Yuba,Wheatland,kindergarten,98.0

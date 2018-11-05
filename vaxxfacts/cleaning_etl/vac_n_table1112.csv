@@ -1,0 +1,1691 @@
+county,city,vac_info_type,n
+Alameda,Alameda,7thGradeData,5712.0
+Alameda,Alameda,KindergartenData,704.0
+Alameda,Albany,7thGradeData,1835.0
+Alameda,Albany,KindergartenData,257.0
+Alameda,Berkeley,7thGradeData,5807.0
+Alameda,Berkeley,KindergartenData,815.0
+Alameda,Castro Valley,7thGradeData,4539.0
+Alameda,Castro Valley,KindergartenData,661.0
+Alameda,Dublin,7thGradeData,3302.0
+Alameda,Dublin,KindergartenData,732.0
+Alameda,Emeryville,7thGradeData,312.0
+Alameda,Emeryville,KindergartenData,33.0
+Alameda,Fremont,7thGradeData,15830.0
+Alameda,Fremont,KindergartenData,2773.0
+Alameda,Hayward,7thGradeData,11018.0
+Alameda,Hayward,KindergartenData,2036.0
+Alameda,Livermore,7thGradeData,6557.0
+Alameda,Livermore,KindergartenData,1138.0
+Alameda,Newark,7thGradeData,3656.0
+Alameda,Newark,KindergartenData,834.0
+Alameda,Oakland,7thGradeData,22286.0
+Alameda,Oakland,KindergartenData,4500.0
+Alameda,Piedmont,7thGradeData,1303.0
+Alameda,Piedmont,KindergartenData,192.0
+Alameda,Pleasanton,7thGradeData,7107.0
+Alameda,Pleasanton,KindergartenData,932.0
+Alameda,San Leandro,7thGradeData,5145.0
+Alameda,San Leandro,KindergartenData,906.0
+Alameda,San Lorenzo,7thGradeData,5217.0
+Alameda,San Lorenzo,KindergartenData,814.0
+Alameda,Sunol,7thGradeData,56.0
+Alameda,Sunol,KindergartenData,20.0
+Alameda,Union City,7thGradeData,6091.0
+Alameda,Union City,KindergartenData,824.0
+Alpine,Markleeville,7thGradeData,21.0
+Alpine,Markleeville,KindergartenData,12.0
+Amador,Ione,KindergartenData,74.0
+Amador,Jackson,7thGradeData,1159.0
+Amador,Jackson,KindergartenData,82.0
+Amador,Pine Grove,KindergartenData,52.0
+Amador,Plymouth,KindergartenData,29.0
+Amador,Sutter Creek,7thGradeData,731.0
+Amador,Sutter Creek,KindergartenData,48.0
+Butte,Bangor,7thGradeData,26.0
+Butte,Bangor,KindergartenData,17.0
+Butte,Biggs,7thGradeData,273.0
+Butte,Biggs,KindergartenData,33.0
+Butte,Chico,7thGradeData,6399.0
+Butte,Chico,KindergartenData,1031.0
+Butte,Durham,7thGradeData,476.0
+Butte,Durham,KindergartenData,60.0
+Butte,Forest Ranch,KindergartenData,15.0
+Butte,Gridley,7thGradeData,1018.0
+Butte,Gridley,KindergartenData,196.0
+Butte,Magalia,7thGradeData,276.0
+Butte,Magalia,KindergartenData,85.0
+Butte,Oroville,7thGradeData,3629.0
+Butte,Oroville,KindergartenData,659.0
+Butte,Palermo,7thGradeData,245.0
+Butte,Paradise,7thGradeData,1754.0
+Butte,Paradise,KindergartenData,209.0
+Calaveras,Angels,7thGradeData,913.0
+Calaveras,Angels,KindergartenData,46.0
+Calaveras,Arnold,KindergartenData,28.0
+Calaveras,Avery,7thGradeData,161.0
+Calaveras,Copperopolis,KindergartenData,29.0
+Calaveras,Mokelumne Hill,KindergartenData,10.0
+Calaveras,Murphys,KindergartenData,37.0
+Calaveras,San Andreas,7thGradeData,1240.0
+Calaveras,San Andreas,KindergartenData,38.0
+Calaveras,Vallecito,7thGradeData,40.0
+Calaveras,Valley Springs,7thGradeData,497.0
+Calaveras,Valley Springs,KindergartenData,117.0
+Calaveras,West Point,KindergartenData,13.0
+Colusa,Arbuckle,7thGradeData,583.0
+Colusa,Arbuckle,KindergartenData,94.0
+Colusa,Colusa,7thGradeData,611.0
+Colusa,Colusa,KindergartenData,135.0
+Colusa,Grimes,KindergartenData,11.0
+Colusa,Maxwell,7thGradeData,184.0
+Colusa,Maxwell,KindergartenData,32.0
+Colusa,Williams,7thGradeData,564.0
+Colusa,Williams,KindergartenData,106.0
+Contra Costa,Alamo,7thGradeData,2599.0
+Contra Costa,Alamo,KindergartenData,144.0
+Contra Costa,Antioch,7thGradeData,8896.0
+Contra Costa,Antioch,KindergartenData,1410.0
+Contra Costa,Bay Point,7thGradeData,542.0
+Contra Costa,Brentwood,7thGradeData,6969.0
+Contra Costa,Brentwood,KindergartenData,839.0
+Contra Costa,Byron,7thGradeData,464.0
+Contra Costa,Byron,KindergartenData,169.0
+Contra Costa,Canyon,7thGradeData,7.0
+Contra Costa,Clayton,7thGradeData,447.0
+Contra Costa,Clayton,KindergartenData,117.0
+Contra Costa,Concord,7thGradeData,10539.0
+Contra Costa,Concord,KindergartenData,1447.0
+Contra Costa,Crockett,7thGradeData,764.0
+Contra Costa,Danville,7thGradeData,7056.0
+Contra Costa,Danville,KindergartenData,843.0
+Contra Costa,Discovery Bay,KindergartenData,24.0
+Contra Costa,El Cerrito,7thGradeData,2105.0
+Contra Costa,El Cerrito,KindergartenData,340.0
+Contra Costa,El Sobrante (Contra Costa County),7thGradeData,698.0
+Contra Costa,El Sobrante (Contra Costa County),KindergartenData,208.0
+Contra Costa,Hercules,7thGradeData,1537.0
+Contra Costa,Hercules,KindergartenData,212.0
+Contra Costa,Kensington,KindergartenData,72.0
+Contra Costa,Knightsen,7thGradeData,106.0
+Contra Costa,Knightsen,KindergartenData,45.0
+Contra Costa,Lafayette,7thGradeData,2552.0
+Contra Costa,Lafayette,KindergartenData,430.0
+Contra Costa,Martinez,7thGradeData,2362.0
+Contra Costa,Martinez,KindergartenData,422.0
+Contra Costa,Moraga,7thGradeData,1784.0
+Contra Costa,Moraga,KindergartenData,158.0
+Contra Costa,Oakley,7thGradeData,3600.0
+Contra Costa,Oakley,KindergartenData,535.0
+Contra Costa,Orinda,7thGradeData,1827.0
+Contra Costa,Orinda,KindergartenData,211.0
+Contra Costa,Pinole,7thGradeData,2313.0
+Contra Costa,Pinole,KindergartenData,220.0
+Contra Costa,Pittsburg,7thGradeData,4497.0
+Contra Costa,Pittsburg,KindergartenData,1323.0
+Contra Costa,Pleasant Hill,7thGradeData,4009.0
+Contra Costa,Pleasant Hill,KindergartenData,616.0
+Contra Costa,Richmond,7thGradeData,5709.0
+Contra Costa,Richmond,KindergartenData,1150.0
+Contra Costa,Rodeo,7thGradeData,60.0
+Contra Costa,Rodeo,KindergartenData,137.0
+Contra Costa,San Pablo,7thGradeData,1581.0
+Contra Costa,San Pablo,KindergartenData,585.0
+Contra Costa,San Ramon,7thGradeData,7200.0
+Contra Costa,San Ramon,KindergartenData,1231.0
+Contra Costa,Walnut Creek,7thGradeData,5515.0
+Contra Costa,Walnut Creek,KindergartenData,792.0
+Del Norte,Crescent City,7thGradeData,1763.0
+Del Norte,Crescent City,KindergartenData,227.0
+Del Norte,Fort Dick,KindergartenData,45.0
+Del Norte,Klamath,KindergartenData,15.0
+Del Norte,Smith River,7thGradeData,55.0
+Del Norte,Smith River,KindergartenData,29.0
+El Dorado,Cameron Park,7thGradeData,391.0
+El Dorado,Cameron Park,KindergartenData,114.0
+El Dorado,Camino,7thGradeData,91.0
+El Dorado,Camino,KindergartenData,54.0
+El Dorado,Cool,7thGradeData,104.0
+El Dorado,Cool,KindergartenData,38.0
+El Dorado,Costa Mesa,7thGradeData,114.0
+El Dorado,Diamond Springs,7thGradeData,214.0
+El Dorado,El Dorado,7thGradeData,970.0
+El Dorado,El Dorado Hills,7thGradeData,3541.0
+El Dorado,El Dorado Hills,KindergartenData,548.0
+El Dorado,Garden Valley,7thGradeData,530.0
+El Dorado,Garden Valley,KindergartenData,6.0
+El Dorado,Georgetown,7thGradeData,99.0
+El Dorado,Georgetown,KindergartenData,36.0
+El Dorado,Huntington Park,KindergartenData,88.0
+El Dorado,Orangevale,7thGradeData,104.0
+El Dorado,Placerville,7thGradeData,2805.0
+El Dorado,Placerville,KindergartenData,486.0
+El Dorado,Pollock Pines,7thGradeData,144.0
+El Dorado,Pollock Pines,KindergartenData,71.0
+El Dorado,Rescue,7thGradeData,423.0
+El Dorado,Rescue,KindergartenData,172.0
+El Dorado,Sacramento,7thGradeData,107.0
+El Dorado,Sacramento,KindergartenData,56.0
+El Dorado,Shingle Springs,7thGradeData,1903.0
+El Dorado,Shingle Springs,KindergartenData,129.0
+El Dorado,Somerset,7thGradeData,94.0
+El Dorado,Somerset,KindergartenData,19.0
+El Dorado,South Lake Tahoe,7thGradeData,1744.0
+El Dorado,South Lake Tahoe,KindergartenData,338.0
+El Dorado,Stockton,KindergartenData,119.0
+El Dorado,Yerington,7thGradeData,121.0
+Fresno,Auberry,7thGradeData,11.0
+Fresno,Burrel,KindergartenData,12.0
+Fresno,Cantua Creek,7thGradeData,44.0
+Fresno,Cantua Creek,KindergartenData,26.0
+Fresno,Caruthers,7thGradeData,757.0
+Fresno,Caruthers,KindergartenData,106.0
+Fresno,Clovis,7thGradeData,11934.0
+Fresno,Clovis,KindergartenData,1716.0
+Fresno,Coalinga,7thGradeData,1527.0
+Fresno,Coalinga,KindergartenData,198.0
+Fresno,Del Rey,KindergartenData,38.0
+Fresno,Dinuba,7thGradeData,109.0
+Fresno,Dunlap,7thGradeData,119.0
+Fresno,Dunlap,KindergartenData,36.0
+Fresno,Firebaugh,7thGradeData,1031.0
+Fresno,Firebaugh,KindergartenData,203.0
+Fresno,Five Points,7thGradeData,53.0
+Fresno,Five Points,KindergartenData,36.0
+Fresno,Fowler,7thGradeData,1027.0
+Fresno,Fowler,KindergartenData,148.0
+Fresno,Fresno,7thGradeData,48630.0
+Fresno,Fresno,KindergartenData,9166.0
+Fresno,Helm,7thGradeData,14.0
+Fresno,Helm,KindergartenData,18.0
+Fresno,Huron,7thGradeData,235.0
+Fresno,Huron,KindergartenData,146.0
+Fresno,Kerman,7thGradeData,1933.0
+Fresno,Kerman,KindergartenData,443.0
+Fresno,Kingsburg,7thGradeData,1644.0
+Fresno,Kingsburg,KindergartenData,288.0
+Fresno,Laton,7thGradeData,292.0
+Fresno,Laton,KindergartenData,58.0
+Fresno,Mendota,7thGradeData,1141.0
+Fresno,Mendota,KindergartenData,332.0
+Fresno,Orange Cove,7thGradeData,988.0
+Fresno,Orange Cove,KindergartenData,283.0
+Fresno,Parlier,7thGradeData,1380.0
+Fresno,Parlier,KindergartenData,368.0
+Fresno,Pinedale,KindergartenData,132.0
+Fresno,Prather,KindergartenData,77.0
+Fresno,Raisin City,7thGradeData,55.0
+Fresno,Raisin City,KindergartenData,46.0
+Fresno,Reedley,7thGradeData,3404.0
+Fresno,Reedley,KindergartenData,511.0
+Fresno,Riverdale,7thGradeData,756.0
+Fresno,Riverdale,KindergartenData,131.0
+Fresno,San Joaquin,7thGradeData,148.0
+Fresno,San Joaquin,KindergartenData,80.0
+Fresno,Sanger,7thGradeData,4598.0
+Fresno,Sanger,KindergartenData,571.0
+Fresno,Selma,7thGradeData,2818.0
+Fresno,Selma,KindergartenData,531.0
+Fresno,Tollhouse,7thGradeData,725.0
+Fresno,Tranquillity,7thGradeData,523.0
+Fresno,Tranquillity,KindergartenData,25.0
+Glenn,Elk Creek,7thGradeData,11.0
+Glenn,Elk Creek,KindergartenData,8.0
+Glenn,Glenn,7thGradeData,23.0
+Glenn,Hamilton City,7thGradeData,386.0
+Glenn,Hamilton City,KindergartenData,59.0
+Glenn,Orland,7thGradeData,1142.0
+Glenn,Orland,KindergartenData,247.0
+Glenn,Princeton,7thGradeData,105.0
+Glenn,Princeton,KindergartenData,15.0
+Glenn,Willows,7thGradeData,794.0
+Glenn,Willows,KindergartenData,132.0
+Humboldt,Arcata,7thGradeData,1269.0
+Humboldt,Arcata,KindergartenData,119.0
+Humboldt,Bayside,7thGradeData,88.0
+Humboldt,Bayside,KindergartenData,33.0
+Humboldt,Blue Lake,7thGradeData,9.0
+Humboldt,Blue Lake,KindergartenData,8.0
+Humboldt,Carlotta,7thGradeData,25.0
+Humboldt,Carlotta,KindergartenData,16.0
+Humboldt,Eureka,7thGradeData,2682.0
+Humboldt,Eureka,KindergartenData,442.0
+Humboldt,Ferndale,7thGradeData,378.0
+Humboldt,Ferndale,KindergartenData,37.0
+Humboldt,Fieldbrook,KindergartenData,7.0
+Humboldt,Fortuna,7thGradeData,1139.0
+Humboldt,Fortuna,KindergartenData,162.0
+Humboldt,Hoopa,7thGradeData,346.0
+Humboldt,Hoopa,KindergartenData,54.0
+Humboldt,Hydesville,7thGradeData,28.0
+Humboldt,Hydesville,KindergartenData,20.0
+Humboldt,Loleta,KindergartenData,10.0
+Humboldt,McKinleyville,7thGradeData,839.0
+Humboldt,McKinleyville,KindergartenData,108.0
+Humboldt,Miranda,7thGradeData,188.0
+Humboldt,Orleans,7thGradeData,8.0
+Humboldt,Petrolia,7thGradeData,95.0
+Humboldt,Petrolia,KindergartenData,23.0
+Humboldt,Redway,7thGradeData,39.0
+Humboldt,Redway,KindergartenData,37.0
+Humboldt,Rio Dell,7thGradeData,58.0
+Humboldt,Rio Dell,KindergartenData,41.0
+Humboldt,Scotia,7thGradeData,54.0
+Humboldt,Scotia,KindergartenData,27.0
+Humboldt,Trinidad,7thGradeData,15.0
+Humboldt,Trinidad,KindergartenData,8.0
+Humboldt,Whitethorn,KindergartenData,5.0
+Humboldt,Willow Creek,7thGradeData,55.0
+Humboldt,Willow Creek,KindergartenData,22.0
+Imperial,Brawley,7thGradeData,2622.0
+Imperial,Brawley,KindergartenData,431.0
+Imperial,Calexico,7thGradeData,5094.0
+Imperial,Calexico,KindergartenData,644.0
+Imperial,Calipatria,7thGradeData,527.0
+Imperial,Calipatria,KindergartenData,78.0
+Imperial,El Centro,7thGradeData,5986.0
+Imperial,El Centro,KindergartenData,842.0
+Imperial,Heber,7thGradeData,255.0
+Imperial,Herber,KindergartenData,106.0
+Imperial,Holtville,7thGradeData,796.0
+Imperial,Holtville,KindergartenData,104.0
+Imperial,Imperial,7thGradeData,1688.0
+Imperial,Imperial,KindergartenData,265.0
+Imperial,Niland,KindergartenData,23.0
+Imperial,Seeley,7thGradeData,85.0
+Imperial,Seeley,KindergartenData,45.0
+Imperial,Westmorland,7thGradeData,85.0
+Imperial,Westmorland,KindergartenData,51.0
+Imperial,Winterhaven,7thGradeData,282.0
+Imperial,Winterhaven,KindergartenData,61.0
+Inyo,Big Pine,7thGradeData,95.0
+Inyo,Big Pine,KindergartenData,20.0
+Inyo,Bishop,7thGradeData,982.0
+Inyo,Bishop,KindergartenData,164.0
+Inyo,Lone Pine,7thGradeData,221.0
+Inyo,Lone Pine,KindergartenData,38.0
+Inyo,Los Angeles,7thGradeData,401.0
+Kern,Arvin,7thGradeData,3182.0
+Kern,Arvin,KindergartenData,454.0
+Kern,Bakersfield,7thGradeData,52798.0
+Kern,Bakersfield,KindergartenData,9495.0
+Kern,Boron,7thGradeData,255.0
+Kern,Boron,KindergartenData,40.0
+Kern,Buttonwillow,7thGradeData,66.0
+Kern,Buttonwillow,KindergartenData,53.0
+Kern,California City,7thGradeData,776.0
+Kern,California City,KindergartenData,133.0
+Kern,Delano,7thGradeData,6232.0
+Kern,Delano,KindergartenData,777.0
+Kern,Edwards AFB,7thGradeData,629.0
+Kern,Edwards AFB,KindergartenData,128.0
+Kern,Fellows,7thGradeData,11.0
+Kern,Inyokern,KindergartenData,17.0
+Kern,Kernville,KindergartenData,32.0
+Kern,Lake Isabella,7thGradeData,685.0
+Kern,Lake Isabella,KindergartenData,68.0
+Kern,Lamont,7thGradeData,635.0
+Kern,Lamont,KindergartenData,354.0
+Kern,Lebec,7thGradeData,425.0
+Kern,Lebec,KindergartenData,55.0
+Kern,Lost Hills,7thGradeData,105.0
+Kern,Lost Hills,KindergartenData,79.0
+Kern,Maricopa,7thGradeData,116.0
+Kern,Maricopa,KindergartenData,19.0
+Kern,McFarland,7thGradeData,1287.0
+Kern,McFarland,KindergartenData,287.0
+Kern,McKittrick,7thGradeData,9.0
+Kern,Mojave,7thGradeData,338.0
+Kern,Mojave,KindergartenData,64.0
+Kern,Pine Mountain Club,KindergartenData,12.0
+Kern,Ridgecrest,7thGradeData,2387.0
+Kern,Ridgecrest,KindergartenData,354.0
+Kern,Rosamond,7thGradeData,1338.0
+Kern,Rosamond,KindergartenData,253.0
+Kern,Shafter,7thGradeData,2278.0
+Kern,Shafter,KindergartenData,442.0
+Kern,Simi Valley,7thGradeData,197.0
+Kern,Simi Valley,KindergartenData,17.0
+Kern,Taft,7thGradeData,1500.0
+Kern,Taft,KindergartenData,263.0
+Kern,Tehachapi,7thGradeData,2005.0
+Kern,Tehachapi,KindergartenData,321.0
+Kern,Tupman,7thGradeData,23.0
+Kern,Tupman,KindergartenData,23.0
+Kern,Wasco,7thGradeData,2515.0
+Kern,Wasco,KindergartenData,474.0
+Kern,Weldon,7thGradeData,61.0
+Kern,Weldon,KindergartenData,20.0
+Kings,Armona,7thGradeData,245.0
+Kings,Armona,KindergartenData,94.0
+Kings,Avenal,7thGradeData,992.0
+Kings,Avenal,KindergartenData,211.0
+Kings,Corcoran,7thGradeData,1407.0
+Kings,Corcoran,KindergartenData,263.0
+Kings,El Segundo,7thGradeData,34.0
+Kings,Hanford,7thGradeData,6019.0
+Kings,Hanford,KindergartenData,1097.0
+Kings,Kettleman City,7thGradeData,56.0
+Kings,Kettleman City,KindergartenData,36.0
+Kings,Lemoore,7thGradeData,3323.0
+Kings,Lemoore,KindergartenData,611.0
+Kings,Lemoore Station,7thGradeData,189.0
+Kings,Lemoore Station,KindergartenData,84.0
+Kings,Simi Valley,7thGradeData,234.0
+Kings,Simi Valley,KindergartenData,31.0
+Kings,Stratford,7thGradeData,63.0
+Kings,Stratford,KindergartenData,38.0
+Kings,Vista,7thGradeData,48.0
+Lake,Clearlake,7thGradeData,244.0
+Lake,Clearlake,KindergartenData,158.0
+Lake,Clearlake Oaks,7thGradeData,48.0
+Lake,Clearlake Oaks,KindergartenData,31.0
+Lake,Cobb,KindergartenData,17.0
+Lake,Kelseyville,7thGradeData,782.0
+Lake,Kelseyville,KindergartenData,113.0
+Lake,Lakeport,7thGradeData,662.0
+Lake,Lakeport,KindergartenData,121.0
+Lake,Lower Lake,7thGradeData,964.0
+Lake,Lower Lake,KindergartenData,67.0
+Lake,Lucerne,7thGradeData,46.0
+Lake,Lucerne,KindergartenData,19.0
+Lake,Middletown,7thGradeData,717.0
+Lake,Middletown,KindergartenData,67.0
+Lake,Upper Lake,7thGradeData,421.0
+Lake,Upper Lake,KindergartenData,45.0
+Lassen,Alturas,7thGradeData,40.0
+Lassen,Alturas,KindergartenData,8.0
+Lassen,Bieber,7thGradeData,99.0
+Lassen,Bieber,KindergartenData,13.0
+Lassen,Doyle,7thGradeData,287.0
+Lassen,Doyle,KindergartenData,34.0
+Lassen,Herlong,7thGradeData,84.0
+Lassen,Herlong,KindergartenData,12.0
+Lassen,Janesville,7thGradeData,81.0
+Lassen,Janesville,KindergartenData,25.0
+Lassen,Litchfield,7thGradeData,48.0
+Lassen,Litchfield,KindergartenData,22.0
+Lassen,Susanville,7thGradeData,1309.0
+Lassen,Susanville,KindergartenData,157.0
+Lassen,Termo,7thGradeData,10.0
+Lassen,Westwood,7thGradeData,255.0
+Lassen,Westwood,KindergartenData,17.0
+Los Angeles,Acton,7thGradeData,579.0
+Los Angeles,Acton,KindergartenData,57.0
+Los Angeles,Agoura Hills,7thGradeData,2764.0
+Los Angeles,Agoura Hills,KindergartenData,251.0
+Los Angeles,Agua Dulce,KindergartenData,32.0
+Los Angeles,Alhambra,7thGradeData,7731.0
+Los Angeles,Alhambra,KindergartenData,822.0
+Los Angeles,Altadena,7thGradeData,649.0
+Los Angeles,Altadena,KindergartenData,410.0
+Los Angeles,Arcadia,7thGradeData,5983.0
+Los Angeles,Arcadia,KindergartenData,674.0
+Los Angeles,Artesia,7thGradeData,686.0
+Los Angeles,Artesia,KindergartenData,389.0
+Los Angeles,Avalon,7thGradeData,307.0
+Los Angeles,Avalon,KindergartenData,56.0
+Los Angeles,Azusa,7thGradeData,2966.0
+Los Angeles,Azusa,KindergartenData,779.0
+Los Angeles,Baldwin Park,7thGradeData,7113.0
+Los Angeles,Baldwin Park,KindergartenData,1255.0
+Los Angeles,Bell,7thGradeData,4646.0
+Los Angeles,Bell,KindergartenData,658.0
+Los Angeles,Bell Gardens,7thGradeData,4553.0
+Los Angeles,Bell Gardens,KindergartenData,722.0
+Los Angeles,Bellflower,7thGradeData,4052.0
+Los Angeles,Bellflower,KindergartenData,722.0
+Los Angeles,Beverly Hills,7thGradeData,2705.0
+Los Angeles,Beverly Hills,KindergartenData,219.0
+Los Angeles,Burbank,7thGradeData,9928.0
+Los Angeles,Burbank,KindergartenData,1085.0
+Los Angeles,Calabasas,7thGradeData,3724.0
+Los Angeles,Calabasas,KindergartenData,407.0
+Los Angeles,Carson,7thGradeData,6962.0
+Los Angeles,Carson,KindergartenData,866.0
+Los Angeles,Castaic,7thGradeData,713.0
+Los Angeles,Castaic,KindergartenData,329.0
+Los Angeles,Cerritos,7thGradeData,8279.0
+Los Angeles,Cerritos,KindergartenData,683.0
+Los Angeles,Claremont,7thGradeData,3753.0
+Los Angeles,Claremont,KindergartenData,532.0
+Los Angeles,Commerce,7thGradeData,451.0
+Los Angeles,Commerce,KindergartenData,171.0
+Los Angeles,Compton,7thGradeData,10185.0
+Los Angeles,Compton,KindergartenData,2137.0
+Los Angeles,Covina,7thGradeData,9448.0
+Los Angeles,Covina,KindergartenData,1005.0
+Los Angeles,Cudahy,7thGradeData,1512.0
+Los Angeles,Cudahy,KindergartenData,341.0
+Los Angeles,Culver City,7thGradeData,4426.0
+Los Angeles,Culver City,KindergartenData,738.0
+Los Angeles,Diamond Bar,7thGradeData,4758.0
+Los Angeles,Diamond Bar,KindergartenData,546.0
+Los Angeles,Downey,7thGradeData,12929.0
+Los Angeles,Downey,KindergartenData,1491.0
+Los Angeles,Duarte,7thGradeData,1847.0
+Los Angeles,Duarte,KindergartenData,307.0
+Los Angeles,El Monte,7thGradeData,9748.0
+Los Angeles,El Monte,KindergartenData,1973.0
+Los Angeles,El Segundo,7thGradeData,2035.0
+Los Angeles,El Segundo,KindergartenData,258.0
+Los Angeles,Gardena,7thGradeData,4051.0
+Los Angeles,Gardena,KindergartenData,822.0
+Los Angeles,Glendale,7thGradeData,8470.0
+Los Angeles,Glendale,KindergartenData,1546.0
+Los Angeles,Glendora,7thGradeData,4870.0
+Los Angeles,Glendora,KindergartenData,746.0
+Los Angeles,Gorman,7thGradeData,12.0
+Los Angeles,Gorman,KindergartenData,51.0
+Los Angeles,Hacienda Heights,7thGradeData,5447.0
+Los Angeles,Hacienda Heights,KindergartenData,643.0
+Los Angeles,Hawaiian Gardens,7thGradeData,446.0
+Los Angeles,Hawaiian Gardens,KindergartenData,148.0
+Los Angeles,Hawthorne,7thGradeData,6456.0
+Los Angeles,Hawthorne,KindergartenData,1480.0
+Los Angeles,Hermosa Beach,7thGradeData,290.0
+Los Angeles,Hermosa Beach,KindergartenData,144.0
+Los Angeles,Huntington Park,7thGradeData,8463.0
+Los Angeles,Huntington Park,KindergartenData,1170.0
+Los Angeles,Industry,7thGradeData,1722.0
+Los Angeles,Inglewood,7thGradeData,7326.0
+Los Angeles,Inglewood,KindergartenData,1161.0
+Los Angeles,Irwindale,7thGradeData,3984.0
+Los Angeles,La Canada Flintridge,7thGradeData,3850.0
+Los Angeles,La Canada Flintridge,KindergartenData,352.0
+Los Angeles,La Crescenta-Montrose,7thGradeData,5429.0
+Los Angeles,La Crescenta-Montrose,KindergartenData,423.0
+Los Angeles,La Habra,KindergartenData,217.0
+Los Angeles,La Mirada,7thGradeData,3713.0
+Los Angeles,La Mirada,KindergartenData,518.0
+Los Angeles,La Puente,7thGradeData,7965.0
+Los Angeles,La Puente,KindergartenData,1697.0
+Los Angeles,La Verne,7thGradeData,4242.0
+Los Angeles,La Verne,KindergartenData,365.0
+Los Angeles,Lake Hughes,7thGradeData,210.0
+Los Angeles,Lake Hughes,KindergartenData,23.0
+Los Angeles,Lakewood,7thGradeData,10743.0
+Los Angeles,Lakewood,KindergartenData,1238.0
+Los Angeles,Lancaster,7thGradeData,13445.0
+Los Angeles,Lancaster,KindergartenData,2538.0
+Los Angeles,Lawndale,7thGradeData,6291.0
+Los Angeles,Lawndale,KindergartenData,522.0
+Los Angeles,Lennox,7thGradeData,1705.0
+Los Angeles,Lennox,KindergartenData,611.0
+Los Angeles,Leona Valley,7thGradeData,26.0
+Los Angeles,Leona Valley,KindergartenData,18.0
+Los Angeles,Littlerock,7thGradeData,1952.0
+Los Angeles,Littlerock,KindergartenData,82.0
+Los Angeles,Lomita,7thGradeData,1277.0
+Los Angeles,Lomita,KindergartenData,252.0
+Los Angeles,Long  Beach,7thGradeData,943.0
+Los Angeles,Long Beach,7thGradeData,32381.0
+Los Angeles,Long Beach,KindergartenData,6077.0
+Los Angeles,Los Angeles,7thGradeData,276736.0
+Los Angeles,Los Angeles,KindergartenData,43549.0
+Los Angeles,Lynwood,7thGradeData,6242.0
+Los Angeles,Lynwood,KindergartenData,1233.0
+Los Angeles,Malibu,7thGradeData,1168.0
+Los Angeles,Malibu,KindergartenData,107.0
+Los Angeles,Manhattan Beach,7thGradeData,3385.0
+Los Angeles,Manhattan Beach,KindergartenData,674.0
+Los Angeles,Marina del Rey,7thGradeData,178.0
+Los Angeles,Maywood,7thGradeData,1311.0
+Los Angeles,Maywood,KindergartenData,434.0
+Los Angeles,Mission Hills,7thGradeData,1632.0
+Los Angeles,Mission Hills,KindergartenData,106.0
+Los Angeles,Monrovia,7thGradeData,2744.0
+Los Angeles,Monrovia,KindergartenData,440.0
+Los Angeles,Montebello,7thGradeData,10349.0
+Los Angeles,Montebello,KindergartenData,783.0
+Los Angeles,Monterey Park,7thGradeData,2051.0
+Los Angeles,Monterey Park,KindergartenData,626.0
+Los Angeles,North Hollywood,KindergartenData,1559.0
+Los Angeles,Norwalk,7thGradeData,6275.0
+Los Angeles,Norwalk,KindergartenData,1377.0
+Los Angeles,Palmdale,7thGradeData,16872.0
+Los Angeles,Palmdale,KindergartenData,2674.0
+Los Angeles,Palos Verdes Estates,7thGradeData,2726.0
+Los Angeles,Palos Verdes Estates,KindergartenData,164.0
+Los Angeles,Paramount,7thGradeData,7138.0
+Los Angeles,Paramount,KindergartenData,970.0
+Los Angeles,Pasadena,7thGradeData,11608.0
+Los Angeles,Pasadena,KindergartenData,1691.0
+Los Angeles,Pearblossom,7thGradeData,51.0
+Los Angeles,Pearblossom,KindergartenData,30.0
+Los Angeles,Pico Rivera,7thGradeData,4910.0
+Los Angeles,Pico Rivera,KindergartenData,745.0
+Los Angeles,Pomona,7thGradeData,12667.0
+Los Angeles,Pomona,KindergartenData,2049.0
+Los Angeles,Quartz Hill,7thGradeData,3906.0
+Los Angeles,Quartz Hill,KindergartenData,141.0
+Los Angeles,Rancho Palos Verdes,7thGradeData,2471.0
+Los Angeles,Rancho Palos Verdes,KindergartenData,499.0
+Los Angeles,Redlands,7thGradeData,601.0
+Los Angeles,Redondo Beach,7thGradeData,4119.0
+Los Angeles,Redondo Beach,KindergartenData,830.0
+Los Angeles,Rolling Hills,7thGradeData,63.0
+Los Angeles,Rolling Hills Estates,7thGradeData,2485.0
+Los Angeles,Rolling Hills Estates,KindergartenData,194.0
+Los Angeles,Rosemead,7thGradeData,4189.0
+Los Angeles,Rosemead,KindergartenData,596.0
+Los Angeles,Rowland Heights,7thGradeData,3631.0
+Los Angeles,Rowland Heights,KindergartenData,469.0
+Los Angeles,San Dimas,7thGradeData,2241.0
+Los Angeles,San Dimas,KindergartenData,352.0
+Los Angeles,San Fernando,7thGradeData,5345.0
+Los Angeles,San Fernando,KindergartenData,708.0
+Los Angeles,San Gabriel,7thGradeData,7179.0
+Los Angeles,San Gabriel,KindergartenData,618.0
+Los Angeles,San Marino,7thGradeData,1788.0
+Los Angeles,San Marino,KindergartenData,151.0
+Los Angeles,Santa Clarita,7thGradeData,22909.0
+Los Angeles,Santa Clarita,KindergartenData,2791.0
+Los Angeles,Santa Fe Springs,7thGradeData,3759.0
+Los Angeles,Santa Fe Springs,KindergartenData,278.0
+Los Angeles,Santa Monica,7thGradeData,5509.0
+Los Angeles,Santa Monica,KindergartenData,910.0
+Los Angeles,Sierra Madre,7thGradeData,524.0
+Los Angeles,Sierra Madre,KindergartenData,140.0
+Los Angeles,Signal Hill,KindergartenData,61.0
+Los Angeles,Simi Valley,7thGradeData,1533.0
+Los Angeles,Simi Valley,KindergartenData,129.0
+Los Angeles,South El Monte,7thGradeData,1831.0
+Los Angeles,South El Monte,KindergartenData,158.0
+Los Angeles,South Gate,7thGradeData,10035.0
+Los Angeles,South Gate,KindergartenData,1259.0
+Los Angeles,South Pasadena,7thGradeData,2428.0
+Los Angeles,South Pasadena,KindergartenData,366.0
+Los Angeles,South San Gabriel,KindergartenData,93.0
+Los Angeles,Stevenson Ranch,7thGradeData,946.0
+Los Angeles,Stevenson Ranch,KindergartenData,198.0
+Los Angeles,Temple City,7thGradeData,3047.0
+Los Angeles,Temple City,KindergartenData,330.0
+Los Angeles,Thousand Oaks,KindergartenData,11.0
+Los Angeles,Topanga,KindergartenData,45.0
+Los Angeles,Torrance,7thGradeData,15981.0
+Los Angeles,Torrance,KindergartenData,1923.0
+Los Angeles,Valinda,7thGradeData,516.0
+Los Angeles,Valinda,KindergartenData,98.0
+Los Angeles,Walnut,7thGradeData,5232.0
+Los Angeles,Walnut,KindergartenData,571.0
+Los Angeles,Walnut Park,KindergartenData,49.0
+Los Angeles,West Covina,7thGradeData,8875.0
+Los Angeles,West Covina,KindergartenData,1250.0
+Los Angeles,West Hollywood,7thGradeData,154.0
+Los Angeles,West Hollywood,KindergartenData,144.0
+Los Angeles,West Whittier-Los Nietos,7thGradeData,414.0
+Los Angeles,Westlake Village,7thGradeData,1257.0
+Los Angeles,Westlake Village,KindergartenData,108.0
+Los Angeles,Whittier,7thGradeData,15788.0
+Los Angeles,Whittier,KindergartenData,2517.0
+Madera,Ahwahnee,7thGradeData,81.0
+Madera,Ahwahnee,KindergartenData,20.0
+Madera,Chowchilla,7thGradeData,1540.0
+Madera,Chowchilla,KindergartenData,276.0
+Madera,Coarsegold,7thGradeData,237.0
+Madera,Coarsegold,KindergartenData,90.0
+Madera,Madera,7thGradeData,9725.0
+Madera,Madera,KindergartenData,1920.0
+Madera,North Fork,7thGradeData,49.0
+Madera,North Fork,KindergartenData,30.0
+Madera,O'Neals,7thGradeData,306.0
+Madera,O'Neals,KindergartenData,24.0
+Madera,Oakhurst,7thGradeData,1014.0
+Madera,Oakhurst,KindergartenData,69.0
+Madera,Raymond,7thGradeData,10.0
+Marin,Bodega Bay,KindergartenData,9.0
+Marin,Bolinas,7thGradeData,20.0
+Marin,Bolinas,KindergartenData,10.0
+Marin,Corte Madera,7thGradeData,163.0
+Marin,Corte Madera,KindergartenData,205.0
+Marin,Fairfax,7thGradeData,434.0
+Marin,Fairfax,KindergartenData,64.0
+Marin,Inverness,KindergartenData,7.0
+Marin,Kentfield,7thGradeData,955.0
+Marin,Kentfield,KindergartenData,135.0
+Marin,Larkspur,7thGradeData,1971.0
+Marin,Larkspur,KindergartenData,39.0
+Marin,Marin City,7thGradeData,23.0
+Marin,Mill Valley,7thGradeData,1860.0
+Marin,Mill Valley,KindergartenData,369.0
+Marin,Novato,7thGradeData,3639.0
+Marin,Novato,KindergartenData,674.0
+Marin,Point Reyes Station,7thGradeData,36.0
+Marin,Ross,7thGradeData,86.0
+Marin,Ross,KindergartenData,36.0
+Marin,San Anselmo,7thGradeData,1497.0
+Marin,San Anselmo,KindergartenData,230.0
+Marin,San Geronimo,7thGradeData,38.0
+Marin,San Geronimo,KindergartenData,10.0
+Marin,San Rafael,7thGradeData,3871.0
+Marin,San Rafael,KindergartenData,691.0
+Marin,Sausalito,7thGradeData,113.0
+Marin,Sausalito,KindergartenData,59.0
+Marin,Tiburon,7thGradeData,324.0
+Marin,Tiburon,KindergartenData,186.0
+Marin,Tomales,7thGradeData,225.0
+Marin,Tomales,KindergartenData,14.0
+Mariposa,La Grange,7thGradeData,38.0
+Mariposa,La Grange,KindergartenData,18.0
+Mariposa,Mariposa,7thGradeData,787.0
+Mariposa,Mariposa,KindergartenData,113.0
+Mendocino,Boonville,7thGradeData,265.0
+Mendocino,Boonville,KindergartenData,40.0
+Mendocino,Calpella,7thGradeData,5.0
+Mendocino,Calpella,KindergartenData,17.0
+Mendocino,Covelo,7thGradeData,151.0
+Mendocino,Covelo,KindergartenData,29.0
+Mendocino,Fort Bragg,7thGradeData,754.0
+Mendocino,Fort Bragg,KindergartenData,124.0
+Mendocino,Laytonville,7thGradeData,166.0
+Mendocino,Laytonville,KindergartenData,16.0
+Mendocino,Leggett,KindergartenData,7.0
+Mendocino,Mendocino,7thGradeData,187.0
+Mendocino,Mendocino,KindergartenData,16.0
+Mendocino,Point Arena,7thGradeData,200.0
+Mendocino,Point Arena,KindergartenData,35.0
+Mendocino,Potter Valley,7thGradeData,123.0
+Mendocino,Potter Valley,KindergartenData,17.0
+Mendocino,Redwood Valley,7thGradeData,230.0
+Mendocino,Talmage,KindergartenData,10.0
+Mendocino,Ukiah,7thGradeData,2830.0
+Mendocino,Ukiah,KindergartenData,483.0
+Mendocino,Willits,7thGradeData,756.0
+Mendocino,Willits,KindergartenData,96.0
+Merced,Atwater,7thGradeData,4696.0
+Merced,Atwater,KindergartenData,544.0
+Merced,Ballico,7thGradeData,70.0
+Merced,Cressey,KindergartenData,45.0
+Merced,Delhi,7thGradeData,1176.0
+Merced,Delhi,KindergartenData,205.0
+Merced,Dos Palos,7thGradeData,1117.0
+Merced,Dos Palos,KindergartenData,213.0
+Merced,El Nido,7thGradeData,32.0
+Merced,El Nido,KindergartenData,21.0
+Merced,Gustine,7thGradeData,767.0
+Merced,Gustine,KindergartenData,100.0
+Merced,Hilmar,7thGradeData,1038.0
+Merced,Hilmar,KindergartenData,115.0
+Merced,Le Grand,7thGradeData,558.0
+Merced,Le Grand,KindergartenData,39.0
+Merced,Livingston,7thGradeData,1681.0
+Merced,Livingston,KindergartenData,294.0
+Merced,Los Banos,7thGradeData,4385.0
+Merced,Los Banos,KindergartenData,823.0
+Merced,Merced,7thGradeData,9512.0
+Merced,Merced,KindergartenData,1763.0
+Merced,Planada,7thGradeData,216.0
+Merced,Planada,KindergartenData,96.0
+Merced,Santa Nella,KindergartenData,38.0
+Merced,Snelling,7thGradeData,30.0
+Merced,Snelling,KindergartenData,30.0
+Merced,South Dos Palos,7thGradeData,56.0
+Merced,Stevinson,KindergartenData,22.0
+Merced,Winton,7thGradeData,423.0
+Merced,Winton,KindergartenData,257.0
+Modoc,Alturas,7thGradeData,357.0
+Modoc,Alturas,KindergartenData,51.0
+Modoc,Cedarville,7thGradeData,45.0
+Modoc,Cedarville,KindergartenData,6.0
+Modoc,Tulelake,7thGradeData,230.0
+Modoc,Tulelake,KindergartenData,42.0
+Mono,Bridgeport,7thGradeData,10.0
+Mono,Coleville,7thGradeData,97.0
+Mono,Coleville,KindergartenData,17.0
+Mono,Lee Vining,7thGradeData,40.0
+Mono,Mammoth Lakes,7thGradeData,464.0
+Mono,Mammoth Lakes,KindergartenData,111.0
+Monterey,Big Sur,KindergartenData,17.0
+Monterey,Bradley,7thGradeData,11.0
+Monterey,Carmel Valley Village,7thGradeData,1267.0
+Monterey,Carmel Valley Village,KindergartenData,187.0
+Monterey,Castroville,7thGradeData,1906.0
+Monterey,Castroville,KindergartenData,193.0
+Monterey,Chualar,7thGradeData,63.0
+Monterey,Chualar,KindergartenData,37.0
+Monterey,Gonzales,7thGradeData,1111.0
+Monterey,Gonzales,KindergartenData,189.0
+Monterey,Greenfield,7thGradeData,1363.0
+Monterey,Greenfield,KindergartenData,408.0
+Monterey,King City,7thGradeData,1523.0
+Monterey,King City,KindergartenData,335.0
+Monterey,Lockwood,7thGradeData,43.0
+Monterey,Lockwood,KindergartenData,9.0
+Monterey,Marina,7thGradeData,1185.0
+Monterey,Marina,KindergartenData,224.0
+Monterey,Monterey,7thGradeData,2322.0
+Monterey,Monterey,KindergartenData,266.0
+Monterey,Pacific Grove,7thGradeData,857.0
+Monterey,Pacific Grove,KindergartenData,181.0
+Monterey,Pebble Beach,7thGradeData,498.0
+Monterey,Salinas,7thGradeData,15963.0
+Monterey,Salinas,KindergartenData,3455.0
+Monterey,San Ardo,7thGradeData,10.0
+Monterey,San Ardo,KindergartenData,13.0
+Monterey,San Lucas,7thGradeData,10.0
+Monterey,Seaside,7thGradeData,1771.0
+Monterey,Seaside,KindergartenData,493.0
+Monterey,Soledad,7thGradeData,2036.0
+Monterey,Soledad,KindergartenData,378.0
+Monterey,Spreckels,KindergartenData,95.0
+Napa,American Canyon,7thGradeData,1666.0
+Napa,American Canyon,KindergartenData,245.0
+Napa,Angwin,7thGradeData,94.0
+Napa,Angwin,KindergartenData,23.0
+Napa,Calistoga,7thGradeData,359.0
+Napa,Calistoga,KindergartenData,75.0
+Napa,Napa,7thGradeData,7739.0
+Napa,Napa,KindergartenData,1205.0
+Napa,Pope Valley,7thGradeData,11.0
+Napa,St. Helena,7thGradeData,748.0
+Napa,St. Helena,KindergartenData,86.0
+Napa,Yountville,KindergartenData,25.0
+Nevada,Auburn,7thGradeData,240.0
+Nevada,Auburn,KindergartenData,11.0
+Nevada,Chicago Park,KindergartenData,14.0
+Nevada,Grass Valley,7thGradeData,4190.0
+Nevada,Grass Valley,KindergartenData,324.0
+Nevada,Nevada City,7thGradeData,608.0
+Nevada,Nevada City,KindergartenData,122.0
+Nevada,Norden,7thGradeData,15.0
+Nevada,North San Juan,KindergartenData,3.0
+Nevada,Penn Valley,7thGradeData,207.0
+Nevada,Penn Valley,KindergartenData,66.0
+Nevada,Sacramento,7thGradeData,262.0
+Orange,Aliso Viejo,7thGradeData,5343.0
+Orange,Aliso Viejo,KindergartenData,563.0
+Orange,Anaheim,7thGradeData,31545.0
+Orange,Anaheim,KindergartenData,5031.0
+Orange,Brea,7thGradeData,3014.0
+Orange,Brea,KindergartenData,479.0
+Orange,Buena Park,7thGradeData,3422.0
+Orange,Buena Park,KindergartenData,981.0
+Orange,Costa Mesa,7thGradeData,9025.0
+Orange,Costa Mesa,KindergartenData,1381.0
+Orange,Cypress,7thGradeData,5085.0
+Orange,Cypress,KindergartenData,584.0
+Orange,Dana Point,7thGradeData,2909.0
+Orange,Dana Point,KindergartenData,229.0
+Orange,El Toro,KindergartenData,218.0
+Orange,Fountain Valley,7thGradeData,7528.0
+Orange,Fountain Valley,KindergartenData,648.0
+Orange,Fullerton,7thGradeData,12020.0
+Orange,Fullerton,KindergartenData,1618.0
+Orange,Garden Grove,7thGradeData,17329.0
+Orange,Garden Grove,KindergartenData,2908.0
+Orange,Huntington  Beach,7thGradeData,132.0
+Orange,Huntington Beach,7thGradeData,14660.0
+Orange,Huntington Beach,KindergartenData,2229.0
+Orange,Irvine,7thGradeData,16232.0
+Orange,Irvine,KindergartenData,2310.0
+Orange,La Habra,7thGradeData,6126.0
+Orange,La Habra,KindergartenData,586.0
+Orange,La Palma,7thGradeData,3480.0
+Orange,La Palma,KindergartenData,231.0
+Orange,Ladera Ranch,7thGradeData,853.0
+Orange,Ladera Ranch,KindergartenData,430.0
+Orange,Laguna Beach,7thGradeData,1376.0
+Orange,Laguna Beach,KindergartenData,324.0
+Orange,Laguna Hills,7thGradeData,1753.0
+Orange,Laguna Hills,KindergartenData,221.0
+Orange,Laguna Niguel,7thGradeData,1036.0
+Orange,Laguna Niguel,KindergartenData,690.0
+Orange,Lake Forest,7thGradeData,4102.0
+Orange,Lake Forest,KindergartenData,577.0
+Orange,Las Flores (Orange County),7thGradeData,3011.0
+Orange,Los Alamitos,7thGradeData,4810.0
+Orange,Los Alamitos,KindergartenData,682.0
+Orange,Midway City,KindergartenData,336.0
+Orange,Mission Viejo,7thGradeData,11848.0
+Orange,Mission Viejo,KindergartenData,1009.0
+Orange,Newport Beach,7thGradeData,5944.0
+Orange,Newport Beach,KindergartenData,657.0
+Orange,Newport Coast,7thGradeData,438.0
+Orange,Orange,7thGradeData,8924.0
+Orange,Orange,KindergartenData,1393.0
+Orange,Placentia,7thGradeData,6948.0
+Orange,Placentia,KindergartenData,730.0
+Orange,Rancho Santa Margarita,7thGradeData,3829.0
+Orange,Rancho Santa Margarita,KindergartenData,683.0
+Orange,San Clemente,7thGradeData,4114.0
+Orange,San Clemente,KindergartenData,585.0
+Orange,San Juan Capistrano,7thGradeData,5006.0
+Orange,San Juan Capistrano,KindergartenData,453.0
+Orange,Santa Ana,7thGradeData,31650.0
+Orange,Santa Ana,KindergartenData,5942.0
+Orange,Seal Beach,KindergartenData,151.0
+Orange,Silverado,7thGradeData,52.0
+Orange,Stanton,7thGradeData,28.0
+Orange,Stanton,KindergartenData,170.0
+Orange,Trabuco Canyon,KindergartenData,271.0
+Orange,Tustin,7thGradeData,4731.0
+Orange,Tustin,KindergartenData,1111.0
+Orange,Villa Park,7thGradeData,3473.0
+Orange,Villa Park,KindergartenData,137.0
+Orange,Westminster,7thGradeData,7017.0
+Orange,Westminster,KindergartenData,931.0
+Orange,Yorba Linda,7thGradeData,4163.0
+Orange,Yorba Linda,KindergartenData,873.0
+Placer,Alta,7thGradeData,25.0
+Placer,Antelope,7thGradeData,2245.0
+Placer,Antelope,KindergartenData,264.0
+Placer,Auburn,7thGradeData,2417.0
+Placer,Auburn,KindergartenData,322.0
+Placer,Colfax,7thGradeData,924.0
+Placer,Colfax,KindergartenData,46.0
+Placer,Foresthill,7thGradeData,318.0
+Placer,Foresthill,KindergartenData,38.0
+Placer,Granite Bay,7thGradeData,2443.0
+Placer,Granite Bay,KindergartenData,175.0
+Placer,Kings Beach,KindergartenData,54.0
+Placer,Lincoln,7thGradeData,3475.0
+Placer,Lincoln,KindergartenData,617.0
+Placer,Loomis,7thGradeData,2091.0
+Placer,Loomis,KindergartenData,210.0
+Placer,Meadow Vista,7thGradeData,21.0
+Placer,Meadow Vista,KindergartenData,93.0
+Placer,Newcastle,7thGradeData,126.0
+Placer,Newcastle,KindergartenData,68.0
+Placer,Penryn,7thGradeData,48.0
+Placer,Penryn,KindergartenData,22.0
+Placer,Rocklin,7thGradeData,5695.0
+Placer,Rocklin,KindergartenData,803.0
+Placer,Roseville,7thGradeData,9780.0
+Placer,Roseville,KindergartenData,1705.0
+Placer,Sheridan,KindergartenData,13.0
+Placer,Soda Springs,KindergartenData,11.0
+Placer,Sunnyside-Tahoe City,7thGradeData,1000.0
+Placer,Sunnyside-Tahoe City,KindergartenData,66.0
+Placer,Truckee,7thGradeData,1375.0
+Placer,Truckee,KindergartenData,156.0
+Placer,Weimar,7thGradeData,223.0
+Plumas,Chester,7thGradeData,182.0
+Plumas,Chester,KindergartenData,28.0
+Plumas,Greenville,7thGradeData,95.0
+Plumas,Greenville,KindergartenData,22.0
+Plumas,Portola,7thGradeData,252.0
+Plumas,Portola,KindergartenData,58.0
+Plumas,Quincy,7thGradeData,408.0
+Plumas,Quincy,KindergartenData,59.0
+Riverside,Aguanga,7thGradeData,69.0
+Riverside,Aguanga,KindergartenData,19.0
+Riverside,Anza,7thGradeData,449.0
+Riverside,Anza,KindergartenData,50.0
+Riverside,Banning,7thGradeData,2034.0
+Riverside,Banning,KindergartenData,414.0
+Riverside,Beaumont,7thGradeData,3777.0
+Riverside,Beaumont,KindergartenData,601.0
+Riverside,Bermuda Dunes,7thGradeData,161.0
+Riverside,Bermuda Dunes,KindergartenData,101.0
+Riverside,Blythe,7thGradeData,1567.0
+Riverside,Blythe,KindergartenData,233.0
+Riverside,Cabazon,KindergartenData,40.0
+Riverside,Cathedral City,7thGradeData,4909.0
+Riverside,Cathedral City,KindergartenData,613.0
+Riverside,Cherry Valley,KindergartenData,11.0
+Riverside,Coachella,7thGradeData,1623.0
+Riverside,Coachella,KindergartenData,711.0
+Riverside,Corona,7thGradeData,21184.0
+Riverside,Corona,KindergartenData,3432.0
+Riverside,Desert Hot Springs,7thGradeData,2948.0
+Riverside,Desert Hot Springs,KindergartenData,537.0
+Riverside,Eastvale,7thGradeData,807.0
+Riverside,Hemet,7thGradeData,9666.0
+Riverside,Hemet,KindergartenData,1420.0
+Riverside,Idyllwild-Pine Cove,7thGradeData,336.0
+Riverside,Idyllwild-Pine Cove,KindergartenData,32.0
+Riverside,Indian Wells,KindergartenData,103.0
+Riverside,Indio,7thGradeData,6446.0
+Riverside,Indio,KindergartenData,1206.0
+Riverside,Jurupa Valley,7thGradeData,8619.0
+Riverside,Jurupa Valley,KindergartenData,352.0
+Riverside,La Quinta,7thGradeData,4627.0
+Riverside,La Quinta,KindergartenData,240.0
+Riverside,Lake Elsinore,7thGradeData,9254.0
+Riverside,Lake Elsinore,KindergartenData,1098.0
+Riverside,Lake Mathews,7thGradeData,0.0
+Riverside,Mecca,KindergartenData,289.0
+Riverside,Menifee,7thGradeData,4838.0
+Riverside,Menifee,KindergartenData,856.0
+Riverside,Moreno Valley,7thGradeData,21244.0
+Riverside,Moreno Valley,KindergartenData,3070.0
+Riverside,Murrieta,7thGradeData,12526.0
+Riverside,Murrieta,KindergartenData,1660.0
+Riverside,Norco,7thGradeData,3533.0
+Riverside,Norco,KindergartenData,462.0
+Riverside,Nuevo,7thGradeData,819.0
+Riverside,Nuevo,KindergartenData,212.0
+Riverside,Palm Desert,7thGradeData,3382.0
+Riverside,Palm Desert,KindergartenData,538.0
+Riverside,Palm Springs,7thGradeData,3035.0
+Riverside,Palm Springs,KindergartenData,400.0
+Riverside,Perris,7thGradeData,9489.0
+Riverside,Perris,KindergartenData,1869.0
+Riverside,Rancho Mirage,7thGradeData,167.0
+Riverside,Rancho Mirage,KindergartenData,107.0
+Riverside,Riverside,7thGradeData,33868.0
+Riverside,Riverside,KindergartenData,6061.0
+Riverside,Romoland,7thGradeData,3194.0
+Riverside,Romoland,KindergartenData,363.0
+Riverside,Salton City,7thGradeData,229.0
+Riverside,Salton City,KindergartenData,81.0
+Riverside,San Jacinto,7thGradeData,4423.0
+Riverside,San Jacinto,KindergartenData,774.0
+Riverside,Temecula,7thGradeData,14960.0
+Riverside,Temecula,KindergartenData,2007.0
+Riverside,Thermal,7thGradeData,5500.0
+Riverside,Thermal,KindergartenData,356.0
+Riverside,Thousand Palms,KindergartenData,92.0
+Riverside,Wildomar,7thGradeData,3236.0
+Riverside,Wildomar,KindergartenData,575.0
+Riverside,Winchester,7thGradeData,476.0
+Riverside,Winchester,KindergartenData,485.0
+Sacramento,Antelope,7thGradeData,1532.0
+Sacramento,Antelope,KindergartenData,341.0
+Sacramento,Carmichael,7thGradeData,6296.0
+Sacramento,Carmichael,KindergartenData,988.0
+Sacramento,Citrus Heights,7thGradeData,2766.0
+Sacramento,Citrus Heights,KindergartenData,664.0
+Sacramento,Clarksburg,7thGradeData,439.0
+Sacramento,Clarksburg,KindergartenData,49.0
+Sacramento,Courtland,7thGradeData,9.0
+Sacramento,Courtland,KindergartenData,22.0
+Sacramento,Elk Grove,7thGradeData,19584.0
+Sacramento,Elk Grove,KindergartenData,2184.0
+Sacramento,Elverta,7thGradeData,51.0
+Sacramento,Elverta,KindergartenData,25.0
+Sacramento,Fair Oaks,7thGradeData,4737.0
+Sacramento,Fair Oaks,KindergartenData,320.0
+Sacramento,Folsom,7thGradeData,5049.0
+Sacramento,Folsom,KindergartenData,905.0
+Sacramento,Galt,7thGradeData,3097.0
+Sacramento,Galt,KindergartenData,371.0
+Sacramento,Gold River,7thGradeData,122.0
+Sacramento,Gold River,KindergartenData,83.0
+Sacramento,Herald,7thGradeData,113.0
+Sacramento,Herald,KindergartenData,44.0
+Sacramento,Isleton,KindergartenData,16.0
+Sacramento,Mather,7thGradeData,225.0
+Sacramento,Mather,KindergartenData,54.0
+Sacramento,North Highlands,7thGradeData,3279.0
+Sacramento,North Highlands,KindergartenData,665.0
+Sacramento,Orangevale,7thGradeData,2979.0
+Sacramento,Orangevale,KindergartenData,389.0
+Sacramento,Rancho Cordova,7thGradeData,3136.0
+Sacramento,Rancho Cordova,KindergartenData,732.0
+Sacramento,Rio Linda,7thGradeData,2913.0
+Sacramento,Rio Linda,KindergartenData,213.0
+Sacramento,Rio Vista,7thGradeData,556.0
+Sacramento,Rio Vista,KindergartenData,62.0
+Sacramento,Roseville,7thGradeData,838.0
+Sacramento,Sacramento,7thGradeData,51240.0
+Sacramento,Sacramento,KindergartenData,9222.0
+Sacramento,Sloughhouse,KindergartenData,63.0
+Sacramento,Walnut Grove,KindergartenData,16.0
+Sacramento,Wilton,7thGradeData,9.0
+Sacramento,Wilton,KindergartenData,43.0
+San Benito,Aromas,7thGradeData,89.0
+San Benito,Aromas,KindergartenData,38.0
+San Benito,Hollister,7thGradeData,4525.0
+San Benito,Hollister,KindergartenData,796.0
+San Benito,San Juan Bautista,7thGradeData,484.0
+San Benito,San Juan Bautista,KindergartenData,46.0
+San Benito,Tres Pinos,7thGradeData,40.0
+San Bernardino,Adelanto,7thGradeData,712.0
+San Bernardino,Adelanto,KindergartenData,487.0
+San Bernardino,Apple Valley,7thGradeData,6536.0
+San Bernardino,Apple Valley,KindergartenData,1092.0
+San Bernardino,Baker,7thGradeData,172.0
+San Bernardino,Baker,KindergartenData,17.0
+San Bernardino,Barstow,7thGradeData,2455.0
+San Bernardino,Barstow,KindergartenData,501.0
+San Bernardino,Big Bear City,7thGradeData,751.0
+San Bernardino,Big Bear Lake,7thGradeData,347.0
+San Bernardino,Big Bear Lake,KindergartenData,119.0
+San Bernardino,Bloomington,7thGradeData,4745.0
+San Bernardino,Bloomington,KindergartenData,536.0
+San Bernardino,Calimesa,7thGradeData,755.0
+San Bernardino,Chino,7thGradeData,7237.0
+San Bernardino,Chino,KindergartenData,1158.0
+San Bernardino,Chino Hills,7thGradeData,7840.0
+San Bernardino,Chino Hills,KindergartenData,822.0
+San Bernardino,Colton,7thGradeData,6589.0
+San Bernardino,Colton,KindergartenData,1065.0
+San Bernardino,Crestline,7thGradeData,120.0
+San Bernardino,Crestline,KindergartenData,61.0
+San Bernardino,Daggett,7thGradeData,13.0
+San Bernardino,Fontana,7thGradeData,19617.0
+San Bernardino,Fontana,KindergartenData,3935.0
+San Bernardino,Forest Falls,KindergartenData,7.0
+San Bernardino,Fort Irwin,7thGradeData,222.0
+San Bernardino,Fort Irwin,KindergartenData,229.0
+San Bernardino,Grand Terrace,7thGradeData,912.0
+San Bernardino,Grand Terrace,KindergartenData,192.0
+San Bernardino,Helendale,7thGradeData,310.0
+San Bernardino,Helendale,KindergartenData,54.0
+San Bernardino,Hespera,KindergartenData,100.0
+San Bernardino,Hesperia,7thGradeData,9918.0
+San Bernardino,Hesperia,KindergartenData,1434.0
+San Bernardino,Highland,7thGradeData,2138.0
+San Bernardino,Highland,KindergartenData,861.0
+San Bernardino,Hinkley,7thGradeData,68.0
+San Bernardino,Hinkley,KindergartenData,32.0
+San Bernardino,Joshua Tree,KindergartenData,133.0
+San Bernardino,Lake Arrowhead,7thGradeData,1822.0
+San Bernardino,Lake Arrowhead,KindergartenData,65.0
+San Bernardino,Loma Linda,7thGradeData,678.0
+San Bernardino,Loma Linda,KindergartenData,212.0
+San Bernardino,Lucerne Valley,7thGradeData,330.0
+San Bernardino,Lucerne Valley,KindergartenData,53.0
+San Bernardino,Mentone,7thGradeData,26.0
+San Bernardino,Mentone,KindergartenData,80.0
+San Bernardino,Montclair,7thGradeData,4722.0
+San Bernardino,Montclair,KindergartenData,768.0
+San Bernardino,Morongo Valley,KindergartenData,32.0
+San Bernardino,Mt Baldy,KindergartenData,12.0
+San Bernardino,Mt. Baldy,7thGradeData,25.0
+San Bernardino,Needles,7thGradeData,365.0
+San Bernardino,Needles,KindergartenData,61.0
+San Bernardino,Newberry Springs,KindergartenData,23.0
+San Bernardino,Oak Hills,7thGradeData,2201.0
+San Bernardino,Ontario,7thGradeData,14605.0
+San Bernardino,Ontario,KindergartenData,2516.0
+San Bernardino,Oro Grande,7thGradeData,875.0
+San Bernardino,Oro Grande,KindergartenData,152.0
+San Bernardino,Phelan,7thGradeData,3398.0
+San Bernardino,Phelan,KindergartenData,287.0
+San Bernardino,Placerville,7thGradeData,150.0
+San Bernardino,Placerville,KindergartenData,78.0
+San Bernardino,Rancho Cucamonga,7thGradeData,18000.0
+San Bernardino,Rancho Cucamonga,KindergartenData,2339.0
+San Bernardino,Redlands,7thGradeData,10671.0
+San Bernardino,Redlands,KindergartenData,1036.0
+San Bernardino,Rialto,7thGradeData,11243.0
+San Bernardino,Rialto,KindergartenData,1757.0
+San Bernardino,Running Springs,KindergartenData,47.0
+San Bernardino,San Bernardino,7thGradeData,22153.0
+San Bernardino,San Bernardino,KindergartenData,4170.0
+San Bernardino,Sugarloaf,KindergartenData,72.0
+San Bernardino,Trona,7thGradeData,100.0
+San Bernardino,Trona,KindergartenData,20.0
+San Bernardino,Twentynine Palms,7thGradeData,1336.0
+San Bernardino,Twentynine Palms,KindergartenData,457.0
+San Bernardino,Twin Peaks,KindergartenData,54.0
+San Bernardino,Upland,7thGradeData,6239.0
+San Bernardino,Upland,KindergartenData,868.0
+San Bernardino,Victorville,7thGradeData,17035.0
+San Bernardino,Victorville,KindergartenData,2251.0
+San Bernardino,Wrightwood,KindergartenData,50.0
+San Bernardino,Yermo,7thGradeData,549.0
+San Bernardino,Yermo,KindergartenData,21.0
+San Bernardino,Yucaipa,7thGradeData,3820.0
+San Bernardino,Yucaipa,KindergartenData,656.0
+San Bernardino,Yucca Valley,7thGradeData,2207.0
+San Bernardino,Yucca Valley,KindergartenData,220.0
+San Diego,Alpine,7thGradeData,474.0
+San Diego,Alpine,KindergartenData,191.0
+San Diego,Bonita,KindergartenData,197.0
+San Diego,Bonsall,7thGradeData,322.0
+San Diego,Bonsall,KindergartenData,158.0
+San Diego,Borrego Springs,7thGradeData,286.0
+San Diego,Borrego Springs,KindergartenData,25.0
+San Diego,Boulevard,7thGradeData,36.0
+San Diego,Camp Pendleton North,KindergartenData,175.0
+San Diego,Campo,7thGradeData,254.0
+San Diego,Campo,KindergartenData,52.0
+San Diego,Carlsbad,7thGradeData,5509.0
+San Diego,Carlsbad,KindergartenData,1492.0
+San Diego,Chula Vista,7thGradeData,26657.0
+San Diego,Chula Vista,KindergartenData,3753.0
+San Diego,Coronado,7thGradeData,1590.0
+San Diego,Coronado,KindergartenData,211.0
+San Diego,Del Mar,KindergartenData,103.0
+San Diego,Descanso,7thGradeData,34.0
+San Diego,El Cajon,7thGradeData,12068.0
+San Diego,El Cajon,KindergartenData,2251.0
+San Diego,El Segundo,7thGradeData,143.0
+San Diego,Encinitas,7thGradeData,5755.0
+San Diego,Encinitas,KindergartenData,589.0
+San Diego,Escondido,7thGradeData,13291.0
+San Diego,Escondido,KindergartenData,2353.0
+San Diego,Fallbrook,7thGradeData,3609.0
+San Diego,Fallbrook,KindergartenData,542.0
+San Diego,Imperial Beach,7thGradeData,1597.0
+San Diego,Imperial Beach,KindergartenData,384.0
+San Diego,Jacumba,KindergartenData,13.0
+San Diego,Jamul,7thGradeData,353.0
+San Diego,Jamul,KindergartenData,71.0
+San Diego,Julian,7thGradeData,1155.0
+San Diego,Julian,KindergartenData,86.0
+San Diego,La Mesa,7thGradeData,7172.0
+San Diego,La Mesa,KindergartenData,873.0
+San Diego,Lakeside,7thGradeData,2827.0
+San Diego,Lakeside,KindergartenData,551.0
+San Diego,Lemon Grove,7thGradeData,705.0
+San Diego,Lemon Grove,KindergartenData,433.0
+San Diego,National City,7thGradeData,4843.0
+San Diego,National City,KindergartenData,853.0
+San Diego,Oceanside,7thGradeData,11715.0
+San Diego,Oceanside,KindergartenData,2499.0
+San Diego,Pala,KindergartenData,19.0
+San Diego,Pauma Valley,7thGradeData,47.0
+San Diego,Pauma Valley,KindergartenData,28.0
+San Diego,Pine Valley,7thGradeData,419.0
+San Diego,Pine Valley,KindergartenData,25.0
+San Diego,Potrero,7thGradeData,58.0
+San Diego,Potrero,KindergartenData,24.0
+San Diego,Poway,7thGradeData,4430.0
+San Diego,Poway,KindergartenData,855.0
+San Diego,Rainbow,7thGradeData,126.0
+San Diego,Ramona,7thGradeData,2872.0
+San Diego,Ramona,KindergartenData,393.0
+San Diego,Rancho Santa Fe,7thGradeData,241.0
+San Diego,Rancho Santa Fe,KindergartenData,151.0
+San Diego,San Clemente,7thGradeData,118.0
+San Diego,San Clemente,KindergartenData,149.0
+San Diego,San Diego,7thGradeData,93331.0
+San Diego,San Diego,KindergartenData,15969.0
+San Diego,San Marcos,7thGradeData,8939.0
+San Diego,San Marcos,KindergartenData,1199.0
+San Diego,Santee,7thGradeData,4518.0
+San Diego,Santee,KindergartenData,587.0
+San Diego,Simi Valley,7thGradeData,978.0
+San Diego,Simi Valley,KindergartenData,87.0
+San Diego,Solana Beach,7thGradeData,1354.0
+San Diego,Solana Beach,KindergartenData,207.0
+San Diego,Spring Valley (San Diego County),7thGradeData,6668.0
+San Diego,Spring Valley (San Diego County),KindergartenData,715.0
+San Diego,Tecate,7thGradeData,10.0
+San Diego,Valley Center,7thGradeData,1914.0
+San Diego,Valley Center,KindergartenData,273.0
+San Diego,Vista,7thGradeData,9372.0
+San Diego,Vista,KindergartenData,1491.0
+San Diego,Warner Springs,7thGradeData,74.0
+San Diego,Warner Springs,KindergartenData,16.0
+San Francisco,San Francisco,7thGradeData,35423.0
+San Francisco,San Francisco,KindergartenData,6087.0
+San Joaquin,Acampo,7thGradeData,270.0
+San Joaquin,Acampo,KindergartenData,69.0
+San Joaquin,El Segundo,7thGradeData,46.0
+San Joaquin,Escalon,7thGradeData,1361.0
+San Joaquin,Escalon,KindergartenData,157.0
+San Joaquin,Farmington,KindergartenData,12.0
+San Joaquin,French Camp,7thGradeData,135.0
+San Joaquin,French Camp,KindergartenData,88.0
+San Joaquin,Lathrop,7thGradeData,1745.0
+San Joaquin,Lathrop,KindergartenData,325.0
+San Joaquin,Linden,7thGradeData,713.0
+San Joaquin,Linden,KindergartenData,90.0
+San Joaquin,Lockeford,KindergartenData,53.0
+San Joaquin,Lodi,7thGradeData,6863.0
+San Joaquin,Lodi,KindergartenData,1126.0
+San Joaquin,Manteca,7thGradeData,6824.0
+San Joaquin,Manteca,KindergartenData,1067.0
+San Joaquin,Mountain House,7thGradeData,373.0
+San Joaquin,Mountain House,KindergartenData,202.0
+San Joaquin,Ripon,7thGradeData,1732.0
+San Joaquin,Ripon,KindergartenData,257.0
+San Joaquin,Simi Valley,7thGradeData,237.0
+San Joaquin,Simi Valley,KindergartenData,25.0
+San Joaquin,Stockton,7thGradeData,33234.0
+San Joaquin,Stockton,KindergartenData,5927.0
+San Joaquin,Thornton,7thGradeData,52.0
+San Joaquin,Thornton,KindergartenData,18.0
+San Joaquin,Tracy,7thGradeData,10478.0
+San Joaquin,Tracy,KindergartenData,1513.0
+San Joaquin,Victor,KindergartenData,31.0
+San Luis Obispo,Arroyo Grande,7thGradeData,3482.0
+San Luis Obispo,Arroyo Grande,KindergartenData,228.0
+San Luis Obispo,Atascadero,7thGradeData,2275.0
+San Luis Obispo,Atascadero,KindergartenData,276.0
+San Luis Obispo,Cambria,7thGradeData,316.0
+San Luis Obispo,Cambria,KindergartenData,52.0
+San Luis Obispo,Cayucos,7thGradeData,54.0
+San Luis Obispo,Cayucos,KindergartenData,18.0
+San Luis Obispo,Creston,KindergartenData,12.0
+San Luis Obispo,El Paso de Robles (Paso Robles),7thGradeData,3091.0
+San Luis Obispo,El Paso de Robles (Paso Robles),KindergartenData,498.0
+San Luis Obispo,Grover Beach,KindergartenData,127.0
+San Luis Obispo,Los Osos,7thGradeData,336.0
+San Luis Obispo,Los Osos,KindergartenData,103.0
+San Luis Obispo,Morro Bay,7thGradeData,793.0
+San Luis Obispo,Morro Bay,KindergartenData,59.0
+San Luis Obispo,Nipomo,7thGradeData,1037.0
+San Luis Obispo,Nipomo,KindergartenData,218.0
+San Luis Obispo,Oceano,KindergartenData,148.0
+San Luis Obispo,Pismo Beach,7thGradeData,510.0
+San Luis Obispo,Pismo Beach,KindergartenData,49.0
+San Luis Obispo,San Luis Obispo,7thGradeData,2983.0
+San Luis Obispo,San Luis Obispo,KindergartenData,426.0
+San Luis Obispo,San Miguel (San Luis Obispo County),7thGradeData,83.0
+San Luis Obispo,San Miguel (San Luis Obispo County),KindergartenData,57.0
+San Luis Obispo,Santa Margarita,KindergartenData,25.0
+San Luis Obispo,Shandon,7thGradeData,116.0
+San Luis Obispo,Shandon,KindergartenData,24.0
+San Luis Obispo,Templeton,7thGradeData,1104.0
+San Luis Obispo,Templeton,KindergartenData,162.0
+San Mateo,Atherton,7thGradeData,3560.0
+San Mateo,Atherton,KindergartenData,472.0
+San Mateo,Belmont,7thGradeData,3325.0
+San Mateo,Belmont,KindergartenData,386.0
+San Mateo,Brisbane,7thGradeData,118.0
+San Mateo,Brisbane,KindergartenData,48.0
+San Mateo,Burlingame,7thGradeData,2454.0
+San Mateo,Burlingame,KindergartenData,369.0
+San Mateo,Colma,7thGradeData,522.0
+San Mateo,Colma,KindergartenData,74.0
+San Mateo,Daly City,7thGradeData,4159.0
+San Mateo,Daly City,KindergartenData,866.0
+San Mateo,East Palo Alto,7thGradeData,1067.0
+San Mateo,East Palo Alto,KindergartenData,335.0
+San Mateo,El Granada,KindergartenData,98.0
+San Mateo,El Segundo,7thGradeData,33.0
+San Mateo,Foster City,7thGradeData,648.0
+San Mateo,Foster City,KindergartenData,439.0
+San Mateo,Half Moon Bay,7thGradeData,1478.0
+San Mateo,Half Moon Bay,KindergartenData,143.0
+San Mateo,Hillsborough,7thGradeData,674.0
+San Mateo,Hillsborough,KindergartenData,165.0
+San Mateo,La Honda,7thGradeData,11.0
+San Mateo,Menlo Park,7thGradeData,1663.0
+San Mateo,Menlo Park,KindergartenData,461.0
+San Mateo,Millbrae,7thGradeData,1953.0
+San Mateo,Millbrae,KindergartenData,289.0
+San Mateo,Montara,KindergartenData,60.0
+San Mateo,Pacifica,7thGradeData,2765.0
+San Mateo,Pacifica,KindergartenData,375.0
+San Mateo,Palo Alto,KindergartenData,5.0
+San Mateo,Pescadero,7thGradeData,146.0
+San Mateo,Pescadero,KindergartenData,16.0
+San Mateo,Portola Valley,7thGradeData,508.0
+San Mateo,Portola Valley,KindergartenData,96.0
+San Mateo,Redwood City,7thGradeData,4827.0
+San Mateo,Redwood City,KindergartenData,1168.0
+San Mateo,San Bruno,7thGradeData,1990.0
+San Mateo,San Bruno,KindergartenData,520.0
+San Mateo,San Carlos,7thGradeData,743.0
+San Mateo,San Carlos,KindergartenData,400.0
+San Mateo,San Mateo,7thGradeData,7066.0
+San Mateo,San Mateo,KindergartenData,1258.0
+San Mateo,Simi Valley,7thGradeData,500.0
+San Mateo,Simi Valley,KindergartenData,38.0
+San Mateo,South San Francisco,7thGradeData,4550.0
+San Mateo,South San Francisco,KindergartenData,578.0
+San Mateo,Woodside,7thGradeData,1847.0
+San Mateo,Woodside,KindergartenData,49.0
+Santa Barbara,Buellton,7thGradeData,137.0
+Santa Barbara,Buellton,KindergartenData,83.0
+Santa Barbara,Carpinteria,7thGradeData,1323.0
+Santa Barbara,Carpinteria,KindergartenData,186.0
+Santa Barbara,Gaviota,7thGradeData,10.0
+Santa Barbara,Gaviota,KindergartenData,15.0
+Santa Barbara,Goleta,7thGradeData,3014.0
+Santa Barbara,Goleta,KindergartenData,341.0
+Santa Barbara,Guadalupe,7thGradeData,251.0
+Santa Barbara,Guadalupe,KindergartenData,159.0
+Santa Barbara,Lompoc,7thGradeData,3764.0
+Santa Barbara,Lompoc,KindergartenData,662.0
+Santa Barbara,Los Alamos,7thGradeData,45.0
+Santa Barbara,Los Alamos,KindergartenData,20.0
+Santa Barbara,Los Olivos,7thGradeData,565.0
+Santa Barbara,Los Olivos,KindergartenData,21.0
+Santa Barbara,New Cuyama,7thGradeData,181.0
+Santa Barbara,New Cuyama,KindergartenData,25.0
+Santa Barbara,Orcutt,7thGradeData,475.0
+Santa Barbara,Orcutt,KindergartenData,234.0
+Santa Barbara,Santa Barbara,7thGradeData,7544.0
+Santa Barbara,Santa Barbara,KindergartenData,1228.0
+Santa Barbara,Santa Maria,7thGradeData,12202.0
+Santa Barbara,Santa Maria,KindergartenData,2179.0
+Santa Barbara,Santa Ynez,7thGradeData,1098.0
+Santa Barbara,Santa Ynez,KindergartenData,39.0
+Santa Barbara,Solvang,7thGradeData,141.0
+Santa Barbara,Solvang,KindergartenData,111.0
+Santa Barbara,Vandenberg AFB,7thGradeData,812.0
+Santa Barbara,Vandenberg AFB,KindergartenData,141.0
+Santa Clara,Campbell,7thGradeData,2171.0
+Santa Clara,Campbell,KindergartenData,600.0
+Santa Clara,Cupertino,7thGradeData,8926.0
+Santa Clara,Cupertino,KindergartenData,802.0
+Santa Clara,Gilroy,7thGradeData,5088.0
+Santa Clara,Gilroy,KindergartenData,990.0
+Santa Clara,Los Altos,7thGradeData,2937.0
+Santa Clara,Los Altos,KindergartenData,600.0
+Santa Clara,Los Altos Hills,7thGradeData,348.0
+Santa Clara,Los Altos Hills,KindergartenData,64.0
+Santa Clara,Los Gatos,7thGradeData,3288.0
+Santa Clara,Los Gatos,KindergartenData,641.0
+Santa Clara,Milpitas,7thGradeData,4651.0
+Santa Clara,Milpitas,KindergartenData,843.0
+Santa Clara,Morgan Hill,7thGradeData,3899.0
+Santa Clara,Morgan Hill,KindergartenData,674.0
+Santa Clara,Mountain View,7thGradeData,4781.0
+Santa Clara,Mountain View,KindergartenData,787.0
+Santa Clara,Palo Alto,7thGradeData,5949.0
+Santa Clara,Palo Alto,KindergartenData,1004.0
+Santa Clara,San Jose,7thGradeData,73726.0
+Santa Clara,San Jose,KindergartenData,13572.0
+Santa Clara,San Martin,KindergartenData,58.0
+Santa Clara,Santa Clara,7thGradeData,6233.0
+Santa Clara,Santa Clara,KindergartenData,1673.0
+Santa Clara,Saratoga,7thGradeData,3490.0
+Santa Clara,Saratoga,KindergartenData,432.0
+Santa Clara,Stanford,KindergartenData,178.0
+Santa Clara,Sunnyvale,7thGradeData,5777.0
+Santa Clara,Sunnyvale,KindergartenData,2030.0
+Santa Cruz,Aptos,7thGradeData,2089.0
+Santa Cruz,Aptos,KindergartenData,247.0
+Santa Cruz,Ben Lomond,7thGradeData,121.0
+Santa Cruz,Boulder Creek,KindergartenData,133.0
+Santa Cruz,Capitola,7thGradeData,429.0
+Santa Cruz,Corralitos,7thGradeData,31.0
+Santa Cruz,Corralitos,KindergartenData,12.0
+Santa Cruz,Davenport,KindergartenData,10.0
+Santa Cruz,Felton,7thGradeData,978.0
+Santa Cruz,Felton,KindergartenData,77.0
+Santa Cruz,Freedom,KindergartenData,110.0
+Santa Cruz,La Selva Beach,7thGradeData,365.0
+Santa Cruz,Placerville,7thGradeData,267.0
+Santa Cruz,Santa Cruz,7thGradeData,4735.0
+Santa Cruz,Santa Cruz,KindergartenData,832.0
+Santa Cruz,Scotts Valley,7thGradeData,1198.0
+Santa Cruz,Scotts Valley,KindergartenData,86.0
+Santa Cruz,Soquel,7thGradeData,949.0
+Santa Cruz,Soquel,KindergartenData,143.0
+Santa Cruz,Watsonville,7thGradeData,7026.0
+Santa Cruz,Watsonville,KindergartenData,1454.0
+Shasta,Anderson,7thGradeData,1412.0
+Shasta,Anderson,KindergartenData,237.0
+Shasta,Bella Vista,7thGradeData,81.0
+Shasta,Bella Vista,KindergartenData,38.0
+Shasta,Burney,7thGradeData,213.0
+Shasta,Burney,KindergartenData,40.0
+Shasta,Chino,7thGradeData,10.0
+Shasta,Cottonwood,7thGradeData,1113.0
+Shasta,Cottonwood,KindergartenData,118.0
+Shasta,Fall River Mills,KindergartenData,44.0
+Shasta,McArthur,7thGradeData,224.0
+Shasta,Millville,7thGradeData,61.0
+Shasta,Millville,KindergartenData,16.0
+Shasta,Montgomery Creek,KindergartenData,7.0
+Shasta,Palo Cedro,7thGradeData,1645.0
+Shasta,Palo Cedro,KindergartenData,97.0
+Shasta,Redding,7thGradeData,6421.0
+Shasta,Redding,KindergartenData,1113.0
+Shasta,Shasta,7thGradeData,19.0
+Shasta,Shasta,KindergartenData,17.0
+Shasta,Shasta Lake,7thGradeData,1217.0
+Shasta,Shasta Lake,KindergartenData,105.0
+Shasta,Shingletown,7thGradeData,57.0
+Shasta,Shingletown,KindergartenData,17.0
+Sierra,Loyalton,7thGradeData,163.0
+Sierra,Loyalton,KindergartenData,24.0
+Siskiyou,Dorris,7thGradeData,74.0
+Siskiyou,Dorris,KindergartenData,23.0
+Siskiyou,Dunsmuir,7thGradeData,115.0
+Siskiyou,Dunsmuir,KindergartenData,7.0
+Siskiyou,Edgewood,7thGradeData,45.0
+Siskiyou,Edgewood,KindergartenData,13.0
+Siskiyou,Etna,7thGradeData,170.0
+Siskiyou,Etna,KindergartenData,18.0
+Siskiyou,Fort Jones,7thGradeData,93.0
+Siskiyou,Fort Jones,KindergartenData,23.0
+Siskiyou,Gazelle,7thGradeData,9.0
+Siskiyou,Grenada,7thGradeData,44.0
+Siskiyou,Happy Camp,7thGradeData,96.0
+Siskiyou,Happy Camp,KindergartenData,17.0
+Siskiyou,Macdoel,7thGradeData,35.0
+Siskiyou,McCloud,7thGradeData,12.0
+Siskiyou,Montague,7thGradeData,39.0
+Siskiyou,Montague,KindergartenData,26.0
+Siskiyou,Mount Shasta,7thGradeData,556.0
+Siskiyou,Mount Shasta,KindergartenData,54.0
+Siskiyou,Weed,7thGradeData,236.0
+Siskiyou,Weed,KindergartenData,33.0
+Siskiyou,Yreka,7thGradeData,836.0
+Siskiyou,Yreka,KindergartenData,156.0
+Solano,Benicia,7thGradeData,2567.0
+Solano,Benicia,KindergartenData,315.0
+Solano,Dixon,7thGradeData,1821.0
+Solano,Dixon,KindergartenData,304.0
+Solano,Fairfield,7thGradeData,11596.0
+Solano,Fairfield,KindergartenData,1613.0
+Solano,Suisun City,7thGradeData,618.0
+Solano,Suisun City,KindergartenData,307.0
+Solano,Vacaville,7thGradeData,6642.0
+Solano,Vacaville,KindergartenData,1175.0
+Solano,Vallejo,7thGradeData,7150.0
+Solano,Vallejo,KindergartenData,1341.0
+Sonoma,Cloverdale,7thGradeData,673.0
+Sonoma,Cloverdale,KindergartenData,125.0
+Sonoma,Cotati,KindergartenData,63.0
+Sonoma,Forestville,7thGradeData,821.0
+Sonoma,Forestville,KindergartenData,36.0
+Sonoma,Geyserville,7thGradeData,105.0
+Sonoma,Geyserville,KindergartenData,24.0
+Sonoma,Glen Ellen,KindergartenData,45.0
+Sonoma,Guerneville,7thGradeData,56.0
+Sonoma,Guerneville,KindergartenData,38.0
+Sonoma,Healdsburg,7thGradeData,1272.0
+Sonoma,Healdsburg,KindergartenData,148.0
+Sonoma,Kenwood,KindergartenData,17.0
+Sonoma,Monte Rio,7thGradeData,10.0
+Sonoma,Occidental,7thGradeData,100.0
+Sonoma,Occidental,KindergartenData,18.0
+Sonoma,Penngrove,KindergartenData,46.0
+Sonoma,Petaluma,7thGradeData,5263.0
+Sonoma,Petaluma,KindergartenData,865.0
+Sonoma,Rohnert Park,7thGradeData,3004.0
+Sonoma,Rohnert Park,KindergartenData,416.0
+Sonoma,Santa Rosa,7thGradeData,14293.0
+Sonoma,Santa Rosa,KindergartenData,2870.0
+Sonoma,Sebastopol,7thGradeData,2069.0
+Sonoma,Sebastopol,KindergartenData,244.0
+Sonoma,Simi Valley,7thGradeData,409.0
+Sonoma,Simi Valley,KindergartenData,32.0
+Sonoma,Sonoma,7thGradeData,2227.0
+Sonoma,Sonoma,KindergartenData,373.0
+Sonoma,Windsor,7thGradeData,2718.0
+Sonoma,Windsor,KindergartenData,153.0
+Stanislaus,Ceres,7thGradeData,5213.0
+Stanislaus,Ceres,KindergartenData,771.0
+Stanislaus,Crows Landing,KindergartenData,24.0
+Stanislaus,Denair,7thGradeData,876.0
+Stanislaus,Denair,KindergartenData,81.0
+Stanislaus,Empire,7thGradeData,330.0
+Stanislaus,Empire,KindergartenData,45.0
+Stanislaus,Hickman,7thGradeData,213.0
+Stanislaus,Hickman,KindergartenData,89.0
+Stanislaus,Hughson,7thGradeData,1225.0
+Stanislaus,Hughson,KindergartenData,142.0
+Stanislaus,Keyes,7thGradeData,128.0
+Stanislaus,Keyes,KindergartenData,118.0
+Stanislaus,Knights Ferry,7thGradeData,11.0
+Stanislaus,Knights Ferry,KindergartenData,14.0
+Stanislaus,Modesto,7thGradeData,22444.0
+Stanislaus,Modesto,KindergartenData,3747.0
+Stanislaus,Newman,7thGradeData,1218.0
+Stanislaus,Newman,KindergartenData,165.0
+Stanislaus,Oakdale,7thGradeData,2621.0
+Stanislaus,Oakdale,KindergartenData,355.0
+Stanislaus,Patterson,7thGradeData,2553.0
+Stanislaus,Patterson,KindergartenData,426.0
+Stanislaus,Riverbank,7thGradeData,1125.0
+Stanislaus,Riverbank,KindergartenData,396.0
+Stanislaus,Salida,7thGradeData,641.0
+Stanislaus,Salida,KindergartenData,258.0
+Stanislaus,Turlock,7thGradeData,7428.0
+Stanislaus,Turlock,KindergartenData,1128.0
+Stanislaus,Valley Home,7thGradeData,24.0
+Stanislaus,Valley Home,KindergartenData,24.0
+Stanislaus,Waterford,7thGradeData,1436.0
+Stanislaus,Waterford,KindergartenData,282.0
+Stanislaus,Westley,KindergartenData,48.0
+Sutter,East Nicolaus,7thGradeData,411.0
+Sutter,East Nicolaus,KindergartenData,71.0
+Sutter,Live Oak,7thGradeData,873.0
+Sutter,Live Oak,KindergartenData,160.0
+Sutter,Nicolaus,7thGradeData,307.0
+Sutter,Pleasant Grove,7thGradeData,38.0
+Sutter,Pleasant Grove,KindergartenData,16.0
+Sutter,Rio Oso,7thGradeData,40.0
+Sutter,Rio Oso,KindergartenData,17.0
+Sutter,Robbins,7thGradeData,27.0
+Sutter,Robbins,KindergartenData,19.0
+Sutter,Simi Valley,7thGradeData,243.0
+Sutter,Simi Valley,KindergartenData,16.0
+Sutter,Sutter,7thGradeData,807.0
+Sutter,Sutter,KindergartenData,36.0
+Sutter,Yuba City,7thGradeData,6219.0
+Sutter,Yuba City,KindergartenData,1200.0
+Tehama,Corning,7thGradeData,1473.0
+Tehama,Corning,KindergartenData,251.0
+Tehama,Cottonwood,7thGradeData,215.0
+Tehama,Cottonwood,KindergartenData,93.0
+Tehama,Gerber,7thGradeData,83.0
+Tehama,Gerber,KindergartenData,56.0
+Tehama,Los Molinos,7thGradeData,290.0
+Tehama,Los Molinos,KindergartenData,80.0
+Tehama,Rancho Tehema,KindergartenData,12.0
+Tehama,Red Bluff,7thGradeData,2483.0
+Tehama,Red Bluff,KindergartenData,377.0
+Tehama,Vina,7thGradeData,10.0
+Trinity,Bridgeville,7thGradeData,12.0
+Trinity,Burnt Ranch,7thGradeData,12.0
+Trinity,Douglas City,7thGradeData,10.0
+Trinity,Douglas City,KindergartenData,16.0
+Trinity,Hayfork,7thGradeData,131.0
+Trinity,Hayfork,KindergartenData,23.0
+Trinity,Junction City,7thGradeData,8.0
+Trinity,Weaverville,7thGradeData,441.0
+Trinity,Weaverville,KindergartenData,29.0
+Tulare,Allensworth,7thGradeData,10.0
+Tulare,Alpaugh,7thGradeData,126.0
+Tulare,Alpaugh,KindergartenData,31.0
+Tulare,Cutler,7thGradeData,134.0
+Tulare,Cutler,KindergartenData,120.0
+Tulare,Delano,7thGradeData,42.0
+Tulare,Delano,KindergartenData,28.0
+Tulare,Dinuba,7thGradeData,3039.0
+Tulare,Dinuba,KindergartenData,464.0
+Tulare,Ducor,7thGradeData,40.0
+Tulare,Ducor,KindergartenData,21.0
+Tulare,Earlimart,7thGradeData,389.0
+Tulare,Earlimart,KindergartenData,220.0
+Tulare,Exeter,7thGradeData,1478.0
+Tulare,Exeter,KindergartenData,198.0
+Tulare,Farmersville,7thGradeData,1189.0
+Tulare,Farmersville,KindergartenData,217.0
+Tulare,Goshen,KindergartenData,71.0
+Tulare,Ivanhoe,KindergartenData,90.0
+Tulare,Kingsburg,7thGradeData,111.0
+Tulare,Kingsburg,KindergartenData,58.0
+Tulare,Lemon Cove,7thGradeData,73.0
+Tulare,Lemon Cove,KindergartenData,23.0
+Tulare,Lindsay,7thGradeData,1184.0
+Tulare,Lindsay,KindergartenData,364.0
+Tulare,Orosi,7thGradeData,1552.0
+Tulare,Orosi,KindergartenData,249.0
+Tulare,Pixley,7thGradeData,221.0
+Tulare,Pixley,KindergartenData,166.0
+Tulare,Poplar-Cotton Center,KindergartenData,73.0
+Tulare,Porterville,7thGradeData,8301.0
+Tulare,Porterville,KindergartenData,1576.0
+Tulare,Richgrove,7thGradeData,208.0
+Tulare,Richgrove,KindergartenData,94.0
+Tulare,Springville,7thGradeData,66.0
+Tulare,Springville,KindergartenData,29.0
+Tulare,Strathmore,7thGradeData,1021.0
+Tulare,Strathmore,KindergartenData,142.0
+Tulare,Sultana,KindergartenData,51.0
+Tulare,Terra Bella,7thGradeData,182.0
+Tulare,Terra Bella,KindergartenData,120.0
+Tulare,Three Rivers,7thGradeData,19.0
+Tulare,Three Rivers,KindergartenData,16.0
+Tulare,Tipton,7thGradeData,118.0
+Tulare,Tipton,KindergartenData,82.0
+Tulare,Traver,7thGradeData,43.0
+Tulare,Traver,KindergartenData,30.0
+Tulare,Tulare,7thGradeData,7783.0
+Tulare,Tulare,KindergartenData,1349.0
+Tulare,Visalia,7thGradeData,14054.0
+Tulare,Visalia,KindergartenData,2213.0
+Tulare,Woodlake,7thGradeData,1099.0
+Tulare,Woodlake,KindergartenData,169.0
+Tulare,Yettem,7thGradeData,13.0
+Tuolumne,Columbia,7thGradeData,104.0
+Tuolumne,Columbia,KindergartenData,50.0
+Tuolumne,Groveland,7thGradeData,142.0
+Tuolumne,Groveland,KindergartenData,16.0
+Tuolumne,Jamestown,7thGradeData,117.0
+Tuolumne,Jamestown,KindergartenData,51.0
+Tuolumne,La Grange,7thGradeData,8.0
+Tuolumne,Long Barn,7thGradeData,5.0
+Tuolumne,Simi Valley,7thGradeData,96.0
+Tuolumne,Simi Valley,KindergartenData,8.0
+Tuolumne,Sonora,7thGradeData,1511.0
+Tuolumne,Sonora,KindergartenData,141.0
+Tuolumne,Soulsbyville,7thGradeData,100.0
+Tuolumne,Soulsbyville,KindergartenData,51.0
+Tuolumne,Tuolumne City,7thGradeData,699.0
+Tuolumne,Tuolumne City,KindergartenData,40.0
+Tuolumne,Twain Harte,7thGradeData,60.0
+Tuolumne,Twain Harte,KindergartenData,41.0
+Ventura,Camarillo,7thGradeData,5102.0
+Ventura,Camarillo,KindergartenData,898.0
+Ventura,Fillmore,7thGradeData,1544.0
+Ventura,Fillmore,KindergartenData,272.0
+Ventura,Moorpark,7thGradeData,3344.0
+Ventura,Moorpark,KindergartenData,511.0
+Ventura,Oak Park,7thGradeData,2195.0
+Ventura,Oak Park,KindergartenData,222.0
+Ventura,Oak View,7thGradeData,42.0
+Ventura,Oak View,KindergartenData,35.0
+Ventura,Ojai,7thGradeData,2140.0
+Ventura,Ojai,KindergartenData,231.0
+Ventura,Oxnard,7thGradeData,19959.0
+Ventura,Oxnard,KindergartenData,3673.0
+Ventura,Piru,KindergartenData,50.0
+Ventura,Port Hueneme,7thGradeData,44.0
+Ventura,Port Hueneme,KindergartenData,332.0
+Ventura,San Buenaventura (Ventura),7thGradeData,8695.0
+Ventura,San Buenaventura (Ventura),KindergartenData,1242.0
+Ventura,Santa Paula,7thGradeData,2380.0
+Ventura,Santa Paula,KindergartenData,559.0
+Ventura,Saticoy,KindergartenData,47.0
+Ventura,Simi  Valley,KindergartenData,22.0
+Ventura,Simi Valley,7thGradeData,9599.0
+Ventura,Simi Valley,KindergartenData,1415.0
+Ventura,Somis,7thGradeData,210.0
+Ventura,Somis,KindergartenData,63.0
+Ventura,Thousand Oaks,7thGradeData,9116.0
+Ventura,Thousand Oaks,KindergartenData,1321.0
+Ventura,Westlake Village,7thGradeData,2313.0
+Ventura,Westlake Village,KindergartenData,182.0
+Yolo,Davis,7thGradeData,4225.0
+Yolo,Davis,KindergartenData,635.0
+Yolo,Esparto,7thGradeData,410.0
+Yolo,Esparto,KindergartenData,73.0
+Yolo,Knights Landing,KindergartenData,39.0
+Yolo,Madison,7thGradeData,11.0
+Yolo,West Sacramento,7thGradeData,3157.0
+Yolo,West Sacramento,KindergartenData,660.0
+Yolo,Winters,7thGradeData,774.0
+Yolo,Winters,KindergartenData,110.0
+Yolo,Woodland,7thGradeData,4731.0
+Yolo,Woodland,KindergartenData,903.0
+Yolo,Yolo,7thGradeData,178.0
+Yuba,Beale AFB,KindergartenData,96.0
+Yuba,Browns Valley,KindergartenData,19.0
+Yuba,Challenge,KindergartenData,9.0
+Yuba,Dobbins,KindergartenData,9.0
+Yuba,Marysville,7thGradeData,2703.0
+Yuba,Marysville,KindergartenData,576.0
+Yuba,Olivehurst,7thGradeData,2032.0
+Yuba,Olivehurst,KindergartenData,186.0
+Yuba,Oregon House,7thGradeData,12.0
+Yuba,Plumas Lake,7thGradeData,197.0
+Yuba,Plumas Lake,KindergartenData,139.0
+Yuba,Wheatland,7thGradeData,919.0
+Yuba,Wheatland,KindergartenData,82.0
