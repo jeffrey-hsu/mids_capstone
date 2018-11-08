@@ -1,176 +1,176 @@
 ,county,vac_info_type,pct
-0,Alameda,7thGradeData,98.0354609929078
-1,Alameda,ChildCareData,93.78473684210527
-2,Alameda,KindergartenData,89.93133333333334
+0,Alameda,7thGradeData,98.03205673758866
+1,Alameda,ChildCareData,93.78331591355747
+2,Alameda,KindergartenData,89.92613333333335
 3,Alpine,ChildCareData,100.0
-4,Alpine,KindergartenData,84.2
-5,Amador,7thGradeData,87.46666666666665
-6,Amador,ChildCareData,93.11666666666666
-7,Amador,KindergartenData,91.08333333333333
-8,Berkeley City,ChildCareData,92.2913793103448
-9,Butte,7thGradeData,88.44482758620688
-10,Butte,ChildCareData,87.78472222222223
-11,Butte,KindergartenData,87.4857142857143
-12,Calaveras,7thGradeData,85.1
-13,Calaveras,ChildCareData,86.26875000000001
-14,Calaveras,KindergartenData,79.4090909090909
-15,Colusa,7thGradeData,99.55
-16,Colusa,ChildCareData,99.18181818181819
-17,Colusa,KindergartenData,97.67999999999999
-18,Contra Costa,7thGradeData,97.00744680851066
-19,Contra Costa,ChildCareData,95.13670033670033
-20,Contra Costa,KindergartenData,94.2617346938776
-21,Del Norte,7thGradeData,66.5
-22,Del Norte,ChildCareData,96.27499999999999
-23,Del Norte,KindergartenData,84.69999999999999
-24,El Dorado,7thGradeData,88.59629629629632
-25,El Dorado,ChildCareData,86.79285714285717
-26,El Dorado,KindergartenData,86.4108108108108
-27,Fresno,7thGradeData,95.35909090909094
-28,Fresno,ChildCareData,94.70596491228073
-29,Fresno,KindergartenData,94.96990291262135
-30,Glenn,7thGradeData,96.88571428571429
-31,Glenn,ChildCareData,97.18
-32,Glenn,KindergartenData,95.39999999999999
-33,Humboldt,7thGradeData,79.15862068965517
-34,Humboldt,ChildCareData,78.97454545454545
-35,Humboldt,KindergartenData,78.07297297297298
-36,Imperial,7thGradeData,99.48095238095237
-37,Imperial,ChildCareData,97.77999999999999
+4,Alpine,KindergartenData,84.21
+5,Amador,7thGradeData,87.49000000000001
+6,Amador,ChildCareData,93.12044108954865
+7,Amador,KindergartenData,91.085
+8,Berkeley City,ChildCareData,92.29441675994406
+9,Butte,7thGradeData,88.44068965517242
+10,Butte,ChildCareData,87.78201798710505
+11,Butte,KindergartenData,87.48224489795919
+12,Calaveras,7thGradeData,85.0725
+13,Calaveras,ChildCareData,86.26228679731003
+14,Calaveras,KindergartenData,79.41090909090907
+15,Colusa,7thGradeData,99.5425
+16,Colusa,ChildCareData,99.18831168831167
+17,Colusa,KindergartenData,97.65
+18,Contra Costa,7thGradeData,97.00159574468087
+19,Contra Costa,ChildCareData,95.13570736748892
+20,Contra Costa,KindergartenData,94.26112244897959
+21,Del Norte,7thGradeData,66.50666666666667
+22,Del Norte,ChildCareData,96.27380952380952
+23,Del Norte,KindergartenData,84.7025
+24,El Dorado,7thGradeData,88.60111111111112
+25,El Dorado,ChildCareData,86.79030623347676
+26,El Dorado,KindergartenData,86.4116216216216
+27,Fresno,7thGradeData,95.36011363636362
+28,Fresno,ChildCareData,94.70544759654659
+29,Fresno,KindergartenData,94.96645631067965
+30,Glenn,7thGradeData,96.87857142857142
+31,Glenn,ChildCareData,97.19042965503945
+32,Glenn,KindergartenData,95.38285714285713
+33,Humboldt,7thGradeData,79.15620689655174
+34,Humboldt,ChildCareData,78.97838499970446
+35,Humboldt,KindergartenData,78.0718918918919
+36,Imperial,7thGradeData,99.4809523809524
+37,Imperial,ChildCareData,97.77835616485156
 38,Imperial,KindergartenData,96.12439024390243
-39,Inyo,7thGradeData,92.55
-40,Inyo,ChildCareData,96.58
-41,Inyo,KindergartenData,95.32000000000001
-42,Kern,7thGradeData,96.87948717948719
-43,Kern,ChildCareData,96.14712643678158
-44,Kern,KindergartenData,94.66728395061726
-45,Kings,7thGradeData,97.74347826086957
-46,Kings,ChildCareData,95.8125
-47,Kings,KindergartenData,97.67941176470586
-48,Lake,7thGradeData,89.55555555555556
-49,Lake,ChildCareData,86.91904761904762
-50,Lake,KindergartenData,87.00833333333333
-51,Lassen,7thGradeData,84.9
-52,Lassen,ChildCareData,92.98888888888888
-53,Lassen,KindergartenData,78.53999999999999
+39,Inyo,7thGradeData,92.575
+40,Inyo,ChildCareData,96.58333333333333
+41,Inyo,KindergartenData,95.30999999999999
+42,Kern,7thGradeData,96.87807692307692
+43,Kern,ChildCareData,96.14730674658179
+44,Kern,KindergartenData,94.66043209876543
+45,Kings,7thGradeData,97.74173913043478
+46,Kings,ChildCareData,95.81242389707279
+47,Kings,KindergartenData,97.67647058823528
+48,Lake,7thGradeData,89.55000000000001
+49,Lake,ChildCareData,86.91546615486261
+50,Lake,KindergartenData,86.99916666666667
+51,Lassen,7thGradeData,84.898
+52,Lassen,ChildCareData,92.98373569237607
+53,Lassen,KindergartenData,78.53099999999999
 54,Long Beach,7thGradeData,100.0
-55,Los Angeles,7thGradeData,96.47503015681545
-56,Los Angeles,ChildCareData,93.08556455454969
-57,Los Angeles,KindergartenData,90.76170212765965
-58,Madera,7thGradeData,92.58421052631577
-59,Madera,ChildCareData,94.5125
-60,Madera,KindergartenData,92.51935483870967
-61,Marin,7thGradeData,94.27692307692307
-62,Marin,ChildCareData,91.66880733944957
-63,Marin,KindergartenData,82.5765625
-64,Mariposa,7thGradeData,95.8
-65,Mariposa,ChildCareData,82.03999999999999
-66,Mariposa,KindergartenData,84.89999999999999
-67,Mendocino,7thGradeData,89.44444444444446
-68,Mendocino,ChildCareData,83.98611111111113
-69,Mendocino,KindergartenData,77.93636363636362
-70,Merced,7thGradeData,98.73571428571427
-71,Merced,ChildCareData,97.04545454545452
-72,Merced,KindergartenData,95.2448275862069
-73,Modoc,7thGradeData,76.2
-74,Modoc,ChildCareData,88.10000000000001
-75,Modoc,KindergartenData,89.93333333333334
-76,Mono,7thGradeData,98.15
-77,Mono,ChildCareData,89.66666666666667
-78,Mono,KindergartenData,95.93333333333334
-79,Monterey,7thGradeData,96.3921052631579
-80,Monterey,ChildCareData,96.17207207207205
-81,Monterey,KindergartenData,93.24578313253012
-82,Napa,7thGradeData,89.65294117647058
-83,Napa,ChildCareData,94.05102040816327
-84,Napa,KindergartenData,91.42666666666668
-85,Nevada,7thGradeData,75.30588235294118
-86,Nevada,ChildCareData,77.03103448275861
-87,Nevada,KindergartenData,67.87647058823529
-88,Orange,7thGradeData,94.92727272727267
-89,Orange,ChildCareData,93.70071022727271
-90,Orange,KindergartenData,90.92259786476879
-91,Placer,7thGradeData,88.41627906976743
-92,Placer,ChildCareData,87.61758241758243
-93,Placer,KindergartenData,84.25777777777778
-94,Plumas,7thGradeData,87.97999999999999
-95,Plumas,ChildCareData,73.88571428571429
-96,Plumas,KindergartenData,85.93999999999998
-97,Riverside,7thGradeData,95.44335664335664
-98,Riverside,ChildCareData,94.68488372093023
-99,Riverside,KindergartenData,94.23531073446331
-100,Sacramento,7thGradeData,93.2251968503937
-101,Sacramento,ChildCareData,90.0727272727273
-102,Sacramento,KindergartenData,87.58398576512458
-103,San Benito,7thGradeData,98.19
-104,San Benito,ChildCareData,95.19333333333333
-105,San Benito,KindergartenData,96.72307692307692
-106,San Bernardino,7thGradeData,95.13831168831167
-107,San Bernardino,ChildCareData,96.52427440633247
-108,San Bernardino,KindergartenData,94.7921518987342
-109,San Diego,7thGradeData,93.80000000000003
-110,San Diego,ChildCareData,94.04393939393944
-111,San Diego,KindergartenData,90.82295373665481
-112,San Francisco,7thGradeData,97.94810126582279
-113,San Francisco,ChildCareData,94.30171673819734
-114,San Francisco,KindergartenData,91.68515624999999
-115,San Joaquin,7thGradeData,98.12424242424241
-116,San Joaquin,ChildCareData,94.98520408163266
-117,San Joaquin,KindergartenData,96.8151515151515
-118,San Luis Obispo,7thGradeData,90.75000000000001
-119,San Luis Obispo,ChildCareData,93.62435897435898
-120,San Luis Obispo,KindergartenData,87.9470588235294
-121,San Mateo,7thGradeData,98.24761904761904
-122,San Mateo,ChildCareData,95.49488188976378
-123,San Mateo,KindergartenData,93.70193548387097
-124,Santa Barbara,7thGradeData,90.02439024390245
-125,Santa Barbara,ChildCareData,93.42116788321165
-126,Santa Barbara,KindergartenData,88.08936170212769
-127,Santa Clara,7thGradeData,97.49499999999999
-128,Santa Clara,ChildCareData,94.32008281573498
-129,Santa Clara,KindergartenData,94.14943502824862
-130,Santa Cruz,7thGradeData,90.03823529411765
-131,Santa Cruz,ChildCareData,87.53809523809522
-132,Santa Cruz,KindergartenData,82.8
-133,Shasta,7thGradeData,86.60000000000001
-134,Shasta,ChildCareData,90.46323529411762
-135,Shasta,KindergartenData,79.74761904761904
+55,Los Angeles,7thGradeData,96.47254523522322
+56,Los Angeles,ChildCareData,93.08552218003393
+57,Los Angeles,KindergartenData,90.75725129384696
+58,Madera,7thGradeData,92.58368421052633
+59,Madera,ChildCareData,94.51042440512806
+60,Madera,KindergartenData,92.51677419354837
+61,Marin,7thGradeData,94.27256410256409
+62,Marin,ChildCareData,91.66884312405011
+63,Marin,KindergartenData,82.5715625
+64,Mariposa,7thGradeData,95.83
+65,Mariposa,ChildCareData,82.02777777777779
+66,Mariposa,KindergartenData,84.88
+67,Mendocino,7thGradeData,89.44055555555558
+68,Mendocino,ChildCareData,83.97823728960364
+69,Mendocino,KindergartenData,77.935
+70,Merced,7thGradeData,98.73535714285713
+71,Merced,ChildCareData,97.03866431116786
+72,Merced,KindergartenData,95.23931034482757
+73,Modoc,7thGradeData,76.22333333333334
+74,Modoc,ChildCareData,88.09275159339099
+75,Modoc,KindergartenData,89.91666666666667
+76,Mono,7thGradeData,98.125
+77,Mono,ChildCareData,89.65811965811967
+78,Mono,KindergartenData,95.93666666666667
+79,Monterey,7thGradeData,96.38921052631581
+80,Monterey,ChildCareData,96.16882496896109
+81,Monterey,KindergartenData,93.24048192771086
+82,Napa,7thGradeData,89.63411764705882
+83,Napa,ChildCareData,94.0507711356357
+84,Napa,KindergartenData,91.42000000000002
+85,Nevada,7thGradeData,75.30529411764707
+86,Nevada,ChildCareData,77.03289038220359
+87,Nevada,KindergartenData,67.88470588235295
+88,Orange,7thGradeData,94.92282296650723
+89,Orange,ChildCareData,93.7012258163246
+90,Orange,KindergartenData,90.91830960854097
+91,Placer,7thGradeData,88.40651162790695
+92,Placer,ChildCareData,87.61882601144438
+93,Placer,KindergartenData,84.25299999999996
+94,Plumas,7thGradeData,87.98800000000001
+95,Plumas,ChildCareData,73.88888888888889
+96,Plumas,KindergartenData,85.93199999999999
+97,Riverside,7thGradeData,95.43944055944054
+98,Riverside,ChildCareData,94.6849172324311
+99,Riverside,KindergartenData,94.22951977401132
+100,Sacramento,7thGradeData,93.22527559055118
+101,Sacramento,ChildCareData,90.07057202990799
+102,Sacramento,KindergartenData,87.57854092526685
+103,San Benito,7thGradeData,98.19399999999999
+104,San Benito,ChildCareData,95.18349737146731
+105,San Benito,KindergartenData,96.72615384615384
+106,San Bernardino,7thGradeData,95.13253246753241
+107,San Bernardino,ChildCareData,96.52510664022812
+108,San Bernardino,KindergartenData,94.78688607594931
+109,San Diego,7thGradeData,93.79754646840156
+110,San Diego,ChildCareData,94.04213050790946
+111,San Diego,KindergartenData,90.8178825622777
+112,San Francisco,7thGradeData,97.94430379746836
+113,San Francisco,ChildCareData,94.30174037478923
+114,San Francisco,KindergartenData,91.67937499999998
+115,San Joaquin,7thGradeData,98.12325757575756
+116,San Joaquin,ChildCareData,94.98658709693979
+117,San Joaquin,KindergartenData,96.81103030303031
+118,San Luis Obispo,7thGradeData,90.74291666666666
+119,San Luis Obispo,ChildCareData,93.62573682494644
+120,San Luis Obispo,KindergartenData,87.94529411764707
+121,San Mateo,7thGradeData,98.24333333333334
+122,San Mateo,ChildCareData,95.49310915985393
+123,San Mateo,KindergartenData,93.6981935483871
+124,Santa Barbara,7thGradeData,90.02682926829269
+125,Santa Barbara,ChildCareData,93.4196290725036
+126,Santa Barbara,KindergartenData,88.08734042553192
+127,Santa Clara,7thGradeData,97.4908125
+128,Santa Clara,ChildCareData,94.31907040701398
+129,Santa Clara,KindergartenData,94.14347457627117
+130,Santa Cruz,7thGradeData,90.03117647058825
+131,Santa Cruz,ChildCareData,87.53273794430055
+132,Santa Cruz,KindergartenData,82.78763636363635
+133,Shasta,7thGradeData,86.5960606060606
+134,Shasta,ChildCareData,90.46020998735608
+135,Shasta,KindergartenData,79.74333333333333
 136,Sierra,7thGradeData,100.0
 137,Sierra,ChildCareData,100.0
 138,Sierra,KindergartenData,100.0
-139,Siskiyou,7thGradeData,86.94615384615385
-140,Siskiyou,ChildCareData,88.695
-141,Siskiyou,KindergartenData,79.16923076923075
-142,Solano,7thGradeData,98.13448275862069
-143,Solano,ChildCareData,92.6935064935065
-144,Solano,KindergartenData,95.5691176470588
-145,Sonoma,7thGradeData,88.656
-146,Sonoma,ChildCareData,91.05735294117648
-147,Sonoma,KindergartenData,87.32547169811318
-148,Stanislaus,7thGradeData,94.49661016949153
-149,Stanislaus,ChildCareData,94.78188976377955
-150,Stanislaus,KindergartenData,93.44464285714287
-151,Sutter,7thGradeData,92.54545454545455
-152,Sutter,ChildCareData,92.00937499999998
-153,Sutter,KindergartenData,89.53846153846153
-154,Tehama,7thGradeData,92.22307692307693
-155,Tehama,ChildCareData,94.04761904761907
-156,Tehama,KindergartenData,90.00000000000001
-157,Trinity,7thGradeData,87.63333333333333
-158,Trinity,ChildCareData,84.88000000000001
-159,Trinity,KindergartenData,81.275
-160,Tulare,7thGradeData,97.26363636363634
-161,Tulare,ChildCareData,97.22680412371132
-162,Tulare,KindergartenData,95.3490909090909
-163,Tuolumne,7thGradeData,83.39166666666665
-164,Tuolumne,ChildCareData,92.1
-165,Tuolumne,KindergartenData,77.58181818181818
-166,Ventura,7thGradeData,91.2987012987013
-167,Ventura,ChildCareData,92.99558823529415
-168,Ventura,KindergartenData,88.85168539325848
-169,Yolo,7thGradeData,94.46363636363635
-170,Yolo,ChildCareData,95.9044117647059
-171,Yolo,KindergartenData,93.01842105263158
-172,Yuba,7thGradeData,86.88
-173,Yuba,ChildCareData,85.185
-174,Yuba,KindergartenData,89.95454545454547
+139,Siskiyou,7thGradeData,86.94692307692307
+140,Siskiyou,ChildCareData,88.69577229929827
+141,Siskiyou,KindergartenData,79.17
+142,Solano,7thGradeData,98.13068965517242
+143,Solano,ChildCareData,92.69401716087329
+144,Solano,KindergartenData,95.56176470588233
+145,Sonoma,7thGradeData,88.6582
+146,Sonoma,ChildCareData,91.05370391796714
+147,Sonoma,KindergartenData,87.32292452830188
+148,Stanislaus,7thGradeData,94.49338983050846
+149,Stanislaus,ChildCareData,94.77785718423762
+150,Stanislaus,KindergartenData,93.43928571428569
+151,Sutter,7thGradeData,92.54227272727275
+152,Sutter,ChildCareData,92.01311413740824
+153,Sutter,KindergartenData,89.54076923076921
+154,Tehama,7thGradeData,92.21384615384616
+155,Tehama,ChildCareData,94.051408162514
+156,Tehama,KindergartenData,89.994375
+157,Trinity,7thGradeData,87.62666666666667
+158,Trinity,ChildCareData,84.87329434697858
+159,Trinity,KindergartenData,81.28
+160,Tulare,7thGradeData,97.25969696969698
+161,Tulare,ChildCareData,97.22498522945341
+162,Tulare,KindergartenData,95.34154545454545
+163,Tuolumne,7thGradeData,83.38833333333334
+164,Tuolumne,ChildCareData,92.0889801618023
+165,Tuolumne,KindergartenData,77.58636363636363
+166,Ventura,7thGradeData,91.29831168831168
+167,Ventura,ChildCareData,92.99674971895777
+168,Ventura,KindergartenData,88.8487078651685
+169,Yolo,7thGradeData,94.4659090909091
+170,Yolo,ChildCareData,95.9077069575404
+171,Yolo,KindergartenData,93.01263157894736
+172,Yuba,7thGradeData,86.875
+173,Yuba,ChildCareData,85.18047034058868
+174,Yuba,KindergartenData,89.9427272727273
