@@ -6,7 +6,7 @@ Alameda,Albany,7thGradeData,284.0
 Alameda,Albany,ChildCareData,248.0
 Alameda,Albany,KindergartenData,300.0
 Alameda,Berkeley,7thGradeData,933.0
-Alameda,Berkeley,ChildCareData,61.0
+Alameda,Berkeley,ChildCareData,2333.0
 Alameda,Berkeley,KindergartenData,903.0
 Alameda,Castro Valley,7thGradeData,804.0
 Alameda,Castro Valley,ChildCareData,750.0
@@ -61,7 +61,6 @@ Amador,Plymouth,7thGradeData,19.0
 Amador,Plymouth,ChildCareData,16.0
 Amador,Plymouth,KindergartenData,25.0
 Amador,Sutter Creek,KindergartenData,50.0
-Berkeley City,Berkeley,ChildCareData,2272.0
 Butte,Bangor,7thGradeData,15.0
 Butte,Bangor,KindergartenData,11.0
 Butte,Biggs,7thGradeData,56.0
