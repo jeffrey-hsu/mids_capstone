@@ -270,8 +270,8 @@ Fresno,Fowler,7thGradeData,100.0
 Fresno,Fowler,ChildCareData,98.33500000000001
 Fresno,Fowler,KindergartenData,99.48
 Fresno,Fresno,7thGradeData,95.76644444444442
-Fresno,Fresno,ChildCareData,94.00925170068025
-Fresno,Fresno,KindergartenData,93.90726495726494
+Fresno,Fresno,ChildCareData,93.64401315789472
+Fresno,Fresno,KindergartenData,93.96966386554621
 Fresno,Huron,7thGradeData,99.21
 Fresno,Huron,ChildCareData,99.29
 Fresno,Huron,KindergartenData,98.89
@@ -292,8 +292,6 @@ Fresno,Orange Cove,KindergartenData,99.50333333333333
 Fresno,Parlier,7thGradeData,99.595
 Fresno,Parlier,ChildCareData,94.3425
 Fresno,Parlier,KindergartenData,99.05199999999999
-Fresno,Pinedale,ChildCareData,82.90599999999999
-Fresno,Pinedale,KindergartenData,97.62
 Fresno,Prather,KindergartenData,78.87
 Fresno,Raisin City,7thGradeData,100.0
 Fresno,Raisin City,ChildCareData,100.0
@@ -717,7 +715,7 @@ Los Angeles,Long Beach,7thGradeData,97.41945945945946
 Los Angeles,Long Beach,ChildCareData,96.04695652173916
 Los Angeles,Long Beach,KindergartenData,90.43416666666668
 Los Angeles,Los Angeles,7thGradeData,96.34436241610737
-Los Angeles,Los Angeles,ChildCareData,92.09436567164175
+Los Angeles,Los Angeles,ChildCareData,92.10418633540368
 Los Angeles,Los Angeles,KindergartenData,88.76601538461537
 Los Angeles,Lynwood,7thGradeData,99.756
 Los Angeles,Lynwood,ChildCareData,98.08294117647058
@@ -745,7 +743,6 @@ Los Angeles,Montebello,KindergartenData,93.63624999999999
 Los Angeles,Monterey Park,7thGradeData,98.85374999999999
 Los Angeles,Monterey Park,ChildCareData,96.59200000000001
 Los Angeles,Monterey Park,KindergartenData,94.7925
-Los Angeles,North Hollywood,ChildCareData,100.0
 Los Angeles,Norwalk,7thGradeData,99.20285714285714
 Los Angeles,Norwalk,ChildCareData,95.93380952380951
 Los Angeles,Norwalk,KindergartenData,92.2978947368421
@@ -988,9 +985,9 @@ Merced,El Nido,KindergartenData,100.0
 Merced,Gustine,7thGradeData,96.34
 Merced,Gustine,ChildCareData,95.0
 Merced,Gustine,KindergartenData,98.0
-Merced,Hilmar,7thGradeData,98.86
-Merced,Hilmar,ChildCareData,96.46000000000001
-Merced,Hilmar,KindergartenData,96.86
+Merced,Hilmar-Irwin,7thGradeData,98.86
+Merced,Hilmar-Irwin,ChildCareData,96.46000000000001
+Merced,Hilmar-Irwin,KindergartenData,96.86
 Merced,Le Grand,7thGradeData,89.19
 Merced,Le Grand,ChildCareData,100.0
 Merced,Le Grand,KindergartenData,97.44
@@ -1522,8 +1519,8 @@ San Bernardino,Montclair,ChildCareData,99.863
 San Bernardino,Montclair,KindergartenData,96.3488888888889
 San Bernardino,Morongo Valley,ChildCareData,100.0
 San Bernardino,Morongo Valley,KindergartenData,84.62
-San Bernardino,Mt. Baldy,7thGradeData,81.25
-San Bernardino,Mt. Baldy,KindergartenData,66.67
+San Bernardino,Mount Baldy,7thGradeData,81.25
+San Bernardino,Mount Baldy,KindergartenData,66.67
 San Bernardino,Needles,7thGradeData,94.29
 San Bernardino,Needles,ChildCareData,95.95
 San Bernardino,Needles,KindergartenData,71.01

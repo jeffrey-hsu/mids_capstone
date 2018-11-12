@@ -286,8 +286,8 @@ Fresno,Fowler,7thGradeData,1029.0,1027.0,2011-2012,2012
 Fresno,Fowler,ChildCareData,120.0,119.0,2011-2012,2012
 Fresno,Fowler,KindergartenData,148.0,148.0,2011-2012,2012
 Fresno,Fresno,7thGradeData,49802.0,48630.0,2011-2012,2012
-Fresno,Fresno,ChildCareData,7175.0,6861.0,2011-2012,2012
-Fresno,Fresno,KindergartenData,9722.0,9166.0,2011-2012,2012
+Fresno,Fresno,ChildCareData,7339.0,7008.0,2011-2012,2012
+Fresno,Fresno,KindergartenData,9862.0,9298.0,2011-2012,2012
 Fresno,Helm,7thGradeData,14.0,14.0,2011-2012,2012
 Fresno,Helm,KindergartenData,19.0,18.0,2011-2012,2012
 Fresno,Huron,7thGradeData,235.0,235.0,2011-2012,2012
@@ -311,8 +311,6 @@ Fresno,Orange Cove,KindergartenData,283.0,283.0,2011-2012,2012
 Fresno,Parlier,7thGradeData,1382.0,1380.0,2011-2012,2012
 Fresno,Parlier,ChildCareData,290.0,288.0,2011-2012,2012
 Fresno,Parlier,KindergartenData,372.0,368.0,2011-2012,2012
-Fresno,Pinedale,ChildCareData,164.0,147.0,2011-2012,2012
-Fresno,Pinedale,KindergartenData,140.0,132.0,2011-2012,2012
 Fresno,Prather,KindergartenData,86.0,77.0,2011-2012,2012
 Fresno,Raisin City,7thGradeData,55.0,55.0,2011-2012,2012
 Fresno,Raisin City,ChildCareData,46.0,46.0,2011-2012,2012
@@ -417,7 +415,7 @@ Imperial,El Centro,ChildCareData,1043.0,1002.0,2011-2012,2012
 Imperial,El Centro,KindergartenData,885.0,842.0,2011-2012,2012
 Imperial,Heber,7thGradeData,255.0,255.0,2011-2012,2012
 Imperial,Heber,ChildCareData,82.0,77.0,2011-2012,2012
-Imperial,Herber,KindergartenData,106.0,106.0,2011-2012,2012
+Imperial,Heber,KindergartenData,106.0,106.0,2011-2012,2012
 Imperial,Holtville,7thGradeData,800.0,796.0,2011-2012,2012
 Imperial,Holtville,ChildCareData,81.0,75.0,2011-2012,2012
 Imperial,Holtville,KindergartenData,105.0,104.0,2011-2012,2012
@@ -752,13 +750,12 @@ Los Angeles,Littlerock,KindergartenData,129.0,82.0,2011-2012,2012
 Los Angeles,Lomita,7thGradeData,1290.0,1277.0,2011-2012,2012
 Los Angeles,Lomita,ChildCareData,759.0,742.0,2011-2012,2012
 Los Angeles,Lomita,KindergartenData,274.0,252.0,2011-2012,2012
-Los Angeles,Long  Beach,7thGradeData,946.0,943.0,2011-2012,2012
-Los Angeles,Long Beach,7thGradeData,32879.0,32381.0,2011-2012,2012
+Los Angeles,Long Beach,7thGradeData,33825.0,33324.0,2011-2012,2012
 Los Angeles,Long Beach,ChildCareData,7703.0,7364.0,2011-2012,2012
 Los Angeles,Long Beach,KindergartenData,6339.0,6077.0,2011-2012,2012
 Los Angeles,Los Angeles,7thGradeData,280173.0,276736.0,2011-2012,2012
 Los Angeles,Los Angeles,ChildCareData,55507.0,51685.0,2011-2012,2012
-Los Angeles,Los Angeles,KindergartenData,48925.0,43549.0,2011-2012,2012
+Los Angeles,Los Angeles,KindergartenData,50585.0,45108.0,2011-2012,2012
 Los Angeles,Lynwood,7thGradeData,6489.0,6242.0,2011-2012,2012
 Los Angeles,Lynwood,ChildCareData,1138.0,1097.0,2011-2012,2012
 Los Angeles,Lynwood,KindergartenData,1259.0,1233.0,2011-2012,2012
@@ -785,7 +782,6 @@ Los Angeles,Montebello,KindergartenData,801.0,783.0,2011-2012,2012
 Los Angeles,Monterey Park,7thGradeData,2058.0,2051.0,2011-2012,2012
 Los Angeles,Monterey Park,ChildCareData,744.0,731.0,2011-2012,2012
 Los Angeles,Monterey Park,KindergartenData,683.0,626.0,2011-2012,2012
-Los Angeles,North Hollywood,KindergartenData,1660.0,1559.0,2011-2012,2012
 Los Angeles,Norwalk,7thGradeData,6376.0,6275.0,2011-2012,2012
 Los Angeles,Norwalk,ChildCareData,1221.0,1211.0,2011-2012,2012
 Los Angeles,Norwalk,KindergartenData,1415.0,1377.0,2011-2012,2012
@@ -1030,9 +1026,9 @@ Merced,El Nido,KindergartenData,24.0,21.0,2011-2012,2012
 Merced,Gustine,7thGradeData,790.0,767.0,2011-2012,2012
 Merced,Gustine,ChildCareData,64.0,62.0,2011-2012,2012
 Merced,Gustine,KindergartenData,101.0,100.0,2011-2012,2012
-Merced,Hilmar,7thGradeData,1050.0,1038.0,2011-2012,2012
-Merced,Hilmar,ChildCareData,116.0,113.0,2011-2012,2012
-Merced,Hilmar,KindergartenData,143.0,115.0,2011-2012,2012
+Merced,Hilmar-Irwin,7thGradeData,1050.0,1038.0,2011-2012,2012
+Merced,Hilmar-Irwin,ChildCareData,116.0,113.0,2011-2012,2012
+Merced,Hilmar-Irwin,KindergartenData,143.0,115.0,2011-2012,2012
 Merced,Le Grand,7thGradeData,559.0,558.0,2011-2012,2012
 Merced,Le Grand,ChildCareData,53.0,53.0,2011-2012,2012
 Merced,Le Grand,KindergartenData,39.0,39.0,2011-2012,2012
@@ -1186,7 +1182,6 @@ Orange,Cypress,KindergartenData,605.0,584.0,2011-2012,2012
 Orange,Dana Point,7thGradeData,3086.0,2909.0,2011-2012,2012
 Orange,Dana Point,ChildCareData,723.0,640.0,2011-2012,2012
 Orange,Dana Point,KindergartenData,265.0,229.0,2011-2012,2012
-Orange,El Toro,KindergartenData,257.0,218.0,2011-2012,2012
 Orange,Fountain Valley,7thGradeData,7621.0,7528.0,2011-2012,2012
 Orange,Fountain Valley,ChildCareData,926.0,868.0,2011-2012,2012
 Orange,Fountain Valley,KindergartenData,692.0,648.0,2011-2012,2012
@@ -1196,8 +1191,7 @@ Orange,Fullerton,KindergartenData,1704.0,1618.0,2011-2012,2012
 Orange,Garden Grove,7thGradeData,17491.0,17329.0,2011-2012,2012
 Orange,Garden Grove,ChildCareData,2358.0,2302.0,2011-2012,2012
 Orange,Garden Grove,KindergartenData,3005.0,2908.0,2011-2012,2012
-Orange,Huntington  Beach,7thGradeData,134.0,132.0,2011-2012,2012
-Orange,Huntington Beach,7thGradeData,15106.0,14660.0,2011-2012,2012
+Orange,Huntington Beach,7thGradeData,15240.0,14792.0,2011-2012,2012
 Orange,Huntington Beach,ChildCareData,3099.0,2894.0,2011-2012,2012
 Orange,Huntington Beach,KindergartenData,2479.0,2229.0,2011-2012,2012
 Orange,Irvine,7thGradeData,16514.0,16232.0,2011-2012,2012
@@ -1224,7 +1218,7 @@ Orange,Laguna Niguel,KindergartenData,802.0,690.0,2011-2012,2012
 Orange,Laguna Woods,ChildCareData,86.0,80.0,2011-2012,2012
 Orange,Lake Forest,7thGradeData,4206.0,4102.0,2011-2012,2012
 Orange,Lake Forest,ChildCareData,1067.0,957.0,2011-2012,2012
-Orange,Lake Forest,KindergartenData,643.0,577.0,2011-2012,2012
+Orange,Lake Forest,KindergartenData,900.0,795.0,2011-2012,2012
 Orange,Las Flores (Orange County),7thGradeData,3195.0,3011.0,2011-2012,2012
 Orange,Las Flores (Orange County),ChildCareData,109.0,105.0,2011-2012,2012
 Orange,Los Alamitos,7thGradeData,4897.0,4810.0,2011-2012,2012
@@ -1235,10 +1229,9 @@ Orange,Midway City,KindergartenData,350.0,336.0,2011-2012,2012
 Orange,Mission Viejo,7thGradeData,12352.0,11848.0,2011-2012,2012
 Orange,Mission Viejo,ChildCareData,1600.0,1498.0,2011-2012,2012
 Orange,Mission Viejo,KindergartenData,1184.0,1009.0,2011-2012,2012
-Orange,Newport Beach,7thGradeData,6316.0,5944.0,2011-2012,2012
+Orange,Newport Beach,7thGradeData,6760.0,6382.0,2011-2012,2012
 Orange,Newport Beach,ChildCareData,1206.0,1118.0,2011-2012,2012
 Orange,Newport Beach,KindergartenData,739.0,657.0,2011-2012,2012
-Orange,Newport Coast,7thGradeData,444.0,438.0,2011-2012,2012
 Orange,Orange,7thGradeData,9025.0,8924.0,2011-2012,2012
 Orange,Orange,ChildCareData,2065.0,1977.0,2011-2012,2012
 Orange,Orange,KindergartenData,1590.0,1393.0,2011-2012,2012
@@ -1564,10 +1557,9 @@ San Bernardino,Grand Terrace,KindergartenData,201.0,192.0,2011-2012,2012
 San Bernardino,Helendale,7thGradeData,320.0,310.0,2011-2012,2012
 San Bernardino,Helendale,ChildCareData,35.0,34.0,2011-2012,2012
 San Bernardino,Helendale,KindergartenData,61.0,54.0,2011-2012,2012
-San Bernardino,Hespera,KindergartenData,101.0,100.0,2011-2012,2012
 San Bernardino,Hesperia,7thGradeData,10129.0,9918.0,2011-2012,2012
 San Bernardino,Hesperia,ChildCareData,657.0,632.0,2011-2012,2012
-San Bernardino,Hesperia,KindergartenData,1476.0,1434.0,2011-2012,2012
+San Bernardino,Hesperia,KindergartenData,1577.0,1534.0,2011-2012,2012
 San Bernardino,Highland,7thGradeData,2160.0,2138.0,2011-2012,2012
 San Bernardino,Highland,ChildCareData,525.0,517.0,2011-2012,2012
 San Bernardino,Highland,KindergartenData,880.0,861.0,2011-2012,2012
@@ -1593,8 +1585,8 @@ San Bernardino,Montclair,ChildCareData,484.0,469.0,2011-2012,2012
 San Bernardino,Montclair,KindergartenData,791.0,768.0,2011-2012,2012
 San Bernardino,Morongo Valley,ChildCareData,13.0,13.0,2011-2012,2012
 San Bernardino,Morongo Valley,KindergartenData,35.0,32.0,2011-2012,2012
-San Bernardino,Mt Baldy,KindergartenData,13.0,12.0,2011-2012,2012
-San Bernardino,Mt. Baldy,7thGradeData,30.0,25.0,2011-2012,2012
+San Bernardino,Mount Baldy,7thGradeData,30.0,25.0,2011-2012,2012
+San Bernardino,Mount Baldy,KindergartenData,13.0,12.0,2011-2012,2012
 San Bernardino,Needles,7thGradeData,377.0,365.0,2011-2012,2012
 San Bernardino,Needles,ChildCareData,76.0,76.0,2011-2012,2012
 San Bernardino,Needles,KindergartenData,79.0,61.0,2011-2012,2012
@@ -2086,9 +2078,8 @@ Shasta,Palo Cedro,7thGradeData,1776.0,1645.0,2011-2012,2012
 Shasta,Palo Cedro,ChildCareData,26.0,24.0,2011-2012,2012
 Shasta,Palo Cedro,KindergartenData,113.0,97.0,2011-2012,2012
 Shasta,Redding,7thGradeData,6942.0,6421.0,2011-2012,2012
-Shasta,Redding,ChildCareData,1462.0,1294.0,2011-2012,2012
+Shasta,Redding,ChildCareData,1522.0,1344.0,2011-2012,2012
 Shasta,Redding,KindergartenData,1342.0,1113.0,2011-2012,2012
-Shasta,Redding ,ChildCareData,60.0,50.0,2011-2012,2012
 Shasta,Shasta,7thGradeData,24.0,19.0,2011-2012,2012
 Shasta,Shasta,KindergartenData,20.0,17.0,2011-2012,2012
 Shasta,Shasta Lake,7thGradeData,1294.0,1217.0,2011-2012,2012
@@ -2280,7 +2271,7 @@ Tehama,Gerber,KindergartenData,58.0,56.0,2011-2012,2012
 Tehama,Los Molinos,7thGradeData,304.0,290.0,2011-2012,2012
 Tehama,Los Molinos,ChildCareData,18.0,18.0,2011-2012,2012
 Tehama,Los Molinos,KindergartenData,85.0,80.0,2011-2012,2012
-Tehama,Rancho Tehema,KindergartenData,12.0,12.0,2011-2012,2012
+Tehama,Rancho Tehama Reserve,KindergartenData,12.0,12.0,2011-2012,2012
 Tehama,Red Bluff,7thGradeData,2602.0,2483.0,2011-2012,2012
 Tehama,Red Bluff,ChildCareData,367.0,329.0,2011-2012,2012
 Tehama,Red Bluff,KindergartenData,393.0,377.0,2011-2012,2012
@@ -2431,10 +2422,9 @@ Ventura,Santa Paula,7thGradeData,2459.0,2380.0,2011-2012,2012
 Ventura,Santa Paula,ChildCareData,294.0,294.0,2011-2012,2012
 Ventura,Santa Paula,KindergartenData,578.0,559.0,2011-2012,2012
 Ventura,Saticoy,KindergartenData,50.0,47.0,2011-2012,2012
-Ventura,Simi  Valley,KindergartenData,24.0,22.0,2011-2012,2012
 Ventura,Simi Valley,7thGradeData,9968.0,9599.0,2011-2012,2012
 Ventura,Simi Valley,ChildCareData,1278.0,1161.0,2011-2012,2012
-Ventura,Simi Valley,KindergartenData,1587.0,1415.0,2011-2012,2012
+Ventura,Simi Valley,KindergartenData,1611.0,1437.0,2011-2012,2012
 Ventura,Somis,7thGradeData,215.0,210.0,2011-2012,2012
 Ventura,Somis,ChildCareData,12.0,12.0,2011-2012,2012
 Ventura,Somis,KindergartenData,99.0,63.0,2011-2012,2012
@@ -2765,8 +2755,8 @@ Fresno,Fowler,7thGradeData,181.0,181.0,2012-2013,2013
 Fresno,Fowler,ChildCareData,108.0,108.0,2012-2013,2013
 Fresno,Fowler,KindergartenData,181.0,178.0,2012-2013,2013
 Fresno,Fresno,7thGradeData,8086.0,7934.0,2012-2013,2013
-Fresno,Fresno,ChildCareData,7087.0,6741.0,2012-2013,2013
-Fresno,Fresno,KindergartenData,10113.0,9564.0,2012-2013,2013
+Fresno,Fresno,ChildCareData,7221.0,6855.0,2012-2013,2013
+Fresno,Fresno,KindergartenData,10261.0,9709.0,2012-2013,2013
 Fresno,Helm,7thGradeData,18.0,18.0,2012-2013,2013
 Fresno,Huron,7thGradeData,128.0,127.0,2012-2013,2013
 Fresno,Huron,ChildCareData,175.0,173.0,2012-2013,2013
@@ -2789,8 +2779,6 @@ Fresno,Orange Cove,KindergartenData,287.0,287.0,2012-2013,2013
 Fresno,Parlier,7thGradeData,256.0,254.0,2012-2013,2013
 Fresno,Parlier,ChildCareData,246.0,246.0,2012-2013,2013
 Fresno,Parlier,KindergartenData,334.0,331.0,2012-2013,2013
-Fresno,Pinedale,ChildCareData,134.0,114.0,2012-2013,2013
-Fresno,Pinedale,KindergartenData,148.0,145.0,2012-2013,2013
 Fresno,Prather,KindergartenData,109.0,98.0,2012-2013,2013
 Fresno,Raisin City,7thGradeData,42.0,27.0,2012-2013,2013
 Fresno,Raisin City,ChildCareData,42.0,42.0,2012-2013,2013
@@ -2891,7 +2879,7 @@ Imperial,El Centro,ChildCareData,1054.0,1033.0,2012-2013,2013
 Imperial,El Centro,KindergartenData,923.0,905.0,2012-2013,2013
 Imperial,Heber,7thGradeData,130.0,130.0,2012-2013,2013
 Imperial,Heber,ChildCareData,86.0,81.0,2012-2013,2013
-Imperial,Herber,KindergartenData,123.0,123.0,2012-2013,2013
+Imperial,Heber,KindergartenData,123.0,123.0,2012-2013,2013
 Imperial,Holtville,7thGradeData,124.0,124.0,2012-2013,2013
 Imperial,Holtville,ChildCareData,93.0,90.0,2012-2013,2013
 Imperial,Holtville,KindergartenData,107.0,107.0,2012-2013,2013
@@ -3228,7 +3216,7 @@ Los Angeles,Long Beach,ChildCareData,7258.0,6947.0,2012-2013,2013
 Los Angeles,Long Beach,KindergartenData,6489.0,5999.0,2012-2013,2013
 Los Angeles,Los Angeles,7thGradeData,43116.0,42374.0,2012-2013,2013
 Los Angeles,Los Angeles,ChildCareData,49983.0,45878.0,2012-2013,2013
-Los Angeles,Los Angeles,KindergartenData,49995.0,44505.0,2012-2013,2013
+Los Angeles,Los Angeles,KindergartenData,51675.0,46113.0,2012-2013,2013
 Los Angeles,Lynwood,7thGradeData,1183.0,1173.0,2012-2013,2013
 Los Angeles,Lynwood,ChildCareData,948.0,928.0,2012-2013,2013
 Los Angeles,Lynwood,KindergartenData,1211.0,1098.0,2012-2013,2013
@@ -3254,7 +3242,6 @@ Los Angeles,Montebello,KindergartenData,734.0,700.0,2012-2013,2013
 Los Angeles,Monterey Park,7thGradeData,837.0,829.0,2012-2013,2013
 Los Angeles,Monterey Park,ChildCareData,597.0,589.0,2012-2013,2013
 Los Angeles,Monterey Park,KindergartenData,742.0,701.0,2012-2013,2013
-Los Angeles,North Hollywood,KindergartenData,1680.0,1608.0,2012-2013,2013
 Los Angeles,Norwalk,7thGradeData,1261.0,1246.0,2012-2013,2013
 Los Angeles,Norwalk,ChildCareData,1187.0,1171.0,2012-2013,2013
 Los Angeles,Norwalk,KindergartenData,1402.0,1358.0,2012-2013,2013
@@ -3493,9 +3480,9 @@ Merced,El Nido,KindergartenData,30.0,30.0,2012-2013,2013
 Merced,Gustine,7thGradeData,159.0,159.0,2012-2013,2013
 Merced,Gustine,ChildCareData,68.0,67.0,2012-2013,2013
 Merced,Gustine,KindergartenData,118.0,117.0,2012-2013,2013
-Merced,Hilmar,7thGradeData,165.0,162.0,2012-2013,2013
-Merced,Hilmar,ChildCareData,128.0,125.0,2012-2013,2013
-Merced,Hilmar,KindergartenData,142.0,135.0,2012-2013,2013
+Merced,Hilmar-Irwin,7thGradeData,165.0,162.0,2012-2013,2013
+Merced,Hilmar-Irwin,ChildCareData,128.0,125.0,2012-2013,2013
+Merced,Hilmar-Irwin,KindergartenData,142.0,135.0,2012-2013,2013
 Merced,Le Grand,7thGradeData,60.0,60.0,2012-2013,2013
 Merced,Le Grand,ChildCareData,19.0,19.0,2012-2013,2013
 Merced,Le Grand,KindergartenData,52.0,52.0,2012-2013,2013
@@ -3638,7 +3625,6 @@ Orange,Cypress,KindergartenData,597.0,572.0,2012-2013,2013
 Orange,Dana Point,7thGradeData,71.0,68.0,2012-2013,2013
 Orange,Dana Point,ChildCareData,680.0,598.0,2012-2013,2013
 Orange,Dana Point,KindergartenData,257.0,215.0,2012-2013,2013
-Orange,El Toro,KindergartenData,267.0,237.0,2012-2013,2013
 Orange,Fountain Valley,7thGradeData,893.0,884.0,2012-2013,2013
 Orange,Fountain Valley,ChildCareData,940.0,870.0,2012-2013,2013
 Orange,Fountain Valley,KindergartenData,716.0,678.0,2012-2013,2013
@@ -3674,7 +3660,7 @@ Orange,Laguna Niguel,KindergartenData,800.0,641.0,2012-2013,2013
 Orange,Laguna Woods,ChildCareData,99.0,94.0,2012-2013,2013
 Orange,Lake Forest,7thGradeData,677.0,655.0,2012-2013,2013
 Orange,Lake Forest,ChildCareData,958.0,878.0,2012-2013,2013
-Orange,Lake Forest,KindergartenData,745.0,642.0,2012-2013,2013
+Orange,Lake Forest,KindergartenData,1012.0,879.0,2012-2013,2013
 Orange,Las Flores (Orange County),7thGradeData,379.0,377.0,2012-2013,2013
 Orange,Las Flores (Orange County),ChildCareData,78.0,69.0,2012-2013,2013
 Orange,Los Alamitos,7thGradeData,894.0,872.0,2012-2013,2013
@@ -4005,10 +3991,9 @@ San Bernardino,Grand Terrace,KindergartenData,205.0,196.0,2012-2013,2013
 San Bernardino,Helendale,7thGradeData,51.0,46.0,2012-2013,2013
 San Bernardino,Helendale,ChildCareData,30.0,30.0,2012-2013,2013
 San Bernardino,Helendale,KindergartenData,69.0,65.0,2012-2013,2013
-San Bernardino,Hespera,KindergartenData,100.0,93.0,2012-2013,2013
 San Bernardino,Hesperia,7thGradeData,1897.0,1855.0,2012-2013,2013
 San Bernardino,Hesperia,ChildCareData,628.0,602.0,2012-2013,2013
-San Bernardino,Hesperia,KindergartenData,1473.0,1438.0,2012-2013,2013
+San Bernardino,Hesperia,KindergartenData,1573.0,1531.0,2012-2013,2013
 San Bernardino,Highland,7thGradeData,835.0,820.0,2012-2013,2013
 San Bernardino,Highland,ChildCareData,587.0,573.0,2012-2013,2013
 San Bernardino,Highland,KindergartenData,903.0,872.0,2012-2013,2013
@@ -4031,8 +4016,8 @@ San Bernardino,Montclair,ChildCareData,407.0,402.0,2012-2013,2013
 San Bernardino,Montclair,KindergartenData,683.0,673.0,2012-2013,2013
 San Bernardino,Morongo Valley,ChildCareData,17.0,17.0,2012-2013,2013
 San Bernardino,Morongo Valley,KindergartenData,23.0,23.0,2012-2013,2013
-San Bernardino,Mt Baldy,KindergartenData,12.0,10.0,2012-2013,2013
-San Bernardino,Mt. Baldy,7thGradeData,12.0,11.0,2012-2013,2013
+San Bernardino,Mount Baldy,7thGradeData,12.0,11.0,2012-2013,2013
+San Bernardino,Mount Baldy,KindergartenData,12.0,10.0,2012-2013,2013
 San Bernardino,Needles,7thGradeData,59.0,58.0,2012-2013,2013
 San Bernardino,Needles,ChildCareData,76.0,76.0,2012-2013,2013
 San Bernardino,Needles,KindergartenData,83.0,74.0,2012-2013,2013
@@ -4063,10 +4048,9 @@ San Bernardino,Rialto,KindergartenData,1784.0,1747.0,2012-2013,2013
 San Bernardino,Rim Forest,ChildCareData,18.0,15.0,2012-2013,2013
 San Bernardino,Running Springs,ChildCareData,16.0,16.0,2012-2013,2013
 San Bernardino,Running Springs,KindergartenData,56.0,51.0,2012-2013,2013
-San Bernardino,San Bernadino,KindergartenData,12.0,12.0,2012-2013,2013
 San Bernardino,San Bernardino,7thGradeData,3515.0,3479.0,2012-2013,2013
 San Bernardino,San Bernardino,ChildCareData,2973.0,2926.0,2012-2013,2013
-San Bernardino,San Bernardino,KindergartenData,4022.0,3861.0,2012-2013,2013
+San Bernardino,San Bernardino,KindergartenData,4034.0,3873.0,2012-2013,2013
 San Bernardino,Sugarloaf,ChildCareData,38.0,34.0,2012-2013,2013
 San Bernardino,Sugarloaf,KindergartenData,44.0,36.0,2012-2013,2013
 San Bernardino,Trona,7thGradeData,19.0,17.0,2012-2013,2013
@@ -4696,7 +4680,7 @@ Tehama,Gerber,KindergartenData,66.0,66.0,2012-2013,2013
 Tehama,Los Molinos,7thGradeData,59.0,58.0,2012-2013,2013
 Tehama,Los Molinos,ChildCareData,16.0,15.0,2012-2013,2013
 Tehama,Los Molinos,KindergartenData,81.0,71.0,2012-2013,2013
-Tehama,Rancho Tehema,KindergartenData,20.0,17.0,2012-2013,2013
+Tehama,Rancho Tehama Reserve,KindergartenData,20.0,17.0,2012-2013,2013
 Tehama,Red Bluff,7thGradeData,333.0,318.0,2012-2013,2013
 Tehama,Red Bluff,ChildCareData,336.0,323.0,2012-2013,2013
 Tehama,Red Bluff,KindergartenData,377.0,355.0,2012-2013,2013
@@ -5161,8 +5145,8 @@ Fresno,Fowler,7thGradeData,196.0,196.0,2013-2014,2014
 Fresno,Fowler,ChildCareData,124.0,122.0,2013-2014,2014
 Fresno,Fowler,KindergartenData,194.0,193.0,2013-2014,2014
 Fresno,Fresno,7thGradeData,8076.0,7877.0,2013-2014,2014
-Fresno,Fresno,ChildCareData,7202.0,6800.0,2013-2014,2014
-Fresno,Fresno,KindergartenData,10511.0,9868.0,2013-2014,2014
+Fresno,Fresno,ChildCareData,7358.0,6920.0,2013-2014,2014
+Fresno,Fresno,KindergartenData,10679.0,10032.0,2013-2014,2014
 Fresno,Huron,7thGradeData,127.0,126.0,2013-2014,2014
 Fresno,Huron,ChildCareData,138.0,137.0,2013-2014,2014
 Fresno,Huron,KindergartenData,180.0,178.0,2013-2014,2014
@@ -5183,8 +5167,6 @@ Fresno,Orange Cove,KindergartenData,227.0,226.0,2013-2014,2014
 Fresno,Parlier,7thGradeData,284.0,282.0,2013-2014,2014
 Fresno,Parlier,ChildCareData,197.0,191.0,2013-2014,2014
 Fresno,Parlier,KindergartenData,380.0,377.0,2013-2014,2014
-Fresno,Pinedale,ChildCareData,156.0,120.0,2013-2014,2014
-Fresno,Pinedale,KindergartenData,168.0,164.0,2013-2014,2014
 Fresno,Prather,KindergartenData,71.0,56.0,2013-2014,2014
 Fresno,Raisin City,7thGradeData,33.0,33.0,2013-2014,2014
 Fresno,Raisin City,ChildCareData,32.0,32.0,2013-2014,2014
@@ -5608,7 +5590,7 @@ Los Angeles,Long Beach,7thGradeData,5407.0,5278.0,2013-2014,2014
 Los Angeles,Long Beach,ChildCareData,7084.0,6815.0,2013-2014,2014
 Los Angeles,Long Beach,KindergartenData,5349.0,4997.0,2013-2014,2014
 Los Angeles,Los Angeles,7thGradeData,38619.0,37768.0,2013-2014,2014
-Los Angeles,Los Angeles,ChildCareData,47831.0,43936.0,2013-2014,2014
+Los Angeles,Los Angeles,ChildCareData,47879.0,43984.0,2013-2014,2014
 Los Angeles,Los Angeles,KindergartenData,51511.0,46211.0,2013-2014,2014
 Los Angeles,Lynwood,7thGradeData,1130.0,1126.0,2013-2014,2014
 Los Angeles,Lynwood,ChildCareData,970.0,952.0,2013-2014,2014
@@ -5636,7 +5618,6 @@ Los Angeles,Montebello,KindergartenData,816.0,779.0,2013-2014,2014
 Los Angeles,Monterey Park,7thGradeData,812.0,802.0,2013-2014,2014
 Los Angeles,Monterey Park,ChildCareData,711.0,687.0,2013-2014,2014
 Los Angeles,Monterey Park,KindergartenData,745.0,712.0,2013-2014,2014
-Los Angeles,North Hollywood,ChildCareData,48.0,48.0,2013-2014,2014
 Los Angeles,Norwalk,7thGradeData,1200.0,1185.0,2013-2014,2014
 Los Angeles,Norwalk,ChildCareData,1257.0,1225.0,2013-2014,2014
 Los Angeles,Norwalk,KindergartenData,1397.0,1317.0,2013-2014,2014
@@ -5879,9 +5860,9 @@ Merced,El Nido,KindergartenData,21.0,21.0,2013-2014,2014
 Merced,Gustine,7thGradeData,164.0,158.0,2013-2014,2014
 Merced,Gustine,ChildCareData,40.0,38.0,2013-2014,2014
 Merced,Gustine,KindergartenData,111.0,107.0,2013-2014,2014
-Merced,Hilmar,7thGradeData,175.0,173.0,2013-2014,2014
-Merced,Hilmar,ChildCareData,136.0,132.0,2013-2014,2014
-Merced,Hilmar,KindergartenData,159.0,154.0,2013-2014,2014
+Merced,Hilmar-Irwin,7thGradeData,175.0,173.0,2013-2014,2014
+Merced,Hilmar-Irwin,ChildCareData,136.0,132.0,2013-2014,2014
+Merced,Hilmar-Irwin,KindergartenData,159.0,154.0,2013-2014,2014
 Merced,Le Grand,7thGradeData,37.0,33.0,2013-2014,2014
 Merced,Le Grand,ChildCareData,23.0,23.0,2013-2014,2014
 Merced,Le Grand,KindergartenData,39.0,38.0,2013-2014,2014
@@ -6413,8 +6394,8 @@ San Bernardino,Montclair,ChildCareData,452.0,451.0,2013-2014,2014
 San Bernardino,Montclair,KindergartenData,939.0,900.0,2013-2014,2014
 San Bernardino,Morongo Valley,ChildCareData,15.0,15.0,2013-2014,2014
 San Bernardino,Morongo Valley,KindergartenData,26.0,22.0,2013-2014,2014
-San Bernardino,Mt. Baldy,7thGradeData,16.0,13.0,2013-2014,2014
-San Bernardino,Mt. Baldy,KindergartenData,18.0,12.0,2013-2014,2014
+San Bernardino,Mount Baldy,7thGradeData,16.0,13.0,2013-2014,2014
+San Bernardino,Mount Baldy,KindergartenData,18.0,12.0,2013-2014,2014
 San Bernardino,Needles,7thGradeData,70.0,66.0,2013-2014,2014
 San Bernardino,Needles,ChildCareData,74.0,71.0,2013-2014,2014
 San Bernardino,Needles,KindergartenData,69.0,49.0,2013-2014,2014
@@ -7542,8 +7523,8 @@ Fresno,Fowler,7thGradeData,180.0,178.0,2014-2015,2015
 Fresno,Fowler,ChildCareData,123.0,117.0,2014-2015,2015
 Fresno,Fowler,KindergartenData,151.0,146.0,2014-2015,2015
 Fresno,Fresno,7thGradeData,8275.0,8182.0,2014-2015,2015
-Fresno,Fresno,ChildCareData,8015.0,7669.0,2014-2015,2015
-Fresno,Fresno,KindergartenData,10653.0,10143.0,2014-2015,2015
+Fresno,Fresno,ChildCareData,8191.0,7822.0,2014-2015,2015
+Fresno,Fresno,KindergartenData,10818.0,10300.0,2014-2015,2015
 Fresno,Helm,7thGradeData,13.0,13.0,2014-2015,2015
 Fresno,Helm,KindergartenData,12.0,12.0,2014-2015,2015
 Fresno,Huron,7thGradeData,123.0,123.0,2014-2015,2015
@@ -7567,8 +7548,6 @@ Fresno,Orange Cove,KindergartenData,247.0,246.0,2014-2015,2015
 Fresno,Parlier,7thGradeData,304.0,304.0,2014-2015,2015
 Fresno,Parlier,ChildCareData,239.0,239.0,2014-2015,2015
 Fresno,Parlier,KindergartenData,344.0,337.0,2014-2015,2015
-Fresno,Pinedale,ChildCareData,176.0,153.0,2014-2015,2015
-Fresno,Pinedale,KindergartenData,165.0,157.0,2014-2015,2015
 Fresno,Prather,KindergartenData,113.0,110.0,2014-2015,2015
 Fresno,Raisin City,7thGradeData,34.0,34.0,2014-2015,2015
 Fresno,Raisin City,ChildCareData,29.0,28.0,2014-2015,2015
@@ -7884,7 +7863,6 @@ Los Angeles,Castaic,KindergartenData,353.0,320.0,2014-2015,2015
 Los Angeles,Cerritos,7thGradeData,1247.0,1239.0,2014-2015,2015
 Los Angeles,Cerritos,ChildCareData,400.0,377.0,2014-2015,2015
 Los Angeles,Cerritos,KindergartenData,757.0,713.0,2014-2015,2015
-Los Angeles,Chasworth,ChildCareData,35.0,35.0,2014-2015,2015
 Los Angeles,Claremont,7thGradeData,629.0,616.0,2014-2015,2015
 Los Angeles,Claremont,ChildCareData,736.0,695.0,2014-2015,2015
 Los Angeles,Claremont,KindergartenData,568.0,526.0,2014-2015,2015
@@ -7991,7 +7969,7 @@ Los Angeles,Long Beach,7thGradeData,5561.0,5439.0,2014-2015,2015
 Los Angeles,Long Beach,ChildCareData,7197.0,6749.0,2014-2015,2015
 Los Angeles,Long Beach,KindergartenData,6252.0,5694.0,2014-2015,2015
 Los Angeles,Los Angeles,7thGradeData,40528.0,39913.0,2014-2015,2015
-Los Angeles,Los Angeles,ChildCareData,44992.0,40565.0,2014-2015,2015
+Los Angeles,Los Angeles,ChildCareData,45027.0,40600.0,2014-2015,2015
 Los Angeles,Los Angeles,KindergartenData,51576.0,43900.0,2014-2015,2015
 Los Angeles,Lynwood,7thGradeData,1094.0,1078.0,2014-2015,2015
 Los Angeles,Lynwood,ChildCareData,1048.0,1030.0,2014-2015,2015
@@ -8149,11 +8127,11 @@ Madera,Madera,KindergartenData,1678.0,1602.0,2014-2015,2015
 Madera,North Fork,7thGradeData,32.0,26.0,2014-2015,2015
 Madera,North Fork,ChildCareData,17.0,17.0,2014-2015,2015
 Madera,North Fork,KindergartenData,34.0,21.0,2014-2015,2015
+Madera,O'Neals,7thGradeData,20.0,19.0,2014-2015,2015
 Madera,O'Neals,KindergartenData,20.0,16.0,2014-2015,2015
 Madera,Oakhurst,7thGradeData,91.0,82.0,2014-2015,2015
 Madera,Oakhurst,ChildCareData,134.0,130.0,2014-2015,2015
 Madera,Oakhurst,KindergartenData,75.0,64.0,2014-2015,2015
-Madera,Oneals,7thGradeData,20.0,19.0,2014-2015,2015
 Marin,Belvedere,ChildCareData,63.0,60.0,2014-2015,2015
 Marin,Bolinas,7thGradeData,16.0,12.0,2014-2015,2015
 Marin,Bolinas,ChildCareData,23.0,13.0,2014-2015,2015
@@ -8258,9 +8236,9 @@ Merced,El Nido,KindergartenData,25.0,25.0,2014-2015,2015
 Merced,Gustine,7thGradeData,158.0,155.0,2014-2015,2015
 Merced,Gustine,ChildCareData,74.0,73.0,2014-2015,2015
 Merced,Gustine,KindergartenData,131.0,129.0,2014-2015,2015
-Merced,Hilmar,7thGradeData,170.0,167.0,2014-2015,2015
-Merced,Hilmar,ChildCareData,127.0,122.0,2014-2015,2015
-Merced,Hilmar,KindergartenData,164.0,155.0,2014-2015,2015
+Merced,Hilmar-Irwin,7thGradeData,170.0,167.0,2014-2015,2015
+Merced,Hilmar-Irwin,ChildCareData,127.0,122.0,2014-2015,2015
+Merced,Hilmar-Irwin,KindergartenData,164.0,155.0,2014-2015,2015
 Merced,Le Grand,7thGradeData,48.0,48.0,2014-2015,2015
 Merced,Le Grand,ChildCareData,18.0,18.0,2014-2015,2015
 Merced,Le Grand,KindergartenData,35.0,33.0,2014-2015,2015
@@ -8797,7 +8775,7 @@ San Bernardino,Montclair,ChildCareData,516.0,508.0,2014-2015,2015
 San Bernardino,Montclair,KindergartenData,838.0,828.0,2014-2015,2015
 San Bernardino,Morongo Valley,ChildCareData,18.0,18.0,2014-2015,2015
 San Bernardino,Morongo Valley,KindergartenData,32.0,30.0,2014-2015,2015
-San Bernardino,Mt Baldy,KindergartenData,18.0,15.0,2014-2015,2015
+San Bernardino,Mount Baldy,KindergartenData,18.0,15.0,2014-2015,2015
 San Bernardino,Muscoy,ChildCareData,32.0,32.0,2014-2015,2015
 San Bernardino,Needles,7thGradeData,51.0,50.0,2014-2015,2015
 San Bernardino,Needles,ChildCareData,75.0,72.0,2014-2015,2015
@@ -9032,9 +9010,8 @@ San Luis Obispo,El Paso de Robles (Paso Robles),ChildCareData,568.0,540.0,2014-2
 San Luis Obispo,El Paso de Robles (Paso Robles),KindergartenData,578.0,535.0,2014-2015,2015
 San Luis Obispo,Grover Beach,ChildCareData,79.0,76.0,2014-2015,2015
 San Luis Obispo,Grover Beach,KindergartenData,222.0,204.0,2014-2015,2015
-San Luis Obispo,Los Oso,ChildCareData,18.0,17.0,2014-2015,2015
 San Luis Obispo,Los Osos,7thGradeData,183.0,174.0,2014-2015,2015
-San Luis Obispo,Los Osos,ChildCareData,146.0,133.0,2014-2015,2015
+San Luis Obispo,Los Osos,ChildCareData,164.0,150.0,2014-2015,2015
 San Luis Obispo,Los Osos,KindergartenData,147.0,126.0,2014-2015,2015
 San Luis Obispo,Morro Bay,ChildCareData,82.0,77.0,2014-2015,2015
 San Luis Obispo,Morro Bay,KindergartenData,83.0,68.0,2014-2015,2015
@@ -9905,8 +9882,8 @@ Fresno,Fowler,7thGradeData,208.0,208.0,2015-2016,2016
 Fresno,Fowler,ChildCareData,122.0,117.0,2015-2016,2016
 Fresno,Fowler,KindergartenData,176.0,175.0,2015-2016,2016
 Fresno,Fresno,7thGradeData,8481.0,8398.0,2015-2016,2016
-Fresno,Fresno,ChildCareData,8463.0,8103.0,2015-2016,2016
-Fresno,Fresno,KindergartenData,11248.0,10861.0,2015-2016,2016
+Fresno,Fresno,ChildCareData,8647.0,8258.0,2015-2016,2016
+Fresno,Fresno,KindergartenData,11434.0,11038.0,2015-2016,2016
 Fresno,Helm,7thGradeData,15.0,15.0,2015-2016,2016
 Fresno,Huron,7thGradeData,127.0,127.0,2015-2016,2016
 Fresno,Huron,ChildCareData,139.0,138.0,2015-2016,2016
@@ -9929,8 +9906,6 @@ Fresno,Orange Cove,KindergartenData,237.0,236.0,2015-2016,2016
 Fresno,Parlier,7thGradeData,324.0,324.0,2015-2016,2016
 Fresno,Parlier,ChildCareData,283.0,280.0,2015-2016,2016
 Fresno,Parlier,KindergartenData,331.0,327.0,2015-2016,2016
-Fresno,Pinedale,ChildCareData,184.0,155.0,2015-2016,2016
-Fresno,Pinedale,KindergartenData,186.0,177.0,2015-2016,2016
 Fresno,Prather,KindergartenData,108.0,102.0,2015-2016,2016
 Fresno,Raisin City,7thGradeData,28.0,25.0,2015-2016,2016
 Fresno,Raisin City,ChildCareData,19.0,19.0,2015-2016,2016
@@ -10242,7 +10217,6 @@ Los Angeles,Burbank,KindergartenData,2076.0,1954.0,2015-2016,2016
 Los Angeles,Calabasas,7thGradeData,670.0,645.0,2015-2016,2016
 Los Angeles,Calabasas,ChildCareData,115.0,85.0,2015-2016,2016
 Los Angeles,Calabasas,KindergartenData,377.0,352.0,2015-2016,2016
-Los Angeles,Canyon County,ChildCareData,17.0,14.0,2015-2016,2016
 Los Angeles,Carson,7thGradeData,1313.0,1307.0,2015-2016,2016
 Los Angeles,Carson,ChildCareData,292.0,283.0,2015-2016,2016
 Los Angeles,Carson,KindergartenData,1220.0,994.0,2015-2016,2016
@@ -10447,7 +10421,7 @@ Los Angeles,San Marino,7thGradeData,294.0,292.0,2015-2016,2016
 Los Angeles,San Marino,ChildCareData,144.0,144.0,2015-2016,2016
 Los Angeles,San Marino,KindergartenData,264.0,262.0,2015-2016,2016
 Los Angeles,Santa Clarita,7thGradeData,3114.0,2823.0,2015-2016,2016
-Los Angeles,Santa Clarita,ChildCareData,2866.0,2653.0,2015-2016,2016
+Los Angeles,Santa Clarita,ChildCareData,2883.0,2667.0,2015-2016,2016
 Los Angeles,Santa Clarita,KindergartenData,3204.0,2999.0,2015-2016,2016
 Los Angeles,Santa Fe Springs,7thGradeData,341.0,337.0,2015-2016,2016
 Los Angeles,Santa Fe Springs,ChildCareData,352.0,343.0,2015-2016,2016
@@ -10513,9 +10487,8 @@ Madera,Ahwahnee,KindergartenData,35.0,32.0,2015-2016,2016
 Madera,Chowchilla,7thGradeData,279.0,278.0,2015-2016,2016
 Madera,Chowchilla,ChildCareData,220.0,206.0,2015-2016,2016
 Madera,Chowchilla,KindergartenData,330.0,324.0,2015-2016,2016
-Madera,Coaresgold,ChildCareData,32.0,29.0,2015-2016,2016
 Madera,Coarsegold,7thGradeData,116.0,114.0,2015-2016,2016
-Madera,Coarsegold,ChildCareData,30.0,25.0,2015-2016,2016
+Madera,Coarsegold,ChildCareData,62.0,54.0,2015-2016,2016
 Madera,Coarsegold,KindergartenData,109.0,102.0,2015-2016,2016
 Madera,Madera,7thGradeData,1735.0,1714.0,2015-2016,2016
 Madera,Madera,ChildCareData,1322.0,1265.0,2015-2016,2016
@@ -10635,9 +10608,9 @@ Merced,El Nido,KindergartenData,13.0,13.0,2015-2016,2016
 Merced,Gustine,7thGradeData,157.0,154.0,2015-2016,2016
 Merced,Gustine,ChildCareData,68.0,63.0,2015-2016,2016
 Merced,Gustine,KindergartenData,122.0,119.0,2015-2016,2016
-Merced,Hilmar,7thGradeData,188.0,185.0,2015-2016,2016
-Merced,Hilmar,ChildCareData,129.0,127.0,2015-2016,2016
-Merced,Hilmar,KindergartenData,196.0,192.0,2015-2016,2016
+Merced,Hilmar-Irwin,7thGradeData,188.0,185.0,2015-2016,2016
+Merced,Hilmar-Irwin,ChildCareData,129.0,127.0,2015-2016,2016
+Merced,Hilmar-Irwin,KindergartenData,196.0,192.0,2015-2016,2016
 Merced,Le Grand,7thGradeData,45.0,45.0,2015-2016,2016
 Merced,Le Grand,ChildCareData,21.0,19.0,2015-2016,2016
 Merced,Le Grand,KindergartenData,47.0,47.0,2015-2016,2016
@@ -10826,9 +10799,8 @@ Orange,Mission Viejo,7thGradeData,1539.0,1505.0,2015-2016,2016
 Orange,Mission Viejo,ChildCareData,1720.0,1587.0,2015-2016,2016
 Orange,Mission Viejo,KindergartenData,1127.0,1009.0,2015-2016,2016
 Orange,Newport Beach,7thGradeData,1143.0,1071.0,2015-2016,2016
-Orange,Newport Beach,ChildCareData,1291.0,1193.0,2015-2016,2016
+Orange,Newport Beach,ChildCareData,1328.0,1229.0,2015-2016,2016
 Orange,Newport Beach,KindergartenData,749.0,646.0,2015-2016,2016
-Orange,Newport Coast,ChildCareData,37.0,36.0,2015-2016,2016
 Orange,North Tustin,7thGradeData,37.0,35.0,2015-2016,2016
 Orange,North Tustin,ChildCareData,22.0,22.0,2015-2016,2016
 Orange,North Tustin,KindergartenData,47.0,34.0,2015-2016,2016
@@ -11014,8 +10986,7 @@ Riverside,Rancho Mirage,7thGradeData,36.0,35.0,2015-2016,2016
 Riverside,Rancho Mirage,KindergartenData,102.0,97.0,2015-2016,2016
 Riverside,Riverside,7thGradeData,5490.0,5414.0,2015-2016,2016
 Riverside,Riverside,ChildCareData,4422.0,4183.0,2015-2016,2016
-Riverside,Riverside,KindergartenData,4952.0,4825.0,2015-2016,2016
-Riverside,Riversidty,KindergartenData,18.0,18.0,2015-2016,2016
+Riverside,Riverside,KindergartenData,4970.0,4843.0,2015-2016,2016
 Riverside,Romoland,ChildCareData,152.0,150.0,2015-2016,2016
 Riverside,Romoland,KindergartenData,337.0,325.0,2015-2016,2016
 Riverside,Salton City,7thGradeData,91.0,88.0,2015-2016,2016
@@ -11177,8 +11148,8 @@ San Bernardino,Montclair,ChildCareData,598.0,590.0,2015-2016,2016
 San Bernardino,Montclair,KindergartenData,765.0,741.0,2015-2016,2016
 San Bernardino,Morongo Valley,ChildCareData,12.0,12.0,2015-2016,2016
 San Bernardino,Morongo Valley,KindergartenData,27.0,26.0,2015-2016,2016
-San Bernardino,Mt. Baldy,7thGradeData,15.0,15.0,2015-2016,2016
-San Bernardino,Mt. Baldy,KindergartenData,12.0,11.0,2015-2016,2016
+San Bernardino,Mount Baldy,7thGradeData,15.0,15.0,2015-2016,2016
+San Bernardino,Mount Baldy,KindergartenData,12.0,11.0,2015-2016,2016
 San Bernardino,Muscoy,ChildCareData,47.0,46.0,2015-2016,2016
 San Bernardino,Needles,7thGradeData,74.0,71.0,2015-2016,2016
 San Bernardino,Needles,ChildCareData,62.0,59.0,2015-2016,2016
@@ -12279,8 +12250,8 @@ Fresno,Fowler,7thGradeData,211.0,208.0,2016-2017,2017
 Fresno,Fowler,ChildCareData,117.0,113.0,2016-2017,2017
 Fresno,Fowler,KindergartenData,181.0,179.0,2016-2017,2017
 Fresno,Fresno,7thGradeData,8978.0,8842.0,2016-2017,2017
-Fresno,Fresno,ChildCareData,8332.0,7896.0,2016-2017,2017
-Fresno,Fresno,KindergartenData,11186.0,10810.0,2016-2017,2017
+Fresno,Fresno,ChildCareData,8477.0,8029.0,2016-2017,2017
+Fresno,Fresno,KindergartenData,11375.0,10994.0,2016-2017,2017
 Fresno,Huron,7thGradeData,129.0,127.0,2016-2017,2017
 Fresno,Huron,ChildCareData,102.0,97.0,2016-2017,2017
 Fresno,Huron,KindergartenData,147.0,145.0,2016-2017,2017
@@ -12302,8 +12273,6 @@ Fresno,Orange Cove,KindergartenData,216.0,210.0,2016-2017,2017
 Fresno,Parlier,7thGradeData,313.0,307.0,2016-2017,2017
 Fresno,Parlier,ChildCareData,261.0,250.0,2016-2017,2017
 Fresno,Parlier,KindergartenData,381.0,371.0,2016-2017,2017
-Fresno,Pinedale,ChildCareData,145.0,133.0,2016-2017,2017
-Fresno,Pinedale,KindergartenData,189.0,184.0,2016-2017,2017
 Fresno,Prather,KindergartenData,118.0,116.0,2016-2017,2017
 Fresno,Raisin City,7thGradeData,27.0,25.0,2016-2017,2017
 Fresno,Raisin City,ChildCareData,33.0,31.0,2016-2017,2017
@@ -12834,8 +12803,8 @@ Madera,Ahwahnee,KindergartenData,40.0,35.0,2016-2017,2017
 Madera,Chowchilla,7thGradeData,278.0,273.0,2016-2017,2017
 Madera,Chowchilla,ChildCareData,197.0,188.0,2016-2017,2017
 Madera,Chowchilla,KindergartenData,303.0,298.0,2016-2017,2017
-Madera,Coaresgold,ChildCareData,24.0,22.0,2016-2017,2017
 Madera,Coarsegold,7thGradeData,110.0,106.0,2016-2017,2017
+Madera,Coarsegold,ChildCareData,24.0,22.0,2016-2017,2017
 Madera,Coarsegold,KindergartenData,118.0,112.0,2016-2017,2017
 Madera,Madera,7thGradeData,1828.0,1783.0,2016-2017,2017
 Madera,Madera,ChildCareData,1182.0,1123.0,2016-2017,2017
@@ -12931,9 +12900,9 @@ Merced,El Nido,KindergartenData,24.0,22.0,2016-2017,2017
 Merced,Gustine,7thGradeData,121.0,119.0,2016-2017,2017
 Merced,Gustine,ChildCareData,22.0,20.0,2016-2017,2017
 Merced,Gustine,KindergartenData,104.0,102.0,2016-2017,2017
-Merced,Hilmar,7thGradeData,189.0,187.0,2016-2017,2017
-Merced,Hilmar,ChildCareData,89.0,87.0,2016-2017,2017
-Merced,Hilmar,KindergartenData,248.0,245.0,2016-2017,2017
+Merced,Hilmar-Irwin,7thGradeData,189.0,187.0,2016-2017,2017
+Merced,Hilmar-Irwin,ChildCareData,89.0,87.0,2016-2017,2017
+Merced,Hilmar-Irwin,KindergartenData,248.0,245.0,2016-2017,2017
 Merced,Le Grand,7thGradeData,49.0,45.0,2016-2017,2017
 Merced,Le Grand,KindergartenData,56.0,53.0,2016-2017,2017
 Merced,Livingston,7thGradeData,281.0,278.0,2016-2017,2017
@@ -13097,9 +13066,8 @@ Orange,Mission Viejo,7thGradeData,1514.0,1483.0,2016-2017,2017
 Orange,Mission Viejo,ChildCareData,1854.0,1757.0,2016-2017,2017
 Orange,Mission Viejo,KindergartenData,1123.0,1078.0,2016-2017,2017
 Orange,Newport Beach,7thGradeData,1165.0,1131.0,2016-2017,2017
-Orange,Newport Beach,ChildCareData,1314.0,1251.0,2016-2017,2017
+Orange,Newport Beach,ChildCareData,1338.0,1273.0,2016-2017,2017
 Orange,Newport Beach,KindergartenData,716.0,685.0,2016-2017,2017
-Orange,Newport Coast,ChildCareData,24.0,22.0,2016-2017,2017
 Orange,North Tustin,7thGradeData,49.0,45.0,2016-2017,2017
 Orange,North Tustin,KindergartenData,59.0,57.0,2016-2017,2017
 Orange,Orange,7thGradeData,1344.0,1316.0,2016-2017,2017
@@ -14438,8 +14406,8 @@ Fresno,Fowler,7thGradeData,220.0,217.0,2017-2018,2018
 Fresno,Fowler,ChildCareData,151.0,145.0,2017-2018,2018
 Fresno,Fowler,KindergartenData,173.0,171.0,2017-2018,2018
 Fresno,Fresno,7thGradeData,8513.0,8307.0,2017-2018,2018
-Fresno,Fresno,ChildCareData,8339.0,7928.0,2017-2018,2018
-Fresno,Fresno,KindergartenData,11113.0,10544.0,2017-2018,2018
+Fresno,Fresno,ChildCareData,8511.0,8085.0,2017-2018,2018
+Fresno,Fresno,KindergartenData,11302.0,10729.0,2017-2018,2018
 Fresno,Huron,7thGradeData,122.0,120.0,2017-2018,2018
 Fresno,Huron,ChildCareData,91.0,87.0,2017-2018,2018
 Fresno,Huron,KindergartenData,157.0,155.0,2017-2018,2018
@@ -14461,8 +14429,6 @@ Fresno,Orange Cove,KindergartenData,233.0,228.0,2017-2018,2018
 Fresno,Parlier,7thGradeData,355.0,350.0,2017-2018,2018
 Fresno,Parlier,ChildCareData,241.0,232.0,2017-2018,2018
 Fresno,Parlier,KindergartenData,342.0,333.0,2017-2018,2018
-Fresno,Pinedale,ChildCareData,172.0,157.0,2017-2018,2018
-Fresno,Pinedale,KindergartenData,189.0,185.0,2017-2018,2018
 Fresno,Prather,KindergartenData,95.0,91.0,2017-2018,2018
 Fresno,Raisin City,7thGradeData,32.0,30.0,2017-2018,2018
 Fresno,Raisin City,ChildCareData,23.0,21.0,2017-2018,2018
@@ -15093,9 +15059,9 @@ Merced,Dos Palos,KindergartenData,231.0,227.0,2017-2018,2018
 Merced,Gustine,7thGradeData,156.0,154.0,2017-2018,2018
 Merced,Gustine,ChildCareData,65.0,61.0,2017-2018,2018
 Merced,Gustine,KindergartenData,88.0,86.0,2017-2018,2018
-Merced,Hilmar,7thGradeData,187.0,185.0,2017-2018,2018
-Merced,Hilmar,ChildCareData,132.0,128.0,2017-2018,2018
-Merced,Hilmar,KindergartenData,261.0,258.0,2017-2018,2018
+Merced,Hilmar-Irwin,7thGradeData,187.0,185.0,2017-2018,2018
+Merced,Hilmar-Irwin,ChildCareData,132.0,128.0,2017-2018,2018
+Merced,Hilmar-Irwin,KindergartenData,261.0,258.0,2017-2018,2018
 Merced,Le Grand,7thGradeData,40.0,34.0,2017-2018,2018
 Merced,Le Grand,KindergartenData,58.0,52.0,2017-2018,2018
 Merced,Livingston,7thGradeData,267.0,264.0,2017-2018,2018
@@ -15195,9 +15161,8 @@ Orange,Aliso Viejo,7thGradeData,966.0,936.0,2017-2018,2018
 Orange,Aliso Viejo,ChildCareData,541.0,525.0,2017-2018,2018
 Orange,Aliso Viejo,KindergartenData,615.0,537.0,2017-2018,2018
 Orange,Anaheim,7thGradeData,4141.0,4053.0,2017-2018,2018
-Orange,Anaheim,ChildCareData,4193.0,3954.0,2017-2018,2018
+Orange,Anaheim,ChildCareData,4256.0,4014.0,2017-2018,2018
 Orange,Anaheim,KindergartenData,5213.0,5060.0,2017-2018,2018
-Orange,Ananheim,ChildCareData,63.0,60.0,2017-2018,2018
 Orange,Brea,7thGradeData,503.0,494.0,2017-2018,2018
 Orange,Brea,ChildCareData,514.0,494.0,2017-2018,2018
 Orange,Brea,KindergartenData,685.0,666.0,2017-2018,2018
@@ -15205,9 +15170,8 @@ Orange,Buena Park,7thGradeData,582.0,572.0,2017-2018,2018
 Orange,Buena Park,ChildCareData,837.0,806.0,2017-2018,2018
 Orange,Buena Park,KindergartenData,1143.0,1115.0,2017-2018,2018
 Orange,Costa Mesa,7thGradeData,974.0,933.0,2017-2018,2018
-Orange,Costa Mesa,ChildCareData,1782.0,1693.0,2017-2018,2018
+Orange,Costa Mesa,ChildCareData,1910.0,1810.0,2017-2018,2018
 Orange,Costa Mesa,KindergartenData,1373.0,1298.0,2017-2018,2018
-Orange,"Costa Mesa,",ChildCareData,128.0,117.0,2017-2018,2018
 Orange,Coto de Caza,KindergartenData,53.0,51.0,2017-2018,2018
 Orange,Cypress,7thGradeData,1016.0,1001.0,2017-2018,2018
 Orange,Cypress,ChildCareData,884.0,847.0,2017-2018,2018

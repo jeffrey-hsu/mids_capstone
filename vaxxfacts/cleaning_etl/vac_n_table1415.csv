@@ -266,8 +266,8 @@ Fresno,Fowler,7thGradeData,178.0
 Fresno,Fowler,ChildCareData,117.0
 Fresno,Fowler,KindergartenData,146.0
 Fresno,Fresno,7thGradeData,8182.0
-Fresno,Fresno,ChildCareData,7669.0
-Fresno,Fresno,KindergartenData,10143.0
+Fresno,Fresno,ChildCareData,7822.0
+Fresno,Fresno,KindergartenData,10300.0
 Fresno,Helm,7thGradeData,13.0
 Fresno,Helm,KindergartenData,12.0
 Fresno,Huron,7thGradeData,123.0
@@ -291,8 +291,6 @@ Fresno,Orange Cove,KindergartenData,246.0
 Fresno,Parlier,7thGradeData,304.0
 Fresno,Parlier,ChildCareData,239.0
 Fresno,Parlier,KindergartenData,337.0
-Fresno,Pinedale,ChildCareData,153.0
-Fresno,Pinedale,KindergartenData,157.0
 Fresno,Prather,KindergartenData,110.0
 Fresno,Raisin City,7thGradeData,34.0
 Fresno,Raisin City,ChildCareData,28.0
@@ -608,7 +606,6 @@ Los Angeles,Castaic,KindergartenData,320.0
 Los Angeles,Cerritos,7thGradeData,1239.0
 Los Angeles,Cerritos,ChildCareData,377.0
 Los Angeles,Cerritos,KindergartenData,713.0
-Los Angeles,Chasworth,ChildCareData,35.0
 Los Angeles,Claremont,7thGradeData,616.0
 Los Angeles,Claremont,ChildCareData,695.0
 Los Angeles,Claremont,KindergartenData,526.0
@@ -715,7 +712,7 @@ Los Angeles,Long Beach,7thGradeData,5439.0
 Los Angeles,Long Beach,ChildCareData,6749.0
 Los Angeles,Long Beach,KindergartenData,5694.0
 Los Angeles,Los Angeles,7thGradeData,39913.0
-Los Angeles,Los Angeles,ChildCareData,40565.0
+Los Angeles,Los Angeles,ChildCareData,40600.0
 Los Angeles,Los Angeles,KindergartenData,43900.0
 Los Angeles,Lynwood,7thGradeData,1078.0
 Los Angeles,Lynwood,ChildCareData,1030.0
@@ -873,11 +870,11 @@ Madera,Madera,KindergartenData,1602.0
 Madera,North Fork,7thGradeData,26.0
 Madera,North Fork,ChildCareData,17.0
 Madera,North Fork,KindergartenData,21.0
+Madera,O'Neals,7thGradeData,19.0
 Madera,O'Neals,KindergartenData,16.0
 Madera,Oakhurst,7thGradeData,82.0
 Madera,Oakhurst,ChildCareData,130.0
 Madera,Oakhurst,KindergartenData,64.0
-Madera,Oneals,7thGradeData,19.0
 Marin,Belvedere,ChildCareData,60.0
 Marin,Bolinas,7thGradeData,12.0
 Marin,Bolinas,ChildCareData,13.0
@@ -982,9 +979,9 @@ Merced,El Nido,KindergartenData,25.0
 Merced,Gustine,7thGradeData,155.0
 Merced,Gustine,ChildCareData,73.0
 Merced,Gustine,KindergartenData,129.0
-Merced,Hilmar,7thGradeData,167.0
-Merced,Hilmar,ChildCareData,122.0
-Merced,Hilmar,KindergartenData,155.0
+Merced,Hilmar-Irwin,7thGradeData,167.0
+Merced,Hilmar-Irwin,ChildCareData,122.0
+Merced,Hilmar-Irwin,KindergartenData,155.0
 Merced,Le Grand,7thGradeData,48.0
 Merced,Le Grand,ChildCareData,18.0
 Merced,Le Grand,KindergartenData,33.0
@@ -1521,7 +1518,7 @@ San Bernardino,Montclair,ChildCareData,508.0
 San Bernardino,Montclair,KindergartenData,828.0
 San Bernardino,Morongo Valley,ChildCareData,18.0
 San Bernardino,Morongo Valley,KindergartenData,30.0
-San Bernardino,Mt Baldy,KindergartenData,15.0
+San Bernardino,Mount Baldy,KindergartenData,15.0
 San Bernardino,Muscoy,ChildCareData,32.0
 San Bernardino,Needles,7thGradeData,50.0
 San Bernardino,Needles,ChildCareData,72.0
@@ -1756,9 +1753,8 @@ San Luis Obispo,El Paso de Robles (Paso Robles),ChildCareData,540.0
 San Luis Obispo,El Paso de Robles (Paso Robles),KindergartenData,535.0
 San Luis Obispo,Grover Beach,ChildCareData,76.0
 San Luis Obispo,Grover Beach,KindergartenData,204.0
-San Luis Obispo,Los Oso,ChildCareData,17.0
 San Luis Obispo,Los Osos,7thGradeData,174.0
-San Luis Obispo,Los Osos,ChildCareData,133.0
+San Luis Obispo,Los Osos,ChildCareData,150.0
 San Luis Obispo,Los Osos,KindergartenData,126.0
 San Luis Obispo,Morro Bay,ChildCareData,77.0
 San Luis Obispo,Morro Bay,KindergartenData,68.0

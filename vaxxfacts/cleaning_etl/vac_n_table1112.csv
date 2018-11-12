@@ -286,8 +286,8 @@ Fresno,Fowler,7thGradeData,1027.0
 Fresno,Fowler,ChildCareData,119.0
 Fresno,Fowler,KindergartenData,148.0
 Fresno,Fresno,7thGradeData,48630.0
-Fresno,Fresno,ChildCareData,6861.0
-Fresno,Fresno,KindergartenData,9166.0
+Fresno,Fresno,ChildCareData,7008.0
+Fresno,Fresno,KindergartenData,9298.0
 Fresno,Helm,7thGradeData,14.0
 Fresno,Helm,KindergartenData,18.0
 Fresno,Huron,7thGradeData,235.0
@@ -311,8 +311,6 @@ Fresno,Orange Cove,KindergartenData,283.0
 Fresno,Parlier,7thGradeData,1380.0
 Fresno,Parlier,ChildCareData,288.0
 Fresno,Parlier,KindergartenData,368.0
-Fresno,Pinedale,ChildCareData,147.0
-Fresno,Pinedale,KindergartenData,132.0
 Fresno,Prather,KindergartenData,77.0
 Fresno,Raisin City,7thGradeData,55.0
 Fresno,Raisin City,ChildCareData,46.0
@@ -417,7 +415,7 @@ Imperial,El Centro,ChildCareData,1002.0
 Imperial,El Centro,KindergartenData,842.0
 Imperial,Heber,7thGradeData,255.0
 Imperial,Heber,ChildCareData,77.0
-Imperial,Herber,KindergartenData,106.0
+Imperial,Heber,KindergartenData,106.0
 Imperial,Holtville,7thGradeData,796.0
 Imperial,Holtville,ChildCareData,75.0
 Imperial,Holtville,KindergartenData,104.0
@@ -752,13 +750,12 @@ Los Angeles,Littlerock,KindergartenData,82.0
 Los Angeles,Lomita,7thGradeData,1277.0
 Los Angeles,Lomita,ChildCareData,742.0
 Los Angeles,Lomita,KindergartenData,252.0
-Los Angeles,Long  Beach,7thGradeData,943.0
-Los Angeles,Long Beach,7thGradeData,32381.0
+Los Angeles,Long Beach,7thGradeData,33324.0
 Los Angeles,Long Beach,ChildCareData,7364.0
 Los Angeles,Long Beach,KindergartenData,6077.0
 Los Angeles,Los Angeles,7thGradeData,276736.0
 Los Angeles,Los Angeles,ChildCareData,51685.0
-Los Angeles,Los Angeles,KindergartenData,43549.0
+Los Angeles,Los Angeles,KindergartenData,45108.0
 Los Angeles,Lynwood,7thGradeData,6242.0
 Los Angeles,Lynwood,ChildCareData,1097.0
 Los Angeles,Lynwood,KindergartenData,1233.0
@@ -785,7 +782,6 @@ Los Angeles,Montebello,KindergartenData,783.0
 Los Angeles,Monterey Park,7thGradeData,2051.0
 Los Angeles,Monterey Park,ChildCareData,731.0
 Los Angeles,Monterey Park,KindergartenData,626.0
-Los Angeles,North Hollywood,KindergartenData,1559.0
 Los Angeles,Norwalk,7thGradeData,6275.0
 Los Angeles,Norwalk,ChildCareData,1211.0
 Los Angeles,Norwalk,KindergartenData,1377.0
@@ -1030,9 +1026,9 @@ Merced,El Nido,KindergartenData,21.0
 Merced,Gustine,7thGradeData,767.0
 Merced,Gustine,ChildCareData,62.0
 Merced,Gustine,KindergartenData,100.0
-Merced,Hilmar,7thGradeData,1038.0
-Merced,Hilmar,ChildCareData,113.0
-Merced,Hilmar,KindergartenData,115.0
+Merced,Hilmar-Irwin,7thGradeData,1038.0
+Merced,Hilmar-Irwin,ChildCareData,113.0
+Merced,Hilmar-Irwin,KindergartenData,115.0
 Merced,Le Grand,7thGradeData,558.0
 Merced,Le Grand,ChildCareData,53.0
 Merced,Le Grand,KindergartenData,39.0
@@ -1186,7 +1182,6 @@ Orange,Cypress,KindergartenData,584.0
 Orange,Dana Point,7thGradeData,2909.0
 Orange,Dana Point,ChildCareData,640.0
 Orange,Dana Point,KindergartenData,229.0
-Orange,El Toro,KindergartenData,218.0
 Orange,Fountain Valley,7thGradeData,7528.0
 Orange,Fountain Valley,ChildCareData,868.0
 Orange,Fountain Valley,KindergartenData,648.0
@@ -1196,8 +1191,7 @@ Orange,Fullerton,KindergartenData,1618.0
 Orange,Garden Grove,7thGradeData,17329.0
 Orange,Garden Grove,ChildCareData,2302.0
 Orange,Garden Grove,KindergartenData,2908.0
-Orange,Huntington  Beach,7thGradeData,132.0
-Orange,Huntington Beach,7thGradeData,14660.0
+Orange,Huntington Beach,7thGradeData,14792.0
 Orange,Huntington Beach,ChildCareData,2894.0
 Orange,Huntington Beach,KindergartenData,2229.0
 Orange,Irvine,7thGradeData,16232.0
@@ -1224,7 +1218,7 @@ Orange,Laguna Niguel,KindergartenData,690.0
 Orange,Laguna Woods,ChildCareData,80.0
 Orange,Lake Forest,7thGradeData,4102.0
 Orange,Lake Forest,ChildCareData,957.0
-Orange,Lake Forest,KindergartenData,577.0
+Orange,Lake Forest,KindergartenData,795.0
 Orange,Las Flores (Orange County),7thGradeData,3011.0
 Orange,Las Flores (Orange County),ChildCareData,105.0
 Orange,Los Alamitos,7thGradeData,4810.0
@@ -1235,10 +1229,9 @@ Orange,Midway City,KindergartenData,336.0
 Orange,Mission Viejo,7thGradeData,11848.0
 Orange,Mission Viejo,ChildCareData,1498.0
 Orange,Mission Viejo,KindergartenData,1009.0
-Orange,Newport Beach,7thGradeData,5944.0
+Orange,Newport Beach,7thGradeData,6382.0
 Orange,Newport Beach,ChildCareData,1118.0
 Orange,Newport Beach,KindergartenData,657.0
-Orange,Newport Coast,7thGradeData,438.0
 Orange,Orange,7thGradeData,8924.0
 Orange,Orange,ChildCareData,1977.0
 Orange,Orange,KindergartenData,1393.0
@@ -1564,10 +1557,9 @@ San Bernardino,Grand Terrace,KindergartenData,192.0
 San Bernardino,Helendale,7thGradeData,310.0
 San Bernardino,Helendale,ChildCareData,34.0
 San Bernardino,Helendale,KindergartenData,54.0
-San Bernardino,Hespera,KindergartenData,100.0
 San Bernardino,Hesperia,7thGradeData,9918.0
 San Bernardino,Hesperia,ChildCareData,632.0
-San Bernardino,Hesperia,KindergartenData,1434.0
+San Bernardino,Hesperia,KindergartenData,1534.0
 San Bernardino,Highland,7thGradeData,2138.0
 San Bernardino,Highland,ChildCareData,517.0
 San Bernardino,Highland,KindergartenData,861.0
@@ -1593,8 +1585,8 @@ San Bernardino,Montclair,ChildCareData,469.0
 San Bernardino,Montclair,KindergartenData,768.0
 San Bernardino,Morongo Valley,ChildCareData,13.0
 San Bernardino,Morongo Valley,KindergartenData,32.0
-San Bernardino,Mt Baldy,KindergartenData,12.0
-San Bernardino,Mt. Baldy,7thGradeData,25.0
+San Bernardino,Mount Baldy,7thGradeData,25.0
+San Bernardino,Mount Baldy,KindergartenData,12.0
 San Bernardino,Needles,7thGradeData,365.0
 San Bernardino,Needles,ChildCareData,76.0
 San Bernardino,Needles,KindergartenData,61.0
@@ -2086,9 +2078,8 @@ Shasta,Palo Cedro,7thGradeData,1645.0
 Shasta,Palo Cedro,ChildCareData,24.0
 Shasta,Palo Cedro,KindergartenData,97.0
 Shasta,Redding,7thGradeData,6421.0
-Shasta,Redding,ChildCareData,1294.0
+Shasta,Redding,ChildCareData,1344.0
 Shasta,Redding,KindergartenData,1113.0
-Shasta,Redding ,ChildCareData,50.0
 Shasta,Shasta,7thGradeData,19.0
 Shasta,Shasta,KindergartenData,17.0
 Shasta,Shasta Lake,7thGradeData,1217.0
@@ -2280,7 +2271,7 @@ Tehama,Gerber,KindergartenData,56.0
 Tehama,Los Molinos,7thGradeData,290.0
 Tehama,Los Molinos,ChildCareData,18.0
 Tehama,Los Molinos,KindergartenData,80.0
-Tehama,Rancho Tehema,KindergartenData,12.0
+Tehama,Rancho Tehama Reserve,KindergartenData,12.0
 Tehama,Red Bluff,7thGradeData,2483.0
 Tehama,Red Bluff,ChildCareData,329.0
 Tehama,Red Bluff,KindergartenData,377.0
@@ -2431,10 +2422,9 @@ Ventura,Santa Paula,7thGradeData,2380.0
 Ventura,Santa Paula,ChildCareData,294.0
 Ventura,Santa Paula,KindergartenData,559.0
 Ventura,Saticoy,KindergartenData,47.0
-Ventura,Simi  Valley,KindergartenData,22.0
 Ventura,Simi Valley,7thGradeData,9599.0
 Ventura,Simi Valley,ChildCareData,1161.0
-Ventura,Simi Valley,KindergartenData,1415.0
+Ventura,Simi Valley,KindergartenData,1437.0
 Ventura,Somis,7thGradeData,210.0
 Ventura,Somis,ChildCareData,12.0
 Ventura,Somis,KindergartenData,63.0

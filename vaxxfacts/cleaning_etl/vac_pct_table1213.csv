@@ -278,8 +278,8 @@ Fresno,Fowler,7thGradeData,100.0
 Fresno,Fowler,ChildCareData,100.0
 Fresno,Fowler,KindergartenData,98.34
 Fresno,Fresno,7thGradeData,95.52659090909088
-Fresno,Fresno,ChildCareData,94.66609353627494
-Fresno,Fresno,KindergartenData,94.30566666666665
+Fresno,Fresno,ChildCareData,94.47182272386694
+Fresno,Fresno,KindergartenData,94.36581967213114
 Fresno,Helm,7thGradeData,100.0
 Fresno,Huron,7thGradeData,99.22
 Fresno,Huron,ChildCareData,98.96834935897435
@@ -302,8 +302,6 @@ Fresno,Orange Cove,KindergartenData,100.0
 Fresno,Parlier,7thGradeData,99.52000000000001
 Fresno,Parlier,ChildCareData,100.0
 Fresno,Parlier,KindergartenData,98.946
-Fresno,Pinedale,ChildCareData,88.2940108892922
-Fresno,Pinedale,KindergartenData,97.975
 Fresno,Prather,KindergartenData,89.91
 Fresno,Raisin City,7thGradeData,64.29
 Fresno,Raisin City,ChildCareData,100.0
@@ -404,7 +402,7 @@ Imperial,El Centro,ChildCareData,97.53615995962242
 Imperial,El Centro,KindergartenData,98.31666666666666
 Imperial,Heber,7thGradeData,100.0
 Imperial,Heber,ChildCareData,96.2121212121212
-Imperial,Herber,KindergartenData,100.0
+Imperial,Heber,KindergartenData,100.0
 Imperial,Holtville,7thGradeData,100.0
 Imperial,Holtville,ChildCareData,96.66666666666666
 Imperial,Holtville,KindergartenData,100.0
@@ -741,7 +739,7 @@ Los Angeles,Long Beach,ChildCareData,94.7866725254985
 Los Angeles,Long Beach,KindergartenData,91.03588235294119
 Los Angeles,Los Angeles,7thGradeData,96.25127725856697
 Los Angeles,Los Angeles,ChildCareData,91.86248580209212
-Los Angeles,Los Angeles,KindergartenData,88.1793806646526
+Los Angeles,Los Angeles,KindergartenData,88.3963450292398
 Los Angeles,Lynwood,7thGradeData,99.585
 Los Angeles,Lynwood,ChildCareData,97.80409727835885
 Los Angeles,Lynwood,KindergartenData,91.49571428571429
@@ -767,7 +765,6 @@ Los Angeles,Montebello,KindergartenData,93.41166666666668
 Los Angeles,Monterey Park,7thGradeData,99.55125
 Los Angeles,Monterey Park,ChildCareData,98.73391169762137
 Los Angeles,Monterey Park,KindergartenData,94.62538461538462
-Los Angeles,North Hollywood,KindergartenData,94.925
 Los Angeles,Norwalk,7thGradeData,98.36
 Los Angeles,Norwalk,ChildCareData,98.53497811549725
 Los Angeles,Norwalk,KindergartenData,96.499
@@ -1006,9 +1003,9 @@ Merced,El Nido,KindergartenData,100.0
 Merced,Gustine,7thGradeData,100.0
 Merced,Gustine,ChildCareData,98.21428571428571
 Merced,Gustine,KindergartenData,99.52000000000001
-Merced,Hilmar,7thGradeData,98.18
-Merced,Hilmar,ChildCareData,98.29545454545455
-Merced,Hilmar,KindergartenData,95.07
+Merced,Hilmar-Irwin,7thGradeData,98.18
+Merced,Hilmar-Irwin,ChildCareData,98.29545454545455
+Merced,Hilmar-Irwin,KindergartenData,95.07
 Merced,Le Grand,7thGradeData,100.0
 Merced,Le Grand,ChildCareData,100.0
 Merced,Le Grand,KindergartenData,100.0
@@ -1151,7 +1148,6 @@ Orange,Cypress,KindergartenData,95.386
 Orange,Dana Point,7thGradeData,95.77
 Orange,Dana Point,ChildCareData,89.42416523729743
 Orange,Dana Point,KindergartenData,76.86571428571428
-Orange,El Toro,KindergartenData,89.3
 Orange,Fountain Valley,7thGradeData,99.2525
 Orange,Fountain Valley,ChildCareData,92.02722457569237
 Orange,Fountain Valley,KindergartenData,91.95083333333334
@@ -1187,7 +1183,7 @@ Orange,Laguna Niguel,KindergartenData,83.64153846153847
 Orange,Laguna Woods,ChildCareData,94.94949494949492
 Orange,Lake Forest,7thGradeData,89.0
 Orange,Lake Forest,ChildCareData,93.48861411692624
-Orange,Lake Forest,KindergartenData,87.83454545454546
+Orange,Lake Forest,KindergartenData,88.14857142857143
 Orange,Las Flores (Orange County),7thGradeData,99.47
 Orange,Las Flores (Orange County),ChildCareData,88.77831159917642
 Orange,Los Alamitos,7thGradeData,98.25
@@ -1518,10 +1514,9 @@ San Bernardino,Grand Terrace,KindergartenData,95.625
 San Bernardino,Helendale,7thGradeData,90.2
 San Bernardino,Helendale,ChildCareData,100.0
 San Bernardino,Helendale,KindergartenData,94.2
-San Bernardino,Hespera,KindergartenData,93.0
 San Bernardino,Hesperia,7thGradeData,94.07727272727271
 San Bernardino,Hesperia,ChildCareData,94.46194763420145
-San Bernardino,Hesperia,KindergartenData,96.93625
+San Bernardino,Hesperia,KindergartenData,96.70470588235294
 San Bernardino,Highland,7thGradeData,98.77333333333333
 San Bernardino,Highland,ChildCareData,98.02204246370914
 San Bernardino,Highland,KindergartenData,96.44076923076922
@@ -1544,8 +1539,8 @@ San Bernardino,Montclair,ChildCareData,98.73101550233076
 San Bernardino,Montclair,KindergartenData,98.74
 San Bernardino,Morongo Valley,ChildCareData,100.0
 San Bernardino,Morongo Valley,KindergartenData,100.0
-San Bernardino,Mt Baldy,KindergartenData,83.33
-San Bernardino,Mt. Baldy,7thGradeData,91.67
+San Bernardino,Mount Baldy,7thGradeData,91.67
+San Bernardino,Mount Baldy,KindergartenData,83.33
 San Bernardino,Needles,7thGradeData,98.31
 San Bernardino,Needles,ChildCareData,100.0
 San Bernardino,Needles,KindergartenData,89.16
@@ -1576,10 +1571,9 @@ San Bernardino,Rialto,KindergartenData,98.20166666666667
 San Bernardino,Rim Forest,ChildCareData,83.3333333333333
 San Bernardino,Running Springs,ChildCareData,100.0
 San Bernardino,Running Springs,KindergartenData,91.07
-San Bernardino,San Bernadino,KindergartenData,100.0
 San Bernardino,San Bernardino,7thGradeData,97.31176470588235
 San Bernardino,San Bernardino,ChildCareData,97.56611340449983
-San Bernardino,San Bernardino,KindergartenData,95.28244897959182
+San Bernardino,San Bernardino,KindergartenData,95.37679999999999
 San Bernardino,Sugarloaf,ChildCareData,89.4736842105263
 San Bernardino,Sugarloaf,KindergartenData,81.82
 San Bernardino,Trona,7thGradeData,89.47
@@ -2209,7 +2203,7 @@ Tehama,Gerber,KindergartenData,100.0
 Tehama,Los Molinos,7thGradeData,98.215
 Tehama,Los Molinos,ChildCareData,93.75
 Tehama,Los Molinos,KindergartenData,86.945
-Tehama,Rancho Tehema,KindergartenData,85.0
+Tehama,Rancho Tehama Reserve,KindergartenData,85.0
 Tehama,Red Bluff,7thGradeData,85.484
 Tehama,Red Bluff,ChildCareData,95.0593130643288
 Tehama,Red Bluff,KindergartenData,91.19666666666667

@@ -945,7 +945,7 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 103801943,Fresno,HEAD START,Orange Cove,ORANGE COVE MIGRANT HEAD START,24.0,23.0,95.8333333333333,Y,ChildCareData
 100400347,Fresno,HEAD START,Parlier,LA COLONIA HEADSTART,71.0,71.0,100.0,Y,ChildCareData
 103801209,Fresno,HEAD START,Parlier,PARLIER MIGRANT HEAD START,21.0,21.0,100.0,Y,ChildCareData
-103801398,Fresno,HEAD START,Pinedale,FCEOC PINEDALE HEAD START,32.0,32.0,100.0,Y,ChildCareData
+103801398,Fresno,HEAD START,Fresno,FCEOC PINEDALE HEAD START,32.0,32.0,100.0,Y,ChildCareData
 103801141,Fresno,HEAD START,Reedley,FCEOC JEFFERSON HEAD START,148.0,147.0,99.32432432432431,Y,ChildCareData
 100405004,Fresno,HEAD START,Reedley,FCEOC REEDLEY HEAD START,37.0,34.0,91.8918918918919,Y,ChildCareData
 103808546,Fresno,HEAD START,Reedley,REEDLEY MIGRANT HEADSTART,22.0,22.0,100.0,Y,ChildCareData
@@ -1058,8 +1058,8 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 103801372,Fresno,PRIVATE,Orange Cove,JULIA A. LOPEZ CHILD DEVELOPMENT CENTER,118.0,115.0,97.45762711864408,Y,ChildCareData
 100400466,Fresno,PRIVATE,Orange Cove,ORANGE COVE DAY CARE CENTER,34.0,32.0,94.11764705882351,Y,ChildCareData
 103801695,Fresno,PRIVATE,Parlier,PARLIER ACADEMY OF EXCELLENCE,60.0,60.0,100.0,Y,ChildCareData
-100405182,Fresno,PRIVATE,Pinedale,DERMER'S CREATIVE CARE,38.0,23.0,60.526315789473706,Y,ChildCareData
-103801757,Fresno,PRIVATE,Pinedale,KINDERCARE LEARNING CENTER,29.0,25.0,86.20689655172409,Y,ChildCareData
+100405182,Fresno,PRIVATE,Fresno,DERMER'S CREATIVE CARE,38.0,23.0,60.526315789473706,Y,ChildCareData
+103801757,Fresno,PRIVATE,Fresno,KINDERCARE LEARNING CENTER,29.0,25.0,86.20689655172409,Y,ChildCareData
 100403967,Fresno,PRIVATE,Reedley,CHAPTER ONE SCHOOL,89.0,88.0,98.876404494382,Y,ChildCareData
 100406304,Fresno,PRIVATE,Reedley,LINC ECE CENTER,12.0,12.0,100.0,Y,ChildCareData
 103801392,Fresno,PRIVATE,Reedley,ST LA SALLE PRE-SCHOOL CHILDCARE CENTER,55.0,53.0,96.3636363636364,Y,ChildCareData
@@ -1183,8 +1183,8 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 100407158,Fresno,PUBLIC,Mendota,MENDOTA UNIFIED PRESCHOOL,49.0,49.0,100.0,Y,ChildCareData
 100406686,Fresno,PUBLIC,Parlier,CESAR E. CHAVEZ PRESCHOOL,48.0,48.0,100.0,Y,ChildCareData
 103801272,Fresno,PUBLIC,Parlier,PARLIER MIGRANT CHILD CARE CENTER,46.0,46.0,100.0,Y,ChildCareData
-100407361,Fresno,PUBLIC,Pinedale,CHILD DEVELOPMENT-STATE PRESCHOOL-NELSON,16.0,16.0,100.0,Y,ChildCareData
-100407360,Fresno,PUBLIC,Pinedale,CHILD DEVELOPMENT-STATE PRESCHOOL-PINEDALE,19.0,18.0,94.7368421052632,Y,ChildCareData
+100407361,Fresno,PUBLIC,Fresno,CHILD DEVELOPMENT-STATE PRESCHOOL-NELSON,16.0,16.0,100.0,Y,ChildCareData
+100407360,Fresno,PUBLIC,Fresno,CHILD DEVELOPMENT-STATE PRESCHOOL-PINEDALE,19.0,18.0,94.7368421052632,Y,ChildCareData
 103801314,Fresno,PUBLIC,Raisin City,RAISIN CITY PRESCHOOL,42.0,42.0,100.0,Y,ChildCareData
 100406470,Fresno,PUBLIC,Reedley,REEDLEY COLLEGE LAB SCHOOL,25.0,25.0,100.0,Y,ChildCareData
 103808134,Fresno,PUBLIC,Reedley,WASHINGTON ELEMENTARY,48.0,48.0,100.0,Y,ChildCareData
@@ -3873,7 +3873,7 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 243808260,Merced,HEAD START,Delhi,DELHI HEAD START,43.0,43.0,100.0,Y,ChildCareData
 243808259,Merced,HEAD START,Dos Palos,SOUTH DOS PALOS HEAD START,40.0,40.0,100.0,Y,ChildCareData
 243808255,Merced,HEAD START,Gustine,PIONEER HEAD START,40.0,40.0,100.0,Y,ChildCareData
-243808263,Merced,HEAD START,Hilmar,ELIM HEAD START,40.0,40.0,100.0,Y,ChildCareData
+243808263,Merced,HEAD START,Hilmar-Irwin,ELIM HEAD START,40.0,40.0,100.0,Y,ChildCareData
 243808245,Merced,HEAD START,Livingston,SCHELBY HEAD START/MERCED CO. OFFICE OF EDUCATION,149.0,148.0,99.32885906040269,Y,ChildCareData
 243808731,Merced,HEAD START,Los Banos,RAFAEL L SILVA MIGRANT HEAD START CENTER,20.0,20.0,100.0,Y,ChildCareData
 243808251,Merced,HEAD START,Los Banos,SAN LUIS HEAD START,44.0,44.0,100.0,Y,ChildCareData
@@ -3889,7 +3889,7 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 240400247,Merced,PRIVATE,Atwater,FRUITLAND CHRISTIAN PRESCHOOL,39.0,32.0,82.05128205128209,Y,ChildCareData
 243801242,Merced,PRIVATE,Atwater,ST. ANTHONY PRESCHOOL,22.0,22.0,100.0,Y,ChildCareData
 240402889,Merced,PRIVATE,Gustine,OUR LADY OF MIRACLES PRESCHOOL,28.0,27.0,96.42857142857142,Y,ChildCareData
-240406039,Merced,PRIVATE,Hilmar,HILMAR CHRISTIAN CHILDREN'S CENTER,88.0,85.0,96.5909090909091,Y,ChildCareData
+240406039,Merced,PRIVATE,Hilmar-Irwin,HILMAR CHRISTIAN CHILDREN'S CENTER,88.0,85.0,96.5909090909091,Y,ChildCareData
 243808646,Merced,PRIVATE,Livingston,CCCDS LIVINGSTON CHILD DEVELOPMENT CENTER,52.0,52.0,100.0,Y,ChildCareData
 243808294,Merced,PRIVATE,Los Banos,OUR LADY OF FATIMA PRE-K,29.0,29.0,100.0,Y,ChildCareData
 240404967,Merced,PRIVATE,Merced,BEAR COUNTRY PRE-SCHOOL & DAY CARE,33.0,33.0,100.0,Y,ChildCareData
@@ -9978,8 +9978,8 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 123869,Fresno,PUBLIC,Fresno,ROGER S. ORAZE ELEMENTARY,111.0,106.0,95.5,Y,KindergartenData
 6005920,Fresno,PUBLIC,Fresno,TEMPERANCE-KUTNER ELEM.,114.0,111.0,97.37,Y,KindergartenData
 6108096,Fresno,PUBLIC,Fresno,VALLEY OAK,68.0,68.0,100.0,Y,KindergartenData
-6005888,Fresno,PUBLIC,Pinedale,NELSON ELEM.,74.0,71.0,95.95,Y,KindergartenData
-6109235,Fresno,PUBLIC,Pinedale,PINEDALE ELEM.,74.0,74.0,100.0,Y,KindergartenData
+6005888,Fresno,PUBLIC,Fresno,NELSON ELEM.,74.0,71.0,95.95,Y,KindergartenData
+6109235,Fresno,PUBLIC,Fresno,PINEDALE ELEM.,74.0,74.0,100.0,Y,KindergartenData
 6005839,Fresno,PUBLIC,Kingsburg,CLAY ELEM.,27.0,25.0,92.59,Y,KindergartenData
 6005789,Fresno,PUBLIC,Fresno,BIOLA-PERSHING ELEM.,43.0,43.0,100.0,Y,KindergartenData
 113993,Fresno,PUBLIC,Fresno,HARVEST ELEMENTARY,86.0,82.0,95.35,Y,KindergartenData
@@ -10071,7 +10071,7 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 6069272,Imperial,PUBLIC,El Centro,SPECIAL EDUCATION,29.0,29.0,100.0,Y,KindergartenData
 6008510,Imperial,PUBLIC,Holtville,FINLEY (EMMETT S.) PRIMARY,91.0,91.0,100.0,Y,KindergartenData
 6008536,Imperial,PUBLIC,Holtville,PINE ELEM.,16.0,16.0,100.0,Y,KindergartenData
-124149,Imperial,PUBLIC,Herber,DOGWOOD ELEMENTARY,123.0,123.0,100.0,Y,KindergartenData
+124149,Imperial,PUBLIC,Heber,DOGWOOD ELEMENTARY,123.0,123.0,100.0,Y,KindergartenData
 118455,Imperial,PUBLIC,El Centro,BALLINGTON ACADEMY FOR THE ARTS AND SCIENCES,46.0,46.0,100.0,Y,KindergartenData
 6008411,Imperial,PUBLIC,El Centro,DE ANZA MAGNET SCHOOL,24.0,23.0,95.83,Y,KindergartenData
 6008429,Imperial,PUBLIC,El Centro,DESERT GARDEN ELEM.,56.0,53.0,94.64,Y,KindergartenData
@@ -11007,20 +11007,20 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 109363,Los Angeles,PUBLIC,Maywood,MAYWOOD NEW ELEM,89.0,76.0,85.39,Y,KindergartenData
 6019038,Los Angeles,PUBLIC,Mission Hills,SAN JOSE STREET ELEM.,90.0,87.0,96.67,Y,KindergartenData
 6018931,Los Angeles,PUBLIC,Monterey Park,LANE (ROBERT HILL) ELEM.,66.0,49.0,74.24,Y,KindergartenData
-6015879,Los Angeles,PUBLIC,North Hollywood,ARMINTA STREET ELEM.,69.0,69.0,100.0,Y,KindergartenData
-6016182,Los Angeles,PUBLIC,North Hollywood,BURBANK BLVD. ELEM.,72.0,68.0,94.44,Y,KindergartenData
-6016273,Los Angeles,PUBLIC,North Hollywood,CAMELLIA AVE. ELEM.,133.0,131.0,98.5,Y,KindergartenData
-6016554,Los Angeles,PUBLIC,North Hollywood,COLDWATER CANYON AVE. ELEM.,145.0,142.0,97.93,Y,KindergartenData
-6016562,Los Angeles,PUBLIC,North Hollywood,COLFAX AVE. ELEM.,111.0,111.0,100.0,Y,KindergartenData
-6016984,Los Angeles,PUBLIC,North Hollywood,FAIR AVE. ELEM.,191.0,189.0,98.95,Y,KindergartenData
-6017784,Los Angeles,PUBLIC,North Hollywood,LANKERSHIM ELEM.,85.0,79.0,92.94,Y,KindergartenData
-6060461,Los Angeles,PUBLIC,North Hollywood,LOWMAN (C.L.) DEV. CTR.,12.0,10.0,83.33,Y,KindergartenData
-6018196,Los Angeles,PUBLIC,North Hollywood,MONLUX (JOHN B.) ELEM.,110.0,97.0,88.18,Y,KindergartenData
-6018626,Los Angeles,PUBLIC,North Hollywood,OXNARD STREET ELEM.,84.0,80.0,95.24,Y,KindergartenData
-6018907,Los Angeles,PUBLIC,North Hollywood,RIO VISTA ELEM.,80.0,64.0,80.0,Y,KindergartenData
-6019087,Los Angeles,PUBLIC,North Hollywood,SATICOY ELEM.,111.0,110.0,99.1,Y,KindergartenData
-6019368,Los Angeles,PUBLIC,North Hollywood,STRATHERN STREET ELEM.,138.0,135.0,97.83,Y,KindergartenData
-6019517,Los Angeles,PUBLIC,North Hollywood,TOLUCA LAKE ELEM.,90.0,83.0,92.22,Y,KindergartenData
+6015879,Los Angeles,PUBLIC,Los Angeles,ARMINTA STREET ELEM.,69.0,69.0,100.0,Y,KindergartenData
+6016182,Los Angeles,PUBLIC,Los Angeles,BURBANK BLVD. ELEM.,72.0,68.0,94.44,Y,KindergartenData
+6016273,Los Angeles,PUBLIC,Los Angeles,CAMELLIA AVE. ELEM.,133.0,131.0,98.5,Y,KindergartenData
+6016554,Los Angeles,PUBLIC,Los Angeles,COLDWATER CANYON AVE. ELEM.,145.0,142.0,97.93,Y,KindergartenData
+6016562,Los Angeles,PUBLIC,Los Angeles,COLFAX AVE. ELEM.,111.0,111.0,100.0,Y,KindergartenData
+6016984,Los Angeles,PUBLIC,Los Angeles,FAIR AVE. ELEM.,191.0,189.0,98.95,Y,KindergartenData
+6017784,Los Angeles,PUBLIC,Los Angeles,LANKERSHIM ELEM.,85.0,79.0,92.94,Y,KindergartenData
+6060461,Los Angeles,PUBLIC,Los Angeles,LOWMAN (C.L.) DEV. CTR.,12.0,10.0,83.33,Y,KindergartenData
+6018196,Los Angeles,PUBLIC,Los Angeles,MONLUX (JOHN B.) ELEM.,110.0,97.0,88.18,Y,KindergartenData
+6018626,Los Angeles,PUBLIC,Los Angeles,OXNARD STREET ELEM.,84.0,80.0,95.24,Y,KindergartenData
+6018907,Los Angeles,PUBLIC,Los Angeles,RIO VISTA ELEM.,80.0,64.0,80.0,Y,KindergartenData
+6019087,Los Angeles,PUBLIC,Los Angeles,SATICOY ELEM.,111.0,110.0,99.1,Y,KindergartenData
+6019368,Los Angeles,PUBLIC,Los Angeles,STRATHERN STREET ELEM.,138.0,135.0,97.83,Y,KindergartenData
+6019517,Los Angeles,PUBLIC,Los Angeles,TOLUCA LAKE ELEM.,90.0,83.0,92.22,Y,KindergartenData
 6017289,Los Angeles,PUBLIC,Los Angeles,GLEDHILL STREET ELEM.,72.0,64.0,88.89,Y,KindergartenData
 6017776,Los Angeles,PUBLIC,Los Angeles,LANGDON AVE. ELEM.,103.0,95.0,92.23,Y,KindergartenData
 6017792,Los Angeles,PUBLIC,Los Angeles,LASSEN ELEM.,94.0,85.0,90.43,Y,KindergartenData
@@ -11882,14 +11882,14 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 7052194,Los Angeles,PRIVATE,La Crescenta-Montrose,MONTROSE CHRTN. MONTESSORI,11.0,10.0,90.91,Y,KindergartenData
 6962948,Los Angeles,PRIVATE,Santa Clarita,OUR LADY OF PERPETUAL HELP ELEM.,27.0,26.0,96.3,Y,KindergartenData
 7092117,Los Angeles,PRIVATE,Santa Clarita,TOWN AND COUNTRY FARM SCHOOL,17.0,17.0,100.0,Y,KindergartenData
-6906895,Los Angeles,PRIVATE,North Hollywood,ADAT ARI EL DAY ELEM.,30.0,30.0,100.0,Y,KindergartenData
-6934392,Los Angeles,PRIVATE,North Hollywood,CAMPBELL HALL,48.0,47.0,97.92,Y,KindergartenData
-6968002,Los Angeles,PRIVATE,North Hollywood,LAUREL HALL,44.0,44.0,100.0,Y,KindergartenData
-6962781,Los Angeles,PRIVATE,North Hollywood,OAKWOOD ELEM.,44.0,40.0,90.91,Y,KindergartenData
-6963615,Los Angeles,PRIVATE,North Hollywood,SAINT CHARLES BORROMEO,19.0,19.0,100.0,Y,KindergartenData
-6963961,Los Angeles,PRIVATE,North Hollywood,SAINT JANE FRANCES DE CHANTAL EL,29.0,27.0,93.1,Y,KindergartenData
-6964431,Los Angeles,PRIVATE,North Hollywood,ST. PATRICK'S,22.0,21.0,95.45,Y,KindergartenData
-6964472,Los Angeles,PRIVATE,North Hollywood,ST. PAUL'S FIRST LUTHERAN,13.0,12.0,92.31,Y,KindergartenData
+6906895,Los Angeles,PRIVATE,Los Angeles,ADAT ARI EL DAY ELEM.,30.0,30.0,100.0,Y,KindergartenData
+6934392,Los Angeles,PRIVATE,Los Angeles,CAMPBELL HALL,48.0,47.0,97.92,Y,KindergartenData
+6968002,Los Angeles,PRIVATE,Los Angeles,LAUREL HALL,44.0,44.0,100.0,Y,KindergartenData
+6962781,Los Angeles,PRIVATE,Los Angeles,OAKWOOD ELEM.,44.0,40.0,90.91,Y,KindergartenData
+6963615,Los Angeles,PRIVATE,Los Angeles,SAINT CHARLES BORROMEO,19.0,19.0,100.0,Y,KindergartenData
+6963961,Los Angeles,PRIVATE,Los Angeles,SAINT JANE FRANCES DE CHANTAL EL,29.0,27.0,93.1,Y,KindergartenData
+6964431,Los Angeles,PRIVATE,Los Angeles,ST. PATRICK'S,22.0,21.0,95.45,Y,KindergartenData
+6964472,Los Angeles,PRIVATE,Los Angeles,ST. PAUL'S FIRST LUTHERAN,13.0,12.0,92.31,Y,KindergartenData
 7072598,Los Angeles,PRIVATE,Los Angeles,HOLY MARTYRS ARMENIAN - PARTHENI,47.0,25.0,53.19,Y,KindergartenData
 6962922,Los Angeles,PRIVATE,Los Angeles,OUR LADY OF PEACE,30.0,27.0,90.0,Y,KindergartenData
 6990717,Los Angeles,PRIVATE,Los Angeles,VALLEY PRESBYTERIAN,21.0,18.0,85.71,Y,KindergartenData
@@ -12216,7 +12216,7 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 6025522,Merced,PUBLIC,Livingston,SELMA HERNDON SCHOOL,118.0,115.0,97.46,Y,KindergartenData
 6109649,Merced,PUBLIC,Livingston,YAMATO COLONY ELEM.,97.0,96.0,98.97,Y,KindergartenData
 6025498,Merced,PUBLIC,Le Grand,LE GRAND ELEM.,52.0,52.0,100.0,Y,KindergartenData
-6025464,Merced,PUBLIC,Hilmar,ELIM ELEM.,142.0,135.0,95.07,Y,KindergartenData
+6025464,Merced,PUBLIC,Hilmar-Irwin,ELIM ELEM.,142.0,135.0,95.07,Y,KindergartenData
 6025472,Merced,PUBLIC,Stevinson,MERQUIN ELEM.,35.0,35.0,100.0,Y,KindergartenData
 6025720,Merced,PUBLIC,Gustine,GUSTINE ELEM.,104.0,103.0,99.04,Y,KindergartenData
 6025746,Merced,PUBLIC,Santa Nella,ROMERO ELEM.,40.0,40.0,100.0,Y,KindergartenData
@@ -12449,9 +12449,9 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 6111298,Orange,PUBLIC,Santa Ana,WALKER ELEM.,96.0,94.0,97.92,Y,KindergartenData
 6030431,Orange,PUBLIC,Santa Ana,WASHINGTON ELEM.,179.0,167.0,93.3,Y,KindergartenData
 6030449,Orange,PUBLIC,Santa Ana,WILSON ELEM.,127.0,106.0,83.46,Y,KindergartenData
-6030175,Orange,PUBLIC,El Toro,OLIVEWOOD ELEM.,78.0,74.0,94.87,Y,KindergartenData
-6096044,Orange,PUBLIC,El Toro,RANCHO CANADA ELEM.,86.0,77.0,89.53,Y,KindergartenData
-6085351,Orange,PUBLIC,El Toro,SANTIAGO ELEM.,103.0,86.0,83.5,Y,KindergartenData
+6030175,Orange,PUBLIC,Lake Forest,OLIVEWOOD ELEM.,78.0,74.0,94.87,Y,KindergartenData
+6096044,Orange,PUBLIC,Lake Forest,RANCHO CANADA ELEM.,86.0,77.0,89.53,Y,KindergartenData
+6085351,Orange,PUBLIC,Lake Forest,SANTIAGO ELEM.,103.0,86.0,83.5,Y,KindergartenData
 6112577,Orange,PUBLIC,Lake Forest,FOOTHILL RANCH ELEM.,163.0,150.0,92.02,Y,KindergartenData
 6094668,Orange,PUBLIC,Laguna Hills,LOMARENA ELEM.,90.0,83.0,92.22,Y,KindergartenData
 6094676,Orange,PUBLIC,Laguna Hills,SAN JOAQUIN ELEM.,57.0,53.0,92.98,Y,KindergartenData
@@ -13851,7 +13851,7 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 6036446,San Bernardino,PUBLIC,Ontario,VINEYARD ELEM.,61.0,61.0,100.0,Y,KindergartenData
 100107,San Bernardino,PUBLIC,Ontario,VISTA GRANDE ELEM,77.0,75.0,97.4,Y,KindergartenData
 6036115,San Bernardino,PUBLIC,Needles,VISTA COLORADO ELEM.,83.0,74.0,89.16,Y,KindergartenData
-6036065,San Bernardino,PUBLIC,Mt Baldy,MT. BALDY JOINT ELEM.,12.0,10.0,83.33,Y,KindergartenData
+6036065,San Bernardino,PUBLIC,Mount Baldy,MT. BALDY JOINT ELEM.,12.0,10.0,83.33,Y,KindergartenData
 6105449,San Bernardino,PUBLIC,Ontario,CREEK VIEW ELEM.,101.0,100.0,99.01,Y,KindergartenData
 6036057,San Bernardino,PUBLIC,Ontario,MOUNTAIN VIEW ELEM.,89.0,88.0,98.88,Y,KindergartenData
 6110050,San Bernardino,PUBLIC,Ontario,RANCH VIEW ELEM.,112.0,104.0,92.86,Y,KindergartenData
@@ -13868,7 +13868,7 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 6036040,San Bernardino,PUBLIC,Yucca Valley,YUCCA VALLEY ELEM.,91.0,86.0,94.51,Y,KindergartenData
 6035976,San Bernardino,PUBLIC,Lucerne Valley,LUCERNE VALLEY ELEM.,51.0,47.0,92.16,Y,KindergartenData
 115089,San Bernardino,PUBLIC,Placerville,SKY MOUNTAIN CHARTER,156.0,60.0,38.46,Y,KindergartenData
-6114680,San Bernardino,PUBLIC,Hespera,MESQUITE TRAILS,100.0,93.0,93.0,Y,KindergartenData
+6114680,San Bernardino,PUBLIC,Hesperia,MESQUITE TRAILS,100.0,93.0,93.0,Y,KindergartenData
 6108120,San Bernardino,PUBLIC,Hesperia,CARMEL ELEM.,88.0,87.0,98.86,Y,KindergartenData
 6105498,San Bernardino,PUBLIC,Hesperia,COTTONWOOD ELEM.,104.0,104.0,100.0,Y,KindergartenData
 107805,San Bernardino,PUBLIC,Hesperia,CYPRESS SCHOOL OF THE ARTS,126.0,126.0,100.0,Y,KindergartenData
@@ -14062,7 +14062,7 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 6133839,San Bernardino,PRIVATE,Redlands,WESTSIDE CHRISTIAN SCHOOL,20.0,16.0,80.0,Y,KindergartenData
 6132849,San Bernardino,PRIVATE,Rialto,CALVARY CHAPEL RIALTO CHRISTIAN,20.0,20.0,100.0,Y,KindergartenData
 6975114,San Bernardino,PRIVATE,Rialto,ST. CATHERINE'S SCH.,23.0,23.0,100.0,Y,KindergartenData
-7072614,San Bernardino,PRIVATE,San Bernadino,READY SET GROW,12.0,12.0,100.0,Y,KindergartenData
+7072614,San Bernardino,PRIVATE,San Bernardino,READY SET GROW,12.0,12.0,100.0,Y,KindergartenData
 6957799,San Bernardino,PRIVATE,San Bernardino,DEL ROSA CHRTN. SCH.,13.0,12.0,92.31,Y,KindergartenData
 6974901,San Bernardino,PRIVATE,San Bernardino,HOLY ROSARY SCH.,24.0,24.0,100.0,Y,KindergartenData
 6975015,San Bernardino,PRIVATE,San Bernardino,OUR LADY OF ASSUMPTION SCH.,20.0,20.0,100.0,Y,KindergartenData
@@ -16021,7 +16021,7 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 6053490,Tehama,PUBLIC,Corning,OLIVE VIEW ELEMENTARY,89.0,89.0,100.0,Y,KindergartenData
 6053482,Tehama,PUBLIC,Corning,WEST STREET ELEM.,55.0,50.0,90.91,Y,KindergartenData
 102301,Tehama,PUBLIC,Corning,WOODSON ELEMENTARY SCHOOL,62.0,59.0,95.16,Y,KindergartenData
-6112486,Tehama,PUBLIC,Rancho Tehema,RANCHO TEHEMA ELEM.,20.0,17.0,85.0,Y,KindergartenData
+6112486,Tehama,PUBLIC,Rancho Tehama Reserve,RANCHO TEHEMA ELEM.,20.0,17.0,85.0,Y,KindergartenData
 6053466,Tehama,PUBLIC,Red Bluff,ANTELOPE ELEM.,60.0,54.0,90.0,Y,KindergartenData
 6983944,Tehama,PRIVATE,Red Bluff,SACRED HEART PARISH SCH.,16.0,14.0,87.5,Y,KindergartenData
 6053821,Trinity,PUBLIC,Weaverville,WEAVERVILLE ELEM.,36.0,29.0,80.56,Y,KindergartenData
@@ -17880,7 +17880,7 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 6025423,Merced,PUBLIC,Dos Palos,BRYANT MIDDLE,189.0,189.0,100.0,Y,7thGradeData
 6025456,Merced,PUBLIC,El Nido,EL NIDO ELEMENTARY,20.0,20.0,100.0,Y,7thGradeData
 6103766,Merced,PUBLIC,Gustine,GUSTINE MIDDLE,144.0,144.0,100.0,Y,7thGradeData
-6109458,Merced,PUBLIC,Hilmar,HILMAR MIDDLE,165.0,162.0,98.18,Y,7thGradeData
+6109458,Merced,PUBLIC,Hilmar-Irwin,HILMAR MIDDLE,165.0,162.0,98.18,Y,7thGradeData
 6025498,Merced,PUBLIC,Le Grand,LE GRAND ELEMENTARY,60.0,60.0,100.0,Y,7thGradeData
 6025514,Merced,PUBLIC,Livingston,LIVINGSTON MIDDLE,265.0,264.0,99.62,Y,7thGradeData
 6112288,Merced,PUBLIC,Merced,HERBERT H. CRUICKSHANK MIDDLE,267.0,262.0,98.13,Y,7thGradeData
@@ -18574,7 +18574,7 @@ facility_num,county,is_public,city,facility_name,enrollment,n,pct,reported,vac_i
 6106330,San Bernardino,PUBLIC,Lucerne Valley,LUCERNE VALLEY MIDDLE,67.0,64.0,95.52,Y,7thGradeData
 6036404,San Bernardino,PUBLIC,Montclair,SERRANO MIDDLE,415.0,415.0,100.0,Y,7thGradeData
 6036420,San Bernardino,PUBLIC,Montclair,VERNON MIDDLE,385.0,372.0,96.62,Y,7thGradeData
-6036065,San Bernardino,PUBLIC,Mt. Baldy,MT. BALDY JOINT ELEMENTARY,12.0,11.0,91.67,Y,7thGradeData
+6036065,San Bernardino,PUBLIC,Mount Baldy,MT. BALDY JOINT ELEMENTARY,12.0,11.0,91.67,Y,7thGradeData
 6100929,San Bernardino,PUBLIC,Needles,NEEDLES MIDDLE,59.0,58.0,98.31,Y,7thGradeData
 6036164,San Bernardino,PUBLIC,Ontario,CENTRAL LANGUAGE ACADEMY,14.0,14.0,100.0,Y,7thGradeData
 6036206,San Bernardino,PUBLIC,Ontario,DE ANZA MIDDLE,311.0,306.0,98.39,Y,7thGradeData
