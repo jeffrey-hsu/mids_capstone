@@ -266,8 +266,8 @@ Fresno,Fowler,7thGradeData,100.0
 Fresno,Fowler,ChildCareData,96.96999999999998
 Fresno,Fowler,KindergartenData,99.43
 Fresno,Fresno,7thGradeData,97.31022222222222
-Fresno,Fresno,ChildCareData,95.52403846153848
-Fresno,Fresno,KindergartenData,96.14196581196586
+Fresno,Fresno,ChildCareData,95.29782608695655
+Fresno,Fresno,KindergartenData,96.11890756302527
 Fresno,Helm,7thGradeData,100.0
 Fresno,Huron,7thGradeData,100.0
 Fresno,Huron,ChildCareData,98.92333333333333
@@ -290,8 +290,6 @@ Fresno,Orange Cove,KindergartenData,99.72333333333334
 Fresno,Parlier,7thGradeData,100.0
 Fresno,Parlier,ChildCareData,98.414
 Fresno,Parlier,KindergartenData,98.804
-Fresno,Pinedale,ChildCareData,88.24
-Fresno,Pinedale,KindergartenData,94.77
 Fresno,Prather,KindergartenData,94.44
 Fresno,Raisin City,7thGradeData,89.29
 Fresno,Raisin City,ChildCareData,100.0
@@ -603,7 +601,6 @@ Los Angeles,Burbank,KindergartenData,94.721875
 Los Angeles,Calabasas,7thGradeData,96.14333333333333
 Los Angeles,Calabasas,ChildCareData,48.85
 Los Angeles,Calabasas,KindergartenData,92.25750000000001
-Los Angeles,Canyon County,ChildCareData,82.35
 Los Angeles,Carson,7thGradeData,99.30142857142857
 Los Angeles,Carson,ChildCareData,97.268
 Los Angeles,Carson,KindergartenData,82.37933333333334
@@ -808,7 +805,7 @@ Los Angeles,San Marino,7thGradeData,99.625
 Los Angeles,San Marino,ChildCareData,100.0
 Los Angeles,San Marino,KindergartenData,99.06333333333333
 Los Angeles,Santa Clarita,7thGradeData,93.83909090909091
-Los Angeles,Santa Clarita,ChildCareData,93.51490566037735
+Los Angeles,Santa Clarita,ChildCareData,93.30814814814813
 Los Angeles,Santa Clarita,KindergartenData,93.68611111111112
 Los Angeles,Santa Fe Springs,7thGradeData,99.56
 Los Angeles,Santa Fe Springs,ChildCareData,96.86599999999999
@@ -874,9 +871,8 @@ Madera,Ahwahnee,KindergartenData,91.43
 Madera,Chowchilla,7thGradeData,99.795
 Madera,Chowchilla,ChildCareData,94.506
 Madera,Chowchilla,KindergartenData,98.925
-Madera,Coaresgold,ChildCareData,90.63
 Madera,Coarsegold,7thGradeData,98.27000000000001
-Madera,Coarsegold,ChildCareData,83.33
+Madera,Coarsegold,ChildCareData,86.97999999999999
 Madera,Coarsegold,KindergartenData,93.15
 Madera,Madera,7thGradeData,95.6475
 Madera,Madera,ChildCareData,96.78562500000001
@@ -996,9 +992,9 @@ Merced,El Nido,KindergartenData,100.0
 Merced,Gustine,7thGradeData,91.32
 Merced,Gustine,ChildCareData,91.66499999999999
 Merced,Gustine,KindergartenData,95.505
-Merced,Hilmar,7thGradeData,98.4
-Merced,Hilmar,ChildCareData,98.19
-Merced,Hilmar,KindergartenData,97.96
+Merced,Hilmar-Irwin,7thGradeData,98.4
+Merced,Hilmar-Irwin,ChildCareData,98.19
+Merced,Hilmar-Irwin,KindergartenData,97.96
 Merced,Le Grand,7thGradeData,100.0
 Merced,Le Grand,ChildCareData,90.48
 Merced,Le Grand,KindergartenData,100.0
@@ -1187,9 +1183,8 @@ Orange,Mission Viejo,7thGradeData,95.76571428571427
 Orange,Mission Viejo,ChildCareData,91.62999999999998
 Orange,Mission Viejo,KindergartenData,88.71235294117646
 Orange,Newport Beach,7thGradeData,86.58
-Orange,Newport Beach,ChildCareData,89.05777777777776
+Orange,Newport Beach,ChildCareData,89.49157894736841
 Orange,Newport Beach,KindergartenData,85.99153846153845
-Orange,Newport Coast,ChildCareData,97.3
 Orange,North Tustin,7thGradeData,94.59
 Orange,North Tustin,ChildCareData,100.0
 Orange,North Tustin,KindergartenData,72.34
@@ -1375,8 +1370,7 @@ Riverside,Rancho Mirage,7thGradeData,97.22
 Riverside,Rancho Mirage,KindergartenData,89.86
 Riverside,Riverside,7thGradeData,96.89307692307692
 Riverside,Riverside,ChildCareData,95.05923076923075
-Riverside,Riverside,KindergartenData,96.69983050847456
-Riverside,Riversidty,KindergartenData,100.0
+Riverside,Riverside,KindergartenData,96.75483333333332
 Riverside,Romoland,ChildCareData,98.685
 Riverside,Romoland,KindergartenData,96.08
 Riverside,Salton City,7thGradeData,96.7
@@ -1538,8 +1532,8 @@ San Bernardino,Montclair,ChildCareData,98.68818181818183
 San Bernardino,Montclair,KindergartenData,96.86555555555555
 San Bernardino,Morongo Valley,ChildCareData,100.0
 San Bernardino,Morongo Valley,KindergartenData,96.3
-San Bernardino,Mt. Baldy,7thGradeData,100.0
-San Bernardino,Mt. Baldy,KindergartenData,91.67
+San Bernardino,Mount Baldy,7thGradeData,100.0
+San Bernardino,Mount Baldy,KindergartenData,91.67
 San Bernardino,Muscoy,ChildCareData,97.87
 San Bernardino,Needles,7thGradeData,95.95
 San Bernardino,Needles,ChildCareData,95.16

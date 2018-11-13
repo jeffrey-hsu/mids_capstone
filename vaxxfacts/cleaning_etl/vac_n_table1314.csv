@@ -270,8 +270,8 @@ Fresno,Fowler,7thGradeData,196.0
 Fresno,Fowler,ChildCareData,122.0
 Fresno,Fowler,KindergartenData,193.0
 Fresno,Fresno,7thGradeData,7877.0
-Fresno,Fresno,ChildCareData,6800.0
-Fresno,Fresno,KindergartenData,9868.0
+Fresno,Fresno,ChildCareData,6920.0
+Fresno,Fresno,KindergartenData,10032.0
 Fresno,Huron,7thGradeData,126.0
 Fresno,Huron,ChildCareData,137.0
 Fresno,Huron,KindergartenData,178.0
@@ -292,8 +292,6 @@ Fresno,Orange Cove,KindergartenData,226.0
 Fresno,Parlier,7thGradeData,282.0
 Fresno,Parlier,ChildCareData,191.0
 Fresno,Parlier,KindergartenData,377.0
-Fresno,Pinedale,ChildCareData,120.0
-Fresno,Pinedale,KindergartenData,164.0
 Fresno,Prather,KindergartenData,56.0
 Fresno,Raisin City,7thGradeData,33.0
 Fresno,Raisin City,ChildCareData,32.0
@@ -717,7 +715,7 @@ Los Angeles,Long Beach,7thGradeData,5278.0
 Los Angeles,Long Beach,ChildCareData,6815.0
 Los Angeles,Long Beach,KindergartenData,4997.0
 Los Angeles,Los Angeles,7thGradeData,37768.0
-Los Angeles,Los Angeles,ChildCareData,43936.0
+Los Angeles,Los Angeles,ChildCareData,43984.0
 Los Angeles,Los Angeles,KindergartenData,46211.0
 Los Angeles,Lynwood,7thGradeData,1126.0
 Los Angeles,Lynwood,ChildCareData,952.0
@@ -745,7 +743,6 @@ Los Angeles,Montebello,KindergartenData,779.0
 Los Angeles,Monterey Park,7thGradeData,802.0
 Los Angeles,Monterey Park,ChildCareData,687.0
 Los Angeles,Monterey Park,KindergartenData,712.0
-Los Angeles,North Hollywood,ChildCareData,48.0
 Los Angeles,Norwalk,7thGradeData,1185.0
 Los Angeles,Norwalk,ChildCareData,1225.0
 Los Angeles,Norwalk,KindergartenData,1317.0
@@ -988,9 +985,9 @@ Merced,El Nido,KindergartenData,21.0
 Merced,Gustine,7thGradeData,158.0
 Merced,Gustine,ChildCareData,38.0
 Merced,Gustine,KindergartenData,107.0
-Merced,Hilmar,7thGradeData,173.0
-Merced,Hilmar,ChildCareData,132.0
-Merced,Hilmar,KindergartenData,154.0
+Merced,Hilmar-Irwin,7thGradeData,173.0
+Merced,Hilmar-Irwin,ChildCareData,132.0
+Merced,Hilmar-Irwin,KindergartenData,154.0
 Merced,Le Grand,7thGradeData,33.0
 Merced,Le Grand,ChildCareData,23.0
 Merced,Le Grand,KindergartenData,38.0
@@ -1522,8 +1519,8 @@ San Bernardino,Montclair,ChildCareData,451.0
 San Bernardino,Montclair,KindergartenData,900.0
 San Bernardino,Morongo Valley,ChildCareData,15.0
 San Bernardino,Morongo Valley,KindergartenData,22.0
-San Bernardino,Mt. Baldy,7thGradeData,13.0
-San Bernardino,Mt. Baldy,KindergartenData,12.0
+San Bernardino,Mount Baldy,7thGradeData,13.0
+San Bernardino,Mount Baldy,KindergartenData,12.0
 San Bernardino,Needles,7thGradeData,66.0
 San Bernardino,Needles,ChildCareData,71.0
 San Bernardino,Needles,KindergartenData,49.0
