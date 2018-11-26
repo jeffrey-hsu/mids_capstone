@@ -571,7 +571,6 @@ Lassen,Susanville,KindergartenData,84.08999999999999
 Lassen,Westwood,7thGradeData,100.0
 Lassen,Westwood,ChildCareData,90.0
 Lassen,Westwood,KindergartenData,78.57
-Long Beach,Signal Hill,7thGradeData,100.0
 Los Angeles,Acton,7thGradeData,57.03
 Los Angeles,Acton,KindergartenData,75.32
 Los Angeles,Agoura Hills,7thGradeData,95.17
@@ -831,6 +830,7 @@ Los Angeles,Santa Monica,KindergartenData,81.57066666666667
 Los Angeles,Sierra Madre,7thGradeData,99.03333333333335
 Los Angeles,Sierra Madre,ChildCareData,88.98824041811845
 Los Angeles,Sierra Madre,KindergartenData,90.88000000000001
+Los Angeles,Signal Hill,7thGradeData,100.0
 Los Angeles,Signal Hill,ChildCareData,100.0
 Los Angeles,Signal Hill,KindergartenData,100.0
 Los Angeles,Simi Valley,7thGradeData,64.3
