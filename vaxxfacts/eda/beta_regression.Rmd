@@ -1,0 +1,126 @@
+---
+title: "Vaccination Rate v.s. Covariates"
+output: pdf_document
+---
+
+Log Odds v.s. covariates
+
+```{r}
+f <- '~/github-repo/w210_capstone/mids_capstone/vaxxfacts/cleaning_etl/city_correlation.csv'
+d <- read.csv(f)
+d$city <- as.factor(d$city)
+d$school_year <- as.factor(d$school_year)
+#d$year <- as.factor(d$school_year)
+d2012 <- d[d$year == 2012,]
+d2013 <- d[d$year == 2013,]
+d2014 <- d[d$year == 2014,]
+d2015 <- d[d$year == 2015,]
+d2016 <- d[d$year == 2016,]
+d2017 <- d[d$year == 2017,]
+```
+
+```{r}
+#head(d)
+library(Hmisc)
+#describe(d)
+```
+
+```{r}
+library(betareg)
+
+y.transf.betareg <- function(y){
+    n.obs <- sum(!is.na(y))
+    (y * (n.obs - 1) + 0.5) / n.obs
+}
+
+## 2012
+d2012$vac_rate <- y.transf.betareg(d2012$vac_pct / 100)
+
+mod2012 <- betareg(vac_rate ~ male_pct + median_age + 
+                           under_5_pct + X5_9_pct + 
+                           X10_14_pct + X15_19_pct + 
+                           hispanic_latino_pct + 
+                           white_pct + black_pct + 
+                           aian_pct + asian_pct + 
+                           nhopi_pct + other_pct + 
+                           median_income + no_insurance_pct,
+                   data=d2012)
+
+summary(mod2012, type = "deviance")
+
+## 2013
+d2013$vac_rate <- y.transf.betareg(d2013$vac_pct / 100)
+
+mod2013 <- betareg(vac_rate ~ male_pct + median_age +
+                           under_5_pct + X5_9_pct + 
+                           X10_14_pct + X15_19_pct + 
+                           hispanic_latino_pct + 
+                           white_pct + black_pct + 
+                           aian_pct + asian_pct + 
+                           nhopi_pct + other_pct + 
+                           median_income + no_insurance_pct, 
+                   data=d2013)
+
+summary(mod2013, type = "deviance")
+
+## 2014
+d2014$vac_rate <- y.transf.betareg(d2014$vac_pct / 100)
+
+mod2014 <- betareg(vac_rate ~ male_pct + median_age + 
+                           under_5_pct + X5_9_pct + 
+                           X10_14_pct + X15_19_pct + 
+                           hispanic_latino_pct + 
+                           white_pct + black_pct + 
+                           aian_pct + asian_pct + 
+                           nhopi_pct + other_pct + 
+                           median_income + no_insurance_pct, 
+                   data=d2014)
+
+summary(mod2014, type = "deviance")
+
+## 2015
+d2015$vac_rate <- y.transf.betareg(d2015$vac_pct / 100)
+
+mod2015 <- betareg(vac_rate ~ male_pct + median_age + 
+                           under_5_pct + X5_9_pct + 
+                           X10_14_pct + X15_19_pct + 
+                           hispanic_latino_pct + 
+                           white_pct + black_pct + 
+                           aian_pct + asian_pct + 
+                           nhopi_pct + other_pct + 
+                           median_income + no_insurance_pct, 
+                   data=d2015)
+
+summary(mod2015, type = "deviance")
+
+## 2016
+d2016$vac_rate <- y.transf.betareg(d2016$vac_pct / 100)
+
+mod2016 <- betareg(vac_rate ~ male_pct + median_age + 
+                           under_5_pct + X5_9_pct + 
+                           X10_14_pct + X15_19_pct + 
+                           hispanic_latino_pct + white_pct + 
+                           black_pct + aian_pct + 
+                           asian_pct + nhopi_pct + 
+                           other_pct + median_income + 
+                           no_insurance_pct, 
+                   data=d2016)
+
+summary(mod2016, type = "deviance")
+
+## 2017
+d2017$vac_rate <- y.transf.betareg(d2017$vac_pct / 100)
+
+mod2017 <- betareg(vac_rate ~ male_pct + median_age + 
+                           under_5_pct + X5_9_pct + 
+                           X10_14_pct + X15_19_pct + 
+                           hispanic_latino_pct + 
+                           white_pct + black_pct + 
+                           aian_pct + asian_pct + 
+                           nhopi_pct + other_pct + 
+                           median_income + no_insurance_pct, 
+                   data=d2017)
+
+summary(mod2017, type = "deviance")
+```
+
