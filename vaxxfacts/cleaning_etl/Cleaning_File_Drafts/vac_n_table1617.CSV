@@ -1,0 +1,2160 @@
+,county,city,vac_info_type,n
+0,Alameda,Alameda,7thGradeData,966
+1,Alameda,Alameda,ChildCareData,1198
+2,Alameda,Alameda,KindergartenData,972
+3,Alameda,Albany,7thGradeData,310
+4,Alameda,Albany,ChildCareData,211
+5,Alameda,Albany,KindergartenData,281
+6,Alameda,Berkeley,7thGradeData,820
+7,Alameda,Berkeley,ChildCareData,2202
+8,Alameda,Berkeley,KindergartenData,879
+9,Alameda,Castro Valley,7thGradeData,754
+10,Alameda,Castro Valley,ChildCareData,898
+11,Alameda,Castro Valley,KindergartenData,736
+12,Alameda,Dublin,7thGradeData,892
+13,Alameda,Dublin,ChildCareData,1240
+14,Alameda,Dublin,KindergartenData,1208
+15,Alameda,Emeryville,ChildCareData,184
+16,Alameda,Fremont,7thGradeData,2887
+17,Alameda,Fremont,ChildCareData,4303
+18,Alameda,Fremont,KindergartenData,3596
+19,Alameda,Hayward,7thGradeData,1619
+20,Alameda,Hayward,ChildCareData,1799
+21,Alameda,Hayward,KindergartenData,2243
+22,Alameda,Livermore,7thGradeData,1049
+23,Alameda,Livermore,ChildCareData,1511
+24,Alameda,Livermore,KindergartenData,1198
+25,Alameda,Newark,7thGradeData,499
+26,Alameda,Newark,ChildCareData,987
+27,Alameda,Newark,KindergartenData,659
+28,Alameda,Oakland,7thGradeData,3942
+29,Alameda,Oakland,ChildCareData,3943
+30,Alameda,Oakland,KindergartenData,5308
+31,Alameda,Piedmont,7thGradeData,276
+32,Alameda,Piedmont,ChildCareData,95
+33,Alameda,Piedmont,KindergartenData,200
+34,Alameda,Pleasanton,7thGradeData,1206
+35,Alameda,Pleasanton,ChildCareData,1788
+36,Alameda,Pleasanton,KindergartenData,1052
+37,Alameda,San Leandro,7thGradeData,992
+38,Alameda,San Leandro,ChildCareData,994
+39,Alameda,San Leandro,KindergartenData,978
+40,Alameda,San Lorenzo,7thGradeData,618
+41,Alameda,San Lorenzo,ChildCareData,314
+42,Alameda,San Lorenzo,KindergartenData,362
+43,Alameda,Sunol,7thGradeData,10
+44,Alameda,Sunol,ChildCareData,25
+45,Alameda,Sunol,KindergartenData,30
+46,Alameda,Union City,7thGradeData,915
+47,Alameda,Union City,ChildCareData,452
+48,Alameda,Union City,KindergartenData,991
+49,Amador,Ione,ChildCareData,21
+50,Amador,Ione,KindergartenData,76
+51,Amador,Jackson,7thGradeData,260
+52,Amador,Jackson,ChildCareData,42
+53,Amador,Jackson,KindergartenData,119
+54,Amador,Pine Grove,ChildCareData,19
+55,Amador,Pioneer,ChildCareData,20
+56,Amador,Pioneer,KindergartenData,19
+57,Amador,Plymouth,7thGradeData,24
+58,Amador,Plymouth,ChildCareData,58
+59,Amador,Plymouth,KindergartenData,24
+60,Amador,Sutter Creek,KindergartenData,38
+61,Butte,Biggs,7thGradeData,24
+62,Butte,Biggs,KindergartenData,52
+63,Butte,Chico,7thGradeData,1006
+64,Butte,Chico,ChildCareData,1460
+65,Butte,Chico,KindergartenData,1185
+66,Butte,Durham,7thGradeData,82
+67,Butte,Durham,KindergartenData,80
+68,Butte,Gridley,7thGradeData,181
+69,Butte,Gridley,ChildCareData,172
+70,Butte,Gridley,KindergartenData,191
+71,Butte,Magalia,7thGradeData,54
+72,Butte,Magalia,ChildCareData,59
+73,Butte,Magalia,KindergartenData,111
+74,Butte,Oroville,7thGradeData,418
+75,Butte,Oroville,ChildCareData,659
+76,Butte,Oroville,KindergartenData,652
+77,Butte,Palermo,7thGradeData,131
+78,Butte,Palermo,ChildCareData,50
+79,Butte,Paradise,7thGradeData,249
+80,Butte,Paradise,ChildCareData,278
+81,Butte,Paradise,KindergartenData,267
+82,Calaveras,Angels,7thGradeData,80
+83,Calaveras,Angels,ChildCareData,19
+84,Calaveras,Angels,KindergartenData,57
+85,Calaveras,Arnold,KindergartenData,26
+86,Calaveras,Avery,7thGradeData,62
+87,Calaveras,Copperopolis,KindergartenData,50
+88,Calaveras,Murphys,ChildCareData,18
+89,Calaveras,Murphys,KindergartenData,45
+90,Calaveras,San Andreas,7thGradeData,32
+91,Calaveras,San Andreas,ChildCareData,18
+92,Calaveras,San Andreas,KindergartenData,42
+93,Calaveras,Valley Springs,7thGradeData,223
+94,Calaveras,Valley Springs,KindergartenData,161
+95,Colusa,Arbuckle,7thGradeData,110
+96,Colusa,Arbuckle,ChildCareData,85
+97,Colusa,Arbuckle,KindergartenData,99
+98,Colusa,Colusa,7thGradeData,118
+99,Colusa,Colusa,ChildCareData,79
+100,Colusa,Colusa,KindergartenData,119
+101,Colusa,Maxwell,7thGradeData,24
+102,Colusa,Maxwell,KindergartenData,25
+103,Colusa,Williams,ChildCareData,83
+104,Colusa,Williams,KindergartenData,142
+105,Contra Costa,Alamo,7thGradeData,216
+106,Contra Costa,Alamo,ChildCareData,282
+107,Contra Costa,Alamo,KindergartenData,121
+108,Contra Costa,Antioch,7thGradeData,1234
+109,Contra Costa,Antioch,ChildCareData,632
+110,Contra Costa,Antioch,KindergartenData,1260
+111,Contra Costa,Bay Point,7thGradeData,282
+112,Contra Costa,Bay Point,ChildCareData,277
+113,Contra Costa,Bay Point,KindergartenData,323
+114,Contra Costa,Brentwood,7thGradeData,1158
+115,Contra Costa,Brentwood,ChildCareData,1016
+116,Contra Costa,Brentwood,KindergartenData,1073
+117,Contra Costa,Byron,7thGradeData,228
+118,Contra Costa,Byron,KindergartenData,30
+119,Contra Costa,Clayton,7thGradeData,244
+120,Contra Costa,Clayton,ChildCareData,147
+121,Contra Costa,Clayton,KindergartenData,120
+122,Contra Costa,Concord,7thGradeData,924
+123,Contra Costa,Concord,ChildCareData,1846
+124,Contra Costa,Concord,KindergartenData,1490
+125,Contra Costa,Crockett,7thGradeData,106
+126,Contra Costa,Danville,7thGradeData,1045
+127,Contra Costa,Danville,ChildCareData,1296
+128,Contra Costa,Danville,KindergartenData,840
+129,Contra Costa,Discovery Bay,ChildCareData,126
+130,Contra Costa,Discovery Bay,KindergartenData,162
+131,Contra Costa,El Cerrito,7thGradeData,518
+132,Contra Costa,El Cerrito,ChildCareData,251
+133,Contra Costa,El Cerrito,KindergartenData,281
+134,Contra Costa,El Sobrante (Contra Costa County),7thGradeData,280
+135,Contra Costa,El Sobrante (Contra Costa County),ChildCareData,135
+136,Contra Costa,El Sobrante (Contra Costa County),KindergartenData,139
+137,Contra Costa,Hercules,7thGradeData,181
+138,Contra Costa,Hercules,ChildCareData,183
+139,Contra Costa,Hercules,KindergartenData,192
+140,Contra Costa,Kensington,ChildCareData,245
+141,Contra Costa,Kensington,KindergartenData,67
+142,Contra Costa,Knightsen,7thGradeData,55
+143,Contra Costa,Knightsen,KindergartenData,40
+144,Contra Costa,Lafayette,7thGradeData,454
+145,Contra Costa,Lafayette,ChildCareData,789
+146,Contra Costa,Lafayette,KindergartenData,441
+147,Contra Costa,Martinez,7thGradeData,357
+148,Contra Costa,Martinez,ChildCareData,530
+149,Contra Costa,Martinez,KindergartenData,539
+150,Contra Costa,Moraga,7thGradeData,218
+151,Contra Costa,Moraga,ChildCareData,498
+152,Contra Costa,Moraga,KindergartenData,172
+153,Contra Costa,Oakley,7thGradeData,660
+154,Contra Costa,Oakley,ChildCareData,353
+155,Contra Costa,Oakley,KindergartenData,698
+156,Contra Costa,Orinda,7thGradeData,290
+157,Contra Costa,Orinda,ChildCareData,370
+158,Contra Costa,Orinda,KindergartenData,290
+159,Contra Costa,Pinole,7thGradeData,349
+160,Contra Costa,Pinole,ChildCareData,107
+161,Contra Costa,Pinole,KindergartenData,194
+162,Contra Costa,Pittsburg,7thGradeData,897
+163,Contra Costa,Pittsburg,ChildCareData,815
+164,Contra Costa,Pittsburg,KindergartenData,1104
+165,Contra Costa,Pleasant Hill,7thGradeData,867
+166,Contra Costa,Pleasant Hill,ChildCareData,715
+167,Contra Costa,Pleasant Hill,KindergartenData,551
+168,Contra Costa,Richmond,7thGradeData,714
+169,Contra Costa,Richmond,ChildCareData,1463
+170,Contra Costa,Richmond,KindergartenData,1385
+171,Contra Costa,Rodeo,7thGradeData,35
+172,Contra Costa,Rodeo,ChildCareData,163
+173,Contra Costa,Rodeo,KindergartenData,172
+174,Contra Costa,San Pablo,7thGradeData,515
+175,Contra Costa,San Pablo,ChildCareData,283
+176,Contra Costa,San Pablo,KindergartenData,468
+177,Contra Costa,San Ramon,7thGradeData,1519
+178,Contra Costa,San Ramon,ChildCareData,1046
+179,Contra Costa,San Ramon,KindergartenData,1474
+180,Contra Costa,Walnut Creek,7thGradeData,1036
+181,Contra Costa,Walnut Creek,ChildCareData,1702
+182,Contra Costa,Walnut Creek,KindergartenData,1010
+183,Del Norte,Crescent City,7thGradeData,258
+184,Del Norte,Crescent City,ChildCareData,174
+185,Del Norte,Crescent City,KindergartenData,289
+186,Del Norte,Klamath,KindergartenData,39
+187,Del Norte,Smith River,7thGradeData,29
+188,Del Norte,Smith River,KindergartenData,24
+189,El Dorado,Cameron Park,7thGradeData,250
+190,El Dorado,Cameron Park,ChildCareData,191
+191,El Dorado,Cameron Park,KindergartenData,123
+192,El Dorado,Camino,7thGradeData,59
+193,El Dorado,Camino,ChildCareData,22
+194,El Dorado,Camino,KindergartenData,38
+195,El Dorado,Cool,ChildCareData,31
+196,El Dorado,Cool,KindergartenData,33
+197,El Dorado,Diamond Springs,ChildCareData,120
+198,El Dorado,El Dorado,7thGradeData,33
+199,El Dorado,El Dorado Hills,7thGradeData,624
+200,El Dorado,El Dorado Hills,ChildCareData,645
+201,El Dorado,El Dorado Hills,KindergartenData,583
+202,El Dorado,Garden Valley,7thGradeData,83
+203,El Dorado,Georgetown,ChildCareData,20
+204,El Dorado,Georgetown,KindergartenData,33
+205,El Dorado,Placerville,7thGradeData,373
+206,El Dorado,Placerville,ChildCareData,326
+207,El Dorado,Placerville,KindergartenData,467
+208,El Dorado,Pollock Pines,7thGradeData,72
+209,El Dorado,Pollock Pines,ChildCareData,32
+210,El Dorado,Pollock Pines,KindergartenData,86
+211,El Dorado,Rescue,7thGradeData,207
+212,El Dorado,Rescue,ChildCareData,19
+213,El Dorado,Rescue,KindergartenData,163
+214,El Dorado,Shingle Springs,7thGradeData,57
+215,El Dorado,Shingle Springs,ChildCareData,159
+216,El Dorado,Shingle Springs,KindergartenData,114
+217,El Dorado,Somerset,7thGradeData,42
+218,El Dorado,Somerset,KindergartenData,22
+219,El Dorado,South Lake Tahoe,7thGradeData,292
+220,El Dorado,South Lake Tahoe,ChildCareData,342
+221,El Dorado,South Lake Tahoe,KindergartenData,339
+222,Fresno,Auberry,ChildCareData,18
+223,Fresno,Cantua Creek,ChildCareData,19
+224,Fresno,Caruthers,7thGradeData,85
+225,Fresno,Caruthers,ChildCareData,97
+226,Fresno,Caruthers,KindergartenData,131
+227,Fresno,Clovis,7thGradeData,2284
+228,Fresno,Clovis,ChildCareData,2201
+229,Fresno,Clovis,KindergartenData,1989
+230,Fresno,Coalinga,7thGradeData,217
+231,Fresno,Coalinga,ChildCareData,225
+232,Fresno,Coalinga,KindergartenData,257
+233,Fresno,Del Rey,KindergartenData,26
+234,Fresno,Dunlap,7thGradeData,31
+235,Fresno,Dunlap,KindergartenData,52
+236,Fresno,Firebaugh,7thGradeData,191
+237,Fresno,Firebaugh,ChildCareData,254
+238,Fresno,Firebaugh,KindergartenData,176
+239,Fresno,Five Points,7thGradeData,27
+240,Fresno,Five Points,ChildCareData,19
+241,Fresno,Five Points,KindergartenData,38
+242,Fresno,Fowler,7thGradeData,208
+243,Fresno,Fowler,ChildCareData,113
+244,Fresno,Fowler,KindergartenData,179
+245,Fresno,Fresno,7thGradeData,8842
+246,Fresno,Fresno,ChildCareData,8029
+247,Fresno,Fresno,KindergartenData,10994
+248,Fresno,Huron,7thGradeData,127
+249,Fresno,Huron,ChildCareData,97
+250,Fresno,Huron,KindergartenData,145
+251,Fresno,Kerman,7thGradeData,402
+252,Fresno,Kerman,ChildCareData,223
+253,Fresno,Kerman,KindergartenData,451
+254,Fresno,Kingsburg,7thGradeData,273
+255,Fresno,Kingsburg,ChildCareData,200
+256,Fresno,Kingsburg,KindergartenData,302
+257,Fresno,Laton,7thGradeData,45
+258,Fresno,Laton,ChildCareData,46
+259,Fresno,Laton,KindergartenData,83
+260,Fresno,Mendota,7thGradeData,220
+261,Fresno,Mendota,ChildCareData,180
+262,Fresno,Mendota,KindergartenData,365
+263,Fresno,Orange Cove,7thGradeData,206
+264,Fresno,Orange Cove,ChildCareData,246
+265,Fresno,Orange Cove,KindergartenData,210
+266,Fresno,Parlier,7thGradeData,307
+267,Fresno,Parlier,ChildCareData,250
+268,Fresno,Parlier,KindergartenData,371
+269,Fresno,Prather,KindergartenData,116
+270,Fresno,Raisin City,7thGradeData,25
+271,Fresno,Raisin City,ChildCareData,31
+272,Fresno,Raisin City,KindergartenData,28
+273,Fresno,Reedley,7thGradeData,506
+274,Fresno,Reedley,ChildCareData,463
+275,Fresno,Reedley,KindergartenData,601
+276,Fresno,Riverdale,7thGradeData,112
+277,Fresno,Riverdale,ChildCareData,83
+278,Fresno,Riverdale,KindergartenData,130
+279,Fresno,San Joaquin,7thGradeData,95
+280,Fresno,San Joaquin,ChildCareData,112
+281,Fresno,San Joaquin,KindergartenData,87
+282,Fresno,Sanger,7thGradeData,838
+283,Fresno,Sanger,ChildCareData,505
+284,Fresno,Sanger,KindergartenData,636
+285,Fresno,Selma,7thGradeData,493
+286,Fresno,Selma,ChildCareData,537
+287,Fresno,Selma,KindergartenData,504
+288,Fresno,Simi Valley,7thGradeData,42
+289,Fresno,Simi Valley,KindergartenData,22
+290,Fresno,Tollhouse,7thGradeData,91
+291,Fresno,Tollhouse,ChildCareData,17
+292,Fresno,Tranquillity,7thGradeData,29
+293,Fresno,Tranquillity,KindergartenData,19
+294,Glenn,Hamilton City,7thGradeData,43
+295,Glenn,Hamilton City,ChildCareData,58
+296,Glenn,Hamilton City,KindergartenData,51
+297,Glenn,Orland,7thGradeData,179
+298,Glenn,Orland,ChildCareData,78
+299,Glenn,Orland,KindergartenData,226
+300,Glenn,Willows,7thGradeData,102
+301,Glenn,Willows,ChildCareData,99
+302,Glenn,Willows,KindergartenData,143
+303,Humboldt,Arcata,7thGradeData,135
+304,Humboldt,Arcata,ChildCareData,311
+305,Humboldt,Arcata,KindergartenData,173
+306,Humboldt,Bayside,7thGradeData,49
+307,Humboldt,Bayside,KindergartenData,57
+308,Humboldt,Blue Lake,7thGradeData,20
+309,Humboldt,Blue Lake,ChildCareData,19
+310,Humboldt,Blue Lake,KindergartenData,24
+311,Humboldt,Briceland,ChildCareData,10
+312,Humboldt,Carlotta,ChildCareData,25
+313,Humboldt,Carlotta,KindergartenData,21
+314,Humboldt,Eureka,7thGradeData,428
+315,Humboldt,Eureka,ChildCareData,549
+316,Humboldt,Eureka,KindergartenData,502
+317,Humboldt,Ferndale,7thGradeData,39
+318,Humboldt,Ferndale,ChildCareData,34
+319,Humboldt,Ferndale,KindergartenData,32
+320,Humboldt,Fortuna,7thGradeData,123
+321,Humboldt,Fortuna,ChildCareData,142
+322,Humboldt,Fortuna,KindergartenData,191
+323,Humboldt,Hoopa,7thGradeData,40
+324,Humboldt,Hoopa,KindergartenData,41
+325,Humboldt,Hydesville,7thGradeData,19
+326,Humboldt,McKinleyville,7thGradeData,135
+327,Humboldt,McKinleyville,ChildCareData,127
+328,Humboldt,McKinleyville,KindergartenData,179
+329,Humboldt,Miranda,7thGradeData,56
+330,Humboldt,Orleans,KindergartenData,20
+331,Humboldt,Petrolia,7thGradeData,21
+332,Humboldt,Petrolia,KindergartenData,36
+333,Humboldt,Redway,ChildCareData,30
+334,Humboldt,Redway,KindergartenData,31
+335,Humboldt,Rio Dell,7thGradeData,44
+336,Humboldt,Rio Dell,KindergartenData,39
+337,Humboldt,Scotia,7thGradeData,26
+338,Humboldt,Scotia,KindergartenData,23
+339,Humboldt,Trinidad,7thGradeData,20
+340,Humboldt,Trinidad,ChildCareData,19
+341,Humboldt,Trinidad,KindergartenData,32
+342,Humboldt,Willow Creek,7thGradeData,19
+343,Humboldt,Willow Creek,KindergartenData,35
+344,Imperial,Brawley,7thGradeData,436
+345,Imperial,Brawley,ChildCareData,423
+346,Imperial,Brawley,KindergartenData,490
+347,Imperial,Calexico,7thGradeData,743
+348,Imperial,Calexico,ChildCareData,581
+349,Imperial,Calexico,KindergartenData,729
+350,Imperial,Calipatria,7thGradeData,86
+351,Imperial,Calipatria,ChildCareData,38
+352,Imperial,Calipatria,KindergartenData,80
+353,Imperial,El Centro,7thGradeData,872
+354,Imperial,El Centro,ChildCareData,822
+355,Imperial,El Centro,KindergartenData,1022
+356,Imperial,Heber,7thGradeData,117
+357,Imperial,Heber,ChildCareData,57
+358,Imperial,Heber,KindergartenData,174
+359,Imperial,Holtville,7thGradeData,112
+360,Imperial,Holtville,ChildCareData,43
+361,Imperial,Holtville,KindergartenData,92
+362,Imperial,Imperial,7thGradeData,309
+363,Imperial,Imperial,ChildCareData,169
+364,Imperial,Imperial,KindergartenData,355
+365,Imperial,Seeley,7thGradeData,30
+366,Imperial,Seeley,KindergartenData,38
+367,Imperial,Westmorland,7thGradeData,45
+368,Imperial,Westmorland,ChildCareData,25
+369,Imperial,Westmorland,KindergartenData,35
+370,Imperial,Winterhaven,7thGradeData,61
+371,Imperial,Winterhaven,KindergartenData,58
+372,Inyo,Big Pine,KindergartenData,19
+373,Inyo,Bishop,7thGradeData,173
+374,Inyo,Bishop,ChildCareData,89
+375,Inyo,Bishop,KindergartenData,135
+376,Inyo,Lone Pine,7thGradeData,25
+377,Inyo,Lone Pine,KindergartenData,25
+378,Kern,Arvin,7thGradeData,384
+379,Kern,Arvin,ChildCareData,234
+380,Kern,Arvin,KindergartenData,535
+381,Kern,Bakersfield,7thGradeData,9030
+382,Kern,Bakersfield,ChildCareData,6366
+383,Kern,Bakersfield,KindergartenData,10091
+384,Kern,Boron,7thGradeData,42
+385,Kern,Boron,ChildCareData,26
+386,Kern,Boron,KindergartenData,39
+387,Kern,Buttonwillow,ChildCareData,19
+388,Kern,California City,7thGradeData,117
+389,Kern,California City,ChildCareData,61
+390,Kern,California City,KindergartenData,152
+391,Kern,Delano,7thGradeData,744
+392,Kern,Delano,ChildCareData,783
+393,Kern,Delano,KindergartenData,897
+394,Kern,Edwards AFB,7thGradeData,101
+395,Kern,Edwards AFB,KindergartenData,151
+396,Kern,Frazier Park,ChildCareData,25
+397,Kern,Frazier Park,KindergartenData,58
+398,Kern,Inyokern,KindergartenData,29
+399,Kern,Kernville,KindergartenData,24
+400,Kern,Lake Isabella,7thGradeData,102
+401,Kern,Lake Isabella,ChildCareData,106
+402,Kern,Lake Isabella,KindergartenData,80
+403,Kern,Lamont,ChildCareData,301
+404,Kern,Lamont,KindergartenData,390
+405,Kern,Lebec,7thGradeData,54
+406,Kern,Lost Hills,7thGradeData,59
+407,Kern,Lost Hills,ChildCareData,35
+408,Kern,Lost Hills,KindergartenData,78
+409,Kern,Maricopa,7thGradeData,87
+410,Kern,Maricopa,KindergartenData,127
+411,Kern,McFarland,7thGradeData,258
+412,Kern,McFarland,ChildCareData,124
+413,Kern,McFarland,KindergartenData,335
+414,Kern,Mojave,7thGradeData,52
+415,Kern,Mojave,ChildCareData,29
+416,Kern,Mojave,KindergartenData,74
+417,Kern,Ridgecrest,7thGradeData,424
+418,Kern,Ridgecrest,ChildCareData,473
+419,Kern,Ridgecrest,KindergartenData,464
+420,Kern,Rosamond,7thGradeData,236
+421,Kern,Rosamond,ChildCareData,238
+422,Kern,Rosamond,KindergartenData,320
+423,Kern,Shafter,7thGradeData,404
+424,Kern,Shafter,ChildCareData,261
+425,Kern,Shafter,KindergartenData,492
+426,Kern,Simi Valley,7thGradeData,116
+427,Kern,Simi Valley,KindergartenData,64
+428,Kern,Taft,7thGradeData,243
+429,Kern,Taft,ChildCareData,246
+430,Kern,Taft,KindergartenData,293
+431,Kern,Tehachapi,7thGradeData,311
+432,Kern,Tehachapi,ChildCareData,241
+433,Kern,Tehachapi,KindergartenData,370
+434,Kern,Wasco,7thGradeData,402
+435,Kern,Wasco,ChildCareData,259
+436,Kern,Wasco,KindergartenData,504
+437,Kern,Weldon,ChildCareData,22
+438,Kern,Weldon,KindergartenData,29
+439,Kings,Armona,7thGradeData,104
+440,Kings,Armona,ChildCareData,87
+441,Kings,Armona,KindergartenData,107
+442,Kings,Avenal,7thGradeData,159
+443,Kings,Avenal,ChildCareData,232
+444,Kings,Avenal,KindergartenData,189
+445,Kings,Corcoran,7thGradeData,243
+446,Kings,Corcoran,ChildCareData,179
+447,Kings,Corcoran,KindergartenData,321
+448,Kings,Hanford,7thGradeData,948
+449,Kings,Hanford,ChildCareData,890
+450,Kings,Hanford,KindergartenData,1166
+451,Kings,Kettleman City,7thGradeData,30
+452,Kings,Kettleman City,ChildCareData,22
+453,Kings,Kettleman City,KindergartenData,34
+454,Kings,Lemoore,7thGradeData,429
+455,Kings,Lemoore,ChildCareData,352
+456,Kings,Lemoore,KindergartenData,477
+457,Kings,Lemoore Station,7thGradeData,91
+458,Kings,Lemoore Station,ChildCareData,45
+459,Kings,Lemoore Station,KindergartenData,219
+460,Kings,Simi Valley,KindergartenData,15
+461,Kings,Stratford,7thGradeData,22
+462,Kings,Stratford,KindergartenData,39
+463,Lake,Clearlake,7thGradeData,90
+464,Lake,Clearlake,ChildCareData,235
+465,Lake,Clearlake,KindergartenData,162
+466,Lake,Clearlake Oaks,KindergartenData,24
+467,Lake,Kelseyville,7thGradeData,115
+468,Lake,Kelseyville,ChildCareData,57
+469,Lake,Kelseyville,KindergartenData,162
+470,Lake,Lakeport,7thGradeData,115
+471,Lake,Lakeport,ChildCareData,89
+472,Lake,Lakeport,KindergartenData,136
+473,Lake,Lower Lake,7thGradeData,61
+474,Lake,Lower Lake,ChildCareData,44
+475,Lake,Lower Lake,KindergartenData,95
+476,Lake,Lucerne,7thGradeData,22
+477,Lake,Lucerne,ChildCareData,19
+478,Lake,Lucerne,KindergartenData,30
+479,Lake,Middletown,7thGradeData,117
+480,Lake,Middletown,ChildCareData,74
+481,Lake,Middletown,KindergartenData,82
+482,Lake,Upper Lake,7thGradeData,46
+483,Lake,Upper Lake,ChildCareData,19
+484,Lake,Upper Lake,KindergartenData,72
+485,Lassen,Doyle,7thGradeData,22
+486,Lassen,Doyle,KindergartenData,23
+487,Lassen,Janesville,7thGradeData,39
+488,Lassen,Janesville,KindergartenData,31
+489,Lassen,Litchfield,7thGradeData,19
+490,Lassen,Litchfield,KindergartenData,19
+491,Lassen,Susanville,7thGradeData,154
+492,Lassen,Susanville,ChildCareData,131
+493,Lassen,Susanville,KindergartenData,201
+494,Lassen,Termo,7thGradeData,10
+495,Lassen,Termo,KindergartenData,7
+496,Lassen,Westwood,KindergartenData,19
+497,Los Angeles,Acton,7thGradeData,234
+498,Los Angeles,Acton,KindergartenData,277
+499,Los Angeles,Agoura Hills,7thGradeData,348
+500,Los Angeles,Agoura Hills,ChildCareData,241
+501,Los Angeles,Agoura Hills,KindergartenData,318
+502,Los Angeles,Alhambra,7thGradeData,760
+503,Los Angeles,Alhambra,ChildCareData,976
+504,Los Angeles,Alhambra,KindergartenData,920
+505,Los Angeles,Altadena,7thGradeData,257
+506,Los Angeles,Altadena,ChildCareData,367
+507,Los Angeles,Altadena,KindergartenData,442
+508,Los Angeles,Arcadia,7thGradeData,936
+509,Los Angeles,Arcadia,ChildCareData,765
+510,Los Angeles,Arcadia,KindergartenData,709
+511,Los Angeles,Artesia,7thGradeData,326
+512,Los Angeles,Artesia,ChildCareData,453
+513,Los Angeles,Artesia,KindergartenData,320
+514,Los Angeles,Avalon,7thGradeData,42
+515,Los Angeles,Avalon,ChildCareData,42
+516,Los Angeles,Avalon,KindergartenData,44
+517,Los Angeles,Azusa,7thGradeData,616
+518,Los Angeles,Azusa,ChildCareData,585
+519,Los Angeles,Azusa,KindergartenData,781
+520,Los Angeles,Baldwin Park,7thGradeData,1072
+521,Los Angeles,Baldwin Park,ChildCareData,711
+522,Los Angeles,Baldwin Park,KindergartenData,1131
+523,Los Angeles,Bell,7thGradeData,523
+524,Los Angeles,Bell,KindergartenData,577
+525,Los Angeles,Bell Gardens,7thGradeData,669
+526,Los Angeles,Bell Gardens,ChildCareData,550
+527,Los Angeles,Bell Gardens,KindergartenData,676
+528,Los Angeles,Bellflower,7thGradeData,452
+529,Los Angeles,Bellflower,ChildCareData,784
+530,Los Angeles,Bellflower,KindergartenData,593
+531,Los Angeles,Beverly Hills,7thGradeData,316
+532,Los Angeles,Beverly Hills,ChildCareData,364
+533,Los Angeles,Beverly Hills,KindergartenData,285
+534,Los Angeles,Burbank,7thGradeData,818
+535,Los Angeles,Burbank,ChildCareData,1182
+536,Los Angeles,Burbank,KindergartenData,1171
+537,Los Angeles,Calabasas,7thGradeData,666
+538,Los Angeles,Calabasas,ChildCareData,230
+539,Los Angeles,Calabasas,KindergartenData,392
+540,Los Angeles,Carson,7thGradeData,1241
+541,Los Angeles,Carson,ChildCareData,376
+542,Los Angeles,Carson,KindergartenData,1360
+543,Los Angeles,Castaic,7thGradeData,492
+544,Los Angeles,Castaic,ChildCareData,149
+545,Los Angeles,Castaic,KindergartenData,509
+546,Los Angeles,Cerritos,7thGradeData,1152
+547,Los Angeles,Cerritos,ChildCareData,278
+548,Los Angeles,Cerritos,KindergartenData,770
+549,Los Angeles,Claremont,7thGradeData,1213
+550,Los Angeles,Claremont,ChildCareData,740
+551,Los Angeles,Claremont,KindergartenData,554
+552,Los Angeles,Commerce,7thGradeData,110
+553,Los Angeles,Commerce,ChildCareData,94
+554,Los Angeles,Commerce,KindergartenData,171
+555,Los Angeles,Compton,7thGradeData,1494
+556,Los Angeles,Compton,ChildCareData,1450
+557,Los Angeles,Compton,KindergartenData,1724
+558,Los Angeles,Covina,7thGradeData,1088
+559,Los Angeles,Covina,ChildCareData,523
+560,Los Angeles,Covina,KindergartenData,935
+561,Los Angeles,Cudahy,7thGradeData,357
+562,Los Angeles,Cudahy,ChildCareData,518
+563,Los Angeles,Cudahy,KindergartenData,607
+564,Los Angeles,Culver City,7thGradeData,652
+565,Los Angeles,Culver City,ChildCareData,1221
+566,Los Angeles,Culver City,KindergartenData,937
+567,Los Angeles,Diamond Bar,7thGradeData,778
+568,Los Angeles,Diamond Bar,ChildCareData,658
+569,Los Angeles,Diamond Bar,KindergartenData,617
+570,Los Angeles,Downey,7thGradeData,1723
+571,Los Angeles,Downey,ChildCareData,732
+572,Los Angeles,Downey,KindergartenData,1296
+573,Los Angeles,Duarte,7thGradeData,244
+574,Los Angeles,Duarte,ChildCareData,517
+575,Los Angeles,Duarte,KindergartenData,316
+576,Los Angeles,East Rancho Dominguez,ChildCareData,45
+577,Los Angeles,East Whittier,ChildCareData,38
+578,Los Angeles,El Monte,7thGradeData,1592
+579,Los Angeles,El Monte,ChildCareData,1289
+580,Los Angeles,El Monte,KindergartenData,1700
+581,Los Angeles,El Segundo,7thGradeData,273
+582,Los Angeles,El Segundo,ChildCareData,475
+583,Los Angeles,El Segundo,KindergartenData,271
+584,Los Angeles,Gardena,7thGradeData,580
+585,Los Angeles,Gardena,ChildCareData,710
+586,Los Angeles,Gardena,KindergartenData,1254
+587,Los Angeles,Glendale,7thGradeData,1460
+588,Los Angeles,Glendale,ChildCareData,1766
+589,Los Angeles,Glendale,KindergartenData,1798
+590,Los Angeles,Glendora,7thGradeData,661
+591,Los Angeles,Glendora,ChildCareData,787
+592,Los Angeles,Glendora,KindergartenData,749
+593,Los Angeles,Hacienda Heights,7thGradeData,791
+594,Los Angeles,Hacienda Heights,ChildCareData,388
+595,Los Angeles,Hacienda Heights,KindergartenData,753
+596,Los Angeles,Hawaiian Gardens,7thGradeData,205
+597,Los Angeles,Hawaiian Gardens,ChildCareData,173
+598,Los Angeles,Hawaiian Gardens,KindergartenData,120
+599,Los Angeles,Hawthorne,7thGradeData,1242
+600,Los Angeles,Hawthorne,ChildCareData,793
+601,Los Angeles,Hawthorne,KindergartenData,1360
+602,Los Angeles,Hermosa Beach,7thGradeData,188
+603,Los Angeles,Hermosa Beach,ChildCareData,155
+604,Los Angeles,Hermosa Beach,KindergartenData,153
+605,Los Angeles,Huntington Park,7thGradeData,1474
+606,Los Angeles,Huntington Park,ChildCareData,824
+607,Los Angeles,Huntington Park,KindergartenData,1375
+608,Los Angeles,Industry,7thGradeData,194
+609,Los Angeles,Industry,ChildCareData,36
+610,Los Angeles,Inglewood,7thGradeData,971
+611,Los Angeles,Inglewood,ChildCareData,975
+612,Los Angeles,Inglewood,KindergartenData,1144
+613,Los Angeles,Irwindale,ChildCareData,40
+614,Los Angeles,La Canada Flintridge,7thGradeData,469
+615,Los Angeles,La Canada Flintridge,ChildCareData,789
+616,Los Angeles,La Canada Flintridge,KindergartenData,345
+617,Los Angeles,La Crescenta-Montrose,7thGradeData,714
+618,Los Angeles,La Crescenta-Montrose,ChildCareData,693
+619,Los Angeles,La Crescenta-Montrose,KindergartenData,512
+620,Los Angeles,La Habra,KindergartenData,225
+621,Los Angeles,La Habra Heights,ChildCareData,104
+622,Los Angeles,La Mirada,7thGradeData,686
+623,Los Angeles,La Mirada,ChildCareData,253
+624,Los Angeles,La Mirada,KindergartenData,562
+625,Los Angeles,La Puente,7thGradeData,609
+626,Los Angeles,La Puente,ChildCareData,1485
+627,Los Angeles,La Puente,KindergartenData,1406
+628,Los Angeles,La Verne,ChildCareData,178
+629,Los Angeles,La Verne,KindergartenData,354
+630,Los Angeles,Lake Hughes,KindergartenData,32
+631,Los Angeles,Lakewood,7thGradeData,871
+632,Los Angeles,Lakewood,ChildCareData,389
+633,Los Angeles,Lakewood,KindergartenData,1115
+634,Los Angeles,Lancaster,7thGradeData,2743
+635,Los Angeles,Lancaster,ChildCareData,1623
+636,Los Angeles,Lancaster,KindergartenData,2850
+637,Los Angeles,Lawndale,7thGradeData,652
+638,Los Angeles,Lawndale,ChildCareData,495
+639,Los Angeles,Lawndale,KindergartenData,535
+640,Los Angeles,Lennox,ChildCareData,690
+641,Los Angeles,Lennox,KindergartenData,694
+642,Los Angeles,Littlerock,7thGradeData,150
+643,Los Angeles,Littlerock,ChildCareData,79
+644,Los Angeles,Littlerock,KindergartenData,101
+645,Los Angeles,Lomita,7thGradeData,522
+646,Los Angeles,Lomita,ChildCareData,566
+647,Los Angeles,Lomita,KindergartenData,247
+648,Los Angeles,Long Beach,7thGradeData,4826
+649,Los Angeles,Long Beach,ChildCareData,5844
+650,Los Angeles,Long Beach,KindergartenData,6081
+651,Los Angeles,Los Angeles,7thGradeData,40653
+652,Los Angeles,Los Angeles,ChildCareData,40348
+653,Los Angeles,Los Angeles,KindergartenData,52802
+654,Los Angeles,Lynwood,7thGradeData,1092
+655,Los Angeles,Lynwood,ChildCareData,963
+656,Los Angeles,Lynwood,KindergartenData,1154
+657,Los Angeles,Malibu,ChildCareData,100
+658,Los Angeles,Malibu,KindergartenData,123
+659,Los Angeles,Manhattan Beach,7thGradeData,533
+660,Los Angeles,Manhattan Beach,ChildCareData,1528
+661,Los Angeles,Manhattan Beach,KindergartenData,552
+662,Los Angeles,Marina del Rey,ChildCareData,55
+663,Los Angeles,Maywood,7thGradeData,22
+664,Los Angeles,Maywood,ChildCareData,328
+665,Los Angeles,Maywood,KindergartenData,622
+666,Los Angeles,Mission Hills,ChildCareData,62
+667,Los Angeles,Mission Hills,KindergartenData,156
+668,Los Angeles,Monrovia,7thGradeData,397
+669,Los Angeles,Monrovia,ChildCareData,711
+670,Los Angeles,Monrovia,KindergartenData,417
+671,Los Angeles,Montebello,7thGradeData,1080
+672,Los Angeles,Montebello,ChildCareData,381
+673,Los Angeles,Montebello,KindergartenData,839
+674,Los Angeles,Monterey Park,7thGradeData,749
+675,Los Angeles,Monterey Park,ChildCareData,599
+676,Los Angeles,Monterey Park,KindergartenData,689
+677,Los Angeles,Norwalk,7thGradeData,807
+678,Los Angeles,Norwalk,ChildCareData,1121
+679,Los Angeles,Norwalk,KindergartenData,1293
+680,Los Angeles,Palmdale,7thGradeData,2612
+681,Los Angeles,Palmdale,ChildCareData,1380
+682,Los Angeles,Palmdale,KindergartenData,3488
+683,Los Angeles,Palos Verdes Estates,7thGradeData,274
+684,Los Angeles,Palos Verdes Estates,ChildCareData,327
+685,Los Angeles,Palos Verdes Estates,KindergartenData,161
+686,Los Angeles,Paramount,7thGradeData,297
+687,Los Angeles,Paramount,ChildCareData,545
+688,Los Angeles,Paramount,KindergartenData,864
+689,Los Angeles,Pasadena,7thGradeData,1644
+690,Los Angeles,Pasadena,ChildCareData,2926
+691,Los Angeles,Pasadena,KindergartenData,1607
+692,Los Angeles,Pearblossom,7thGradeData,36
+693,Los Angeles,Pearblossom,KindergartenData,49
+694,Los Angeles,Pico Rivera,7thGradeData,725
+695,Los Angeles,Pico Rivera,ChildCareData,734
+696,Los Angeles,Pico Rivera,KindergartenData,863
+697,Los Angeles,Pomona,7thGradeData,1558
+698,Los Angeles,Pomona,ChildCareData,1557
+699,Los Angeles,Pomona,KindergartenData,1768
+700,Los Angeles,Quartz Hill,7thGradeData,207
+701,Los Angeles,Quartz Hill,ChildCareData,55
+702,Los Angeles,Quartz Hill,KindergartenData,135
+703,Los Angeles,Rancho Dominguez,7thGradeData,25
+704,Los Angeles,Rancho Dominguez,KindergartenData,19
+705,Los Angeles,Rancho Palos Verdes,7thGradeData,1212
+706,Los Angeles,Rancho Palos Verdes,ChildCareData,481
+707,Los Angeles,Rancho Palos Verdes,KindergartenData,567
+708,Los Angeles,Redlands,7thGradeData,90
+709,Los Angeles,Redlands,KindergartenData,116
+710,Los Angeles,Redondo Beach,7thGradeData,780
+711,Los Angeles,Redondo Beach,ChildCareData,1198
+712,Los Angeles,Redondo Beach,KindergartenData,890
+713,Los Angeles,Rolling Hills Estates,7thGradeData,46
+714,Los Angeles,Rolling Hills Estates,ChildCareData,453
+715,Los Angeles,Rolling Hills Estates,KindergartenData,236
+716,Los Angeles,Rosemead,7thGradeData,891
+717,Los Angeles,Rosemead,ChildCareData,991
+718,Los Angeles,Rosemead,KindergartenData,580
+719,Los Angeles,Rowland Heights,7thGradeData,368
+720,Los Angeles,Rowland Heights,ChildCareData,498
+721,Los Angeles,Rowland Heights,KindergartenData,458
+722,Los Angeles,San Dimas,7thGradeData,754
+723,Los Angeles,San Dimas,ChildCareData,461
+724,Los Angeles,San Dimas,KindergartenData,389
+725,Los Angeles,San Fernando,7thGradeData,639
+726,Los Angeles,San Fernando,ChildCareData,585
+727,Los Angeles,San Fernando,KindergartenData,899
+728,Los Angeles,San Gabriel,7thGradeData,571
+729,Los Angeles,San Gabriel,ChildCareData,770
+730,Los Angeles,San Gabriel,KindergartenData,568
+731,Los Angeles,San Marino,7thGradeData,292
+732,Los Angeles,San Marino,ChildCareData,145
+733,Los Angeles,San Marino,KindergartenData,201
+734,Los Angeles,Santa Clarita,7thGradeData,3000
+735,Los Angeles,Santa Clarita,ChildCareData,2776
+736,Los Angeles,Santa Clarita,KindergartenData,2956
+737,Los Angeles,Santa Fe Springs,7thGradeData,307
+738,Los Angeles,Santa Fe Springs,ChildCareData,364
+739,Los Angeles,Santa Fe Springs,KindergartenData,267
+740,Los Angeles,Santa Monica,7thGradeData,922
+741,Los Angeles,Santa Monica,ChildCareData,1850
+742,Los Angeles,Santa Monica,KindergartenData,942
+743,Los Angeles,Sierra Madre,7thGradeData,188
+744,Los Angeles,Sierra Madre,ChildCareData,238
+745,Los Angeles,Sierra Madre,KindergartenData,148
+746,Los Angeles,Signal Hill,7thGradeData,278
+747,Los Angeles,Signal Hill,ChildCareData,214
+748,Los Angeles,Signal Hill,KindergartenData,210
+749,Los Angeles,Simi Valley,7thGradeData,215
+750,Los Angeles,Simi Valley,KindergartenData,91
+751,Los Angeles,South El Monte,7thGradeData,120
+752,Los Angeles,South El Monte,ChildCareData,115
+753,Los Angeles,South El Monte,KindergartenData,119
+754,Los Angeles,South Gate,7thGradeData,1292
+755,Los Angeles,South Gate,ChildCareData,610
+756,Los Angeles,South Gate,KindergartenData,2029
+757,Los Angeles,South Pasadena,7thGradeData,407
+758,Los Angeles,South Pasadena,ChildCareData,367
+759,Los Angeles,South Pasadena,KindergartenData,381
+760,Los Angeles,South San Gabriel,KindergartenData,75
+761,Los Angeles,South Whittier,ChildCareData,150
+762,Los Angeles,Stevenson Ranch,7thGradeData,480
+763,Los Angeles,Stevenson Ranch,ChildCareData,152
+764,Los Angeles,Stevenson Ranch,KindergartenData,238
+765,Los Angeles,Sunnyvale,7thGradeData,93
+766,Los Angeles,Temple City,ChildCareData,247
+767,Los Angeles,Temple City,KindergartenData,280
+768,Los Angeles,Topanga,ChildCareData,20
+769,Los Angeles,Topanga,KindergartenData,68
+770,Los Angeles,Torrance,7thGradeData,1961
+771,Los Angeles,Torrance,ChildCareData,2109
+772,Los Angeles,Torrance,KindergartenData,2455
+773,Los Angeles,Valinda,7thGradeData,206
+774,Los Angeles,Valinda,ChildCareData,71
+775,Los Angeles,Valinda,KindergartenData,195
+776,Los Angeles,Walnut,7thGradeData,912
+777,Los Angeles,Walnut,ChildCareData,712
+778,Los Angeles,Walnut,KindergartenData,670
+779,Los Angeles,Walnut Park,7thGradeData,388
+780,Los Angeles,Walnut Park,ChildCareData,57
+781,Los Angeles,Walnut Park,KindergartenData,79
+782,Los Angeles,West Covina,7thGradeData,1654
+783,Los Angeles,West Covina,ChildCareData,838
+784,Los Angeles,West Covina,KindergartenData,1466
+785,Los Angeles,West Hollywood,ChildCareData,60
+786,Los Angeles,West Hollywood,KindergartenData,149
+787,Los Angeles,West Whittier-Los Nietos,7thGradeData,152
+788,Los Angeles,Westlake Village,7thGradeData,137
+789,Los Angeles,Westlake Village,ChildCareData,184
+790,Los Angeles,Westlake Village,KindergartenData,80
+791,Los Angeles,Whittier,7thGradeData,2421
+792,Los Angeles,Whittier,ChildCareData,1391
+793,Los Angeles,Whittier,KindergartenData,2484
+794,Madera,Ahwahnee,7thGradeData,28
+795,Madera,Ahwahnee,KindergartenData,35
+796,Madera,Chowchilla,7thGradeData,273
+797,Madera,Chowchilla,ChildCareData,188
+798,Madera,Chowchilla,KindergartenData,298
+799,Madera,Coarsegold,7thGradeData,106
+800,Madera,Coarsegold,ChildCareData,22
+801,Madera,Coarsegold,KindergartenData,112
+802,Madera,Madera,7thGradeData,1783
+803,Madera,Madera,ChildCareData,1123
+804,Madera,Madera,KindergartenData,2096
+805,Madera,North Fork,7thGradeData,25
+806,Madera,North Fork,KindergartenData,29
+807,Madera,O'Neals,7thGradeData,19
+808,Madera,O'Neals,KindergartenData,21
+809,Madera,Oakhurst,7thGradeData,84
+810,Madera,Oakhurst,ChildCareData,98
+811,Madera,Oakhurst,KindergartenData,95
+812,Marin,Belvedere,ChildCareData,54
+813,Marin,Bolinas,ChildCareData,17
+814,Marin,Corte Madera,7thGradeData,104
+815,Marin,Corte Madera,ChildCareData,479
+816,Marin,Corte Madera,KindergartenData,257
+817,Marin,Fairfax,7thGradeData,266
+818,Marin,Fairfax,ChildCareData,100
+819,Marin,Fairfax,KindergartenData,37
+820,Marin,Inverness,KindergartenData,19
+821,Marin,Kentfield,7thGradeData,147
+822,Marin,Kentfield,ChildCareData,99
+823,Marin,Kentfield,KindergartenData,162
+824,Marin,Larkspur,7thGradeData,231
+825,Marin,Larkspur,ChildCareData,109
+826,Marin,Larkspur,KindergartenData,54
+827,Marin,Marin City,ChildCareData,25
+828,Marin,Mill Valley,7thGradeData,419
+829,Marin,Mill Valley,ChildCareData,588
+830,Marin,Mill Valley,KindergartenData,316
+831,Marin,Novato,7thGradeData,651
+832,Marin,Novato,ChildCareData,883
+833,Marin,Novato,KindergartenData,638
+834,Marin,Point Reyes Station,ChildCareData,24
+835,Marin,Ross,7thGradeData,38
+836,Marin,Ross,ChildCareData,53
+837,Marin,Ross,KindergartenData,25
+838,Marin,San Anselmo,7thGradeData,111
+839,Marin,San Anselmo,ChildCareData,329
+840,Marin,San Anselmo,KindergartenData,211
+841,Marin,San Geronimo,7thGradeData,30
+842,Marin,San Rafael,7thGradeData,772
+843,Marin,San Rafael,ChildCareData,1355
+844,Marin,San Rafael,KindergartenData,900
+845,Marin,Sausalito,7thGradeData,42
+846,Marin,Sausalito,ChildCareData,123
+847,Marin,Sausalito,KindergartenData,95
+848,Marin,Tiburon,7thGradeData,235
+849,Marin,Tiburon,ChildCareData,260
+850,Marin,Tiburon,KindergartenData,154
+851,Marin,Tomales,7thGradeData,24
+852,Marin,Tomales,KindergartenData,19
+853,Mariposa,Mariposa,ChildCareData,28
+854,Mendocino,Boonville,7thGradeData,28
+855,Mendocino,Boonville,ChildCareData,32
+856,Mendocino,Boonville,KindergartenData,36
+857,Mendocino,Covelo,7thGradeData,38
+858,Mendocino,Covelo,ChildCareData,43
+859,Mendocino,Covelo,KindergartenData,33
+860,Mendocino,Fort Bragg,7thGradeData,120
+861,Mendocino,Fort Bragg,ChildCareData,92
+862,Mendocino,Fort Bragg,KindergartenData,86
+863,Mendocino,Laytonville,7thGradeData,27
+864,Mendocino,Laytonville,KindergartenData,27
+865,Mendocino,Mendocino,7thGradeData,25
+866,Mendocino,Mendocino,ChildCareData,21
+867,Mendocino,Mendocino,KindergartenData,25
+868,Mendocino,Point Arena,7thGradeData,30
+869,Mendocino,Point Arena,ChildCareData,30
+870,Mendocino,Point Arena,KindergartenData,20
+871,Mendocino,Potter Valley,7thGradeData,30
+872,Mendocino,Potter Valley,ChildCareData,50
+873,Mendocino,Potter Valley,KindergartenData,19
+874,Mendocino,Redwood Valley,7thGradeData,107
+875,Mendocino,Ukiah,7thGradeData,389
+876,Mendocino,Ukiah,ChildCareData,477
+877,Mendocino,Ukiah,KindergartenData,623
+878,Mendocino,Willits,7thGradeData,117
+879,Mendocino,Willits,ChildCareData,133
+880,Mendocino,Willits,KindergartenData,162
+881,Merced,Atwater,7thGradeData,518
+882,Merced,Atwater,ChildCareData,284
+883,Merced,Atwater,KindergartenData,629
+884,Merced,Ballico,7thGradeData,40
+885,Merced,Cressey,KindergartenData,40
+886,Merced,Delhi,7thGradeData,194
+887,Merced,Delhi,ChildCareData,42
+888,Merced,Delhi,KindergartenData,222
+889,Merced,Dos Palos,7thGradeData,167
+890,Merced,Dos Palos,ChildCareData,116
+891,Merced,Dos Palos,KindergartenData,216
+892,Merced,El Nido,KindergartenData,22
+893,Merced,Gustine,7thGradeData,119
+894,Merced,Gustine,ChildCareData,20
+895,Merced,Gustine,KindergartenData,102
+896,Merced,Hilmar-Irwin,7thGradeData,187
+897,Merced,Hilmar-Irwin,ChildCareData,87
+898,Merced,Hilmar-Irwin,KindergartenData,245
+899,Merced,Le Grand,7thGradeData,45
+900,Merced,Le Grand,KindergartenData,53
+901,Merced,Livingston,7thGradeData,278
+902,Merced,Livingston,ChildCareData,159
+903,Merced,Livingston,KindergartenData,328
+904,Merced,Los Banos,7thGradeData,800
+905,Merced,Los Banos,ChildCareData,288
+906,Merced,Los Banos,KindergartenData,937
+907,Merced,Merced,7thGradeData,1570
+908,Merced,Merced,ChildCareData,1274
+909,Merced,Merced,KindergartenData,1881
+910,Merced,Planada,7thGradeData,74
+911,Merced,Planada,ChildCareData,77
+912,Merced,Planada,KindergartenData,115
+913,Merced,Santa Nella,KindergartenData,264
+914,Merced,Stevinson,KindergartenData,37
+915,Merced,Winton,7thGradeData,221
+916,Merced,Winton,ChildCareData,124
+917,Merced,Winton,KindergartenData,282
+918,Modoc,Alturas,7thGradeData,72
+919,Modoc,Alturas,ChildCareData,20
+920,Modoc,Alturas,KindergartenData,40
+921,Modoc,Tulelake,7thGradeData,33
+922,Modoc,Tulelake,ChildCareData,21
+923,Modoc,Tulelake,KindergartenData,49
+924,Mono,Mammoth Lakes,7thGradeData,88
+925,Mono,Mammoth Lakes,ChildCareData,74
+926,Mono,Mammoth Lakes,KindergartenData,95
+927,Monterey,Carmel Valley Village,7thGradeData,229
+928,Monterey,Carmel Valley Village,ChildCareData,168
+929,Monterey,Carmel Valley Village,KindergartenData,155
+930,Monterey,Castroville,7thGradeData,335
+931,Monterey,Castroville,ChildCareData,178
+932,Monterey,Castroville,KindergartenData,208
+933,Monterey,Chualar,7thGradeData,43
+934,Monterey,Chualar,ChildCareData,22
+935,Monterey,Chualar,KindergartenData,38
+936,Monterey,Del Rey Oaks,ChildCareData,19
+937,Monterey,Gonzales,7thGradeData,183
+938,Monterey,Gonzales,ChildCareData,99
+939,Monterey,Gonzales,KindergartenData,190
+940,Monterey,Greenfield,7thGradeData,346
+941,Monterey,Greenfield,ChildCareData,243
+942,Monterey,Greenfield,KindergartenData,390
+943,Monterey,King City,7thGradeData,261
+944,Monterey,King City,ChildCareData,231
+945,Monterey,King City,KindergartenData,362
+946,Monterey,Lockwood,KindergartenData,19
+947,Monterey,Marina,7thGradeData,198
+948,Monterey,Marina,ChildCareData,159
+949,Monterey,Marina,KindergartenData,272
+950,Monterey,Monterey,7thGradeData,262
+951,Monterey,Monterey,ChildCareData,396
+952,Monterey,Monterey,KindergartenData,335
+953,Monterey,Pacific Grove,7thGradeData,213
+954,Monterey,Pacific Grove,ChildCareData,65
+955,Monterey,Pacific Grove,KindergartenData,250
+956,Monterey,Salinas,7thGradeData,650
+957,Monterey,Salinas,ChildCareData,2383
+958,Monterey,Salinas,KindergartenData,3483
+959,Monterey,Seaside,7thGradeData,293
+960,Monterey,Seaside,ChildCareData,477
+961,Monterey,Seaside,KindergartenData,581
+962,Monterey,Soledad,7thGradeData,393
+963,Monterey,Soledad,ChildCareData,222
+964,Monterey,Soledad,KindergartenData,422
+965,Monterey,Spreckels,ChildCareData,21
+966,Monterey,Spreckels,KindergartenData,114
+967,Monterey,Watsonville,ChildCareData,49
+968,Napa,American Canyon,7thGradeData,346
+969,Napa,American Canyon,ChildCareData,169
+970,Napa,American Canyon,KindergartenData,269
+971,Napa,Calistoga,7thGradeData,51
+972,Napa,Calistoga,ChildCareData,72
+973,Napa,Calistoga,KindergartenData,85
+974,Napa,Napa,7thGradeData,1130
+975,Napa,Napa,ChildCareData,1236
+976,Napa,Napa,KindergartenData,1031
+977,Napa,Rutherford,ChildCareData,52
+978,Napa,St. Helena,7thGradeData,102
+979,Napa,St. Helena,ChildCareData,94
+980,Napa,St. Helena,KindergartenData,96
+981,Napa,Yountville,ChildCareData,30
+982,Napa,Yountville,KindergartenData,22
+983,Nevada,Auburn,7thGradeData,26
+984,Nevada,Auburn,KindergartenData,21
+985,Nevada,Grass Valley,7thGradeData,375
+986,Nevada,Grass Valley,ChildCareData,386
+987,Nevada,Grass Valley,KindergartenData,463
+988,Nevada,Nevada City,7thGradeData,179
+989,Nevada,Nevada City,ChildCareData,178
+990,Nevada,Nevada City,KindergartenData,196
+991,Nevada,Penn Valley,7thGradeData,46
+992,Nevada,Penn Valley,KindergartenData,62
+993,Nevada,Truckee,ChildCareData,192
+994,Orange,Aliso Viejo,7thGradeData,699
+995,Orange,Aliso Viejo,ChildCareData,533
+996,Orange,Aliso Viejo,KindergartenData,614
+997,Orange,Anaheim,7thGradeData,4443
+998,Orange,Anaheim,ChildCareData,4288
+999,Orange,Anaheim,KindergartenData,5214
+1000,Orange,Brea,7thGradeData,500
+1001,Orange,Brea,ChildCareData,496
+1002,Orange,Brea,KindergartenData,637
+1003,Orange,Buena Park,7thGradeData,521
+1004,Orange,Buena Park,ChildCareData,795
+1005,Orange,Buena Park,KindergartenData,1164
+1006,Orange,Costa Mesa,7thGradeData,1082
+1007,Orange,Costa Mesa,ChildCareData,1858
+1008,Orange,Costa Mesa,KindergartenData,1289
+1009,Orange,Coto de Caza,KindergartenData,62
+1010,Orange,Cypress,7thGradeData,911
+1011,Orange,Cypress,ChildCareData,832
+1012,Orange,Cypress,KindergartenData,607
+1013,Orange,Dana Point,7thGradeData,85
+1014,Orange,Dana Point,ChildCareData,490
+1015,Orange,Dana Point,KindergartenData,206
+1016,Orange,Fountain Valley,7thGradeData,787
+1017,Orange,Fountain Valley,ChildCareData,1026
+1018,Orange,Fountain Valley,KindergartenData,675
+1019,Orange,Fullerton,7thGradeData,1583
+1020,Orange,Fullerton,ChildCareData,2110
+1021,Orange,Fullerton,KindergartenData,1698
+1022,Orange,Garden Grove,7thGradeData,2685
+1023,Orange,Garden Grove,ChildCareData,1984
+1024,Orange,Garden Grove,KindergartenData,2763
+1025,Orange,Huntington Beach,7thGradeData,2419
+1026,Orange,Huntington Beach,ChildCareData,2785
+1027,Orange,Huntington Beach,KindergartenData,2091
+1028,Orange,Irvine,7thGradeData,2962
+1029,Orange,Irvine,ChildCareData,4930
+1030,Orange,Irvine,KindergartenData,2853
+1031,Orange,La Habra,7thGradeData,571
+1032,Orange,La Habra,ChildCareData,715
+1033,Orange,La Habra,KindergartenData,573
+1034,Orange,La Palma,7thGradeData,585
+1035,Orange,La Palma,ChildCareData,263
+1036,Orange,La Palma,KindergartenData,229
+1037,Orange,Ladera Ranch,7thGradeData,516
+1038,Orange,Ladera Ranch,ChildCareData,545
+1039,Orange,Ladera Ranch,KindergartenData,387
+1040,Orange,Laguna Beach,7thGradeData,263
+1041,Orange,Laguna Beach,ChildCareData,434
+1042,Orange,Laguna Beach,KindergartenData,169
+1043,Orange,Laguna Hills,ChildCareData,258
+1044,Orange,Laguna Hills,KindergartenData,241
+1045,Orange,Laguna Niguel,7thGradeData,437
+1046,Orange,Laguna Niguel,ChildCareData,998
+1047,Orange,Laguna Niguel,KindergartenData,690
+1048,Orange,Laguna Woods,ChildCareData,59
+1049,Orange,Lake Forest,7thGradeData,610
+1050,Orange,Lake Forest,ChildCareData,1287
+1051,Orange,Lake Forest,KindergartenData,904
+1052,Orange,Las Flores (Orange County),7thGradeData,312
+1053,Orange,Los Alamitos,7thGradeData,837
+1054,Orange,Los Alamitos,ChildCareData,515
+1055,Orange,Los Alamitos,KindergartenData,567
+1056,Orange,Midway City,ChildCareData,81
+1057,Orange,Midway City,KindergartenData,290
+1058,Orange,Mission Viejo,7thGradeData,1483
+1059,Orange,Mission Viejo,ChildCareData,1757
+1060,Orange,Mission Viejo,KindergartenData,1078
+1061,Orange,Newport Beach,7thGradeData,1131
+1062,Orange,Newport Beach,ChildCareData,1273
+1063,Orange,Newport Beach,KindergartenData,685
+1064,Orange,North Tustin,7thGradeData,45
+1065,Orange,North Tustin,KindergartenData,57
+1066,Orange,Orange,7thGradeData,1316
+1067,Orange,Orange,ChildCareData,2033
+1068,Orange,Orange,KindergartenData,1479
+1069,Orange,Placentia,7thGradeData,1073
+1070,Orange,Placentia,ChildCareData,497
+1071,Orange,Placentia,KindergartenData,838
+1072,Orange,Rancho Santa Margarita,7thGradeData,998
+1073,Orange,Rancho Santa Margarita,ChildCareData,940
+1074,Orange,Rancho Santa Margarita,KindergartenData,752
+1075,Orange,Rossmoor,ChildCareData,25
+1076,Orange,San Clemente,7thGradeData,755
+1077,Orange,San Clemente,ChildCareData,879
+1078,Orange,San Clemente,KindergartenData,640
+1079,Orange,San Juan Capistrano,7thGradeData,889
+1080,Orange,San Juan Capistrano,ChildCareData,636
+1081,Orange,San Juan Capistrano,KindergartenData,620
+1082,Orange,Santa Ana,7thGradeData,5051
+1083,Orange,Santa Ana,ChildCareData,4927
+1084,Orange,Santa Ana,KindergartenData,5836
+1085,Orange,Seal Beach,ChildCareData,133
+1086,Orange,Seal Beach,KindergartenData,160
+1087,Orange,Silverado,ChildCareData,71
+1088,Orange,Stanton,ChildCareData,249
+1089,Orange,Stanton,KindergartenData,138
+1090,Orange,Trabuco Canyon,ChildCareData,28
+1091,Orange,Trabuco Canyon,KindergartenData,137
+1092,Orange,Tustin,7thGradeData,1421
+1093,Orange,Tustin,ChildCareData,1524
+1094,Orange,Tustin,KindergartenData,1137
+1095,Orange,Villa Park,7thGradeData,552
+1096,Orange,Villa Park,KindergartenData,162
+1097,Orange,Westminster,7thGradeData,1093
+1098,Orange,Westminster,ChildCareData,1106
+1099,Orange,Westminster,KindergartenData,783
+1100,Orange,Yorba Linda,7thGradeData,1139
+1101,Orange,Yorba Linda,ChildCareData,1624
+1102,Orange,Yorba Linda,KindergartenData,1178
+1103,Placer,Antelope,7thGradeData,341
+1104,Placer,Antelope,KindergartenData,353
+1105,Placer,Auburn,7thGradeData,283
+1106,Placer,Auburn,ChildCareData,224
+1107,Placer,Auburn,KindergartenData,300
+1108,Placer,Colfax,7thGradeData,44
+1109,Placer,Colfax,KindergartenData,48
+1110,Placer,Foresthill,7thGradeData,38
+1111,Placer,Foresthill,ChildCareData,19
+1112,Placer,Foresthill,KindergartenData,46
+1113,Placer,Granite Bay,7thGradeData,213
+1114,Placer,Granite Bay,ChildCareData,242
+1115,Placer,Granite Bay,KindergartenData,246
+1116,Placer,Kings Beach,ChildCareData,47
+1117,Placer,Kings Beach,KindergartenData,84
+1118,Placer,Lincoln,7thGradeData,638
+1119,Placer,Lincoln,ChildCareData,297
+1120,Placer,Lincoln,KindergartenData,536
+1121,Placer,Loomis,7thGradeData,265
+1122,Placer,Loomis,ChildCareData,213
+1123,Placer,Loomis,KindergartenData,269
+1124,Placer,Meadow Vista,ChildCareData,71
+1125,Placer,Meadow Vista,KindergartenData,91
+1126,Placer,Newcastle,7thGradeData,91
+1127,Placer,Newcastle,KindergartenData,129
+1128,Placer,Penryn,7thGradeData,27
+1129,Placer,Rocklin,7thGradeData,1236
+1130,Placer,Rocklin,ChildCareData,984
+1131,Placer,Rocklin,KindergartenData,994
+1132,Placer,Roseville,7thGradeData,1956
+1133,Placer,Roseville,ChildCareData,1571
+1134,Placer,Roseville,KindergartenData,1978
+1135,Placer,Sunnyside-Tahoe City,7thGradeData,99
+1136,Placer,Sunnyside-Tahoe City,ChildCareData,116
+1137,Placer,Sunnyside-Tahoe City,KindergartenData,64
+1138,Placer,Truckee,7thGradeData,187
+1139,Placer,Truckee,KindergartenData,210
+1140,Placer,Weimar,7thGradeData,83
+1141,Plumas,Chester,7thGradeData,26
+1142,Plumas,Chester,KindergartenData,25
+1143,Plumas,Greenville,KindergartenData,20
+1144,Plumas,Portola,ChildCareData,50
+1145,Plumas,Portola,KindergartenData,28
+1146,Plumas,Quincy,7thGradeData,83
+1147,Plumas,Quincy,ChildCareData,19
+1148,Plumas,Quincy,KindergartenData,68
+1149,Riverside,Aguanga,7thGradeData,38
+1150,Riverside,Aguanga,KindergartenData,18
+1151,Riverside,Anza,7thGradeData,56
+1152,Riverside,Anza,KindergartenData,49
+1153,Riverside,Banning,7thGradeData,311
+1154,Riverside,Banning,ChildCareData,393
+1155,Riverside,Banning,KindergartenData,383
+1156,Riverside,Beaumont,7thGradeData,767
+1157,Riverside,Beaumont,ChildCareData,191
+1158,Riverside,Beaumont,KindergartenData,844
+1159,Riverside,Bermuda Dunes,7thGradeData,35
+1160,Riverside,Bermuda Dunes,ChildCareData,254
+1161,Riverside,Bermuda Dunes,KindergartenData,183
+1162,Riverside,Blythe,7thGradeData,232
+1163,Riverside,Blythe,ChildCareData,254
+1164,Riverside,Blythe,KindergartenData,255
+1165,Riverside,Cabazon,ChildCareData,62
+1166,Riverside,Cabazon,KindergartenData,52
+1167,Riverside,Calimesa,ChildCareData,158
+1168,Riverside,Canyon Lake,ChildCareData,71
+1169,Riverside,Cathedral City,7thGradeData,832
+1170,Riverside,Cathedral City,ChildCareData,242
+1171,Riverside,Cathedral City,KindergartenData,509
+1172,Riverside,Cherry Valley,ChildCareData,94
+1173,Riverside,Coachella,7thGradeData,869
+1174,Riverside,Coachella,ChildCareData,205
+1175,Riverside,Coachella,KindergartenData,808
+1176,Riverside,Corona,7thGradeData,2669
+1177,Riverside,Corona,ChildCareData,1687
+1178,Riverside,Corona,KindergartenData,2977
+1179,Riverside,Desert Hot Springs,7thGradeData,575
+1180,Riverside,Desert Hot Springs,ChildCareData,282
+1181,Riverside,Desert Hot Springs,KindergartenData,577
+1182,Riverside,Eastvale,7thGradeData,1144
+1183,Riverside,Eastvale,ChildCareData,151
+1184,Riverside,Eastvale,KindergartenData,804
+1185,Riverside,Hemet,7thGradeData,1596
+1186,Riverside,Hemet,ChildCareData,1009
+1187,Riverside,Hemet,KindergartenData,1562
+1188,Riverside,Idyllwild-Pine Cove,7thGradeData,39
+1189,Riverside,Idyllwild-Pine Cove,KindergartenData,39
+1190,Riverside,Indian Wells,KindergartenData,132
+1191,Riverside,Indio,7thGradeData,1574
+1192,Riverside,Indio,ChildCareData,463
+1193,Riverside,Indio,KindergartenData,1761
+1194,Riverside,Jurupa Valley,7thGradeData,1434
+1195,Riverside,Jurupa Valley,ChildCareData,685
+1196,Riverside,Jurupa Valley,KindergartenData,1553
+1197,Riverside,La Quinta,7thGradeData,350
+1198,Riverside,La Quinta,ChildCareData,284
+1199,Riverside,La Quinta,KindergartenData,247
+1200,Riverside,Lake Elsinore,7thGradeData,1178
+1201,Riverside,Lake Elsinore,ChildCareData,500
+1202,Riverside,Lake Elsinore,KindergartenData,1372
+1203,Riverside,Lake Mathews,KindergartenData,1
+1204,Riverside,Mecca,ChildCareData,109
+1205,Riverside,Mecca,KindergartenData,281
+1206,Riverside,Menifee,7thGradeData,1583
+1207,Riverside,Menifee,ChildCareData,511
+1208,Riverside,Menifee,KindergartenData,973
+1209,Riverside,Moreno Valley,7thGradeData,3164
+1210,Riverside,Moreno Valley,ChildCareData,1714
+1211,Riverside,Moreno Valley,KindergartenData,3209
+1212,Riverside,Murrieta,7thGradeData,2189
+1213,Riverside,Murrieta,ChildCareData,1372
+1214,Riverside,Murrieta,KindergartenData,1664
+1215,Riverside,Norco,7thGradeData,353
+1216,Riverside,Norco,ChildCareData,471
+1217,Riverside,Norco,KindergartenData,392
+1218,Riverside,North Shore,ChildCareData,27
+1219,Riverside,Nuevo,7thGradeData,162
+1220,Riverside,Nuevo,ChildCareData,153
+1221,Riverside,Nuevo,KindergartenData,197
+1222,Riverside,Palm Desert,7thGradeData,542
+1223,Riverside,Palm Desert,ChildCareData,569
+1224,Riverside,Palm Desert,KindergartenData,624
+1225,Riverside,Palm Springs,7thGradeData,324
+1226,Riverside,Palm Springs,ChildCareData,566
+1227,Riverside,Palm Springs,KindergartenData,440
+1228,Riverside,Perris,7thGradeData,1812
+1229,Riverside,Perris,ChildCareData,1050
+1230,Riverside,Perris,KindergartenData,1728
+1231,Riverside,Rancho Mirage,7thGradeData,19
+1232,Riverside,Rancho Mirage,KindergartenData,89
+1233,Riverside,Riverside,7thGradeData,4752
+1234,Riverside,Riverside,ChildCareData,4396
+1235,Riverside,Riverside,KindergartenData,5421
+1236,Riverside,Romoland,ChildCareData,135
+1237,Riverside,Romoland,KindergartenData,401
+1238,Riverside,Salton City,7thGradeData,65
+1239,Riverside,Salton City,KindergartenData,68
+1240,Riverside,San Jacinto,7thGradeData,852
+1241,Riverside,San Jacinto,ChildCareData,429
+1242,Riverside,San Jacinto,KindergartenData,933
+1243,Riverside,Temecula,7thGradeData,2361
+1244,Riverside,Temecula,ChildCareData,1534
+1245,Riverside,Temecula,KindergartenData,2295
+1246,Riverside,Thermal,7thGradeData,578
+1247,Riverside,Thermal,ChildCareData,82
+1248,Riverside,Thermal,KindergartenData,399
+1249,Riverside,Thousand Palms,ChildCareData,109
+1250,Riverside,Thousand Palms,KindergartenData,132
+1251,Riverside,Wildomar,7thGradeData,478
+1252,Riverside,Wildomar,ChildCareData,345
+1253,Riverside,Wildomar,KindergartenData,522
+1254,Riverside,Winchester,7thGradeData,143
+1255,Riverside,Winchester,ChildCareData,174
+1256,Riverside,Winchester,KindergartenData,685
+1257,Sacramento,Antelope,ChildCareData,211
+1258,Sacramento,Antelope,KindergartenData,353
+1259,Sacramento,Carmichael,7thGradeData,1042
+1260,Sacramento,Carmichael,ChildCareData,644
+1261,Sacramento,Carmichael,KindergartenData,1182
+1262,Sacramento,Citrus Heights,7thGradeData,394
+1263,Sacramento,Citrus Heights,ChildCareData,775
+1264,Sacramento,Citrus Heights,KindergartenData,634
+1265,Sacramento,Clarksburg,7thGradeData,90
+1266,Sacramento,Clarksburg,KindergartenData,54
+1267,Sacramento,Courtland,ChildCareData,49
+1268,Sacramento,Courtland,KindergartenData,24
+1269,Sacramento,Elk Grove,7thGradeData,3454
+1270,Sacramento,Elk Grove,ChildCareData,1230
+1271,Sacramento,Elk Grove,KindergartenData,2784
+1272,Sacramento,Elverta,KindergartenData,28
+1273,Sacramento,Fair Oaks,7thGradeData,399
+1274,Sacramento,Fair Oaks,ChildCareData,366
+1275,Sacramento,Fair Oaks,KindergartenData,319
+1276,Sacramento,Folsom,7thGradeData,1048
+1277,Sacramento,Folsom,ChildCareData,647
+1278,Sacramento,Folsom,KindergartenData,936
+1279,Sacramento,Galt,7thGradeData,467
+1280,Sacramento,Galt,ChildCareData,440
+1281,Sacramento,Galt,KindergartenData,394
+1282,Sacramento,Gold River,7thGradeData,97
+1283,Sacramento,Gold River,KindergartenData,85
+1284,Sacramento,Herald,7thGradeData,54
+1285,Sacramento,Herald,KindergartenData,61
+1286,Sacramento,Isleton,KindergartenData,22
+1287,Sacramento,Mather,7thGradeData,32
+1288,Sacramento,Mather,ChildCareData,86
+1289,Sacramento,Mather,KindergartenData,68
+1290,Sacramento,North Highlands,7thGradeData,528
+1291,Sacramento,North Highlands,ChildCareData,444
+1292,Sacramento,North Highlands,KindergartenData,727
+1293,Sacramento,Orangevale,7thGradeData,722
+1294,Sacramento,Orangevale,ChildCareData,163
+1295,Sacramento,Orangevale,KindergartenData,484
+1296,Sacramento,Rancho Cordova,7thGradeData,552
+1297,Sacramento,Rancho Cordova,ChildCareData,899
+1298,Sacramento,Rancho Cordova,KindergartenData,974
+1299,Sacramento,Rio Linda,7thGradeData,482
+1300,Sacramento,Rio Linda,ChildCareData,93
+1301,Sacramento,Rio Linda,KindergartenData,288
+1302,Sacramento,Rio Vista,7thGradeData,96
+1303,Sacramento,Rio Vista,KindergartenData,44
+1304,Sacramento,Roseville,7thGradeData,358
+1305,Sacramento,Roseville,ChildCareData,22
+1306,Sacramento,Sacramento,7thGradeData,8768
+1307,Sacramento,Sacramento,ChildCareData,8597
+1308,Sacramento,Sacramento,KindergartenData,10909
+1309,Sacramento,Sloughhouse,KindergartenData,78
+1310,Sacramento,Walnut Grove,KindergartenData,43
+1311,Sacramento,Wilton,KindergartenData,51
+1312,San Benito,Aromas,7thGradeData,49
+1313,San Benito,Aromas,ChildCareData,29
+1314,San Benito,Aromas,KindergartenData,35
+1315,San Benito,Hollister,7thGradeData,704
+1316,San Benito,Hollister,ChildCareData,547
+1317,San Benito,Hollister,KindergartenData,806
+1318,San Benito,San Juan Bautista,7thGradeData,38
+1319,San Benito,San Juan Bautista,ChildCareData,22
+1320,San Benito,San Juan Bautista,KindergartenData,42
+1321,San Bernardino,Adelanto,7thGradeData,296
+1322,San Bernardino,Adelanto,ChildCareData,261
+1323,San Bernardino,Adelanto,KindergartenData,742
+1324,San Bernardino,Apple Valley,7thGradeData,1003
+1325,San Bernardino,Apple Valley,ChildCareData,999
+1326,San Bernardino,Apple Valley,KindergartenData,1304
+1327,San Bernardino,Barstow,7thGradeData,493
+1328,San Bernardino,Barstow,ChildCareData,203
+1329,San Bernardino,Barstow,KindergartenData,497
+1330,San Bernardino,Big Bear City,ChildCareData,56
+1331,San Bernardino,Big Bear City,KindergartenData,94
+1332,San Bernardino,Big Bear Lake,7thGradeData,158
+1333,San Bernardino,Big Bear Lake,ChildCareData,27
+1334,San Bernardino,Big Bear Lake,KindergartenData,131
+1335,San Bernardino,Bloomington,7thGradeData,806
+1336,San Bernardino,Bloomington,ChildCareData,336
+1337,San Bernardino,Bloomington,KindergartenData,528
+1338,San Bernardino,Calimesa,7thGradeData,313
+1339,San Bernardino,Chino,7thGradeData,1114
+1340,San Bernardino,Chino,ChildCareData,1229
+1341,San Bernardino,Chino,KindergartenData,1088
+1342,San Bernardino,Chino Hills,7thGradeData,1118
+1343,San Bernardino,Chino Hills,ChildCareData,1056
+1344,San Bernardino,Chino Hills,KindergartenData,837
+1345,San Bernardino,Colton,7thGradeData,977
+1346,San Bernardino,Colton,ChildCareData,521
+1347,San Bernardino,Colton,KindergartenData,1007
+1348,San Bernardino,Crest Park,ChildCareData,35
+1349,San Bernardino,Crestline,ChildCareData,56
+1350,San Bernardino,Crestline,KindergartenData,85
+1351,San Bernardino,Fontana,7thGradeData,3320
+1352,San Bernardino,Fontana,ChildCareData,2505
+1353,San Bernardino,Fontana,KindergartenData,3706
+1354,San Bernardino,Fort Irwin,7thGradeData,95
+1355,San Bernardino,Fort Irwin,ChildCareData,186
+1356,San Bernardino,Fort Irwin,KindergartenData,172
+1357,San Bernardino,Grand Terrace,7thGradeData,498
+1358,San Bernardino,Grand Terrace,ChildCareData,104
+1359,San Bernardino,Grand Terrace,KindergartenData,193
+1360,San Bernardino,Helendale,7thGradeData,163
+1361,San Bernardino,Helendale,ChildCareData,28
+1362,San Bernardino,Helendale,KindergartenData,169
+1363,San Bernardino,Hesperia,7thGradeData,1859
+1364,San Bernardino,Hesperia,ChildCareData,657
+1365,San Bernardino,Hesperia,KindergartenData,1759
+1366,San Bernardino,Highland,7thGradeData,765
+1367,San Bernardino,Highland,ChildCareData,539
+1368,San Bernardino,Highland,KindergartenData,964
+1369,San Bernardino,Joshua Tree,KindergartenData,112
+1370,San Bernardino,Lake Arrowhead,7thGradeData,258
+1371,San Bernardino,Lake Arrowhead,KindergartenData,94
+1372,San Bernardino,Landers,KindergartenData,25
+1373,San Bernardino,Lenwood,KindergartenData,76
+1374,San Bernardino,Loma Linda,7thGradeData,103
+1375,San Bernardino,Loma Linda,ChildCareData,148
+1376,San Bernardino,Loma Linda,KindergartenData,200
+1377,San Bernardino,Lucerne Valley,7thGradeData,40
+1378,San Bernardino,Lucerne Valley,KindergartenData,69
+1379,San Bernardino,Mentone,ChildCareData,29
+1380,San Bernardino,Mentone,KindergartenData,87
+1381,San Bernardino,Montclair,7thGradeData,720
+1382,San Bernardino,Montclair,ChildCareData,659
+1383,San Bernardino,Montclair,KindergartenData,812
+1384,San Bernardino,Morongo Valley,KindergartenData,30
+1385,San Bernardino,Needles,7thGradeData,80
+1386,San Bernardino,Needles,ChildCareData,50
+1387,San Bernardino,Needles,KindergartenData,93
+1388,San Bernardino,Newberry Springs,KindergartenData,20
+1389,San Bernardino,Ontario,7thGradeData,2214
+1390,San Bernardino,Ontario,ChildCareData,1640
+1391,San Bernardino,Ontario,KindergartenData,2498
+1392,San Bernardino,Oro Grande,7thGradeData,252
+1393,San Bernardino,Oro Grande,KindergartenData,146
+1394,San Bernardino,Phelan,7thGradeData,618
+1395,San Bernardino,Phelan,ChildCareData,155
+1396,San Bernardino,Phelan,KindergartenData,291
+1397,San Bernardino,Pinon Hills,ChildCareData,22
+1398,San Bernardino,Pinon Hills,KindergartenData,83
+1399,San Bernardino,Placerville,7thGradeData,23
+1400,San Bernardino,Placerville,KindergartenData,77
+1401,San Bernardino,Rancho Cucamonga,7thGradeData,2847
+1402,San Bernardino,Rancho Cucamonga,ChildCareData,1734
+1403,San Bernardino,Rancho Cucamonga,KindergartenData,2595
+1404,San Bernardino,Redlands,7thGradeData,1312
+1405,San Bernardino,Redlands,ChildCareData,1472
+1406,San Bernardino,Redlands,KindergartenData,1246
+1407,San Bernardino,Rialto,7thGradeData,1491
+1408,San Bernardino,Rialto,ChildCareData,1539
+1409,San Bernardino,Rialto,KindergartenData,1591
+1410,San Bernardino,Running Springs,ChildCareData,22
+1411,San Bernardino,Running Springs,KindergartenData,67
+1412,San Bernardino,San Bernardino,7thGradeData,3323
+1413,San Bernardino,San Bernardino,ChildCareData,3198
+1414,San Bernardino,San Bernardino,KindergartenData,4228
+1415,San Bernardino,Sugarloaf,ChildCareData,19
+1416,San Bernardino,Trona,7thGradeData,51
+1417,San Bernardino,Trona,ChildCareData,22
+1418,San Bernardino,Trona,KindergartenData,56
+1419,San Bernardino,Twentynine Palms,7thGradeData,265
+1420,San Bernardino,Twentynine Palms,ChildCareData,154
+1421,San Bernardino,Twentynine Palms,KindergartenData,371
+1422,San Bernardino,Twin Peaks,ChildCareData,49
+1423,San Bernardino,Upland,7thGradeData,898
+1424,San Bernardino,Upland,ChildCareData,1094
+1425,San Bernardino,Upland,KindergartenData,871
+1426,San Bernardino,Victorville,7thGradeData,757
+1427,San Bernardino,Victorville,ChildCareData,1096
+1428,San Bernardino,Victorville,KindergartenData,2532
+1429,San Bernardino,Wrightwood,ChildCareData,45
+1430,San Bernardino,Wrightwood,KindergartenData,49
+1431,San Bernardino,Yermo,7thGradeData,50
+1432,San Bernardino,Yermo,KindergartenData,57
+1433,San Bernardino,Yucaipa,7thGradeData,514
+1434,San Bernardino,Yucaipa,ChildCareData,415
+1435,San Bernardino,Yucaipa,KindergartenData,857
+1436,San Bernardino,Yucca Valley,7thGradeData,359
+1437,San Bernardino,Yucca Valley,ChildCareData,249
+1438,San Bernardino,Yucca Valley,KindergartenData,246
+1439,San Diego,Alpine,7thGradeData,166
+1440,San Diego,Alpine,ChildCareData,170
+1441,San Diego,Alpine,KindergartenData,271
+1442,San Diego,Bonita,ChildCareData,265
+1443,San Diego,Bonita,KindergartenData,201
+1444,San Diego,Bonsall,7thGradeData,208
+1445,San Diego,Bonsall,KindergartenData,156
+1446,San Diego,Borrego Springs,7thGradeData,28
+1447,San Diego,Borrego Springs,ChildCareData,49
+1448,San Diego,Borrego Springs,KindergartenData,30
+1449,San Diego,Boulevard,ChildCareData,19
+1450,San Diego,Boulevard,KindergartenData,19
+1451,San Diego,Campo,7thGradeData,30
+1452,San Diego,Campo,ChildCareData,22
+1453,San Diego,Campo,KindergartenData,62
+1454,San Diego,Carlsbad,7thGradeData,988
+1455,San Diego,Carlsbad,ChildCareData,1722
+1456,San Diego,Carlsbad,KindergartenData,1363
+1457,San Diego,Chula Vista,7thGradeData,4206
+1458,San Diego,Chula Vista,ChildCareData,3390
+1459,San Diego,Chula Vista,KindergartenData,4005
+1460,San Diego,Coronado,7thGradeData,265
+1461,San Diego,Coronado,ChildCareData,241
+1462,San Diego,Coronado,KindergartenData,203
+1463,San Diego,Del Mar,ChildCareData,174
+1464,San Diego,Del Mar,KindergartenData,88
+1465,San Diego,Descanso,ChildCareData,53
+1466,San Diego,Descanso,KindergartenData,29
+1467,San Diego,El Cajon,7thGradeData,2335
+1468,San Diego,El Cajon,ChildCareData,2072
+1469,San Diego,El Cajon,KindergartenData,2703
+1470,San Diego,Encinitas,7thGradeData,839
+1471,San Diego,Encinitas,ChildCareData,1779
+1472,San Diego,Encinitas,KindergartenData,564
+1473,San Diego,Escondido,7thGradeData,2164
+1474,San Diego,Escondido,ChildCareData,1999
+1475,San Diego,Escondido,KindergartenData,2617
+1476,San Diego,Fallbrook,7thGradeData,423
+1477,San Diego,Fallbrook,ChildCareData,566
+1478,San Diego,Fallbrook,KindergartenData,411
+1479,San Diego,Imperial Beach,7thGradeData,61
+1480,San Diego,Imperial Beach,ChildCareData,527
+1481,San Diego,Imperial Beach,KindergartenData,383
+1482,San Diego,Jamul,7thGradeData,103
+1483,San Diego,Jamul,ChildCareData,36
+1484,San Diego,Jamul,KindergartenData,101
+1485,San Diego,Julian,7thGradeData,325
+1486,San Diego,Julian,KindergartenData,262
+1487,San Diego,La Mesa,7thGradeData,975
+1488,San Diego,La Mesa,ChildCareData,1250
+1489,San Diego,La Mesa,KindergartenData,952
+1490,San Diego,Lakeside,7thGradeData,487
+1491,San Diego,Lakeside,ChildCareData,425
+1492,San Diego,Lakeside,KindergartenData,711
+1493,San Diego,Lemon Grove,7thGradeData,398
+1494,San Diego,Lemon Grove,ChildCareData,347
+1495,San Diego,Lemon Grove,KindergartenData,382
+1496,San Diego,National City,7thGradeData,804
+1497,San Diego,National City,ChildCareData,798
+1498,San Diego,National City,KindergartenData,893
+1499,San Diego,Oceanside,7thGradeData,2384
+1500,San Diego,Oceanside,ChildCareData,2195
+1501,San Diego,Oceanside,KindergartenData,2686
+1502,San Diego,Pauma Valley,ChildCareData,38
+1503,San Diego,Pauma Valley,KindergartenData,27
+1504,San Diego,Pine Valley,7thGradeData,32
+1505,San Diego,Potrero,7thGradeData,39
+1506,San Diego,Potrero,KindergartenData,34
+1507,San Diego,Poway,7thGradeData,902
+1508,San Diego,Poway,ChildCareData,1623
+1509,San Diego,Poway,KindergartenData,806
+1510,San Diego,Rainbow,7thGradeData,25
+1511,San Diego,Rainbow,ChildCareData,21
+1512,San Diego,Rainbow,KindergartenData,28
+1513,San Diego,Ramona,7thGradeData,400
+1514,San Diego,Ramona,ChildCareData,434
+1515,San Diego,Ramona,KindergartenData,447
+1516,San Diego,Rancho Santa Fe,7thGradeData,148
+1517,San Diego,Rancho Santa Fe,ChildCareData,306
+1518,San Diego,Rancho Santa Fe,KindergartenData,106
+1519,San Diego,San Clemente,7thGradeData,40
+1520,San Diego,San Clemente,KindergartenData,133
+1521,San Diego,San Diego,7thGradeData,15431
+1522,San Diego,San Diego,ChildCareData,17665
+1523,San Diego,San Diego,KindergartenData,16921
+1524,San Diego,San Marcos,7thGradeData,1749
+1525,San Diego,San Marcos,ChildCareData,1126
+1526,San Diego,San Marcos,KindergartenData,1386
+1527,San Diego,Santee,7thGradeData,556
+1528,San Diego,Santee,ChildCareData,617
+1529,San Diego,Santee,KindergartenData,731
+1530,San Diego,Simi Valley,7thGradeData,119
+1531,San Diego,Simi Valley,KindergartenData,51
+1532,San Diego,Solana Beach,7thGradeData,394
+1533,San Diego,Solana Beach,ChildCareData,590
+1534,San Diego,Solana Beach,KindergartenData,140
+1535,San Diego,Spring Valley (San Diego County),7thGradeData,583
+1536,San Diego,Spring Valley (San Diego County),ChildCareData,775
+1537,San Diego,Spring Valley (San Diego County),KindergartenData,727
+1538,San Diego,Thousand Oaks,7thGradeData,7
+1539,San Diego,Thousand Oaks,KindergartenData,4
+1540,San Diego,Valley Center,7thGradeData,305
+1541,San Diego,Valley Center,ChildCareData,142
+1542,San Diego,Valley Center,KindergartenData,265
+1543,San Diego,Vista,7thGradeData,1163
+1544,San Diego,Vista,ChildCareData,1696
+1545,San Diego,Vista,KindergartenData,1731
+1546,San Diego,Warner Springs,7thGradeData,56
+1547,San Diego,Warner Springs,KindergartenData,158
+1548,San Francisco,San Francisco,7thGradeData,5609
+1549,San Francisco,San Francisco,ChildCareData,11508
+1550,San Francisco,San Francisco,KindergartenData,6039
+1551,San Joaquin,Acampo,7thGradeData,111
+1552,San Joaquin,Acampo,KindergartenData,41
+1553,San Joaquin,Banta,ChildCareData,31
+1554,San Joaquin,Escalon,7thGradeData,192
+1555,San Joaquin,Escalon,ChildCareData,281
+1556,San Joaquin,Escalon,KindergartenData,214
+1557,San Joaquin,Farmington,KindergartenData,27
+1558,San Joaquin,French Camp,7thGradeData,64
+1559,San Joaquin,French Camp,ChildCareData,120
+1560,San Joaquin,French Camp,KindergartenData,56
+1561,San Joaquin,Lathrop,7thGradeData,343
+1562,San Joaquin,Lathrop,ChildCareData,115
+1563,San Joaquin,Lathrop,KindergartenData,421
+1564,San Joaquin,Linden,KindergartenData,112
+1565,San Joaquin,Lockeford,7thGradeData,67
+1566,San Joaquin,Lockeford,KindergartenData,46
+1567,San Joaquin,Lodi,7thGradeData,1029
+1568,San Joaquin,Lodi,ChildCareData,1047
+1569,San Joaquin,Lodi,KindergartenData,1170
+1570,San Joaquin,Manteca,7thGradeData,962
+1571,San Joaquin,Manteca,ChildCareData,1142
+1572,San Joaquin,Manteca,KindergartenData,983
+1573,San Joaquin,Mountain House,7thGradeData,324
+1574,San Joaquin,Mountain House,ChildCareData,90
+1575,San Joaquin,Mountain House,KindergartenData,450
+1576,San Joaquin,Ripon,7thGradeData,341
+1577,San Joaquin,Ripon,ChildCareData,183
+1578,San Joaquin,Ripon,KindergartenData,290
+1579,San Joaquin,Simi Valley,7thGradeData,89
+1580,San Joaquin,Simi Valley,KindergartenData,60
+1581,San Joaquin,Stockton,7thGradeData,6038
+1582,San Joaquin,Stockton,ChildCareData,4522
+1583,San Joaquin,Stockton,KindergartenData,6528
+1584,San Joaquin,Thornton,7thGradeData,19
+1585,San Joaquin,Thornton,KindergartenData,29
+1586,San Joaquin,Tracy,7thGradeData,1534
+1587,San Joaquin,Tracy,ChildCareData,1028
+1588,San Joaquin,Tracy,KindergartenData,1490
+1589,San Luis Obispo,Arroyo Grande,7thGradeData,618
+1590,San Luis Obispo,Arroyo Grande,ChildCareData,238
+1591,San Luis Obispo,Arroyo Grande,KindergartenData,187
+1592,San Luis Obispo,Atascadero,7thGradeData,361
+1593,San Luis Obispo,Atascadero,ChildCareData,358
+1594,San Luis Obispo,Atascadero,KindergartenData,308
+1595,San Luis Obispo,Cambria,7thGradeData,64
+1596,San Luis Obispo,Cambria,ChildCareData,61
+1597,San Luis Obispo,Cambria,KindergartenData,50
+1598,San Luis Obispo,Cayucos,7thGradeData,34
+1599,San Luis Obispo,Cayucos,KindergartenData,19
+1600,San Luis Obispo,El Paso de Robles (Paso Robles),7thGradeData,538
+1601,San Luis Obispo,El Paso de Robles (Paso Robles),ChildCareData,509
+1602,San Luis Obispo,El Paso de Robles (Paso Robles),KindergartenData,675
+1603,San Luis Obispo,Grover Beach,ChildCareData,72
+1604,San Luis Obispo,Grover Beach,KindergartenData,238
+1605,San Luis Obispo,Los Osos,7thGradeData,216
+1606,San Luis Obispo,Los Osos,ChildCareData,86
+1607,San Luis Obispo,Los Osos,KindergartenData,134
+1608,San Luis Obispo,Morro Bay,ChildCareData,74
+1609,San Luis Obispo,Morro Bay,KindergartenData,89
+1610,San Luis Obispo,Nipomo,ChildCareData,151
+1611,San Luis Obispo,Nipomo,KindergartenData,209
+1612,San Luis Obispo,Oceano,ChildCareData,141
+1613,San Luis Obispo,Oceano,KindergartenData,72
+1614,San Luis Obispo,Pismo Beach,7thGradeData,234
+1615,San Luis Obispo,Pismo Beach,ChildCareData,118
+1616,San Luis Obispo,Pismo Beach,KindergartenData,75
+1617,San Luis Obispo,San Luis Obispo,7thGradeData,448
+1618,San Luis Obispo,San Luis Obispo,ChildCareData,753
+1619,San Luis Obispo,San Luis Obispo,KindergartenData,506
+1620,San Luis Obispo,San Miguel (San Luis Obispo County),7thGradeData,32
+1621,San Luis Obispo,San Miguel (San Luis Obispo County),KindergartenData,98
+1622,San Luis Obispo,Santa Margarita,KindergartenData,49
+1623,San Luis Obispo,Shandon,7thGradeData,19
+1624,San Luis Obispo,Shandon,KindergartenData,30
+1625,San Luis Obispo,Templeton,7thGradeData,166
+1626,San Luis Obispo,Templeton,ChildCareData,66
+1627,San Luis Obispo,Templeton,KindergartenData,174
+1628,San Mateo,Atherton,7thGradeData,224
+1629,San Mateo,Atherton,ChildCareData,268
+1630,San Mateo,Atherton,KindergartenData,480
+1631,San Mateo,Belmont,7thGradeData,507
+1632,San Mateo,Belmont,ChildCareData,376
+1633,San Mateo,Belmont,KindergartenData,379
+1634,San Mateo,Brisbane,7thGradeData,52
+1635,San Mateo,Brisbane,ChildCareData,36
+1636,San Mateo,Brisbane,KindergartenData,32
+1637,San Mateo,Burlingame,7thGradeData,390
+1638,San Mateo,Burlingame,ChildCareData,896
+1639,San Mateo,Burlingame,KindergartenData,487
+1640,San Mateo,Colma,7thGradeData,239
+1641,San Mateo,Colma,ChildCareData,69
+1642,San Mateo,Colma,KindergartenData,68
+1643,San Mateo,Daly City,7thGradeData,560
+1644,San Mateo,Daly City,ChildCareData,921
+1645,San Mateo,Daly City,KindergartenData,879
+1646,San Mateo,East Palo Alto,7thGradeData,274
+1647,San Mateo,East Palo Alto,ChildCareData,585
+1648,San Mateo,East Palo Alto,KindergartenData,279
+1649,San Mateo,El Granada,ChildCareData,46
+1650,San Mateo,Foster City,7thGradeData,365
+1651,San Mateo,Foster City,ChildCareData,1029
+1652,San Mateo,Foster City,KindergartenData,522
+1653,San Mateo,Half Moon Bay,7thGradeData,295
+1654,San Mateo,Half Moon Bay,ChildCareData,206
+1655,San Mateo,Half Moon Bay,KindergartenData,185
+1656,San Mateo,Hillsborough,7thGradeData,285
+1657,San Mateo,Hillsborough,ChildCareData,99
+1658,San Mateo,Hillsborough,KindergartenData,160
+1659,San Mateo,Menlo Park,7thGradeData,764
+1660,San Mateo,Menlo Park,ChildCareData,1090
+1661,San Mateo,Menlo Park,KindergartenData,505
+1662,San Mateo,Millbrae,7thGradeData,311
+1663,San Mateo,Millbrae,ChildCareData,282
+1664,San Mateo,Millbrae,KindergartenData,217
+1665,San Mateo,Montara,KindergartenData,66
+1666,San Mateo,Pacifica,7thGradeData,386
+1667,San Mateo,Pacifica,ChildCareData,423
+1668,San Mateo,Pacifica,KindergartenData,408
+1669,San Mateo,Pescadero,7thGradeData,20
+1670,San Mateo,Pescadero,KindergartenData,19
+1671,San Mateo,Portola Valley,7thGradeData,141
+1672,San Mateo,Portola Valley,ChildCareData,153
+1673,San Mateo,Portola Valley,KindergartenData,79
+1674,San Mateo,Redwood City,7thGradeData,867
+1675,San Mateo,Redwood City,ChildCareData,1364
+1676,San Mateo,Redwood City,KindergartenData,1259
+1677,San Mateo,San Bruno,7thGradeData,340
+1678,San Mateo,San Bruno,ChildCareData,840
+1679,San Mateo,San Bruno,KindergartenData,611
+1680,San Mateo,San Carlos,7thGradeData,431
+1681,San Mateo,San Carlos,ChildCareData,569
+1682,San Mateo,San Carlos,KindergartenData,466
+1683,San Mateo,San Diego,ChildCareData,59
+1684,San Mateo,San Mateo,7thGradeData,1011
+1685,San Mateo,San Mateo,ChildCareData,1855
+1686,San Mateo,San Mateo,KindergartenData,1353
+1687,San Mateo,Simi Valley,7thGradeData,46
+1688,San Mateo,Simi Valley,KindergartenData,25
+1689,San Mateo,South San Francisco,7thGradeData,710
+1690,San Mateo,South San Francisco,ChildCareData,1416
+1691,San Mateo,South San Francisco,KindergartenData,517
+1692,San Mateo,Woodside,7thGradeData,35
+1693,San Mateo,Woodside,ChildCareData,85
+1694,San Mateo,Woodside,KindergartenData,45
+1695,Santa Barbara,Buellton,7thGradeData,52
+1696,Santa Barbara,Buellton,ChildCareData,78
+1697,Santa Barbara,Buellton,KindergartenData,64
+1698,Santa Barbara,Carpinteria,7thGradeData,172
+1699,Santa Barbara,Carpinteria,ChildCareData,208
+1700,Santa Barbara,Carpinteria,KindergartenData,195
+1701,Santa Barbara,Goleta,7thGradeData,393
+1702,Santa Barbara,Goleta,ChildCareData,714
+1703,Santa Barbara,Goleta,KindergartenData,411
+1704,Santa Barbara,Guadalupe,7thGradeData,130
+1705,Santa Barbara,Guadalupe,ChildCareData,56
+1706,Santa Barbara,Guadalupe,KindergartenData,176
+1707,Santa Barbara,Lompoc,7thGradeData,313
+1708,Santa Barbara,Lompoc,ChildCareData,577
+1709,Santa Barbara,Lompoc,KindergartenData,811
+1710,Santa Barbara,Los Alamos,7thGradeData,20
+1711,Santa Barbara,Los Alamos,ChildCareData,20
+1712,Santa Barbara,Los Alamos,KindergartenData,23
+1713,Santa Barbara,Los Olivos,7thGradeData,22
+1714,Santa Barbara,Los Olivos,ChildCareData,53
+1715,Santa Barbara,New Cuyama,KindergartenData,25
+1716,Santa Barbara,Orcutt,7thGradeData,24
+1717,Santa Barbara,Orcutt,ChildCareData,103
+1718,Santa Barbara,Orcutt,KindergartenData,21
+1719,Santa Barbara,Santa Barbara,7thGradeData,1298
+1720,Santa Barbara,Santa Barbara,ChildCareData,1979
+1721,Santa Barbara,Santa Barbara,KindergartenData,1304
+1722,Santa Barbara,Santa Maria,7thGradeData,2425
+1723,Santa Barbara,Santa Maria,ChildCareData,1461
+1724,Santa Barbara,Santa Maria,KindergartenData,2924
+1725,Santa Barbara,Santa Ynez,7thGradeData,43
+1726,Santa Barbara,Santa Ynez,ChildCareData,19
+1727,Santa Barbara,Santa Ynez,KindergartenData,22
+1728,Santa Barbara,Solvang,7thGradeData,79
+1729,Santa Barbara,Solvang,ChildCareData,117
+1730,Santa Barbara,Solvang,KindergartenData,68
+1731,Santa Barbara,Vandenberg AFB,7thGradeData,417
+1732,Santa Barbara,Vandenberg AFB,ChildCareData,49
+1733,Santa Barbara,Vandenberg AFB,KindergartenData,161
+1734,Santa Clara,Campbell,7thGradeData,278
+1735,Santa Clara,Campbell,ChildCareData,1322
+1736,Santa Clara,Campbell,KindergartenData,620
+1737,Santa Clara,Cupertino,7thGradeData,1274
+1738,Santa Clara,Cupertino,ChildCareData,1093
+1739,Santa Clara,Cupertino,KindergartenData,709
+1740,Santa Clara,Gilroy,7thGradeData,889
+1741,Santa Clara,Gilroy,ChildCareData,675
+1742,Santa Clara,Gilroy,KindergartenData,971
+1743,Santa Clara,Los Altos,7thGradeData,699
+1744,Santa Clara,Los Altos,ChildCareData,1222
+1745,Santa Clara,Los Altos,KindergartenData,649
+1746,Santa Clara,Los Altos Hills,7thGradeData,78
+1747,Santa Clara,Los Altos Hills,ChildCareData,82
+1748,Santa Clara,Los Altos Hills,KindergartenData,37
+1749,Santa Clara,Los Gatos,7thGradeData,877
+1750,Santa Clara,Los Gatos,ChildCareData,1051
+1751,Santa Clara,Los Gatos,KindergartenData,562
+1752,Santa Clara,Milpitas,7thGradeData,793
+1753,Santa Clara,Milpitas,ChildCareData,2251
+1754,Santa Clara,Milpitas,KindergartenData,837
+1755,Santa Clara,Moffett Field,ChildCareData,62
+1756,Santa Clara,Morgan Hill,7thGradeData,478
+1757,Santa Clara,Morgan Hill,ChildCareData,738
+1758,Santa Clara,Morgan Hill,KindergartenData,635
+1759,Santa Clara,Mountain View,7thGradeData,577
+1760,Santa Clara,Mountain View,ChildCareData,1489
+1761,Santa Clara,Mountain View,KindergartenData,813
+1762,Santa Clara,Palo Alto,7thGradeData,1258
+1763,Santa Clara,Palo Alto,ChildCareData,2032
+1764,Santa Clara,Palo Alto,KindergartenData,929
+1765,Santa Clara,San Jose,7thGradeData,13053
+1766,Santa Clara,San Jose,ChildCareData,11847
+1767,Santa Clara,San Jose,KindergartenData,13629
+1768,Santa Clara,San Martin,KindergartenData,97
+1769,Santa Clara,Santa Clara,7thGradeData,894
+1770,Santa Clara,Santa Clara,ChildCareData,1923
+1771,Santa Clara,Santa Clara,KindergartenData,1628
+1772,Santa Clara,Saratoga,7thGradeData,390
+1773,Santa Clara,Saratoga,ChildCareData,818
+1774,Santa Clara,Saratoga,KindergartenData,403
+1775,Santa Clara,Stanford,ChildCareData,786
+1776,Santa Clara,Stanford,KindergartenData,157
+1777,Santa Clara,Sunnyvale,7thGradeData,1634
+1778,Santa Clara,Sunnyvale,ChildCareData,3585
+1779,Santa Clara,Sunnyvale,KindergartenData,2006
+1780,Santa Cruz,Aptos,7thGradeData,349
+1781,Santa Cruz,Aptos,ChildCareData,304
+1782,Santa Cruz,Aptos,KindergartenData,333
+1783,Santa Cruz,Ben Lomond,ChildCareData,20
+1784,Santa Cruz,Boulder Creek,7thGradeData,54
+1785,Santa Cruz,Boulder Creek,ChildCareData,25
+1786,Santa Cruz,Boulder Creek,KindergartenData,207
+1787,Santa Cruz,Capitola,7thGradeData,242
+1788,Santa Cruz,Capitola,ChildCareData,78
+1789,Santa Cruz,Capitola,KindergartenData,45
+1790,Santa Cruz,Felton,7thGradeData,210
+1791,Santa Cruz,Felton,ChildCareData,65
+1792,Santa Cruz,Felton,KindergartenData,93
+1793,Santa Cruz,Freedom,ChildCareData,163
+1794,Santa Cruz,Freedom,KindergartenData,170
+1795,Santa Cruz,La Selva Beach,ChildCareData,44
+1796,Santa Cruz,Mount Hermon,ChildCareData,37
+1797,Santa Cruz,Santa Cruz,7thGradeData,743
+1798,Santa Cruz,Santa Cruz,ChildCareData,814
+1799,Santa Cruz,Santa Cruz,KindergartenData,755
+1800,Santa Cruz,Scotts Valley,7thGradeData,218
+1801,Santa Cruz,Scotts Valley,ChildCareData,304
+1802,Santa Cruz,Scotts Valley,KindergartenData,138
+1803,Santa Cruz,Soquel,ChildCareData,183
+1804,Santa Cruz,Soquel,KindergartenData,130
+1805,Santa Cruz,Watsonville,7thGradeData,1372
+1806,Santa Cruz,Watsonville,ChildCareData,861
+1807,Santa Cruz,Watsonville,KindergartenData,1371
+1808,Shasta,Anderson,7thGradeData,152
+1809,Shasta,Anderson,ChildCareData,146
+1810,Shasta,Anderson,KindergartenData,268
+1811,Shasta,Bella Vista,7thGradeData,34
+1812,Shasta,Bella Vista,ChildCareData,28
+1813,Shasta,Bella Vista,KindergartenData,36
+1814,Shasta,Burney,7thGradeData,45
+1815,Shasta,Burney,ChildCareData,30
+1816,Shasta,Burney,KindergartenData,71
+1817,Shasta,Cottonwood,7thGradeData,117
+1818,Shasta,Cottonwood,ChildCareData,77
+1819,Shasta,Cottonwood,KindergartenData,122
+1820,Shasta,Fall River Mills,KindergartenData,50
+1821,Shasta,McArthur,7thGradeData,30
+1822,Shasta,Millville,7thGradeData,22
+1823,Shasta,Millville,KindergartenData,24
+1824,Shasta,Palo Cedro,7thGradeData,101
+1825,Shasta,Palo Cedro,ChildCareData,75
+1826,Shasta,Palo Cedro,KindergartenData,112
+1827,Shasta,Redding,7thGradeData,1122
+1828,Shasta,Redding,ChildCareData,1485
+1829,Shasta,Redding,KindergartenData,1259
+1830,Shasta,Shasta,KindergartenData,22
+1831,Shasta,Shasta Lake,7thGradeData,92
+1832,Shasta,Shasta Lake,ChildCareData,19
+1833,Shasta,Shasta Lake,KindergartenData,109
+1834,Shasta,Shingletown,7thGradeData,19
+1835,Shasta,Shingletown,KindergartenData,25
+1836,Sierra,Loyalton,7thGradeData,21
+1837,Sierra,Loyalton,ChildCareData,26
+1838,Siskiyou,Dorris,7thGradeData,20
+1839,Siskiyou,Dorris,ChildCareData,39
+1840,Siskiyou,Dorris,KindergartenData,25
+1841,Siskiyou,Etna,ChildCareData,20
+1842,Siskiyou,Etna,KindergartenData,27
+1843,Siskiyou,Fort Jones,7thGradeData,38
+1844,Siskiyou,Fort Jones,ChildCareData,22
+1845,Siskiyou,Grenada,KindergartenData,34
+1846,Siskiyou,Happy Camp,KindergartenData,19
+1847,Siskiyou,Montague,ChildCareData,23
+1848,Siskiyou,Montague,KindergartenData,19
+1849,Siskiyou,Mount Shasta,7thGradeData,82
+1850,Siskiyou,Mount Shasta,ChildCareData,47
+1851,Siskiyou,Mount Shasta,KindergartenData,77
+1852,Siskiyou,Weed,7thGradeData,65
+1853,Siskiyou,Weed,ChildCareData,20
+1854,Siskiyou,Weed,KindergartenData,49
+1855,Siskiyou,Yreka,7thGradeData,92
+1856,Siskiyou,Yreka,ChildCareData,149
+1857,Siskiyou,Yreka,KindergartenData,133
+1858,Solano,Benicia,7thGradeData,405
+1859,Solano,Benicia,ChildCareData,368
+1860,Solano,Benicia,KindergartenData,381
+1861,Solano,Dixon,7thGradeData,285
+1862,Solano,Dixon,ChildCareData,261
+1863,Solano,Dixon,KindergartenData,299
+1864,Solano,Fairfield,7thGradeData,1777
+1865,Solano,Fairfield,ChildCareData,845
+1866,Solano,Fairfield,KindergartenData,1819
+1867,Solano,Rio Vista,ChildCareData,34
+1868,Solano,Suisun City,7thGradeData,358
+1869,Solano,Suisun City,ChildCareData,48
+1870,Solano,Suisun City,KindergartenData,378
+1871,Solano,Vacaville,7thGradeData,1000
+1872,Solano,Vacaville,ChildCareData,826
+1873,Solano,Vacaville,KindergartenData,1273
+1874,Solano,Vallejo,7thGradeData,1081
+1875,Solano,Vallejo,ChildCareData,420
+1876,Solano,Vallejo,KindergartenData,1505
+1877,Sonoma,Boyes Hot Springs,ChildCareData,35
+1878,Sonoma,Cloverdale,7thGradeData,96
+1879,Sonoma,Cloverdale,ChildCareData,40
+1880,Sonoma,Cloverdale,KindergartenData,137
+1881,Sonoma,Cotati,7thGradeData,44
+1882,Sonoma,Cotati,ChildCareData,154
+1883,Sonoma,Cotati,KindergartenData,44
+1884,Sonoma,Forestville,7thGradeData,39
+1885,Sonoma,Forestville,ChildCareData,16
+1886,Sonoma,Forestville,KindergartenData,34
+1887,Sonoma,Geyserville,KindergartenData,19
+1888,Sonoma,Glen Ellen,KindergartenData,39
+1889,Sonoma,Guerneville,7thGradeData,36
+1890,Sonoma,Guerneville,ChildCareData,38
+1891,Sonoma,Guerneville,KindergartenData,29
+1892,Sonoma,Healdsburg,7thGradeData,142
+1893,Sonoma,Healdsburg,ChildCareData,193
+1894,Sonoma,Healdsburg,KindergartenData,230
+1895,Sonoma,Kenwood,KindergartenData,19
+1896,Sonoma,Monte Rio,ChildCareData,19
+1897,Sonoma,Occidental,7thGradeData,20
+1898,Sonoma,Occidental,KindergartenData,37
+1899,Sonoma,Penngrove,ChildCareData,66
+1900,Sonoma,Penngrove,KindergartenData,67
+1901,Sonoma,Petaluma,7thGradeData,931
+1902,Sonoma,Petaluma,ChildCareData,944
+1903,Sonoma,Petaluma,KindergartenData,1079
+1904,Sonoma,Rohnert Park,7thGradeData,473
+1905,Sonoma,Rohnert Park,ChildCareData,329
+1906,Sonoma,Rohnert Park,KindergartenData,475
+1907,Sonoma,Santa Rosa,7thGradeData,2528
+1908,Sonoma,Santa Rosa,ChildCareData,2731
+1909,Sonoma,Santa Rosa,KindergartenData,3014
+1910,Sonoma,Sebastopol,7thGradeData,279
+1911,Sonoma,Sebastopol,ChildCareData,181
+1912,Sonoma,Sebastopol,KindergartenData,334
+1913,Sonoma,Simi Valley,7thGradeData,40
+1914,Sonoma,Simi Valley,KindergartenData,17
+1915,Sonoma,Sonoma,7thGradeData,369
+1916,Sonoma,Sonoma,ChildCareData,410
+1917,Sonoma,Sonoma,KindergartenData,349
+1918,Sonoma,Windsor,7thGradeData,416
+1919,Sonoma,Windsor,ChildCareData,212
+1920,Sonoma,Windsor,KindergartenData,161
+1921,Stanislaus,Ceres,7thGradeData,1034
+1922,Stanislaus,Ceres,ChildCareData,578
+1923,Stanislaus,Ceres,KindergartenData,943
+1924,Stanislaus,Crows Landing,KindergartenData,18
+1925,Stanislaus,Denair,7thGradeData,88
+1926,Stanislaus,Denair,KindergartenData,112
+1927,Stanislaus,Empire,7thGradeData,76
+1928,Stanislaus,Empire,ChildCareData,32
+1929,Stanislaus,Empire,KindergartenData,48
+1930,Stanislaus,Hickman,7thGradeData,107
+1931,Stanislaus,Hickman,KindergartenData,105
+1932,Stanislaus,Hughson,7thGradeData,231
+1933,Stanislaus,Hughson,ChildCareData,45
+1934,Stanislaus,Hughson,KindergartenData,166
+1935,Stanislaus,Keyes,7thGradeData,28
+1936,Stanislaus,Keyes,ChildCareData,91
+1937,Stanislaus,Keyes,KindergartenData,140
+1938,Stanislaus,Knights Ferry,KindergartenData,19
+1939,Stanislaus,Modesto,7thGradeData,3493
+1940,Stanislaus,Modesto,ChildCareData,3165
+1941,Stanislaus,Modesto,KindergartenData,4070
+1942,Stanislaus,Newman,7thGradeData,212
+1943,Stanislaus,Newman,ChildCareData,143
+1944,Stanislaus,Newman,KindergartenData,244
+1945,Stanislaus,Oakdale,7thGradeData,426
+1946,Stanislaus,Oakdale,ChildCareData,264
+1947,Stanislaus,Oakdale,KindergartenData,494
+1948,Stanislaus,Patterson,7thGradeData,440
+1949,Stanislaus,Patterson,ChildCareData,348
+1950,Stanislaus,Patterson,KindergartenData,453
+1951,Stanislaus,Riverbank,7thGradeData,208
+1952,Stanislaus,Riverbank,ChildCareData,91
+1953,Stanislaus,Riverbank,KindergartenData,395
+1954,Stanislaus,Salida,ChildCareData,131
+1955,Stanislaus,Salida,KindergartenData,192
+1956,Stanislaus,Turlock,7thGradeData,736
+1957,Stanislaus,Turlock,ChildCareData,1114
+1958,Stanislaus,Turlock,KindergartenData,1024
+1959,Stanislaus,Valley Home,KindergartenData,21
+1960,Stanislaus,Waterford,7thGradeData,201
+1961,Stanislaus,Waterford,ChildCareData,94
+1962,Stanislaus,Waterford,KindergartenData,304
+1963,Stanislaus,Westley,ChildCareData,22
+1964,Stanislaus,Westley,KindergartenData,44
+1965,Sutter,East Nicolaus,7thGradeData,49
+1966,Sutter,East Nicolaus,KindergartenData,112
+1967,Sutter,Live Oak,7thGradeData,127
+1968,Sutter,Live Oak,ChildCareData,112
+1969,Sutter,Live Oak,KindergartenData,195
+1970,Sutter,Meridian,7thGradeData,27
+1971,Sutter,Meridian,KindergartenData,20
+1972,Sutter,Pleasant Grove,7thGradeData,20
+1973,Sutter,Pleasant Grove,KindergartenData,24
+1974,Sutter,Simi Valley,7thGradeData,58
+1975,Sutter,Simi Valley,KindergartenData,21
+1976,Sutter,Sutter,7thGradeData,44
+1977,Sutter,Sutter,ChildCareData,21
+1978,Sutter,Sutter,KindergartenData,62
+1979,Sutter,Yuba City,7thGradeData,1084
+1980,Sutter,Yuba City,ChildCareData,1214
+1981,Sutter,Yuba City,KindergartenData,1166
+1982,Tehama,Corning,7thGradeData,197
+1983,Tehama,Corning,ChildCareData,197
+1984,Tehama,Corning,KindergartenData,262
+1985,Tehama,Cottonwood,7thGradeData,109
+1986,Tehama,Cottonwood,ChildCareData,71
+1987,Tehama,Cottonwood,KindergartenData,103
+1988,Tehama,Gerber,7thGradeData,39
+1989,Tehama,Gerber,KindergartenData,49
+1990,Tehama,Los Molinos,7thGradeData,72
+1991,Tehama,Los Molinos,KindergartenData,94
+1992,Tehama,Orland,ChildCareData,21
+1993,Tehama,Red Bluff,7thGradeData,292
+1994,Tehama,Red Bluff,ChildCareData,349
+1995,Tehama,Red Bluff,KindergartenData,404
+1996,Tehama,Tehama,ChildCareData,39
+1997,Trinity,Douglas City,7thGradeData,18
+1998,Trinity,Hayfork,7thGradeData,19
+1999,Trinity,Hayfork,KindergartenData,22
+2000,Trinity,Weaverville,7thGradeData,40
+2001,Trinity,Weaverville,ChildCareData,20
+2002,Trinity,Weaverville,KindergartenData,52
+2003,Tulare,Alpaugh,7thGradeData,28
+2004,Tulare,Alpaugh,ChildCareData,19
+2005,Tulare,Alpaugh,KindergartenData,47
+2006,Tulare,Cutler,ChildCareData,157
+2007,Tulare,Cutler,KindergartenData,92
+2008,Tulare,Delano,7thGradeData,21
+2009,Tulare,Delano,KindergartenData,25
+2010,Tulare,Dinuba,7thGradeData,541
+2011,Tulare,Dinuba,ChildCareData,143
+2012,Tulare,Dinuba,KindergartenData,555
+2013,Tulare,Earlimart,7thGradeData,197
+2014,Tulare,Earlimart,ChildCareData,76
+2015,Tulare,Earlimart,KindergartenData,252
+2016,Tulare,Exeter,7thGradeData,195
+2017,Tulare,Exeter,ChildCareData,101
+2018,Tulare,Exeter,KindergartenData,219
+2019,Tulare,Farmersville,7thGradeData,206
+2020,Tulare,Farmersville,ChildCareData,38
+2021,Tulare,Farmersville,KindergartenData,196
+2022,Tulare,Ivanhoe,7thGradeData,29
+2023,Tulare,Ivanhoe,ChildCareData,66
+2024,Tulare,Ivanhoe,KindergartenData,87
+2025,Tulare,Kingsburg,7thGradeData,38
+2026,Tulare,Kingsburg,KindergartenData,62
+2027,Tulare,Lemon Cove,7thGradeData,32
+2028,Tulare,Lemon Cove,KindergartenData,39
+2029,Tulare,Lindsay,7thGradeData,307
+2030,Tulare,Lindsay,ChildCareData,295
+2031,Tulare,Lindsay,KindergartenData,341
+2032,Tulare,Orosi,7thGradeData,297
+2033,Tulare,Orosi,ChildCareData,172
+2034,Tulare,Orosi,KindergartenData,231
+2035,Tulare,Pixley,7thGradeData,131
+2036,Tulare,Pixley,ChildCareData,22
+2037,Tulare,Pixley,KindergartenData,136
+2038,Tulare,Porterville,7thGradeData,1557
+2039,Tulare,Porterville,ChildCareData,648
+2040,Tulare,Porterville,KindergartenData,1622
+2041,Tulare,Richgrove,7thGradeData,64
+2042,Tulare,Richgrove,ChildCareData,69
+2043,Tulare,Richgrove,KindergartenData,79
+2044,Tulare,Springville,7thGradeData,25
+2045,Tulare,Strathmore,7thGradeData,136
+2046,Tulare,Strathmore,ChildCareData,74
+2047,Tulare,Strathmore,KindergartenData,131
+2048,Tulare,Terra Bella,7thGradeData,90
+2049,Tulare,Terra Bella,KindergartenData,162
+2050,Tulare,Tipton,7thGradeData,57
+2051,Tulare,Tipton,ChildCareData,28
+2052,Tulare,Tipton,KindergartenData,81
+2053,Tulare,Traver,7thGradeData,23
+2054,Tulare,Traver,KindergartenData,27
+2055,Tulare,Tulare,7thGradeData,1338
+2056,Tulare,Tulare,ChildCareData,641
+2057,Tulare,Tulare,KindergartenData,1624
+2058,Tulare,Tule Reservation,ChildCareData,41
+2059,Tulare,Visalia,7thGradeData,2411
+2060,Tulare,Visalia,ChildCareData,1376
+2061,Tulare,Visalia,KindergartenData,2659
+2062,Tulare,Woodlake,7thGradeData,163
+2063,Tulare,Woodlake,ChildCareData,143
+2064,Tulare,Woodlake,KindergartenData,205
+2065,Tulare,Woodville,ChildCareData,53
+2066,Tuolumne,Columbia,7thGradeData,51
+2067,Tuolumne,Columbia,KindergartenData,67
+2068,Tuolumne,Groveland,7thGradeData,21
+2069,Tuolumne,Groveland,KindergartenData,26
+2070,Tuolumne,Jamestown,7thGradeData,35
+2071,Tuolumne,Jamestown,ChildCareData,16
+2072,Tuolumne,Jamestown,KindergartenData,72
+2073,Tuolumne,Sonora,7thGradeData,135
+2074,Tuolumne,Sonora,ChildCareData,312
+2075,Tuolumne,Sonora,KindergartenData,209
+2076,Tuolumne,Soulsbyville,7thGradeData,49
+2077,Tuolumne,Soulsbyville,KindergartenData,43
+2078,Tuolumne,Tuolumne City,7thGradeData,32
+2079,Tuolumne,Tuolumne City,ChildCareData,32
+2080,Tuolumne,Tuolumne City,KindergartenData,46
+2081,Tuolumne,Twain Harte,7thGradeData,26
+2082,Tuolumne,Twain Harte,KindergartenData,22
+2083,Ventura,Camarillo,7thGradeData,1037
+2084,Ventura,Camarillo,ChildCareData,1130
+2085,Ventura,Camarillo,KindergartenData,1009
+2086,Ventura,Fillmore,7thGradeData,280
+2087,Ventura,Fillmore,ChildCareData,301
+2088,Ventura,Fillmore,KindergartenData,282
+2089,Ventura,Moorpark,7thGradeData,466
+2090,Ventura,Moorpark,ChildCareData,379
+2091,Ventura,Moorpark,KindergartenData,544
+2092,Ventura,Oak Park,7thGradeData,360
+2093,Ventura,Oak Park,ChildCareData,39
+2094,Ventura,Oak Park,KindergartenData,273
+2095,Ventura,Oak View,7thGradeData,23
+2096,Ventura,Oak View,ChildCareData,19
+2097,Ventura,Oak View,KindergartenData,37
+2098,Ventura,Ojai,7thGradeData,252
+2099,Ventura,Ojai,ChildCareData,262
+2100,Ventura,Ojai,KindergartenData,222
+2101,Ventura,Oxnard,7thGradeData,3414
+2102,Ventura,Oxnard,ChildCareData,2804
+2103,Ventura,Oxnard,KindergartenData,3684
+2104,Ventura,Piru,KindergartenData,54
+2105,Ventura,Port Hueneme,ChildCareData,166
+2106,Ventura,Port Hueneme,KindergartenData,469
+2107,Ventura,San Buenaventura (Ventura),7thGradeData,1449
+2108,Ventura,San Buenaventura (Ventura),ChildCareData,2047
+2109,Ventura,San Buenaventura (Ventura),KindergartenData,1386
+2110,Ventura,Santa Paula,7thGradeData,528
+2111,Ventura,Santa Paula,ChildCareData,320
+2112,Ventura,Santa Paula,KindergartenData,521
+2113,Ventura,Simi Valley,7thGradeData,1361
+2114,Ventura,Simi Valley,ChildCareData,1390
+2115,Ventura,Simi Valley,KindergartenData,1466
+2116,Ventura,Somis,7thGradeData,58
+2117,Ventura,Somis,ChildCareData,48
+2118,Ventura,Somis,KindergartenData,119
+2119,Ventura,Thousand Oaks,7thGradeData,1671
+2120,Ventura,Thousand Oaks,ChildCareData,1894
+2121,Ventura,Thousand Oaks,KindergartenData,1196
+2122,Ventura,Westlake Village,7thGradeData,14
+2123,Ventura,Westlake Village,ChildCareData,453
+2124,Ventura,Westlake Village,KindergartenData,212
+2125,Yolo,Davis,7thGradeData,713
+2126,Yolo,Davis,ChildCareData,1175
+2127,Yolo,Davis,KindergartenData,624
+2128,Yolo,Dixon,ChildCareData,26
+2129,Yolo,Esparto,7thGradeData,69
+2130,Yolo,Esparto,ChildCareData,43
+2131,Yolo,Esparto,KindergartenData,79
+2132,Yolo,Knights Landing,KindergartenData,39
+2133,Yolo,Madison,ChildCareData,51
+2134,Yolo,West Sacramento,7thGradeData,584
+2135,Yolo,West Sacramento,ChildCareData,392
+2136,Yolo,West Sacramento,KindergartenData,810
+2137,Yolo,Winters,7thGradeData,118
+2138,Yolo,Winters,ChildCareData,168
+2139,Yolo,Winters,KindergartenData,148
+2140,Yolo,Woodland,7thGradeData,817
+2141,Yolo,Woodland,ChildCareData,875
+2142,Yolo,Woodland,KindergartenData,923
+2143,Yuba,Beale AFB,ChildCareData,65
+2144,Yuba,Beale AFB,KindergartenData,116
+2145,Yuba,Browns Valley,KindergartenData,44
+2146,Yuba,Challenge,KindergartenData,19
+2147,Yuba,Marysville,7thGradeData,284
+2148,Yuba,Marysville,ChildCareData,162
+2149,Yuba,Marysville,KindergartenData,491
+2150,Yuba,Olivehurst,7thGradeData,389
+2151,Yuba,Olivehurst,ChildCareData,105
+2152,Yuba,Olivehurst,KindergartenData,429
+2153,Yuba,Plumas Lake,7thGradeData,126
+2154,Yuba,Plumas Lake,ChildCareData,69
+2155,Yuba,Plumas Lake,KindergartenData,172
+2156,Yuba,Wheatland,7thGradeData,126
+2157,Yuba,Wheatland,ChildCareData,94
+2158,Yuba,Wheatland,KindergartenData,94
