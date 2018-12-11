@@ -13,4 +13,4 @@ Within the vaxxfacts folder you will find the following folders:
 | raw_data     | Raw data files                                      |
 | viz          | files used for viz in tableau and maps              |
 
-The final web-based deliverable product is available at [[https://vaxxfacts.com/]]
+The final web-based deliverable product is available at https://vaxxfacts.com/
