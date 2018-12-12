@@ -9,7 +9,7 @@ Within the vaxxfacts folder you will find the following folders:
 | Costs        | Compiled estimated potential costs of pertussis     |
 | cleaning_etl | Cleaning and merging files                          |
 | data_load    | Data loader to compile raw vaccine data             |
-| eda          | correlation analysis                                |
+| eda          | Correlation and logistic regression analysis        |
 | raw_data     | Raw data files                                      |
 | viz          | files used for viz in tableau and maps              |
 
