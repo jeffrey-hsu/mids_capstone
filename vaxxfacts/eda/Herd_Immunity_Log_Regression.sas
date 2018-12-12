@@ -60,23 +60,22 @@ model herd=tot_pop male_pct median_age
 	no_insurance_pct bachelor_degree_pct/lackfit;
 where year=2016;
 run;
+
+
+/*2017 and 2018 had 2016 demographic data used as a proxy for 2017 and 2018*/
+proc logistic data=regression;
+title '2017';
+class herd (ref='Yes')/param=ref;
+model herd=tot_pop male_pct median_age   
+hispanic_latino_pct white_pct black_pct aian_pct asian_pct nhopi_pct other_pct no_insurance_pct bachelor_degree_pct/lackfit;
+where year=2017;
+run;
+
+proc logistic data=regression;
+title '2018';
+class herd (ref='Yes')/param=ref;
+model herd=tot_pop male_pct median_age   
+hispanic_latino_pct white_pct black_pct aian_pct asian_pct nhopi_pct other_pct no_insurance_pct bachelor_degree_pct/lackfit;
+where year=2018;
+run;
 ods pdf close;
-
-/*2017 and 2018 were not included since demographic data is as of 2016 and 2016 was used as a proxy for 2017 and 2018*/
-
-/*proc logistic data=regression;*/
-/*title '2017';*/
-/*class herd (ref='immune')/param=ref;*/
-/*model herd=tot_pop male_pct median_age   */
-/*hispanic_latino_pct white_pct black_pct aian_pct asian_pct nhopi_pct other_pct no_insurance_pct bachelor_degree_pct/lackfit;*/
-/*where year=2017;*/
-/*run;*/
-/**/
-/*proc logistic data=test;*/
-/*title '2018';*/
-/*class herd (ref='immune')/param=ref;*/
-/*model herd=tot_pop male_pct median_age   */
-/*hispanic_latino_pct white_pct black_pct aian_pct asian_pct nhopi_pct other_pct no_insurance_pct bachelor_degree_pct/lackfit;*/
-/*where year=2018;*/
-/*run;*/
-
