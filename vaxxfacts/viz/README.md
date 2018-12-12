@@ -8,3 +8,5 @@
 | VaxxFacts Frame.framerx  |                                                                                                                 |
 | Viz MASTER.twb           | Tableau visualizations used for website                                                                         |
 | city_12_16_viz.twb       | Initial EDA draft of city data                                                                                  |
+| LogCoefficients          | Logistic regression table of beta coefficient estimates on city data                                            |
+| Odds                     | Logistic regression table of odds ratio estimates on city data                                                  |
